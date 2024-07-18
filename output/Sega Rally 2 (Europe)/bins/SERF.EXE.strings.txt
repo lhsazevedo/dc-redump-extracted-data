@@ -1,0 +1,60 @@
+!This program cannot be run in DOS mode.
+RichR5
+.text
+`.data
+.pdata
+ac=d
+vab-d 
+vab-dCeB
+vac=d 
+vab-d 
+vac=d0
+C05'
+R'aa
+ab-` 
+`	ac=c8#
+ZeX%
+vab-d 
+ZeX%
+ab-b("
+Zeab-b("
+ckckX%
+vac=d 
+vab-d 
+ZeX%1
+vac=d 
+ab-b("
+ZeX%
+ac=c8#
+Zeac=c8#
+cmcmX%
+ 9  
+C; ) 	
+9 )  
+2&B&m&l&k&j&i&h#o
+BhAQ
+2&B&m&l&k&j&i&h#o
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+/"OChSi
+COREDLL.dll
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\serf.exe
+NB10
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\serf.pdb

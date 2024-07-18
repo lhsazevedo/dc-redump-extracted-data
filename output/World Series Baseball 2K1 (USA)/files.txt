@@ -1,0 +1,8 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/FINALA.SFD
+/MLB2000.AFS
+/VOICE.AFS

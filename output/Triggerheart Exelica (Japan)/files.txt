@@ -1,0 +1,9 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/DATA00.BIN
+/DATA01.BIN
+/DATA02.BIN
+/DATA03.BIN
+/MANATEE.DRV

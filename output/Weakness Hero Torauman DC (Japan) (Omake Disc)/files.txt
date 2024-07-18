@@ -1,0 +1,9 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/BGM.AFS
+/MANATEE.DRV
+/PVP.AFS
+/PVR.AFS
+/SE.AFS

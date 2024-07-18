@@ -1,0 +1,10 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/ARCDIR.BIN
+/BGM23.MP2
+/LASTBATLE.M1V
+/OP.SFD
+/PRELOAD.BIN

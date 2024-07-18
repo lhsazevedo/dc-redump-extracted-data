@@ -1,0 +1,20 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/A_A.SFD
+/B_A.SFD
+/C_A.SFD
+/DATA0.BLT
+/D_A.SFD
+/E_A.SFD
+/F_A.SFD
+/G_A.SFD
+/H_A.SFD
+/I_A.SFD
+/J_A.SFD
+/K_A.SFD
+/L_A.SFD
+/MANATEE.DRV
+/STREAM.MLT
+/WARNING.DA

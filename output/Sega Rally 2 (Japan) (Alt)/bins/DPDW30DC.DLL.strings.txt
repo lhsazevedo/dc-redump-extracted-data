@@ -1,0 +1,639 @@
+!This program cannot be run in DOS mode.
+Rich!
+.text
+`.rdata
+@.data
+.pdata
+@.reloc
+2c8#
+2c3d
+2c3eW
+"b#gR
+2c7S3d
+2c7S3d 
+"b'R#dT
+33eK
+"b#d
+2c3eB
+2c8#
+"b("
+"b("
+2c8#
+2c82)r,
+"b'R#d
+2c3d
+$R#d,
+2c3d)
+$R("
+2c3d
+2c3d
+C9"("
+R"!#`
+2c3`
+/"Oe
+"b("
+30c<c0.
+<2 b,b#`
+Q71'
+S<2p
+c<c)#
+C<c`
+"+#<c
+B+!T
+S<2p
+<c0!
+S62&
+R,1p
+S<2 b,b (
+c<c0"
+2&B&h#o
+/"OB
+2c8#
+S<2p
+/"OB
+2c8#
+S<2p
+/"OT
+"b("
+<2 b,b
+Q71+
+s2.[
+30c<c0!
+<c)#\
+c<2p
+s2.3
+<c0!
+S62&
+b,1p
+S<2 b,b (
+<c0"
+2&B&h#o
+C<2!b-b*!
+R#ct
+"b#3
+"b("
+<2 b,b 
+R#c#
+"bzr#e
+2c'3
+"b("
+<c0"
+/"OE
+s<2e
+.$iH
+2&B&j&i&h#o
+R,1e
+2c81
+B"1	
+"b#d]
+,33d
+2c3d=
+/"OB
+"b#e0
+2c3f,
+2c8#
+2c62
+"b("
+"b#d
+Q612
+2c7S3d+
+2c3e
+"b"!
+S<2"!
+S82#e
+R,1%
+2c61
+"b#e!
+2c3f
+"b&1+
+2c3d
+R&1!
+2c82$
+2&B#o
+C<2&
+S<2 b,bp
+2 b,b #
+/"OB
+2c8#
+2#f\
+9"("
+"b#d
+"b("
+"b(1
+"b(161
+2c<2#e
+2c02
+"b 1
+R(1)
+"b("
+2&B#o
+c<c;"
+c<c;"
+A3b&
+b,b+!
+A3b%
+b,b+!
+c<c;!
+2c8#
+"b("
+2c8# 
+R#c7
+b,b+#5
+2c8#
+"b("
+2c3a
+2c'3
+/"OB
+30c<c
+"b("
+2#d$
+<c3`
+r-b!.#d
+b-b,1
+s<2 b,b
+<c01%
+s<2 b,b#d
+"b#g
+s<2 b,b#d
+2c8#
+R!b-b
+c=c 3
+<c)#`
+a9!@
+s<2 b,b
+9" 1
+<c)#L
+b-b*
+S1c=c<
+e3f#g:
+R!b-b
+c=c 34
+<c)#`
+a9!@
+S)#01
+<c)#
+30c<c3e	
+2c3f]
+s<2 b,b
+30c<c3dO
+2c3g>
+s3f*
+"b,1
+<c0!
+2&B#o
+C<2!b-b*!
+<2 b,b
+2#e3fM
+2#dH
+,?&O
+S2/<
+/"OU
+"b r&
+.6b"
+S2c;
+2c#h
+	"b("
+!R")
+"b#e
+2&B&i&h#o
+S02+
+R 1!
+S2"T
+R"!O
+r"!o
+"b("
+2c8#
+"b#d
+2c3d;
+"b#d
+S)#8#
+2c3eR
+"b("
+"b("
+"b(":
+ b,b !9
+"b,b !
+A219
+2c8#5
+b"b#e
+2c8#
+R#c2c3d!R#e
+"b("
+R#R*
+S1S3d$
+"b("
+b#R#d
+R b,b(
+#8#i
+2c8#
+"b("
+R#c3S3e$R#f
+"b("
+"b("
+b#R#e
+R!R)
+2c8#
+0c<c0"
+2c<c0"
+S0c<c7
+2c8#
+"b("
+R#c1S3e"R#fB
+"b("
+"b("2
+S1S8#
+R!R#e
+R#c(
+##ch
+"b("
+e#f2S3g
+"b("+
+9"("v
+"b#c:
+2#f$
+2c8S
+S2c3e
+S2c3d
+S2c3d
+S2S8#'
+R#c2c3d"R#e
+2c8#
+R"b#d
+S0c<c3e
+R#c2c3d"R b,b#el
+0c<c 
+"b,b 
+S2c3d 
+S2c3e 
+S2c3e#fM
+S2c3e
+"b(R
+R"b#e
+S8#%
+R(""
+2c8#
+R"b#d
+S0c<c3e
+R"b#d
+S0c<c3e
+2c8#H
+"b(",
+2c3d
+2c8#
+2c82O
+2c8#
+"b("
+"b(1{q
+R"b"!
+2c8#
+S3S8
+"b("
+ b,b !
+"b,b !
+#8#N
+2c3e
+S72>
+<2"b("$
+"b("
+b#R#e
+2c'3
+2c8#
+R#c3S3d$R#e]
+"b("
+"b*R
+2c8#
+"b(R
+,b'1.
+32c8#
+<c725
+S72#
+C<2"b
+C<2"b("
+30c<c,
+,b 3
+S<c3e
+30c<c0
+,b 3
+2c8#
+"b r!
+(3a!
+2&i&h#o
+/"OB
+R#c1S2!"b%
+R#c7S3f(R#g
+R(R("
+2c8#
+<2 b,b !
+,b !
+/"OB
+"b("
+ b,bW
+<2 b,b
+r,bG
+s<c(
+2c8#
+"b("
+2c8#
+"b#dF
+"b#d
+/"OB
+2c8#
+"b("
+2c3d
+S8#D
+2c8#
+S72o
+R(37
+S<2"!
+2c8#
+2c8#
+2c3dP
+"b("
+/"Ov
+,8<1M
+2c8#
+2c3d	
+/"Oe
+"b("
+30c<c
+R<2'
+33d#e
+<c3`'
+R#c_
+2c8#
+c=c(
+#h3`
+S<2 b,b (
+S<2 b,b (
+"b&1
+2c62
+2c2.
+"b&1
+V3g'
+b,b$
+2&B&h#o
+/"OT
+2".#d
+,b 1
+"b("J
+"-b#`
+c=c 3(
+b,b`
+C9"@
+)#01
+S"#K
+b#c5
+b,b+#=c3`
+a01 
+c<c`
+S)#01
+Q2!*
+"b("
+b b,b_
+c<c3e~
+ c<c
+s<c0"
+<c02
+b,b#eZ
+,b 1
+"b("
+2&B&h#o
+/"OT
+,30c<c
+R#cZ
+<c3`"
+<c)#
+C<c@
+"+#<c3`
+S'3*
+2c8#
+"b("
+"b#d
+/"OB
+2c8#
+"b("
+R'1,
+2c8#	
+"b#d
+!"OA
+/"OD
+(3a!
+2&B&i&h#o
+"b&1
+2c62
+S,32s8
+2c8#U
+,32c8#
+S62&
+2"b#d
+2c8#
+/"OB
+/"OB
+"b("F
+q#c1S
+q#c1S
+#h!R
+S1S3e3
+b!Rq
+32c9
+c1S]
+b!RP
+c1S;
+S8#-
+/"Ou
+"b("h
+r#d`
+S1S02
+q#c2c
+q#c2c
+#a"b
+r"!:
+2c02
+R!R 1
+s"bR
+#c2c7
+s2("b
+2c8#
+<2"b"/
+2!R!
+32c2/
+,31S1
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcj
+/"OChcj
+/"OChSi
+COREDLL.dll
+DPDW30DC.dll
+ModOP
+SPInit
+Setting Thread Priorities: Write %d, Read %d.
+OpenConnection: MaxBytesToSend %d, SendInterval %d, ReadInterval %d.
+**************** Carrier gone OFF ****************
+B c0
+s2R"
+b$C4 
+S6r&
+>2.Q
+P%@Fpg`
+RwbVr
+ftGd$T
+Wfvv
+F4VL
+DXeH
+uJTZ7j
+ld\EL
+n6~UNt^
+    dapiBroadcastWithCRC failed. :Dapi is not initialized!!!
+      Adding Node: PAD: %d
+Entering DapiCommWriteThread().
+Head=%d, Tail=%d
+dwOutCharQHead < dwOutCharQTail!
+dwOutCharQHead = %d, dwOutCharQTail = %d
+Sent Invalid: dwNumToSend = %d, dwBytesWritten = %d
+SentTooBig: g_dwOutCharQTail + dwBytesWritten > g_dwOutCharQHead!!
+g_dwOutCharQHead = %d, g_dwOutCharQTail = %d, dwNumToSend = %d, dwBytesWritten = %d
+Sent Invalid: dwNumToSend = %d, dwBytesWritten = %d
+   GetOverlappedResult(): %u msecs, len: %u
+SentTooBig: g_dwOutCharQTail + dwBytesWritten > g_dwOutCharQHead!!
+g_dwOutCharQHead = %d, g_dwOutCharQTail = %d, dwNumToSend = %d, dwBytesWritten = %d
+   WriteThread: WriteFile Failed. LastError = %d.
+   %d bytes sent in last %d msec ( WriteFile() %d times ). Currently buffer is used %d bytes.
+   Exiting DapiCommWriteThread().
+Entering DapiCommReadThread().
+This is the Lobby Process! ReadThread is sleeping.
+ DapiCommReadThread: Receive buffer is full!!
+   %d bytes read in last %dmsec ( ReadFile() %d times ).
+   Exiting DapiCommReadThread()!
+Received DPSYS_MSG_NODE_SHUTDOWN
+LOST: g_DPlaySP is NULL.
+LOST Small CRC msg len: %u, msg type: %#x
+LOST: Bad log. dest %d (this: %u), msg len: %u.
+LOST: Crc error (this node=%d.)
+LOST: Packet Type Invalid from CRC_PACKET(this node=%d.)
+LOST: Packet Type Invalid from CRC_BCAST_PKT (this node=%d.)
+LOST: Dest addr invalid. (this node=%d.)
+LOST: Src addr invalid. (this node=%d.)
+*** Dumping Broken Packet - Size:%d bytes, CRC:%4X (Calc:%4X)
+LOST: Crc, etc check failed (this node=%d.)
+LOST Small packet, len: %u, msg type: %#x
+LOST: Bad log. dest %u (this: %u), msg len: %u.
+LOST unknown char after 0x70: %#x, %u chars discarded.
+LOST no escape char out of %u chars; %u chars discarded.
+Unknown
+GET_DEBUG_OPTIONS
+SET_DEBUG_OPTIONS
+GET_VERSION
+GET_DPCAPS_TIMEOUT
+SET_DPCAPS_TIMEOUT
+SEND_SCORE
+SET_DAPI_PARAMS
+SET_GAME_NAME
+STATS
+DO_DEBUG_OPERATION
+LOBBY_RUNNING
+GAME_START_STOP
+GET_GAME_PROC_INFO
+PASS_DCB
+SEND_LEVEL
+MOD_OP_THREAD_PRIORITY
+MOD_OP_MIN_PACKET_SIZE
+dapi.cfg
+**** DPDW30DC.DLL version 1.0.23 . ****
+** Entering SP_CreatePlayer(pid %u, flags %s, pMsgHdr %#x) **
+   GetSPPlayerData(remote pid %u): %s
+    SetSPPlayerData(local pid %u, dapi %d): %s
+** Entering SP_DeletePlayer (pid %u, flags %s) **
+   GetSPPlayerData(remote pid %u): %s
+     size: %d byte(s), pHeader %#x
+     size: %d byte(s), pHeader %#x
+dapiBroadcastWithCRC(NODE_SHUTDOWN), %d bytes
+ GUARANTEED SendToGroup: Dest %d nodes.
+Dest node %d is not alive.
+   CreatePlayerPAD(%u)
+SendRetryThread: Re-Sending Last Message to Node %d
+3 ********************* memory over ********************
+SendAckNextMessageOut iLogDest %d
+    SendAckedMessage() Failed: Packet is too large. size %d bytes.
+    SendAckedMessage() Failed: Destination Logical address %d is invalid.
+    SendAckedMessage() Failed: there is no loop back support.
+SendAckedMessage: SendAckNextMessageOut( To %d, Interval %d msecs). Result:%d
+SendAckedMessage: EnqueSendBuf( To %d, Interval %d msecs). Result:%d
+19 ********************* memory over ********************
+SendAckNewNumNode i %d
+20 ********************* memory over *******************
+SendAckNewNumNodes i %d
+4 ********************* memory over ********************
+SendAckNextSeqNum iLogDest %d
+13 ********************* memory over ********************
+DequeSendBuf pSendBuf->dwSendBufTail %u
+14 ********************* memory over ********************
+DequeSendBuf iLogDest %d
+    EnqueueSendBuf() Failed: Buffer is Full.
+`0d0h0l0p0t0
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2
+5x5|5
+2 2$2(2,2024282
+6 6$6(6,60646l7p7t7x7|7
+7x9|9
+< <$<
+3 3$3(3,3034383<3@3D3
+6D7H7L7P7T7d9h9l9
+< <$<(<,<0<4<8<<<@<D<H<L<P<
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>
+1 1$1(1,1
+3\5`5d5h5l5p5t5x5|5
+5,8084888<8@8D8H8L8P8T8X8\8`8d8h8
+;,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=
+0 0$0
+4 4$4(4,4044484<4@4D4H4L4P4T4t5x5|5
+8 8$8(8,8084888<8@8D8|9
+; ;$;(;,;0;4;8;<;@;D;H;L;P;@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+7(9,9094989<9`:d:h:l:p:t:x:|:
+;t<x<|<
+<4=8=<=@=D=
+2(242@2L2X2d2p2|2
+3$303<3H3T3`3
+4$4(4,40444L4d4
+5 5$5
+; ;$;(;,;0;
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+WCESH4Rel/dpdw30dc.dll
+NB10
+C:\Dwango\Splatest\WCESH4Rel\dpdw30dc.pdb

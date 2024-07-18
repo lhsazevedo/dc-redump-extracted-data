@@ -1,0 +1,9 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/AUDIO64.DRV
+/CONSPIRACY.SFD
+/FULLFAT.SFD
+/SWING.SFD
+/VOLUME.FGS

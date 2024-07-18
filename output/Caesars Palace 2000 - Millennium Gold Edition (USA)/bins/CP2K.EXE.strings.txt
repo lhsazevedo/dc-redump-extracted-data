@@ -1,0 +1,16 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+BeX%
+/"OChSi
+COREDLL.dll
+ResetToFirmware
+PLATUTIL.dll

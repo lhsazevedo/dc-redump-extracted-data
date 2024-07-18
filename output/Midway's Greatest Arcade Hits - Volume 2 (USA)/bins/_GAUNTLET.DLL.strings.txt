@@ -1,0 +1,3464 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.reloc
+Cfh&
+/"OCmSlcj
+<c3`	
+)&h&
+)%X%
+@9%a
+@)%]
+@9%V
+@)%E
+@9%=
+@)%9
+<B($
+@9%$
+@)% 
+S<B($
+C8$ 
+@9%{
+@)%w
+@9%q
+!b02D
+C8"	
+Q<B(!
+/Ch5
+)$Cg
+Gs`	
+tSg 
+/"OCh
+"OChSi
+,?&O
+2\23
+,?&O
+Bb("<
+2S2$5
+"OCf
+"OCf
+,?&O
+BdC`	
+%C`	
+r"%g
+s2%@
+s2%E
+@B)7
+2L23
+,?&O
+,32$
+b#r!]
+BcRa
+#QSBb1
+BaRR
+QU9%X%
+rW)'x'W
+&h&p
+aUbWcV
+bWcV)&D
+cV)&H$
+ !X%
+ !x'
+ !h&
+@2)h
+2dH$
+ d64
+CiSmsh
+2"b&
+fc2+va
+Vb")vc2&
+`fca
+C	C8#
+DC`	
+lCBb;""$
+/"Oe
+CeX%
+,?&O
+CeX%
+,?&O
+ES`	
+c*bj
+.b+$
+a>c;$
+HVfVgb$q
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VgVfz
+VgVf|
+VgVf~
+@tVfVgb$q
+VfReb
+@b 8B
+2c0,
+C3`	
+C3`	
+C3`	
+R("W
+0c8#
+R b("6
+d;%U
+E\4Bfz
+ e05
+ ec`	
+r !.a
+r !.a
+s0*>a
+S #_
+Q0!/
+2>cK
+0c*b
+%:c.b+%>c;%X%
+2&B)
+&m&l&k&j&i&h#o
+b 90
+2c0*
+C3`	
+C3`	
+C3`	
+b("'
+4"bl
+@ dT
+0eC`	
+,?&O
+"b("
+r!$/c"
+s1$?a
+Z$jD
+0Z$jD
+'jG=
+E\4Bf5
+ec`	
+2&B)
+&m&l&k&j&i&h#o
+L1Bix
+/"O'
+IFfr%a
+FfFgb
+FgFft
+FgFfv
+FgFfx
+FgFfz
+FgFf|
+FgFf~
+IVfr$a
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VfVgj
+VgVf|
+VgVf~
+@tVf
+Vgb$q
+VfReb
+d"b%
+!b'1'
+2&B&k&j&i&h#o
+rdqUrVsW
+r ++
+r ++
+2&B&k&j&i&h#o
+2c0$
+C3`	
+C3`	
+C3`	
+"b $
+B#`	
+B#`	
+B#`	
+c8#	
+ e05
+b("	
+L5R`
+L5R`
+HVfVgb$q
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VgVfz
+VgVf|
+VgVf~
+@tVgVfr$a
+VfReb
+2&B&m&l&k&j&i&h#o
+/"OShciCe
+a	Au
+b	B\
+c	CC
+a	A*
+2&B&m&l&k&j&i&h#o
+HVfr$a
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VgVfz
+VfVgl
+VgVf~
+HVgVfr$a
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VgVfz
+VfVgl
+VgVf~
+xt !(
+Qc=eS`
+E^b#`	
+#1$[
+#1$=cZ
+1c=`
+@c<c8#;
+b("7
+c8#/
+a'17
+1c=dA
+tMb,1
+*1c=ea
+]a 1
+$A).
+!b-b8"
+CeC`	
+1c=c71
+c=c8#2
+c=c8#
+c=ct
+4@b,b
+9" $
+1c-b=c02
+c!b-f
+1c=c8#
+!b-b8"W
+a 1/
+1c=c)
+Ac=gs`	
+gs`	
+C=	SaT
+/"OCh
+4@b,bZ
+9" $
+/"OCh
+=e\2
+6a'Hpq
+4@c<c
+/CiD
+a 1_
+u1$]e
+tpb,b
+(1W1
+!Fmfc`	
+gS`	
+Cf`a
+u_eCf`c8#
+!b(" 
+b-b("
+@1,n
+R b,d
+c<c04
+Lc8#
+Bb("
+BS8#
+CR("
+5Qc=c5
+s1%qc=`Ba
+-b,1
++qb-bQa9"
+!b-`
+$!(O
+!b(" 
+b-b("
+$!b-b02
+Ab-b@
+1c=cO
+s1%O
+qc=dH$
+r!'C
+wC`	
+-b#`	
+qc=dH$
+qb-dH$
+qbL0]
+-g8t
+qc=gs`	
+b#`	
+<uAb!%A
+c3`	
+a 1j
+`u!`
+5Aa(!
+pvaa
+&Qc=cJ
+31%	
+#1%ab
+pvac{
+31&Qb
+82!%	
+9"!%aa9!
+c<2!(.
+'Qb-b
+B!%-ca`
+#1%Ac=c
+C1$e`=a
+3)#1%?cG
+D\4)D
+3)#1%?cG
+D\4)DO`
+/"OCh
+3?iT
+/"OCh
+2/i%
+aS`	
+sh{h
+=cS`	
+31&?e
+Sf[fv
+maa$
+cS`	
+31'?g
+sh{hV
+"!&/bS`	
+82!&/e
+Sf[f8
+mca$71)
+/"OCh
+/"OCh
+/"OY
+)#?kM
+DL5Sl
+c<2!.
+gL<?b
+c<2!.
+gL<?b
+c<2!.
+dH$'
+c82!.
+<2!.
+/Sh 
+AeW1
+-b#3
+1$p5
+-gx'
+:%c5
+Q#Ac
+2/e_b
+*%c5
+Q'Ab
+%c5%
+Q!qc<5_eX;
+(uB/
+m1c0=
+{clN
+tOd)
+Qc36
+C`L1
+	OdQb#4
+1c1"
+t1&Md
+wuc1&
+u]e	
+Aiqj
+1c1&Qa
+!g1$F
+ajw:
+%?b1$Qa,1
+%rc1c1&rb
+r"'!b("
+ac-G
+/"OCh
+b<2!*/aP
+\:]	#
+1+1*
+1c=dG1
+1c=c71=
+1c=c
+/Shci
+w~gA
+|6|4Bc2&D
+b#`	
+c3`	
+b#`	
+c3`	
+/CfI
+7c`	
+L6^b
+ &`b
+Cf0"
+l21"I
+/"OCh
+r!),
+R<4-
+eS`	
+tOl2
+$q,e
+3L30c(
+@A!P
+@!d	
+c!C8#
+a82/e
+9L9	
+2&B&m&l&k&j&i&h#o
+/"OCm
+1uP$
+D!b-b-
+!b'5
+!b-b'5
+/"OChSi
+-b<B
+tOdu
+B,4Ac=eS`	
+@dC`	
+4Ac(s?aZ
+DL5Ra
+L5Rb
+aL5Rbl1
+=cBa'
+4@c<`
+b(1V
+!!3`	
+d82!--b
+,6bc
+,32&Pc<`
+4Ab-b("
+/"OChSi
+a,AOm
+32$M
+4@b,`
+r!,J
+c8# 
+-bBc
+32$1
+4@b,`
+C<<0
+c=c 
+,4Ac=c
+<2"$
+a-b(1
+S<4Aa
+=cBa
+4@c<`
+s1,v
+B,34
+1c=d
+!b-d
+9$H$
+!c=cP
+#1"K
+S<2&
+dH$&
+R!c=c
+-bBc
+32$5
+4@b,`
+s1,2
+-bBc
+4@b,`
+-bBc
+32$3
+4@b,`
+/"OCiSh
+5Qb-bJ
+5Qb-b9"
+31c:
+C<:6
+B,5Qc5
+b-b3
+82!)1
+1c<=
+1c1*
+r!*o
+c=cr
+Ab-`
+!b!*W
+1c=dC`
+c=dr
+c=cr
+b-br
+Ab-eY
+ b,`
+C<4Bad
+,32$m
+3,b(3?dG5.
+aLb,1
+DMa=c
+31,=bI
+Ab-b
+<2!$Qa
+b,b\c<2 +7
+b,b,1
+dH$-
+C<4Bad
+,32$U
+4@b,b;
+r $d
+1c=ce
+c=c2
+Fl5Qa
+eL5Pb,`
+B,4Bc
+,32$
+4@c<`
+Pc<c
+4Bbdr~
+b,b("
+/"OChSi
+/"OChSmcl
+/"OChSmcl
+6Cabb
+<2"&Pa
+!b-dC`
+b-dr
+b-br
+/"OCi
+@,d*
+@<d/
+1c=c
+f\ebf
+aAd=AE
+"Cbx
+1%ac1%
+,DO`
+/"OShcl
+f\6<
+&\7qa
+1c=i%
+dS`	
+=c)#	
+,5Md]eI
+GMdE
+c`L2%
+q9!:!
+/"OX
+Chci
+L:G:M
+31c<2
+30c<c<2
+)(*(
+30c-H
+!D!`
+/"OChSi
+DC`	
+2"b"t%
+Fl7qa
+s`l7qa
+a)!}
+/"OSm
+(,0>BFTTTbfj
+<4Aa
+B,5Qc=`
+,5Qc=c
+DC`	
+31%=bH
+R!b-` 
+5RcL:
+S<4Aa,1
+4@c<`
+Ac=` 
+/"OCh
+/"OY
+!b-j1c
+!b(3=gc
+1dCb
+1c=c31
+$Mg 
+21c82
+=g#7`
+8:QdH$<
+!b-b'3
+=c39
+)#3`	
+11c81
+1dCb9
+a01S
+<:!b-ba
+aH1)!
+1c82-g
+=g#7
+<:QdH$
+9-sf
+-c`	
+=c39
+!dCa
+)$Mg 7+
+1c82-g
+21c82
+,9QdH$;
+tA%d
+"#`	
+1c81
+a,9%
+)$Mg 79
+21c82
+-gw1
+=gw2F
+9QdH$8
+1c=c71
+tA%A
+1d@8N
+-b("
+gx'#
+/"OChSkcj
+/"OChSkcj
+=ch31$?f
+cdkdMd
+x31&?e
+Sf[f
+mca$71
+3h31$?d
+CfKfmdz
+ceke]cb
+71Q$)
+/"OChSkcj
+g/du
+/"OChSkcj
+g/d3
+%\4 
+MdG1
+tMd 
+=e#5
+tMd#4
+=e#5
+<6 tMd#4
+=e#5
+tMd 
+=e#5
+@Od%
+2-d 
+Mfh&
+/"OChSi
+Mfh&
+=dG1
+Mfh&
+)*O`
+=eW1
+]fh&
+]fh&
+L2/`_c
+-fg3
+9",0
+\2/bO`
+9",0
+=fg1
+9",0
+L3?`_a
+=fg1
+\6O`oc
+-gw3
+\2/bO`
+9",0
+\6O`ob
+9",0
+9",0
+L3?`_a
+Gs`	
+\3?cO`
+Gs`	
+9",0
+Gs`	
+Gs`	
+vofCbg
+\2/`cb
+3	tA#
+4Ab-b
+F,6a$
+/"OChSi
+2/d!
+2!b(9
+(1c<8
+Qb-b 
+/"OChSi
+2/d]
+8!b,8L
+Qb-b
+/"Oi
+ChSj
+b-dH$
+31"A
+c)#*#
+?g#7
+ES`	
+-b("
+lS`	
+ES`	
+=c8#
+Fl4Ac=c
+/"Oi
+ChSm
+c=dH$
+31"~
+2!!P
+=A,b
+/"OChSi
+c=dU
+b-d9
+c=d+
+c=dH$
+/"Oi
+LC8(
+tOd 
+1c=c
+tacOdG3
+c=ca
+,d<e
+@<d1
+!b-b8"
+/"OClSj
+a(!"
+@<dX
+a,3U
+@1+L
+@,dA
+,31+
+@<d%
+1c=c
+@1c80
+!B1c82
+B!&K
+a1c,AR
+,C1&Ac=`L
+$!b-eac=`
+!b-e1&
+e!&1c=g
+ac=c
+1&ab-b7
+s=c82!&3
+v!Fh7W7
+v!Fh7s5
+vofg7
+Rax2
+cOdG3
+$Rc71
+B,4Ac
+r!$.
+4BeX%
+aOfh3?f
+9!:!
+D2tL<
+Qc=c
+!b-b32
+c8#_
+R("\
+Qc=cP
+Qc=c'
+@=e+
+@=e 
+9"!%/aBc
+dCfQa
+cdA%
+"OCe
+%!EX3
+Al/d
+b#`	
+=c,C?g
+<6of
+86of
+eX3?d
+eX2/d
+/dCa<1
+-b<B
+/fCb
+Sa<1
+86ofg4
+3Ca?f
+81g1
+<6of
+,336
+(6ofg4
+dCco
+Sa<1
+86ofg4
+3?dCbJ
+-Ca!M
+3?fC
+81g1
+<6of
+,336
+(6ofg4
+`fc`	
+Q$ac
+C1"Aax
+tQfOdcaH1
+tQfOdcaH1
+DC`	
+4@b,b("@
+#@c<c
+=c8#s
+r/b!,!B
+dC`F
+d(3?fo
+9,:,
+@1,,
+`<2!b%
+31c5
+%!AQ`
+2!b%
+-b("
+!b-`
+B,4Ac
+A3`	
+l2!bC
+aCc?
+a!b(3>
+=e!b(1g
+?d(tOd
+,<AM
+a-b,1
+3=c1,m
+,C=e
+3=c1-,C=fR
+l5Qc
+?c1%)#D
+<4MeF
+Q,=E
+al4Acl2!b,3;
+`?c1$)#
+F\6ok ;I
+1c8#
+B,4Ac8#
+,5Qc
+/"OChSk
+b-b("
+S`!)L5Qa
+S`L5Qa
+/"OChSk
+b-b("
+S`!bL5!)Qa
+S`L5Qa
+/"OChSl
+2/dCj
+c=c8#
+a)!	q
+4Ab-b9"
+6ab-b9"	r%
+DC`	
+-fc`	
+vmb%
+`mc5
+C?e3
+L6ac=c
+#	s=c5
+,C?d 
+t)$*$
+D\4Oh(
+b;!+!
+"=c;"("
+1c1*
+dAaS`
+c=ca
+1c=c
+!b-b32
+DC`	
+!b-b0
+,b("
+c=dH$
+,b("
+b-dH$)
+QdH$A
+1c8#<
+@"!y
+b-b("
+@=d\
+!d04
+/"OCh
+/"OCh
+LC8%
+ )1*
+/"OCh
+Qd041
+Qb02
+Ab-bK
+1c8#
+Bd#4
+5caO
+_e<4
+@OdT
+bPa,1
+/"OCh
+!d04
+/"OG
+P<0!
+L31c<26
+=c(3=c
+S!#,b
+S!#<
+Q!!!
+/Ch 
+=c8#)
+=B-k
+2/e 
+=fh&
+-g8&
+b#`	
+b,bI
+c=dG1
+2c2`L
+<c8#
+BeX%
+r"$d
+2eX%+
+"$Pc<c[
+0c<c8#
+ b,b("
+/CgSj
+uEa_e
+t!&Od
+t!&Od
+vUaof
+w$tCf
+tUaOd
+u!&_e
+,4,t
+uec_e1'
+<;Ce
+Ec=f
+vEbof!%g7
+ueb_e!'
+w$t4
+v!$ofP
+Ub-f
+vofg4
+tOdG6
+u_eW4
+u_eW4
+Ac=d
+1c=c71
+@"dM
+@_e 
+Gs`	
+vofg2
+/"OCh
+fab-`
+<B/f*
+hX%Cj&
+dAb-`
+eQb-b
+<B/f*
+eQb-b
+<B/f*
+eQc=c
+C?f*
+eQc=c
+C?f*
+1c=c
+Bd04
+!b-b'3
+!b-b3
+a!A!A
+DL1/
+E\4Ec,31!E`,0
+E`,0
+A`,0
+Ac,31!A
+b=E_e_c82!!_c
+/"OCh
+=c8#
+,b,1:'
+<c<7
+vofg5
+u_eW4
+!d04
+d 4)
+@1"?
+db,`#
+tOd)
+/"OCh
+@1)f
+u_eW4
+vofg5
+u_eW4
+u_eW4
+u_eW4
+tOdG6
+Ac=c)
+!b-b8"
+@!!}
+a,A0
+@1"+
+1c8#
+`b,b;"
+";"("
+qc=`
+!b02jfh&
+qb-b9"02
+)! 1
+b9"02
+!b-b8"	
+!d04
+Qb("
+a(!	
+Bc8#
+AR("
+CS8#F
+!d04)
+!b-b("
+!!1*~
+!d04
+@1"|
+dH$6
+@"!g
+@1dY
+g!&w4
+siUb-g
+tOdG8
+vofg4
+v\2!$of
+/"OCh
+@Od@
+b<B!!
+%\4 
+OdG1
+/"OChSl
+=c,C?e
+9",0
+ tOd_`
+@tOd$
+DL5Uc
+6L31&U`L0
+UbL2/b#`	
+Q`L0A
+lC`	
+9",0
+2/d 
+-b02
+-b02
+9",0
+/"OChSk
+3?d 
+C?i8
+eEb\2!&E`\0
+Ea\1
+A`\0A
+9",0
+Si))o`
+-b02
+uo`_b
+9",0
+3?g 
+tOd_`
+6of 
+ tOdo`
+-b02
+@tOdo`_b
+9",0
+,4OdC`
+/"OCj
+a!b 1
+Ab-d
+<c<2/b#`	
+!b-d
+Ob#`	
+1c=`
+c=c	s1-=aA
+!b-i1c
+=c81
+B,31
+1c=k
+2-b72
+c=eP
+5Q((
+a-b,1
+!b-`
+C<8	
+1c=c8#
+R1c!b-i=k
+R!c=c
+)!*!
+-b<B/b,<
+-b("
+c=c8#
+!b-b
+!b!#
+4@c<l
+b-e|
+<5Q(>
+R!c=`i
+b-b9
+<2!(>
+b1c5
+!c=c
+1c=j
+C2.=
+!b!#
+2&B&m&l&k&j&i&h#o
+/"OCk
+1c=k\
+<DMj	
+B,36
+1c=i
+!b-b
+=c31
+1c=c84Ma
+<5Ra
+4Ab-b/
+9"-a
+38-b+!
+,b+)
+c=c0;
+-b9"-a
+1c1,
+)#=k
+!b-k
+S1c=c
+-b9"-a
+1c1,
+4@c<`
+/"OY
+b-eX%5
+,A<c81
+cgkg}
+-b<B
+2.eSf
+cgkg
+.chS`	
+,A1c
+S284
+u_e.
+9$Oa
+E!b-b
+a(5x
+`<0-
+L31c<1H
+CeKe
+4Ab-b\
+9"-a
+2&B&m&l&k&j&i&h#o
+=c8#
+vmfc`
+-b("
+vmfc`
+vmfc`
+=eX%
+,A1c
+/Chsj
+sf{f
+3?eSg
+sf{f'
+4Ac=c
+Fmc;"!$
+dH$k
+-b("^
+"1(3
+4Tt@c<e
+%,5P$"
+%C`	
+,b("1
+c#a,1
+2/b,31%s`	
+Qboc<2!%f
+B/b,1
+SgA(
+AdH$!
+!%ac8#
+r!&F
+Qf`4
+Qb 4
+/"OCh
+l!!l<
+2,1=j
+a'1?g
+\Fh$
+c=c`
+C)s2$
+S!#L
+d04?
+/"OCh
+aP1$
+4Tt@c
+30$C
+/"OChSj
+4Tt@c
+/"OChSj
+Tt@b,e<
+/"OCh
+Tt@b,`
+d@c<`
+!b02
+AAk!Ki
+31c5
+Ae`5
+@cdI
+fS`	
+Od!EC<85
+AAb!B
+1eW;
+Ak!Ki
+E\31c5
+/"OH
+L5Qc
+Qc=cm
+31%B
+4Aa,1/
+1c=c
+1)!\1
+#\304+
+a8!'
+31+G
+L;L<,
+L;L<
+L;L<
+L;L<
+Qc=c#
+4Aa,1	
+1c=c
+1)!L1
+#L30=+
+a8!'
+c=c(
+DL;L<A
+DL;L<
+DL;L<
+DL;L<
+DL;L<
+c=ce
+31+=
+!b-b72
+2 =?
+4@=@
+S8#=
+b-bg
+82!,8
+4AbS
+c=c 
+!b-b72l
+2 =#
+4@=M
+S8#J
+82!,
+b-b#c
+c=d&
+9!:!
+0,@'
+) )#80
+!dP4S
+fC`	
+<6ofh<
+kb/fk
+9-:-!M
+[c?e
+!bP2 
+1c<:
+/"OShckCe
+QdCf
+eSgT
+\30c
+a<cZ
+l4Ab
+-b9"
+E\2!$
+/"OCi
+,A=`
+C?dCj
+6bc\2
+L5Pb,`
+!b72
+@!ep
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB888888888888888BBBBBU
+9",1
+Ccl3H$
+u_e!EP(^`
+#a9!
+9",1
+/"OCl
+!b <
+E\6am
+1c34-
+c=c8#
+E\6_
+!b("
+r!)Q
+Ce1+
+S<5i
+Qa9-:-
+a)!=M2
+3<2-
+E!#\4AaL
+a)!=L
+fS`	
+fh&9%9$H5_e
+Ac=c8#
+!b("
+!b-h
+1c=c
+1c=h
+!b("
+!b!!;
+=c3`	
+0c<cBb
+2"$X
+4@c<`
+/"OX
+%Sb+
+2-b72>
+9!!b:!
+!A=A=
+a710
+]f0`
+meh7}e
+X3=e
+c,A,C
+f=gw6
+mfh7}fl5W4
+82-b
+AdC3
+1chs
+1clsP
+ESbx2-b72
+f9&:&?
+!F1c
+-FcaW
+R(5_e
+kfl5G5
+L2!b#c
+/"OCi
+-dCa	
+9!011
+(3=c
+1c8#
+QdC2
+!!!+
+c09.
+2!h4
+1d@9)
+DCfm
+<c8#
+L31ch
+/"OC
+-d041
+Ab 8
+/ChK
+=BCc
+2-l@
+#L3,3?f 
+gs`	
+a 1c
+-b("T
+r-c8#J
+d\4Bb
+QeSf,Fli793
+`2c6
+!b<B,i
+Fnb!+
+l7q`l:
+'l38
+!b-b72
+Qc=fg1
+s1'Qa
+B!E\2
+r!!/a
+9"!+
+!b("5
+b#`	
+4AeX%
+b-`@
+vof&
+5_e$
+c)# 39
+A3`	
+S!#Aa
+4A`!@
+C<2!@
+Q1!Ab
+r!$O
+b("6
+4A`!@%
+C#`	
+Ac<15
+!b("
+/b,0
+b32#
+/"OCh
+l4L7qa
+l2!e
+C3`	
+l9!'
+,7qc=c!
+\2!b
+s=fe
+Mjm`
+/"OCh
+,@c 
+eS`	
+ b,kc
+e)%X%
+uX%5
+c<c0;
+/"OChSmclsk,
+#1%?
+L5Qb-bi
+9"-a
+/"OCh
+-j8*
+qb-d0
+G|5Qb-b9"-a
+%H$	
+L6aa
+-b("	
+7qb-bP2
+/"OChSi
+DS`L5Qb%	\
+S`L5Qa
+L5Qc5	X
+5Qc=c
+#1%=bM
+#=c;"!%	
+/"OCh
+c=cb
+)!)#=i
+L31a
+31,)
+Ab-b 8
+=c8#	
+B,6ac=c
+/"OCh
+a)!=i
+c<2!,
+eL5Qb-b9"-a
+Ac=c08
+9"!$
+C<6aa
+/"OCiSl
+|6adCcn
+aC9)!
+DC`	
+9"/dC9
+b-b9"-a
+b-b9"-a
+G|6s`	
+ac=c@3
+/"OCh
+c;"!,<
+s?d@
+C<6aa
+/Shcksj
+tMdCe
+=fh&?
+sf{fmfg8
+ceke]fg8
+L09$
+dCeB
+fh&%
+-b82-f
+cgkg}fg8
+-b(3?e
+Sf[fmfg8
+dCe(
+-fh&$
+cgkg}fg8
+=c8:
+Sf[fmfg8
+;"")
+/Shcksj
+MdCe
+=fh&%
+sf{fmfg8
+ceke]fg8
+L09$
+dCe1
+fh&%
+-b82-f
+cgkg}fg8
+-b(3?e
+Sf[fmfg8
+-fh&.
+cgkg}fg8
+=c8:
+Sf[fmfg8
+;"")
+/ChSlcksj
+=fh&%
+cgkg}fg<
+ceke]fg<
+=fh&%
+sf{fmfg<
+Sf[fmfg<
+1@t8
+=fh&0
+sf{fmfg<
+Sf[fmfg<
+/ChSlcksj
+=fh&%
+cgkg}fg<
+ceke]fg<
+=fh&%
+sf{fmfg<
+Sf[fmfg<
+1@t8
+=fh&0
+sf{fmfg<
+Sf[fmfg<
+/chSfx' 
+vC`	
+,DH$
+/"OG
+ll<x'
+/CkSm
+!@!@
+E]b#`	
+76	K
+b-bg
+=fh&
+UL5Pb,b
+r,b("
+UL5Pa
+eL5Pb,blc<2 %
+UL5Palb
+L6`c<cS3
+ShL7\i`c<c
+pc<c\a
+30'`b,b
+b'b,b 5
+b'b,b 5
+3=dC:
+b,bLc82 +Lb
+b,bX2 +
+c<c\30)
+0)<d@
+b'b,b 6
+vce]h
+b'b,b 6
+vceX%
+gPb,b|2'4
+`c<c
+Pb,bLc82 %
+f65q
+/Ch,
+,fce
+9%X6
+ic`	
+s8%	
+vc`	
+vc`	
+<B,7
+vc`	
+,b,7@
+,b,7
+/"OG
+"b"+
+c<dH$
+#lC`	
+b,b("
+"OCe
+/"OCiSj
+E7:\0
+d=e\4@a
+/X%-
+@b,gsh{({(
+fh&*
+<B/f
+tCgpc<c8#
+tCgpb,b("
+u]eX%
+@c<gsh{(
+{(@b,gsh{({(
+/"O{
+ChSmcl0
+5]b]a;c)-=L
+b,dCcK#K#<dH$
+.3`	
+ePc<c8#
+ePb,b("
+tMdC=
+ePc<c8#
+ePb,b("
+tMdG:
+2&B&m&l&k&j&i&h#o
+/"OShcl(
+eSb["[",eX%
+/"OH
+.~p.
+t@*NdL
+uPd0
+PdH$
+*Pb("
+t@*NdC`	
+r/l3`	
+uPd0
+PdH$
+"0*Pa
+t@*NdC`	
+30*s
+R@"0*
+t@*NdL
+S>mP
+uPd0
+PdH$
+(0)Pa
+t@*NdC`	
+t@*NdC`	
+s0)t
+uPd0
+PdH$
+*Pb("
+t@*NdC`	
+R b("
+c3a!A
+S0c8#
+@<d!M
+R b("
+t@*NdC`	
+)`b("
+t@*NdC`	
+a,1}
+( )0c8#	
+t@*NdC`	
+b<2[
+S0c8#
+3>fF
+( )0c8#	
+t@*NdC`	
+b<2 )
+(0)`a
+t@*NdC`	
+ b("	
+t@*NdC`	
+( )0c8#	
+t@*NdC`	
+b<2 )
+(0)`a
+t@*NdC`	
+) b("	
+t@*NdC`	
+a,1(
+2&B&m&l&k&j&i&h#o
+/"OH
+uP$^eS`	
+v`d0
+`dH$
+* +`c8#	
+uP$^eS`	
+c<2 +
+d@eD
+uP$^eS`	
+c~a>
+v`d0
+`dH$
+* +`c8#	
+uP$^eS`	
+c<2 +
+ b("
+uP$^eS`	
+2&B&m&l&k&j&i&h#o
+/"OH
+) *`c8#
+t@(NdC`	
+b<2 *L
+0(Pa
+t@(NdC`	
+30(@
+uPd0
+PdH$
+"0(Pa
+t@(NdC`	
+3>eT
+) *0c8#
+t@(NdC`	
+b<2 *T
+) *`c8#	
+t@(NdC`	
+b<2 *d
+R.e 
+* b("
+t@(NdC`	
+a^bj
+S>fl
+) *0c8#
+t@(NdC`	
+bncV
+<2 *
+fc`	
+) *Pc8#	
+t@(NdC`	
+bnc<2 *
+2.f>
+* b("
+t@(NdC`	
+2&B&m&l&k&j&i&h#o
+*0,`a
+t@%NdC`	
+,`b("	
+t@%NdC`	
+B/b+(	
+2&B&l&k&j&i&h#o
+/"OX
+H$_l
+0:Oi
+/"OCh
+/"Oj
+rxy-m
+@"0(`a
+uP$^eS`	
+@! (`c8#	
+uP$^eS`	
+r (@
+@"0(`a
+uP$^eS`	
+@"0(`a
+uP$^eS`	
+s0(L
+d@b,eSc[#[#<eX%
+S0c8#
+a71'
+@"0(
+uP$^eS`	
+s=c3`	
+ZeX%
+JdH$
+9,X%
+d@c<eSa[![!
+d@b,eSc[#[#<eX%
+S0c8#
+"0(`a
+uP$^eS`	
+s0(d
+(`b("	
+uP$^eS`	
+H$<A
+pl@K
+}c;)
+lB-b(9
+USc0c<c8#
+uSb b,b("
+Pb,b("
+s?c3a<1
+,?&O
+/"OCh
+Fv%v%v%v%v%v%v%v%v%
+$!b-b("a
+Ab-b/j
+r!$1c=c
+gw:$
+qc=c
+CTB%qc=cH
+E\6aa
+d74_
+ +Rd
+4@b("	
+r */
+aRdH
+s0*!
+CfX3?d
+/"OChSl
+(1=c<1
+=El5
+b-b,1
+/"OChSjcdsf
+W|g$
+/"OChSjcdsf
+W|g$
+/"OchS`seCg
+H3sd
+-Dl4
+/chsiCf
+Fl4S`	
+c<fh&
+c<6lf
+$|4Sf`b,fh&
+c<fh&
+bk"!$
+tSf`c<fh&
+=EL5_dI
+AV@c
+CcgR
+C<5pc
+5cgpc8#
+ucgpc8#
+c=cH
+Gs`	
+h"OcgSfCe
+"OcgSfCe
+/"OCh
+/"OChSm
+Od;-
+_aOb,1
+/siB
+a)A2
+tMdY
+DScL7tb+#1!Satc;!b`
+&qb("
+tcSabb;!
+pc;%b`U
+h"Oc
+a)!;!
+/"Ochsf
+W|g 
+ &"%
+"b1"
+@!!2
+@1$"
+BtAc!
+/chsiSfCef
+Ec8\4
+u_eS8
+-Ak!
+tk"!$
+Q&L6
+Q&L6
+w}g%
+w}g%
+JdH$
+/"OCh
+BtAc
+"b")
+6ab-bT
+4Ae]c
+#1$=bac
+j=c;*}
+&9!Ab-bZ":!Y"+!
+1c8#
+NtAa\
+1c8#
+1c8#
+JdH$+
+<2",
+E!,\=(
+ac1$
+!b("
+JdH$1
+C<2"+
+,6B6
+uEa_e
+Ec3a!A
+u_eW7
+Ec1&
+u_eW7
+/"OChSjci
+/"OChSjci
+JdH$
+f<6@
++(+)D
+JdH$
+a(!	
+JdH$
+jA"1(p
+Ecb\1
+tOdG7
+CaR`
+tOd 
+Cca<1Sb
+=Bqc=c
+cL7u
+S`1c5
+1eW1g
+uQ(_a
+B,31c=c
+a(1	
+B2a/e
+S2a,1
+<5Qa
+e<5Qa
+<5Qa
+<5Qa
+b)#a!?m
+c,3cb6
+c,3cb6
+`ca#
+v9&l1
+\7qc=c
+#1'C`
+\7qb-b
+h29"!'C`	
+\7qa
+\7qb-b
+r9"!'
+-@\4Ab@
+`-b9"@
+TtAc~
+CbNi)DO`
+"OCe
+JdH$
+JdH$
+i!*0
+1dLdS
+@$T&
+/"OShcjsi
+h"OCgS`ce
+)C`	
+)C`	
+)C`	
+)C`	
+)C`	
+=@Cc
+ac`	
+ cl 
+-Lcb
+B+ cb
+l+ cby"
+)C`	
+)C`	
+)C`	
+)C`	
+)C`	
+=@Cc
+ac`	
+ cl 
+-Lcb
+B+ cb
+l+ cby"
+ ca 
+=Acc
+C; cc
+C; cc
+,gS`	
+C; Sc
+C; Sc
+C; Sc
+C; Sc 
+-CSb; @
+=B+ Sb
+"=B?
++ Sb
+sc)#4
+t,Gt
+ ca 
+=Acc
+C; cc
+C; cc
+,gS`	
+C; Sc
+C; Sc
+C; Sc
+C; Sc 
+-CSb; @
+=B+ Sb
+"=Bw
++ Sb
+sc)#4
+t,Gt
+tP&G=
+,?&O
+aScS
+-DSb(B+%
+L1,G
+G|0,F
+[""$
+R["!
+R[""
+R["#
+R["$
+R["%
+R["&
+R["'
+R[")
+R["*
+R["+
+R[",
+R["-
+R[".
+/Chci
+V\e,
+;%Sa
+h&<G
+G|0<I
+;%Ba[!
+'AR["!
+BS[#2
+CQ[!
+DR["$
+ES[#5
+FQ[!
+GR["'
+HS[#
+IQ[!
+JR["*
+KS[#;
+LQ[!
+MR["-
+NS[#>
+OQ[!
+@@@@`<	
+ sa 
+=Asc
+C; sc
+C; sc
+ Sa 
+=ASc
+C; Sc
+C; Sc
+Cmchsi
+,32%
+fc`	
+gK'p%	F	Fh&
+K&la
+fc`	
+gK'|c3`	
+	F	Fh&
+K&lb#`	
+fc`	
+gK'|a
+	F	Fh&
+K&lc3`	
+fc`	
+gK'|b#`	
+	F	Fh&
+K&la
+/ChSi&
+beP8
+rc[#
+Wcrb9""'
+Fcgx'
+vUbcgx'!$
+!b02
+a 1O
+,""""&&&&,,,,,,,,,,,,****
+=e 5	
+w &w5
+dcs`
+!`9 
+c=lT
+m,KM
+m<Kf
+L<L=
+1c=j
+W<EP
+S@s9
+,?&O
+a[b,A
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+S2TH$
+R!TH$
+Rc2S
+4tCk
+dBc2S
+BdH$
+@BTj
+"#"!4
+c<9=X<s6
+R,33
+S0c<dH$
+,b("
+S2c84F5-
+ESc)
+[#ZC-
+DCc)
+K#ZC-
+C;,.
+Fcc)
+k#ZC-
+DCc)
+K#ZC-
+9!01
+52$7c:
+9,Ra
+b\r".
+S\s1
+2&B&m&l&k&j&i&h#o
+/"OCh
+4tCk
+S8#"
+Bb"b
+TBb"R
+Bb+R
+TBb&R
+TBc7S
+TBc2S
+TBc2S
+/"OSh
+iFR,dC`	
+TBb%R
+5L5b%
+086f
+C;"-
+/"OH
+"b("
+Bc2c
+2)or
+Bc6S
+TBb%R
+TBc<S
+"#c	C
+C:"#a
+UUUU
+3333
+C:"(Ii"+)
+%Cgx'
+TBc2S
+TBc2S
+"b"R
+"b"R
+dBb"R
+TBb"R
+TBb"R
+2dH$
+2&B&m&l&k&j&i&h#o
+Bc2S
+R!TBc2S
+2fBb+R
+BeX%
+Bc9S
+BeX%
+Bc:S
+/"OCg
+/"OCgSh
+/"OCg
+ReX%
+,5R$
+/"OCh
+BdH$
+tS`	
+Bc6S
+/"Oi
+Cksm
+2c8#
+#2)`
+T)$c
+;"")T
+;"")
+$H$&
+/"OCh
+/"OCh
+BdH$
+/"OCh
+JdH$
+TBc2S
+/"OChSjci
+/"OChSi
+/"OChSi
+e=DCgx'X
+tVb 
+"&l7Vc1
+sfCgx'
+/"OH
+Si"bP
+cmv<
+R'b,
+a	MD
+,b@c<`
+P,@i#
+<@i"
+"C`+!
+<@i"
+ c<c
+ c<`
+<@i"
+,@i#
+"C`+!
+<@i"
+,@i#
+"C`+!
+<@i"
+"C`+!
+<@i"
+,@i#
+"C`+!
+,@i#
+<cC`6
+P<@i"
+,@i#
+C;",0
+Sb9"Cc
+30cCa
+C;!`c<c(A
+S<2 b,b+!
+<cC`
+C;!,
+<c;!
+aC`(B
+Q+#L
+,bC`(C
+,b+#
+C;!,
+CC`;!,b+!
+<cC`
+,b+#
+2&B&m&l&k&j&i&h#o
+Rgx'
+pBb.
+ReX%
+ECV-
+:xuWV@
+bfh&
+ES`	
+hHWGVx6
+HRl2c`
+2(C`
+/"OCh
+/"OChSj
+/"OCh
+Bc6S
+2&B&j&i&h#o
+dBdBc2S
+BdH$
+TC`	
+S8#j
+Wx'_
+\2 4-
+rcsd4S
+BdH$
+SV uX
+bc?S
+ST uX
+SV uX
+bc?S
+ReX%
+ReX%
+VS@3
+ReX%
+/"OChSmcl
+Q(,[
+dBb#R
+TSfh&
+bSfh&"$
+TSfh&
+bSfh&"$
+/"OCh
+"OChSmslL
+R!R'
+TC`	
+9""$
+#TBc<S
+S3Vh&
+R$TEP
+bacd
+TBc>
+Bc<S
+R"-D
+dBc3S
+TBb"R
+/"OCh
+CTBb.
+/"OCh
+rcsd4S
+TBc>
+T4U\4
+/"OChSi
+gT04
+dR!TG
+"OChL
+BeX%
+/"OSh
+CTBb)R
+/"OCh
+T	DH$
+Cfh&
+T	DH$
+Cfh&
+/"OCh
+]5[,
+"eSj
+ASd z
+BdH$
+ES8#
+P 'L
+ReX%
+dS8#
+gRB2
+ vS`	
+/"OSlcjsm
+ReX%
+<5Si
+6@gx'
+@gx'
+Wx'9
+|2c3S
+lBb%R
+ zSdH$
+C<20
+S2c5S
+Rfh&
+6@gx'
+@gx'
+Wx'3
+TBc3S
+BeX%
+/"OCg
+2c4S
+/"OshCg
+2c5S
+BdH$
+Bfh&
+eX%	
+b), }
+"b'R
+/"OChSl
+T@1W
+S8#J
+@Bc2S
+TBc2S
+/"OCi
+T6t'
+@c<j
+<G<F
+Fk'<J
+/"OChSl
+FV$V$
+2&B&l&k&j&i&h#o
+/"OCh
+/"OChSlsk
+/"OShclskCe
+Ci=ECa\9C
+=HCb
+=F=GCc
+$tCf
+SdH$
+Z$jD
+Z$jD
+=DL9j
+(EZ$jD
+Z$jD
+Z$jD 
+Z$jD
+J%jE
+J%jE
+Z$jD
+Z$jD
+Z$jD
+C3`	
+C3`	
+C3`	
+B#`	
+B#`	
+B#`	
+DC`	
+DC`	
+DC`	
+2&B)
+&m&l&k&j&i&h#o
+"OChskL
+d@b-dH$
+DL5xuX
+Z$jD
+J%jE
+J%jE
+d@b-dH$
+J%jE
+J%jE
+J%jE
+dCb$R("
+/"OChh
+DVh&
+bbcd%R
+"( t
+,?&O
+/"OCh
+h?fff?
+L?$(^?333?
+"&*.
+#<$(^?
+Cgqb.b("Sh
+ (cgx'
+vCgqb.b("Sh
+ (cgx'
+Cgpb-b("Sh
+!(cgx'
+vCgpb-b("Sh
+!(cgx'
+/"OCh
+$u2c
+/"OCh
+/CgShx'
+)'(I
+x4H$
+cd	DCgx'
+%Cgx'
+9&cdCfh&
+"OH$
+/"OChSk
+/"OChSk
+Sgx'
+uAW`7
+sdSgx'
+Sgx'
+uBW`7
+sdSgx'
+CVAQ
+CVBQ
+AWp2
+2Vsfc
+/"OChSjci
+/"OChSj
+B(H$
+/"OCh
+AVh&
+BVh&
+AVh&
+/"OChSkcj
+Bgx'
+/"OChcj
+BeX%
+/"OChSi
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+]u`@j
+j@2"
+3V`\f
+A)Cf
+A)`;
+A)a;
+tU5Pz
+k/$I8
+k/$I8
+DEST
+t0Z8H
+Q('/\{
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+B^@V
+B^pzZ
+6e-{
+rn{p
+COREDLL.dll
+DirectDrawCreate
+DDRAW.dll
+DirectInputCreateW
+DINPUTX.dll
+DSOUND.dll
+MapleEnumerateDevices
+MapleFreeLibraries
+MapleCreateDevice
+MAPLEDEV.dll
+CoInitializeEx
+CoUninitialize
+ole32.dll
+FirmwareGetSoundMode
+SetFirmwareValues
+PLATUTIL.dll
+_Gauntlet.dll
+Draw_Func
+Free_Func
+Init_Func
+Inpt_Func
+Load_Func
+Rtrn_Func
+Gauntlet\gpf.bin
+Gauntlet\galpha.bin
+font.vlt
+font.pvr
+The game must be restarted for these options
+to take effect. Press 'A' button to reset,
+press 'B' button to cancel the changes.
+The controller has been removed
+or a VMU is being recognized.
+Port A Paused
+Port B Paused
+Port C Paused
+Port D Paused
+MGAH2_GAUNTL
+DATA SECTORS
+ARCADEHITS_2 SAVE DATA
+PANTSUIT
+Saving, do not turn off the power.
+A file with the same name already exists.
+Press the 'A' button to overwrite, 
+press the 'B' button to cancel.
+Save could not complete correctly.
+Loading...
+The file did not load correctly.
+Start
+Left
+Right
+Down
+Left 2
+Right 2
+Down 2
+Up 2
+Right trigger
+Left trigger
+Button 3
+Button 4
+Button 5
+Button 6
+Left analog
+Right analog
+Up analog
+Down analog
+Left analog 2
+Right analog 2
+Up analog 2
+Down analog 2
+Speech
+Difficulty
+Health per coin
+Help
+Auto save
+Restore original settings
+Exit
+Left
+Right
+Down
+Fire
+Magic 1
+Magic 2
+Insert coin
+Restore original settings
+Exit
+Volume
+Speakers
+Move screen
+Restore screen
+Exit
+Continue
+Start Gauntlet
+Game Options
+Controllers
+Audio / Video
+Load
+Save
+Main Menu
+Press 'A' button to change
+Press 'A' button to change
+Press 'A' button to accept
+Press 'A' button to accept
+Mono
+Stereo
+Gauntlet\gauntlet_snd0.dat
+Gauntlet\special1.dat
+Gauntlet\special2.dat
+Gauntlet\gauntlet_snd3.dat
+Gauntlet\gauntlet_snd4.dat
+Gauntlet\gauntlet_snd5.dat
+Gauntlet\gauntlet_snd6.dat
+Gauntlet\gauntlet_snd7.dat
+Gauntlet\gauntlet_snd8.dat
+Gauntlet\gauntlet_snd9.dat
+ PRESS MAGIC 
+  ADD   COIN 
+  ADD   COINS
+ INSERT COIN 
+  GAME OVER  
+ON LEVEL:
+                   
+   PRESS MAGIC     
+ WITHIN 20 SECONDS 
+ TO CONTINUE GAME  
+   AT THIS LEVEL   
+COIN MIN.
+TIME:
+1 COIN =
+FREE PLAY =
+     HEALTH
+ATARI GAMES
+@1985
+LEVEL:
+TREASURE ROOM
+YOU HAVE    SECONDS
+TO COLLECT TREASURES
+YOU MUST EXIT TO
+RECEIVE BONUS POINTS
+"$$"##"
+%''%&&%
+3g"5"
+QURucvtw
+yAtQ5REcvtw
+UQ3rf
+vDqU
+6fGwXxYyiy
+%%U6
+GwXxYyiy
+2L"OR^2
+6hG{X|Y
++%W6
+GzX{Y}i
+XE6s#B$94
+Dt3s
+MaoD_`
+`:Pj"
+?0?`9
+0:0Lp?@OP_aob
+:WIE
+gAx1{CoA
+0[oD0iW
+gOP@o0
+g0o@o0
+g01@o0
+MaoD_`
+wOAx
+0[oD0iW
+_e_3o
+oeo3
+         
+          
+            
+             
+              
+               
+                
+                 
+ OPEN DOORS  
+ USE KEYS TO 
+  GHOSTS  
+  SHOOT   
+ GENERATORS  
+ SHOOT GHOST 
+ TAKE MORE SHOTS 
+   SOME GHOSTS   
+ GRUNTS  
+  FIGHT  
+   JOIN IN    
+ HAVE FRIENDS 
+ FIND EXIT  
+ YOUR GOAL: 
+*waM
+!h^[Zz(I
+O_hk
+!hYZ[+
+$Wh{
+(`@@B
+	JDL	B
+ZS;P(
+(acD
+ E[u
+@@@@
+hK9j8
+95pL
+Dh[9
+$@@f
+'hQKX
+s@*@$
+5BPE*(C
+(`Q*
+QTq`
+@V*p
+pr*@
+`jx(
+rrs5
+Rhd[
+*s$De
+$!$!$!
+$!$!J
+QQQSSS
++5(h
+cle	
+DEKU
+tmIZ
+q	ajA
+	abA
+	abAR
+BahA
+BajA
+ag@`
+d(bd
+BpA`
+T```
+_!zs
++QRRRRR
+edz	(
+/Kh^a
+,(UC*
+*(:pU@
+````
+*`P`
+(LDDH
+oBaB
+xZ^]
+P](b
+uVuX
+E5E`
+q,R5Q
+u(`f`ie
+AGAU
+EE@BH@
+(QA(R
+Agb`
+q5_a
+spA`
+|5bp
+sBdqp
++u`xa{rsu
+aq`uak
+w(m8
+]Z(j
+cle_
+T@h[
+*CDCD
+*y@pBq@qAr
+WSQ(A
+AEHG
+CdlBhA
+(VbE
+dLh(
+Rib5R
+b&R&
+ s R (s v 
+`R(fR(
+RaRa
+G&cD&
+uhYjX
+ * GQ
+n*Vj*C
+eCrw
+aCwv
+__bC
+A*c@Q
+(pMR
+A@@(S
+#@DR
+*Q(!Q`*U@Q(
+9@errrr
+s!8u:
+x!8:
+@u:R@B
+*DsR
+R@vR585
+85R5
+QEsRD9
+bqR@
+89QBq9
+R@xR@'
+rbR@
+ #hZ
+*ptj*
++EQEs
+!bvn
+&*&5
+*caaB
+Ap@p(SH
+'``5
++A@@
+_Ap_
+GpK@@@t
+5^'b,^
+@B@8
+@@@@
+@JP(QQQQ
+QP(QP
+l*R[
+(C(Cf
+`D!D
+khe(
+!OfE
+!OdH
+ `f`
+Wpau
+H{`qk
+bega
+b|bd
+a`cX(X(ba
+e}^5]
+fedN
+@@J@@D@@yCO
+dGOf
++A@@D@@
+0^]Z
+5haa
+(```
+ 8Yu
+(`qaraqara
+KBE@BRTUUT
+(`qb
+BRUTTU
+(`qar
+qbqa
+B@CF
+RUTUT
+DC@B
+(`qb
+RTUTU
++`qaraqara
+9(9(8(9
+9(9(9(9Q
+:8@A
+cle	
+MZ9x
+Q9sq
++-.(
+``g`o
+``g`(
+``n``g`(
+`a'r
+``g`o
+g``f
+Bs(eC
+Bs(e
+hP`_
++AgK
+D*`*
+qSZ[
+jB(h
++B(n
+*A(@(A(B
+R@(@(@Q(QF
+RRR*
+SQQQQQQ
+QQQQQQQ
+rRRRRR
+$FhZX]5
++a```
+WJ[}
+kaa*`aa
+IG+T
+I,RQQRS
+GHF,
+Zhj+
+dbqabbbR
+Ybbbbq`ab
+EHGI
+DEHO
+C@DFI
+(DKA
+BCHGfIF
+(GcA
+FCA(
+Dl(@C
+FACHC
+JEKL
+EBCDEF
+ADBA
+AEBBBH
+b(@@@@@
+(@@@@@@@@
+(@@A
+a@@@
+ID@DE
+(eAac
+KE`(
+OBE@
+@DI@I
+d(@C
+BB@H
+(IG@
+hBgG
+JACE
+BAFA
+AFAJB
+(JaB
+GACL
+(@Cc
+(@EA
+WARRIOR joystick
+WARRIOR <FIRE> button
+WARRIOR <MAGIC> button
+HAVE FRIENDS JOIN IN ANYTIME
+GET BONUS MULTIPLIER BY
+COLLECTING TREASURE
+MORE PLAYERS ALLOWS HIGHER
+BONUS MULTIPLIER
+ADD MORE PLAYERS FOR GREATER
+FIREPOWER
+ADD COINS ANYTIME
+FOR EXTRA HEALTH
+MAGIC POTIONS WORK
+DIFFERENTLY FOR EACH PLAYER
+SHOOTING MAGIC POTIONS
+HAS A LESSER EFFECT
+STALLING WILL CAUSE
+DOORS TO OPEN
+FIND THE HIDDEN POTION
+STUN OTHER PLAYERS
+PLAYER SHOTS NOW
+HURT OTHER PLAYERS
+PLAYER SHOTS NOW
+GO OFF SCREEN
+PLAYERS CAN NOW
+GAME OVER WHEN HEALTH = 0
+HOLD FIRE BUTTON TO SHOOT
+RELEASE FIRE BUTTON TO MOVE
+FIND EXIT TO NEXT LEVEL
+GHOSTS MUST BE SHOT
+SOME FOOD CAN BE DESTROYED
+FIGHT HAND TO HAND BY
+RUNNING INTO GRUNTS
+BEWARE THE DEMONS
+WHICH SHOOT YOU
+SORCERERS MAY BE INVISIBLE
+USE MAGIC TO KILL DEATH
+  Enter your
+   initials: 
+SCORE PER COIN
+WARRIORS
+VALKYRIES
+WIZARDS
+ELVES
+LEGEND
+DESIGNER/PROGRAMMER:
+GAME PROGRAMMER:
+VIDEO GRAPHICS:
+ENGINEER:
+TECHNICIAN:
+SOUND DESIGN:
+CABINET DESIGN:
+SPECIAL THANKS TO:
+ED LOGG
+BOB FLANAGAN
+SAM COMSTOCK
+SUSAN G. MCBRIDE
+ALAN MURPHY
+WILL NOBLE
+DAVE PETTIGREW
+PAT MCCARTHY
+SAE OH/CRIS DROBNY
+HAL CANON
+EARL VICKERS
+KEN HATA
+DAVE THEURER
+MIKE ALBAUGH
+AND MANY OTHERS
+TREASURE
+destructible FOOD
+non-destructible FOOD
+MAGIC potions
+increases ARMOR
+increases SPEED
+increases MAGIC POWER
+increases SHOT POWER
+increases SHOT SPEED
+increases FIGHT POWER
+KEY for doors
+temporary INVISIBILITY
+TREASURE
+DRINK
+FOOD
+MAGIC POTIONS
+EXTRA ARMOR
+EXTRA SPEED
+EXTRA MAGIC POWER
+EXTRA SHOT POWER
+EXTRA SHOT SPEED
+EXTRA FIGHT POWER
+INVISIBILITY
+GHOSTS
+Players shots hurt ghosts
+Players cannot fight ghosts
+Ghosts hurt players and
+   disappear
+GENERATORS
+GHOSTS
+ 1   2   3
+using magic      10  10  10
+shooting ghost   10  10  10
+fighting ghost  NOT POSSIBLE
+kill generator   10  10  10
+getting hit      10  20  30
+GRUNTS
+Players shots hurt grunts
+Players can fight grunts
+Grunts will fight players
+GENERATORS
+GRUNTS
+ 1   2   3
+using magic      10  10  10
+shooting grunt    5   5   5
+fighting grunt   25  25  25
+kill generator   10  10  10
+getting hit       5   8  10
+DEMONS
+Players shots hurt demons
+Players can fight demons
+Demons fight and shoot
+   players
+GENERATORS
+DEMONS
+ 1   2   3
+using magic      10  10  10
+shooting demon    5   5   5
+fighting demon   25  25  25
+kill generator   10  10  10
+getting hit       5   8  10
+getting shot     10  10  10
+LOBBERS
+Players shots hurt lobbers
+Players can fight lobbers
+Lobbers shoot players
+GENERATORS
+LOBBERS
+ 1   2   3
+using magic      10  10  10
+shooting lobber   5   5   5
+fighting lobber  25  25  25
+kill generator   10  10  10
+getting shot      3   3   3
+SORCERERS
+Sorcerers can not be shot
+    while invisible
+Players can fight sorcerers
+Sorcerers fight players
+GENERATORS
+SORCERERS
+ 1   2   3
+using magic      10  10  10
+shoot sorcerer    5   5   5
+fight sorcerer   25  25  25
+kill generator   10  10  10
+getting hit       5   8  10
+DEATH
+Only magic hurts death
+death hurts players
+DEATH
+ONLY MAGIC
+using magic         ????
+shooting death        1
+fighting death  NOT POSSIBLE
+    UP TO...        200
+THIEF
+Thief steals from richest
+   player
+Players can fight thief
+THIEF
+     1
+using magic      NO EFFECT
+shooting thief      500
+fighting thief      500
+getting hit          10
+SHOTS TO KILL:
+POINTS FOR:
+DAMAGE TO PLAYERS HEALTH:
+                       
+       WARRIOR:        
+       VALKYRIE:       
+        WIZARD:        
+         ELF:          
+  PLAYER LOSES    HEALTH  
+                      
+    WARRIOR NOW HAS   
+   VALKYRIE NOW HAS   
+    WIZARD NOW HAS    
+      ELF NOW HAS     
+ LIMITED INVISIBILITY 
+     EXTRA ARMOR      
+     EXTRA SPEED      
+  EXTRA MAGIC POWER   
+   EXTRA SHOT POWER   
+   EXTRA SHOT SPEED   
+  EXTRA FIGHT POWER   
+ FOOD:  HEALTH 
+ INCREASED BY  
+       100     
+ FOOD/DRINK: 
+  100 HEALTH 
+ SOME FOOD 
+ DESTROYED 
+ BY SHOTS  
+ INSERT COINS FOR 
+   MORE HEALTH    
+ SAVE KEYS TO 
+  OPEN DOORS  
+ COLLECT MAGIC POTION  
+ BEFORE PRESSING MAGIC 
+ SAVE POTIONS  
+ FOR LATER USE 
+  SHOOTING A POTION  
+ HAS A LESSER EFFECT 
+ TREASURE:     
+    100 POINTS 
+  SHOOT OR AVOID GHOSTS   
+  SHOOT OR FIGHT GRUNTS   
+  SHOOT OR FIGHT DEMONS   
+  SHOOT OR FIGHT LOBBERS  
+ SHOOT OR FIGHT SORCERERS 
+ USE MAGIC TO KILL DEATH  
+  SHOTS DO NOT HURT  
+ OTHER PLAYERS (YET) 
+ MAGIC POTIONS AFFECT 
+ EVERYTHING ON SCREEN 
+ KILL THIEF TO RECOVER 
+     STOLEN ITEM       
+   THIEF ESCAPED:   
+ ITEM ON NEXT LEVEL 
+ SOME WALLS MAY 
+  BE DESTROYED  
+   TRAPS MAKE    
+ WALLS DISAPPEAR 
+  TRANSPORTERS MOVE  
+ YOU TO THE CLOSEST  
+ TRANSPORTER VISIBLE 
+  YOU ARE FULL OF  
+ BOMBS AND/OR KEYS 
+	c	l	
+l	u	~	
+							
+$	$	-	-	6	6	?	?	H	H	Q	Q	Z	Z	
+7755775588'988'944::44;;  <=  >6
+((@@AA,0AA3
+7755775588'988'944::44;;  <=  >6
+CC-2CC1
+!!DD!!&&
+CLEARING STATS
+TO ABORT
+WARRIOR BUTTONS
+PRESS BOTH
+LEVEL 
+100 x COINS
+TREASURES x
+BONUS =
+NO BONUS !!
+A!B$
+"A	C!A
+C#FA
+Ba!b!
+$FD'
+%FC(
+"EC)
+0123456789ABCDEF
+Statistics
+BMultiplier:
+uBonus Adder:
+None
+2 gives 1
+4 gives 1
+4 gives 2
+5 gives 1
+3 gives 1
+Free Play
+Press 
+ for next screen
+Histogram for Player 
+& UP
+Press 
+ to clear all histograms
+Press 
+for next level
+Total Coins : 
+Avg Time/Coin : 
+ sec
+Plyr 0 Coins:
+Plyr 1 Coins:
+Plyr 2 Coins:
+Plyr 3 Coins:
+0 Plyr Mins :
+1 Plyr Mins :
+2 Plyr Mins :
+3 Plyr Mins :
+4 Plyr Mins :
+Total Games :
+Error Count :
+EEPROM ERROR
+Press 
+to clear statistics
+Press 
+for histograms
+to save this setting and exit
+restores original setting
+5 4 3 2 1 0 9 8
+1 1 1 1 1 1
+7 6 5 4 3 2 1 0
+(Switch version)
+Game Options
+Coin Options
+7 6 5 4 3 2 1 0
+(Switch version)
+Game Options
+Coin Options
+          
+ MORE 
+ MORE 
+ MORE 
+ "!#$&%'(*)+,-!.
+/012
+,-34,-35
+/6,-789
+:;<>=?,-@A12BCDFEGHJIK
+,-!L
+M,-!ANPOQR
+1UTVWYXZ[]\^_a`b_dce
+gfhikjl<<<<n<n<mn
+%(&)
+ !"#
+ !"#
+Main ROM error
+Game board RAM error
+NO GAME PROGRAM
+Rom at 10000 error
+Rom at 18000 error
+Rom at 20000 error
+Rom at 28000 error
+Rom at 30000 error
+Rom at 38000 error
+Rom at 40000 error
+Rom at 48000 error
+Rom at 50000 error
+Rom at 58000 error
+Rom at 60000 error
+Rom at 68000 error
+Rom at 70000 error
+Rom at 78000 error
+Rom at 80000 error
+Rom at 88000 error
+BUTTON 0
+BUTTON 1
+JOYSTICK
+__________
+#*18
+ (08@
+COLOR      RAM error at: 
+PLAYFIELD  RAM error at: 
+ALPHA      RAM error at: 
+MOTION OBJ RAM error at: 
+GAME       RAM error at: 
+Read: 
+Wrote: 
+for next test
+ Press 
+for next test
+ Press 
+INPUT 3
+INPUT 2
+INPUT 1
+INPUT 0
+76543210
+to see 0 appear
+and move joysticks
+Press switches
+Switch Test
+Playfield Test
+Bank = 
+Alpha Test
+Color Test
+ Convergence Test 
+Motion Object Test
+Object:
+Picture:
+Horizontal:
+Vertical:
+Size:
+Color Palette:
+Sound Test
+Wait 3 Seconds
+Testing Sound CPU
+Sound Processor Not Responding
+Speech Chip Time Out
+Music Chip Time Out
+Sound CPU Interrupt Error
+Sound CPU RAM 2 Error
+Sound CPU RAM 1 Error
+Sound CPU ROM 3 Error
+Sound CPU ROM 2 Error
+Sound CPU ROM 1 Error
+Current Coin Value:
+Number of Sounds  :
+Sound CPU Status  :
+Good
+Sound # :
+to hear sound
+ Press 
+to select sound
+Move
+Silent           
+Noisy            
+Music Chip Test  
+Effects Chip Test
+Speech Chip Test 
+                 
+ White  
+  Red   
+ Green  
+  Blue  
+  Grey  
+ Violet 
+D@E@F@G@
+icon.bmp
+t1x1|1
+1<3@3D3P5T5X5\5`5d5h5l5p5t5x5|5
+5T7X7\7`7d7h7l7p7t7x7|7
+7d8h8l8p8t8x8|8
+< <$<(<,<0<4<8<<<@<D<
+0 0$0(0,0d1h1l1p1t1l2p2t2x2|2
+7 7$7(7,7074787<7@7D7H7L7P7T7X7
+:$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<
+4282<2@2D2H2L2P2T2X2\2`2
+;(=,=0=4=
+? ?$?(?,?0?4?8?
+`0d0h0l0p0t0x0|0
+0034383<3@3D3H3L3P3T3
+4 4<7@7D7H7L7P7
+: :$:(:,:0:4:8:<:@:D:
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=
+2 2$2,3034383<3
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+7 7$7(7,7074787<7@7D7H7L7P7
+8`:d:h:l:p:t:x:|:
+:P<T<X<\<`<d<h<l<p<t<x<|<
+X0\0`0d0h0l0p0t0x0|0
+0H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2p4t4x4|4
+4064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6
+7094989<9@9D9p<t<x<|<
+<@=D=H=L=h=
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?
+1 1$1(1,1014181<1@1D1
+3X6\6`6
+8 8$8(8,80848
+9H:L:P:T:X:\:
+;X=\=`=d=h=l=p=t=x=|=,>0>4>8><>@>D>H>
+@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+2h5l5p5t5x5|5
+8 8$8(8,808t:x:|:
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>
+(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+2$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4
+6 6$6(6,606
+94;8;<;@;D;H;L;P;T;X;\;`;\<`<d<h<l<p<t<x<|<
+t1x1|1
+4t5x5|5
+8$:(:,:0:4:8:<:
+= =$=(=,=0=
+\0`0d0h0l0p0t0
+5 749$;
+H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+9 9$9(9,9094989<9@9D9
+<(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+>X?\?`?d?h?l?p?t?x?|?
+2$3(3,303T4X4\4
+9D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+2 2$2(2,2024282<2H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+6h7l7p7t7x7|7
+7,9094989<9@9D9H9L9P9T9X9\9`9d9x:|:
+:t;x;|;
+H1L1P1T1X1\1`1d1h1l1p1t1x1
+2044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4
+: ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;
+= =$=(=,=0=4=8=<=<>@>D>H>L>P>T>X>\>`>d>h>l>p>t>|?
+x0|0
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3
+5 5$5
+;0<\<`<d<X=\=`=d=h=l=p=t=x=|=
+>d?h?l?p?
+1X2\2`2d2h2l2p2t2
+3T5X5\5`5d5h5l5p5t5x5|5
+5H6L6P6T6X6\6`6
+9D:H:L:P:T:X:
+< =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=l?p?t?x?|?
+1 1$1(1,1014181<1@1D1H1L1P1T1
+84989<9@9D9H9
+? ?$?(?,?0?4?8?<?@?D?
+3 3$3(3,3034383
+8 8$8(8,8084888<8@8D8H8L8P8T8
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?
+2<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4
+9 9$9(9,909
+: :$:(:,:0:4:8:
+; ;$;(;,;0;4;8;<;@;D;
+<P=T=
+1p2t2x2|2
+5 5t6x6|6
+8d:h:l:
+;D=H=L=P=T=
+t1x1|1
+5t6x6
+9 9$9$;(;,;0;4;
+l1p1t1x1|1
+1x4|4
+7 7$7
+;T>X>\>`>d>h>l>p>t>x>|>
+1p3t3x3|3
+: :$:(:,:0:4:
+L1P1T1X1\1`1d1h1l1p1t1x1|1
+:L;P;T;
+0D1H1L1P1T1X1\1`1d1h1l1p1t1$2(2,20283<3D4H4L6P6T6x8|8
+0x2|2
+3 4$4(4,4044484<4@4D4H4L4P4T4X4L6P6T6X6\6`6d6h6l6p6t6x6|6
+9 9$9(9,9094989p;t;x;|;
+=t?x?
+1 1p2t2x2|2
+0546
+8X;\;`;d;h;l;p;t;x;|;
+3p5t5x5|5
+2 2$2(2,202x3|3
+3 5$5(5,5054585
+; ;$;(;
+4(5,50545X5\5`5d5h5
+6H6T6`6l6x6
+7 7,787D7P7\7h7t7
+`2d2h2l2p2t2x2|2
+3 3$3(3,34383<3@3D3H3L3T3X3\3`3d3h3l3p3t3x3
+3p;|;
+<$<,<8<@<H<T<\<`<d<h<l<t<
+9$9,949<9D9P9X9`9h9p9x9
+:$:,:4:@:H:P:X:`:h:p:|:
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6$7(7,7074787<7@7D7H7L7P7T7x7
+9$9,9<9\9l9
+<$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<
+>X?d?p?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1(1,1014181<1@1D1H1L1P1T1
+2$2,242<2D2L2T2\2D3P3X3`3h3p3x3
+4 4(4044484<4@4D4H4L4P4T4X4\4`4l4p4t4x4
+5 5$5(5,5054585<5@5D5H5L5P5\5`5d5p5t5x5|5
+? ?$?(?0?4?8?<?@?D?H?L?
+H1L1P1T1X1\1`1d1h1l1p1
+2$2(2,282<2L2P2`2d2t2x2
+3 30343D3H3X3\3l3p3
+4 4$4(4,4044484<4X4
+6 6(6,6@6D6H6L6
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+9 9$9(9,9094989<9@9D9
+94:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+@0D0H0L0P0T0X0\0`0d0h0p0
+1$1,141<1D1L1T1`1h1
+6 6,686D6P6\6h6t6
+7(747@7L7X7d7p7|7
+8$808<8H8T8`8h:l:
+;(;0;8;@;H;T;\;d;l;t;|;
+<(<4<@<L<T<\<d<l<t<|<
+=$=,=0=4=8=<=@=D=H=P=\=h=x=
+>$>0><>H>T>`>l>x>
+2 2$2P6T6X6
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>

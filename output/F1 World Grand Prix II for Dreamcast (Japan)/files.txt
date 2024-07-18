@@ -1,0 +1,9 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/CREDITS.SFD
+/OPENING.SFD
+/PACK
+/PACK/F1A.PAH
+/PACK/F1A.PAK

@@ -1,0 +1,12 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/AUDIO64.DRV
+/DCDATA.BIN
+/SFX.KAT
+/STREAM.AFS
+/SXAKLM.SFD
+/SXINTRO.SFD
+/WARNING.DA

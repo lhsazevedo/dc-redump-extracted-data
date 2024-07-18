@@ -1,0 +1,1059 @@
+!This program cannot be run in DOS mode.
+iRichvF
+.text
+`.data
+.pdata
+@.rsrc
+=UUUUUU
+No error.
+This object is already initialized.
+Return if a clipper object is attached to the source surface passed into a BltFast call.
+This surface can not be attached to the requested surface.
+This surface can not be detached from the requested surface.
+Windows can not create any more DCs.
+Can't duplicate primary & 3D surfaces, or surfaces that are implicitly created.
+An attempt was made to set a cliplist for a clipper object that is already monitoring an hwnd.
+No src color key specified for this operation.
+Support is currently not available.
+A DirectDraw object representing this driver has already been created for this process.
+An exception was encountered while performing the requested operation.
+An attempt was made to set the cooperative level when it was already set to exclusive.
+Generic failure.
+Height of rectangle provided is not a multiple of reqd alignment.
+The CooperativeLevel HWND has already been set. It can not be reset while the process has surfaces or palettes created.
+HWND used by DirectDraw CooperativeLevel has been subclassed, this prevents DirectDraw from restoring state.
+This surface can not be restored because it is an implicitly created surface.
+Unable to match primary surface creation request with existing primary surface.
+One or more of the caps bits passed to the callback are incorrect.
+DirectDraw does not support the provided cliplist.
+The GUID passed to DirectDrawCreate is not a valid DirectDraw driver identifier.
+DirectDraw does not support the requested mode.
+DirectDraw received a pointer that was an invalid DIRECTDRAW object.
+One or more of the parameters passed to the function are incorrect.
+The pixel format was invalid as specified.
+Returned when the position of the overlay on the destination is no longer legal for that destination.
+Rectangle provided was invalid.
+Operation could not be carried out because one or more surfaces are locked.
+There is no 3D present.
+Operation could not be carried out because there is no alpha accleration hardware present or available.
+No blitter hardware present.
+No cliplist available.
+No clipper object attached to surface object.
+Operation could not be carried out because there is no color conversion hardware present or available.
+Surface doesn't currently have a color key
+Operation could not be carried out because there is no hardware support of the destination color key.
+Create function called without DirectDraw object method SetCooperativeLevel being called.
+No DC was ever created for this surface.
+No DirectDraw ROP hardware.
+A hardware-only DirectDraw object creation was attempted but the driver did not support any hardware.
+Software emulation not available.
+Operation requires the application to have exclusive mode but the application does not have exclusive mode.
+Flipping visible surfaces is not supported.
+There is no GDI present.
+Clipper notification requires an HWND or no HWND has previously been set as the CooperativeLevel HWND.
+Operation could not be carried out because there is no hardware present or available.
+Returned when GetOverlayPosition is called on an overlay that UpdateOverlay has never been called on to establish a destination.
+Operation could not be carried out because there is no overlay hardware present or available.
+No palette object attached to this surface.
+No hardware support for 16 or 256 color palettes.
+Operation could not be carried out because there is no appropriate raster op hardware present or available.
+Operation could not be carried out because there is no rotation hardware present or available.
+Operation could not be carried out because there is no hardware support for stretching.
+DirectDrawSurface is not in 4 bit color palette and the requested operation requires 4 bit color palette.
+DirectDrawSurface is not in 4 bit color index palette and the requested operation requires 4 bit color index palette.
+DirectDrawSurface is not in 8 bit color mode and the requested operation requires 8 bit color.
+Returned when an overlay member is called for a non-overlay surface.
+Operation could not be carried out because there is no texture mapping hardware present or available.
+An attempt has been made to flip a surface that is not flippable.
+Requested item was not found.
+Surface was not locked.  An attempt to unlock a surface that was not locked at all, or by this process, has been attempted.
+The surface being used is not a palette-based surface.
+Operation could not be carried out because there is no hardware support for vertical blank synchronized operations.
+Operation could not be carried out because there is no hardware support for zbuffer blitting.
+Overlay surfaces could not be z layered based on their BltOrder because the hardware does not support z layering of overlays.
+The hardware needed for the requested operation has already been allocated.
+DirectDraw does not have enough memory to perform the operation.
+The hardware does not support clipped overlays.
+Can only have ony color key active at one time for overlays.
+Returned when GetOverlayPosition is called on a hidden overlay.
+Access to this palette is being refused because the palette is already locked by another thread.
+This process already has created a primary surface.
+Region passed to Clipper::GetClipList is too small.
+This surface is already attached to the surface it is being attached to.
+This surface is already a dependency of the surface it is being made a dependency of.
+Access to this surface is being refused because the surface is already locked by another thread.
+Access to surface refused because the surface is obscured.
+Access to this surface is being refused because the surface memory is gone. The DirectDrawSurface object representing this surface should have Restore called on it.
+The requested surface is not attached.
+Height requested by DirectDraw is too large.
+Size requested by DirectDraw is too large, but the individual height and width are OK.
+Width requested by DirectDraw is too large.
+Action not supported.
+FOURCC format requested is unsupported by DirectDraw.
+Bitmask in the pixel format requested is unsupported by DirectDraw.
+Vertical blank is in progress.
+Informs DirectDraw that the previous Blt which is transfering information to or from this Surface is incomplete.
+This surface can not be restored because it was created in a different mode.
+Rectangle provided was not horizontally aligned on required boundary.
+D3DERR_BADMAJORVERSION
+D3DERR_BADMINORVERSION
+D3DERR_EXECUTE_LOCKED
+D3DERR_EXECUTE_NOT_LOCKED
+D3DERR_EXECUTE_CREATE_FAILED
+D3DERR_EXECUTE_DESTROY_FAILED
+D3DERR_EXECUTE_LOCK_FAILED
+D3DERR_EXECUTE_UNLOCK_FAILED
+D3DERR_EXECUTE_FAILED
+D3DERR_EXECUTE_CLIPPED_FAILED
+D3DERR_TEXTURE_NO_SUPPORT
+D3DERR_TEXTURE_NOT_LOCKED
+D3DERR_TEXTURELOCKED
+D3DERR_TEXTURE_CREATE_FAILED
+D3DERR_TEXTURE_DESTROY_FAILED
+D3DERR_TEXTURE_LOCK_FAILED
+D3DERR_TEXTURE_UNLOCK_FAILED
+D3DERR_TEXTURE_LOAD_FAILED
+D3DERR_MATRIX_CREATE_FAILED
+D3DERR_MATRIX_DESTROY_FAILED
+D3DERR_MATRIX_SETDATA_FAILED
+D3DERR_SETVIEWPORTDATA_FAILED
+D3DERR_MATERIAL_CREATE_FAILED
+D3DERR_MATERIAL_DESTROY_FAILED
+D3DERR_MATERIAL_SETDATA_FAILED
+D3DERR_LIGHT_SET_FAILED
+D3DRMERR_BADOBJECT
+D3DRMERR_BADTYPE
+D3DRMERR_BADALLOC
+D3DRMERR_FACEUSED
+D3DRMERR_NOTFOUND
+D3DRMERR_NOTDONEYET
+The file was not found.
+D3DRMERR_BADFILE
+D3DRMERR_BADDEVICE
+D3DRMERR_BADVALUE
+D3DRMERR_BADMAJORVERSION
+D3DRMERR_BADMINORVERSION
+D3DRMERR_UNABLETOEXECUTE
+Unrecognized error value.
+]u`@j
+j`\f
+k/$I8
+k/$I8
+DEST
+t0Z8H
+Q('/\{
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+B^@V
+B^pzZ
+/"OChSkci
+eB)Q
+$Bb("
+/"OCf
+bbcd.R
+Rc2S
+Rc2S
+Rc2S
+Rc2S
+dBc4S
+Bc8S
+Z$jD
+Z$jDb
+Z$jD
+Z$jD
+FeFfR
+FfFed
+FeFfV
+FeFfX
+FeFfZ
+FeFf\
+FeBd^
+T2c5S
+S2c6S
+"dBc4S
+?@@@@
+L?lg
+"%\4
+2dBa
+"c2,
+|"b!
+"b",
+|",L
+|3`2,
+|2,!
+\6bc1$aPA
+bR-b#`B
+"dBc5S
+dBb&R
+dBc4S
+Bc=S
+2&B)
+&m&l&k&j&i&h#o
+"OCh
+Z$jD
+Z$jD
+(DJ%jEm
+J%jE
+J%jE
+J%jE
+`+@	
+`+@	
+/"OChSkcjsi
+a)! 1X
+R$V$
+dH$	
+R$V$
+dH$4
+1VeB!
+1VdVeB!Q
+1VeB!Q
+eVd,
+1B!Q
+OVeB!Q
+a(!&
+4CaH
+)! 1X
+1VeB!H
+4R$V$$
+dH$)
+1VdVeB!
+5Vd\
+1B!Q
+dH$+
+R$V$
+$CaH
+1VeB!Q
+1VdVeB!
+5VdL
+1B!Q
+1VdVeB!T
+1VdVeB!Q
+/"O$
+VdVeB!
+VdVeB!Q
+1VeB!D
+4R$V$
+dH$)
+1VdVeB!
+5VdP
+1B!Q
+VdVeB!Q
+1VdVeB! 
+5VdH
+1B!Q
+1VdVeB!Q
+1VeB!D
+4R$V$0
+1VdVeB!
+5VdX
+1B!Q
+5Vd 
+1VdVeB!Q
+5VdVeB.Q
+VdVeB!
+1VdVeB!Q
+1VdVeB! 
+#*!:!jAc
+*!;!jA
+k'x'	
+K%X%
+*'9&9"s
+D$Bd
+N1.6$@
+J1*6$@
+N1.6$@
+N1.6$@
+J1*6$@
+N1.6$@
+N1.6k
+y39j
+H%@)
+H%@9(
+G%H%@X%
+[!=EX!=E[!
+c$s9
+Z@4s
+&C6i6h
+A$F36
+A$F36
+D$B32
+D$B32
+#*!:!jAb
+*!;!jA
+k'x'	
+K%X%
+I=I#a
+g*'9(9"
+;"H9
+8.3h&
+H%@%Fi
+H%@%F
+H%@)
+>0.8Z
+G%H%@X%
+[!=EX!=E[!
+c$s9
+c4s&C6i6h
+c+#K#8#'
+@$H38
+@$H38
+D$B32
+D$B32
+#*!:!jA
+*!;!jA
+k'x'	
+K%X%
+#*!:!jA
+*!;!jA
+k'x'	
+K%X%
+c#h3b
+cC`3d
+I=I#a
+j#f9(9"
+;(;"
+{"#d
+c sCg
+D=Gx'
+{$#g
+B=G{$
+N0.8x
+H%@)
+J0*8
+#3h(@
+@$H38
+@$H38
+@$H38
+@$H38
+J%H%@X%
+[!=EX!=E[!
+c$s9
+c4s&C6j6i6h
+i*("
+@$H38
+@$H38
+D$B32
+D$B32
+/"OChcj
+/"OChSi
+5VdVeB/
+dCaQ
+/"Oh
+FdR!A
+R$V$
+dH$)
+9"X%
+1VdVeB!Q
+1VdVeB!Q
+#*!:!jAd
+*!;!jA
+V F 
+4CaH
+/"Ox
+)$K!
+dCb@
+d)$H$
+B`) 
+TB`) 
+Ba)!
+B`) Y
+TBi))
+T tB`
+T tB`) 
+UVdVeB*Q
+TPtBi+)
+TPtB`
+UVdVeB*
+Q	A	A(!
+Ba)!
+Ba)!
+Ba)!
+Ba)!
+Ba)!
+$H$%
+"b9"
+R"b9"
+"b9"
+R"b9"
+;""!
+U@uVdVe
+QB!Q
+/"OCkShci
+R$V$
+1VdVeB!
+B%F%X
+1VdVeB!Q
+5VdVeB(
+R$V$
+1VdVeB!
+B%F%@
+1VdVeB!Q
+5VdVeB(c
+R$V$
+1VdVeB!
+R$V$I
+1VdVeB!Q
+5VdVeB(1
+R$V$
+1VdVeB!
+R$V$I
+1VdVeB!Q
+5VdVeB(Q
+R$V$
+1VdVeB!Q
+R$V$
+VeB!Q
+R$V$
+R$V$I
+1VdVeB!Q
+5VdVeB(Q
+#*!:!jAE
+*!;!jA)
+MC9!
+c$sk
+c4s&C
+	!jA
+ Y$We	%[$
+#*!:!jAE
+;!(DjA
+MC9!
+c$sk
+c4s&C
+ s8#
+bMB=@("
+MB+ =A
+I"("	
+#8#L
+x38#
+s=B+!)
+9!MG
+F%G{!X%
+['jG 
+mEX'
+4s&C
+#{#8#
+#*!:!jA=
+;!jA:
+F1%A-A
+d-@ r-D
+r-DK X%
+[!=EX!=E[!
+a4q&A
+#*!:!jAd
+*!;!jA)
+/"O{
+ChCh
+%X%	
+((88``````HH`````TT`````p
+B+!4
+B+!,
+]H$)
+@X%)
+B(!)
+B(!)
+C8-)
+C8!)
+C8!)
+T&4j
+BBBBBB
+5Vd(
+5Vd(
+5Vd(
+BZZZZZZ
+BZZZZZ
+BZZZZZZ
+5Vd@
+1B!P
+5VdX
+1B!h
+b9"T
+5VdX
+1B!h
+5VdX
+1B!h
+;""$~
+P	@	@
+.8H.@Z.
+8H@Z
+1B!"
+5VdVeB(Q
+#*!:!jAe
+*!;!jA)
+MC9!
+c$sk
+c4s&C
+S8#$
+@2+h
+4NR("I
+HS8#K
+R(",
+/"OChSj
+@R!@
+2&B&k&j&i&h#o
+/"OCh
+A<{Z
+TH$I
+2#cy
+2&B&k&j&i&h#o
+/"OCjSkch
+ATBa
+dBTBc9S
+@2(S
+ESc)
+[#ZC-
+ESc)
+[#ZC-
+DCc)
+K#ZC-
+Z$jD
+Z$jD
+Z&jF
+Z&jF
+Z$jD
+Z$jD
+DCb)
+K"ZB-
+Z$jD
+Z$jD
+Z&jF
+Z&jF
+Z$jD
+Z$jD8
+5"b%R
+@"(f
+b#ca
+33a_
+!U"V
+2&B&k&j&i&h#o
+b#TBc2S
+<tDQ
+HS8#
+,?&O
+cdy2c`
+bhx"b`
+b"b.
+/"OChSicjsk
+@",0
+D\4H$
+Bgx'
+2c8#
+dCe	
+<tBR("
+HtBa
+DuRb("
+PuRfh&
+TtBa
+Tth&
+@",6
+<tDR(")
+JR(")
+!U"V#W4
+@2,+
+IR(")
+KS8#)
+/"Oz
+ClSk
+"$Bc8#
+DL32m
+B,32W
+Rc2S
+S"#)
+Rb"R
+2c2S
+Rc2S
+"OCe
+%"b("
+2c8#
+B%sd
+B%B%
+/"OCe
+R("	
+,42&Ba
+(uc`
+vBag1
+2&(uSd
+<6bgx'
+(uSie
+b"*B,
+4BfRc2$b%
+"OCe
+\4NQ
+b"b.
+,?&O
+/"OChSi
+2c8#
+6STBa
+dH$	
+c2c>
+b"b.
+b"b.
+=2c\=`
+Rc2S
+"b"R
+2c2S
+Rb"R
+2c2S
+\4H$
+L5X%
+/"OCe
+Bc3S
+Bb$R
+Bc;S
+dBc7S
+dBc>
+Rb(R
+dBc2S
+Rc2S
+dBb.
+dBb)R
+<c02 
+"dBc>
+"OSjL
+c2c5S
+U"b.
+,?&O
+/"O[
+c2c5S
+U2c>
+,?&O
+1Vg\
+AVfVgm
+VfVgo
+VfVgf
+VfVgh
+VgVfr"a
+VfVgb
+VfVgd
+VgVfv
+VgVfx
+VgVfz
+VgVf|
+VgVf~
+@rVg
+BVfr"a
+VgVfr
+"b"R
+2c2S
+"dH$
+2&B&m&l&k&j&i&h#o
+BdH$
+2"2!
+r"(B`d
+jEZD-
+DZD-
+j%jE
+VdReA
+TBb'R
+Rc8;B%
+f(DZF
+J%jE-
+J%jE
+J%jE
+J%ZK
+J%jE-
+J%jE
+Z&jF=
+Z&B*
+2&B&l&k&j&i&h#o
+/"OY
+4DRw2
+@dz8
+j$ZEjD-
+j$jD$
+Z$jD=
+2c7S
+"b#r
+"gDSw3v
+"hES
+@h{;
+J&ZEjF-
+J&jF$
+J%jE=
+SJ%2c
+]8=Z
+g2c7S
+2&B&m&l&k&j&i&h#o
+,?&O
+BeX%
+Bb("
+vckc
+2!X%B
+{raCe
+l9xy
+|6xvn
+|6xvn
+vbac
+/"OChSl
+C<4Ba 1
+/"OY
+S8#	
+<4Ba
+b020
+2&B&m&l&k&j&i&h#o
+/ChSkcjsi
+bl5Vgl2Vf
+tG:r"a
+VfReb
+,?&O
+/"OSjcksmCe
+@,4!
+@<4/
+4Ce]P
+/"OCh
+d-ASjL
+dC` 
+a=B,1
+9$H$
+9$H$
+9$H$
+`	xg
+/"OG
+Rb"R
+L5Sm
+"dH$	
+R("+
+dBc>S
+Rc2S
+T2c4S
+dH$	
+c8#JdH$
+8#JdA
+T"b%R
+2dH$	
+5"b&R
+dBc>
+dH$	
+2dH$ 
+dBc>
+dH$	
+R"b"R
+/"OshH
+?H$?
+R"b"R
+R"b"R
+,?&O
+6l7r`
+C<1!
+rccaN
+C<1"
+,pKT
+,52%
+<:B%
+B,7qSx
+tbcG3
+/"OSfCe
+\7rc
+"b&R
+/"OChSi
+/"OSmcl
+TH$8
+"b"R
+2c2S
+\4Bb
+C;""$e
+B-B-!
+f"b,R
+2dH$	
+fh&'
+b-b-
+,4R$
+"b"R
+,?&O
+fh&T
+b-b-P
+@cdR
+DsaL1`!l`
+lb#`
+Csa<1
+vg3@
+Bsc,3{
+vg5@
+Bsc,3
+v,bg2
+"dH$	
+2dH$$
+dH$	
+b-B%
+"eX%
+,?&O
+/"OX
+TH$<
+"b"R
+2'R("
+C<2$
+(C2(
+S2c8#
+C;""(
+2c3S
+dH$	
+B,B,
+<5B,b%
+Rc8#
+2c2S
+,?&O
+/"OC`Sd
+/"OChSicj
+4Ca;
+dH$"+
+5"b,R
+dH$P
+;Cj[
+e"+X
+dH$M
+B*B*I
+"dH$	
+dH$i
+;Cj/
+B*B*
+2c5S
+dH$"
+,?&O
+/"OCh
+"b"R
+f<r*
+2dH$
+@<= 
+"dH$
+2c5S
+B,38
+U2c>
+2dH$
+"dH$	
+U2c6S
+"dH$!
+"dH$	
+C"b8"
+"b"R
+,?&O
+/"OCh
+l5Sl
+d2c0
+"dH$	
+R"b"R
+/"OCh
+dH$	
+`"*(}&
+/"OCh
+dH$	
+2c2S
+dH$	
+"b"R
+/"OH
+Shcksj{
+dC` 
+1Fel
+FeFfR
+FeFfT
+FeFfV
+FfFeh
+FeFfZ
+FeFf\
+FeFf^
+@qFfFeb!Q
+FeFfR
+FeFfT
+FeFfV
+FeFfX
+S2c2S
+CeP1
+S@b #
+Q+#2!
+Q;"	
+Q@c0!
+S+!	
+S2c2S
+SPb #
+M[&|g
+P$@c
+E^b+#0$
+R"b"R
+4\4Bc
+2\2)C0"B`
+Bc<c3`"
+C<2@
+Bc5S
+U2c>
+R"b"R
+S2c2S
+R"b"R
+2&B&m&l&k&j&i&h#o
+/ChSi
+vh&E
+gL7X%bk
+b 'bc
+eh&P`
+/"OChSjci
+c<dG1
+c<d 
+c<d0
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+DirectDrawCreate
+DirectDrawEnumerateW
+DDRAW.dll
+DirectInputCreateW
+DINPUTX.dll
+256 256
+# Created by Paint Shop Pro
+256 256
+$$U$$
+$$U$$U$$
+mmUIIU
+IIUIIUIIUIIU$$
+UmmUIIUIIUmmUmmU
+mmU$$
+IIUmmUmmU
+IIUmmU
+IIUIIU$$U$$UIIU
+U$$U
+mmU$$
+mmUIIUIIU$$
+$$U$$UmmUI$
+UmmUmmUmmUmmUm
+$IUI
+IIUIIUIIUImUIIU
+IIUmmUmmU
+IIU$$U$$
+mmUmmU
+$$U$$
+IIU$$U$$U$$U$$U
+$$UIIUIIU$$U
+IIU$$U
+IIU$IU$$U$$U$IU$$U$$U
+IIUmmU
+UmmUm
+mmU$
+mmUmmUmmUmmUmmU
+IIUIIUIIUIIUIIUIIU
+IIUIIU
+$$UI
+mmUmmUmmUmmU
+$$U$$
+IU$m
+IIU$$U
+IIUIIU$$U
+$$U$$U
+mmUIIU$$
+IIUIIU
+IIU$$
+IIUmmUIIUIIU
+IIUmmU
+UIIU
+$$UII
+mmU$$
+IIUIIU
+$$UIIUIIUmmUmm
+mmUmm
+IIU$$U$$
+mmU$$U
+IIU$$
+$$UmmU
+IIUIIU
+mmUmmUmmUmmUIIUIIU$$
+$$UIIU
+$$UIIU
+$$UIIU
+IIUmmU
+IIU$$
+IIUIIU
+IIUmmU
+IIUmmU
+mmUIIU
+IIUIIUIIU
+IIUmm
+mmU$$U
+mmUIIU
+$$UIIU
+IIUIIU$$U
+IIUmmU
+$$UIIU
+IIUIIUIIUIIUIIU
+IIUIIU
+IIU$$
+IIUIIU
+$$UmmU
+IIUIIU
+IIUIIU
+IIUIIU
+IIUIIU
+UIIUIIU
+IIUIIU
+IIUIIUIIUIIU
+IIU$$U
+mmUIIU
+IIUIIUIIU
+IIU$$
+IIUIIU
+IIUmmUIIU
+mmUmmU
+IIUIIU$$U
+IIUIIUIIU
+IIUIIUIIU
+U$$UIIUmmU
+IIUIIU
+IIUmmU
+IIUIIU
+IIU$$
+IIUIIU$$U
+IIUIIUIIU$$U
+IIUIIUIIUIIU
+IIUIIU
+IIUIIU
+IIUIIU
+UmmU
+mmU$$
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\oct2.exe
+NB10
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\oct2.pdb

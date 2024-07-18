@@ -1,0 +1,909 @@
+!This program cannot be run in DOS mode.
+%t0P%t0P%t0P%t0P?t0P
+k#P+t0PRich%t0P
+.text
+`.rdata
+@.data
+.pdata
+@.reloc
+/"OCh
+.\\4:@FLRX"(
+/"OCh
+dBb.
+dBc7S
+Bb$R
+dBc7S
+Bb$R
+dBb'R
+tBb"b
+/"OCh
+2dBa
+dBb.
+"dBc>
+2dBa
+/"OCh
+"d64
+dBc2S
+dBb"R
+dBc>
+dBb.
+dBc2S
+"d64+
+"dBc>
+"dBc>
+"dBc>
+"dBc>
+tBb}
+tBcy
+tBav
+tBbr
+tBcn
+tBak
+tBbg
+tBcd
+tBa`
+tBb]
+tBcY
+tBaV
+tBbR
+tBcO
+tBaK
+tBbH
+tBcD
+tBaA
+tBb>
+tBc:
+tBa7
+dBb.
+c<`*
+*Rb(B$
+Rb(Bbc
+Rb(Bbc
+Rb(Bbc
+dBb%R
+/"OCj
+dBc5S
+c<`+
+BdCg
++(G'
++#ba
+Cbb;!
++!sb
+Bba+#
+BdCg
+B+'K'x
+dBc>
+/"OChSm
+dBc>
+Q(A+
+,b+!
+Q(A%
+,b+!
+,b+!
+,b+!
+Bfcd+$cc(D
+C;$k$H
+dBb%R
+/"OCh
+b,`1
+Q(A0
+,b+!
+Q(A(
+,b+!
+Q(A"
+,b+!
+,b+!
+BdCe+%Cc(E
+C;%K%X
+dBc5S
+/"OCh
+9$H$
+dZD-
+dZD-
+xtZD-
+zZD-
+)$H$
+d2tZD-
+d2tZD-
+)$H$
+d2tZD-
+d2tZD-
+9$H$
+9$ZD-
+9$ZD-
+/"OCh
+)$H$
+d2tZD-
+d2tZD-
+)$H$
+d2tZD-
+d2tZD-
+Bc5S
+"dBc2c
+dBb*R
+dBc2c
+dBc7S
+dBb%R
+Bc5S
+"dBc2c
+"OsjL
+dBc:S
+"dBa
+dBb"b
+dBc5S
+/"OG
+Bb$R
+dBc2S
+Bc3S
+j"*1
+@8|,
+=8|!
+?FFF
+a8q#
+r"*2$
+"!"(
+S"# 
+2dBa
+"dBc;S
+dBb"b
+2dBa
+)$H$
+d2tZD-
+d2tZD-
+)$H$
+d2tZD-
+d2tZD-
+"OChL
+dBb.
+dBb$R
+dBc>
+dBb%R
+/"OChSk
+ESa)
+[!ZA-
+Q,b 1
+dBc>
+BeSd
+$Sb(D
+B+$[$
+dBc>
+Bc5S
+"dBc2c
+Bc5S
+"dBc2c
+/"OCj
+dBb*R
+dBc2c
+dBc7S
+dBb%R
+tBbR
+tBc<
+tBa8
+tBb7
+tBc3
+tBa0
+tBb,
+tBc)
+tBa&
+tBb$
+tBc 
+dBb"R
+Bb#R
+tB*(D
+#"(0
+<c2*	
+CPPPP
+2dBa
+"dBc;S
+dBb"b
+2dBa
+dBb"R
+Bb#R
+tB*(D
+<c2*	
+?PPP
+2dBa
+"dBc;S
+dBb"b
+2dBa
+dBb$R
+dBc1S
+dBb$R
+dBc1S
+"dBc3S
+dBb$R
+2dBa
+dBb%R
+Bc4S
+TH$!
+dBb#R
+dBc5S
+TH$'
+"dBc3S
+dBb$R
+2dBa
+dBb%R
+dBc4S
+dBb#R
+dBc5S
+c8#"
+Bb&R
+R(""
+d2c(C
+Bc6S
+Bb&R
+/"OChSmcl
+dBb$R
+B+!3b(A
+B+!;!
+CCb;"Ca(B
+"K"*
+#Cb(C
+B+#K#.
+HD|Z
+dBc>
+,Bc(C(
+Bra+#$
+Bc(Cra+#bb
+Bc(Cra+#bb
+Bc(Cra+#bb
+dBb.
+dBc5S
+dBb%R
+L92d
+"dBc2c
+)%X%
+/"OCj|
+BeSV
+Fca)
+k!ZA-
+dBb*R
+Bb%R
+dBc2c
+,?&O
+tBb}
+tBcz
+tBav
+tBbs
+tBco
+tBal
+tBbh
+tBce
+tBaa
+tBb^
+tBcZ
+tBaW
+tBbS
+tBaL
+tBbH
+tBcE
+tBaA
+tBb>
+tBc:
+tBa8
+tBb4
+tBc1
+/"OCi
+dCe&5
+2"2)
+dBc4S
+"dbad
+tB(f
+r")2*
+@2!N
+@B"6
+2eW1
+@2de
+B'5[
+2$Rd
+HCPPPP
+2dBa
+"dBc;S
+#7r%	
+B"%d
+`+@	
+`+@	
+`+@	
+/"OChSkcj
+/"OChcj
+/"OChSi
+/"OCh
+/"OCh
+"OChSjciL
+Z$jD
+Z$jD
+J%jE
+J%jE
+2&B)
+&j&i&h#o
+I@|y
+@tCa
+SgCeca
+CgCfSa
+B,36
+B,36
+B,36
+B,36
+B,36
+B,36
+B,36
+B,36
+B,36
+B,36
+B,36
+B,36
+tBR(
+tCS<
+tGR-
+tKS>
+$QR$
+tBR(
+tFS9
+VfVgb/q
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VgVfz
+VgVf|
+VfRen
+sfsd
+VfVgb/q
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VgVfz
+VgVf|
+VfRen
+Cg"/sfsd
+VfVgb/q
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VgVfz
+VgVf|
+VfRen
+sfsd
+VfVgb/q
+VgVfr
+VgVft
+VgVfv
+VgVfx
+VgVfz
+VgVf|
+VfRen
+sfsd
+AZD-
+GSaH7ZG
+CCa<7ZG
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+2&B#o
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+J%jE
+J%jEi
+J%jE
+J%jE
+J%jE
+J%jE5
+J%jE
+J%jE
+J%jE
+J%jE
+2&B#o
+^b!$
+$`eX%
+t^c1$
+v`eX%
+!$peX%
+wpeX%
+/"OChSk
+vP$`eX%
+0$C`
+/"OChSicjsl
+v@%`dH$
+Pfh&
+nb!$
+uPfh&
+Pfh&
+u`$Pfh&
+cgx'
+vPgx'	
+up$cgx'
+tPgx'
+h&l;
+jPb,b("	
+zPb,b("
+se $
+tceX%
+eX%	
+P$ceX%
+C` $
+/"OX
+Chcm
+eX%K
+c<eSdd
+b,eX%
+h"OA
+@eX%
+t@eX%
+x'9%ZE
+t@eX%
+@fh&
+Sgpb 6	
+t@fh&
+Sgpb 6
+`+@	
+/"Oh
+VeB!Q
+VeB!Q
+)! 1^
+R$V$(
+dH$#
+4CaH
+5VdD
+4R$V$D
+1VdVeB!
+5VdT
+1B!Q
+dH$:
+5Vd$
+1B!Q
+dH$(
+dH$9
+R$V$r
+B%F%Sa
+1FeFdR!
+1FeFdR!A
+1VdVeB!
+1VdVeB!Q
+1VdVeB!Q
+VdVeB!Q
+5Vd$
+1B!$
+1VdVeB!Q
+R$V$
+1VdVeB!Q
+R$V$
+dH$*
+5VdL
+1B!L
+1VdVeB!*
+5Vd$
+1B!$
+1VdVeB!Q
+#*!:!jA
+*!;!jA
+k'x'	
+K%X%
+#*!:!jA
+*!;!jA
+k'x'	
+K%X%
+c#h3b
+cC`3d
+I=I#a
+j#f9(9"
+;(;"
+{"#d
+c sCg
+D=Gx'
+{$#g
+B=G{$
+N0.8x
+H%@)
+J0*8
+#3h(@
+@$H38
+@$H38
+@$H38
+@$H38
+J%H%@X%
+[!=EX!=E[!
+c$s9
+c4s&C6j6i6h
+i*("
+@$H38
+@$H38
+D$B32
+D$B32
+a)! 1F
+R$V$
+dH$	
+1VdVeB!Q
+4CaH
+1VeB!
+4R$V$8
+1VdVeB!
+5VdP
+1B!Q
+5VdVeB.
+dH$-
+R$V$\
+1VeB!
+1VdVeB!Q
+4CaH
+dH$'
+VdVeB.Q
+dH$R
+VdVeB!Q
+1VeB!
+4R$V$0
+1VdVeB!
+5VdH
+1B!Q
+dH$#
+1VdVeB!Q
+1VeB!Q
+VdVeB!Q
+1B!Q
+1VdVeB!
+4R$V$%
+1VdVeB!Q
+5VdVeB/
+dCaQ
+/"Oh
+FdR!A
+R$V$
+dH$)
+9"X%
+1VdVeB!Q
+1VdVeB!Q
+V F 
+4CaH
+/"Ox
+)$K!
+dCb@
+d)$H$
+B`) 
+TB`) 
+Ba)!
+B`) Y
+TBi))
+T tB`
+T tB`) 
+UVdVeB*Q
+TPtBi+)
+TPtB`
+UVdVeB*
+Q	A	A(!
+Ba)!
+Ba)!
+Ba)!
+Ba)!
+Ba)!
+$H$%
+"b9"
+R"b9"
+"b9"
+R"b9"
+;""!
+U@uVdVe
+QB!Q
+/"OCkShci
+R$V$
+1VdVeB!
+B%F%X
+1VdVeB!Q
+5VdVeB(
+R$V$
+1VdVeB!
+B%F%@
+1VdVeB!Q
+5VdVeB(c
+R$V$
+1VdVeB!
+R$V$I
+1VdVeB!Q
+5VdVeB(1
+R$V$
+1VdVeB!
+R$V$I
+1VdVeB!Q
+5VdVeB(Q
+R$V$
+1VdVeB!Q
+R$V$
+VeB!Q
+R$V$
+R$V$I
+1VdVeB!Q
+5VdVeB(Q
+#*!:!jAd
+*!;!jA
+	!jA
+ Y$We	%[$
+#*!:!jAe
+*!;!jA)
+MC9!
+c$sk
+c4s&C
+#*!:!jAE
+*!;!jA)
+MC9!
+c$sk
+c4s&C
+R$V$T
+dH$	
+B%F%Sa
+VeB!Q
+1VdVeB!Q
+1VdVeB!
+VeB!
+1VdVeB!
+VeB!
+1VdVeB!
+VeB!
+1VdVeB!
+1VdVeB!4
+#*!:!jAE
+;!(DjA
+MC9!
+c$sk
+c4s&C
+#*!:!jAb
+*!;!jA
+k'x'	
+K%X%
+I=I#a
+g*'9(9"
+;"H9
+8.3h&
+H%@%Fi
+H%@%F
+H%@)
+>0.8Z
+G%H%@X%
+[!=EX!=E[!
+c$s9
+c4s&C6i6h
+c+#K#8#'
+@$H38
+@$H38
+D$B32
+D$B32
+#*!:!jAc
+*!;!jA
+k'x'	
+K%X%
+*'9&9"s
+D$Bd
+N1.6$@
+J1*6$@
+N1.6$@
+N1.6$@
+J1*6$@
+N1.6$@
+N1.6k
+y39j
+H%@)
+H%@9(
+G%H%@X%
+[!=EX!=E[!
+c$s9
+Z@4s
+&C6i6h
+A$F36
+A$F36
+D$B32
+D$B32
+/"O{
+ChCh
+%X%	
+((88``````HH`````TT`````p
+B+!4
+B+!,
+]H$)
+@X%)
+B(!)
+B(!)
+C8-)
+C8!)
+C8!)
+T&4j
+BBBBBB
+5Vd(
+5Vd(
+5Vd(
+BZZZZZZ
+BZZZZZ
+BZZZZZZ
+5Vd@
+1B!P
+5VdX
+1B!h
+b9"T
+5VdX
+1B!h
+5VdX
+1B!h
+;""$~
+P	@	@
+.8H.@Z.
+8H@Z
+1B!"
+5VdVeB(Q
+#*!:!jAd
+*!;!jA)
+`+@	
+N$@e
+fs-8R
+?fs-8R
+!	@V
+COREDLL.dll
+timeGetTime
+CEMM.dll
+qendingdc.dll
+ZddDllInterface
+Director,Concept
+Game Design
+Main Program
+Program
+Sound Engine
+Sound Program
+Sound Director
+Compose
+Sound Program
+Sub Program
+Network
+Browser Program
+Server Program
+Graphics
+Character Design
+Hall Design
+Stage Design,Graphics
+Stage,Event Graphics
+Character,Hall Graphics
+Chief
+Menu Graphics
+Motion Capture
+Motion Capture Director
+Choreographer
+Dance Performance
+Dance Performance
+Motion Capture Studio
+Motion Capture Staff
+Design Coordinate
+BGM Sound Produce
+BGM Compose,Arrange
+Programing
+Sound Programing
+Opening Song
+Compose,Arrange
+Programing
+Lylics
+Vocal,Chorus
+Chorus
+Guitar SOLO
+Recording Engineer
+Ending Song
+Compose
+Lylics,Arrange
+Programing
+Vocal,Chorus
+Guitar SOLO
+Recording Engineer
+Sound Coordinate
+Opening Movie
+Motion Capture Choreographer
+Dance Performance
+Motion Capture Studio
+Motion Capture Staff
+Promotion
+Publicity
+Manual
+Technical Support
+Check
+Thanks
+Product Manager
+Network Total Director
+Technical Director
+Producer
+Executive Producer
+                  
+s (Goo!)
+  (Hudson)
+b (Hudson)
+VORTEX.Ltd.
+i (Hudson)
+gKALTA
+gTomori
+gKALTA
+ALIEN ZERO
+SARA YOKO BENITO
+gEDO
+gEDO
+gKALTA
+gEDO
+ (Hudson)
+ (Guido)
+SEIJI
+j (Hudson)
+ (Hudson)
+q (Hudson)
+b (Hudson)
+j (Hudson)
+ (Hudson)
+SHINTARO
+ ADS
+VORTEX.Ltd.
+    
+Pulse pop
+Microsoft WindowsCE
+                 Dreamcast Team
+T (Hudson)
+b (Hudson)
+ (Hudson)
+ (Hudson)
+ (Hudson)
+(ADS)
+         
+SUPER PRODUCERS STAFF
+         
+rn290
+sp292
+sp293
+sp294
+sp296
+edpr0a
+md/ed
+edpr0b
+edsi0a
+edst0a
+MD\mo
+0,0D0
+1 1$1(1,1014181<1@1D1|2
+5 5$5(5
+7 7$7(7,7074787<7@7D7H7
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+@0D0H0L0P0T0X0\0
+2P5T5X5\5
+5X6\6`6d6h6
+7\9`9d9h9l9p9t9x9|9
+:P;T;X;\;`;
+0 0$0(0,0004080<0@0
+1 1$1(1,1014181
+2$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3$5(5,5054585<5@5D5H5L5$7(7,7074787<7@7D7H7L7
+8 8$8(8
+<T<X<
+<,=0=t=x=
+04282<2@2D2H2L2P2T2X2
+4L5P5T5X5\5
+5L6P6T6X6\6`6d6x7|7
+: :$:(:,:0:4:8:<:@:D:H:
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+=T>X>\>`>d>
+? ?,?8?D?
+0D4@8
+2 2$2(2
+7T9X9x9
+; ;$;(;,;0;
+014181<1@1D1H1L1
+2,6L8P8T8X8\8`8d8
+9 ;$;(;,;0;4;8;<;@;D;H;8=<=@=D=H=L=P=T=X=\=`=d=
+> >$>
+0H1L1P1p3
+4@7D7H7L7P7
+(0H0L0P0T0h0p0x0
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4

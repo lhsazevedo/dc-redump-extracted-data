@@ -1,0 +1,5382 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.pdata
+@.reloc
+@P`p
+$%&(),.
+$%&(
+TRISIGNAL TEAM
+DANIEL ROBIDOUX
+GAD ELMOZNINO
+RICHARD POIRIER
+JEAN BELLEAU
+JEAN JACQUES
+RICHARD BRUNELLE
+ROBERT LANGLOIS
+j~~@P`p
+ !"#$%&'(*./0124567<=>?@A
+GERMANY
+FRANCE
+ZAZ#
+SWEDEN
+SWISS
+JAPAN
+AUSTRIA
+BELGIUM
+DENMARK
+ITALY
+FINLAND
+NORWAY
+AUSTRALIA
+d(0,1)
+d0-255
+d3,24,48,72,73,74,96,97,98,121,122,145,146
+2N-a(
+V!V!
+g%g%V!
+'P#x
+g%g%g%V!
++-1-7
+~u7	
+d(0-1),(0-1)
+c<c8#
+Bd b,b@a
+d@b,eW3
+"b b,`0
+"b b,`0
+tB((
+t@b,b
+@s9" $
+~r)!
+t@c<c
+`hs9 
+t@b,` 
+`r)!p
+t@b,b
+xs9" $
+ r) 
+#,b+#
+t@b,`
+A0c<c
+t@c<`
+c8#	
+t@b,`
+`@r) 
+ b,b
+C8"	
+,dC`
+4@b,`
+Bc0c<`L
+d@c<e;
+CePc<c8#
+0c<c
+/"OChsl
+b9"#`
+ b,b
+9"#`
+e 5o
+ b,` 
+JdH$
+ b,e05
+0c<e
+S0c<` 
+C;"#`
+d b,b@2	
+Bgpa
+g#7)
+e`c<` 
+pc<g
+wr$ 
+Bgpb,g0
+/"OCh
+c<c04
+|r)!
+#0(?
+|r)!.
+|s9"
+Bexu
+,b-b,8
+2&B&j&i&h#o
+tLd 
+B) L0
+DLdL08
+lr)!
+/"OCh
+2c0c<d@1
+@,d4
+@,d)
+<c'3
+<c723
+b*!8!"
+4@b,b
+xs9",a
+|r)!
+b 1H
+#(#<
+<eS`
+c02(
+c02!
+-b8")
+A2ck
+@Ld!
+2&B&k&j&i&h#o
+/"OCh
+Ac=g
+v``a
+0&Aa
+pr) 
+t@b,`
+t@b,`
+=DL0
+`Pr) 
+DL0'
+t@b,b
+C9" $
+ K 1
+t@c<c
+t@b,`
+t@c<`
+~r)!
+t@c<`
+t@c<c@
+t@b,b
+|s9" $
+|r)!
+`; *
+`|s9 
+`r) 
+/"OCh
+4@b,b
+|s9",a
+xr)!
+`9 '
+`9 '
+C; '
+`~r) '
+C; '
+C; '
+iTb &
+tLdO
+4@b,b
+Bs9">
+,bps9"
+" $'
+,bts9"
+d8xh
+dC`@
+<dC`
+,dC` 
+ !X%
+9$K 
+\6`b,b~
+C9" &
+4@b,b
+|s9",a
+xr)!
+t@c<`@
+`@s9 
+/"OCi
+'t@c<c
+'t@b,`@
+,b("
+Bexu
+"b"!
+ b,b'3
+/"OCh
+ScL30c
+tLdO
+tLdO
+/"OCi
+0c<`
+!@!@
+#!C!C<0
+b,`|
+c<`z
+b,b@
+b,bp
+b,`k
+b,`h
+b,`1
+c<`W
+c<`S
+!@!@j
+c<`M
+b,`,
+,fce9%X%
+9$H$
+!@!@
+!@!@
+!@!@
+<dC` 
+,b 45
+ePc<`
+<c04
+2&B&m&l&k&j&i&h#o
+/"OX
+c'3 
+/"OChSlck
+b,bJ
+Rc<1
+%0c<f`2
+t@c<c
+`; *
+1t@a
+1t@a
+,C<e
+t@c<c
+t@c<` 
+t@c<c
+t@c<`
+t@c<c
+t@c<`@
+t@c<`
+t@c<c@
+#0$W
+t@c<`
+t@c<c@
+#0$;
+@r)!
+/"OB
+pr0c7
+#@b$
+d@b,d
+d@b,d04
+"ePc<f
+ZeX%
+2ePa
+"ePc<f
+@Bdq
+9%X%
+d@c<d
+d@c<d
+2d@a
+c0ck
+b bb
+B 1	
+ b,b("
+@,d~
+@<dx
+@,dl
+0c<c
+b,b@
+2&B&i&h#o
+t@b,`<
+B) L0.
+1t@a
+pr)!
+1t@a
+'t@b,b
+Ps9"
+` r) 
+DL3$
+@s9 F
+B) G
+@r) F
+t@c<c
+d@b,e05
+tB(@c<`?
+a0c<c
+@c<`
+Rd@b,`;
+@b,fP6
+d@c<d
+d@c<d
+c0c<c31
+bePa
+@b,b 5
+wr&pa
+ePb,eS3
+"ePc<e@a
+ b,` 
+Bb b,` 
+uR$Pb,` 
+Bd@a
+@b,e8
+pb,gp6
+Pb,f
+0c<gp6
+C8"	
+~s9 
+C!b-b72
+dCeP2
+ b,d
+0c<d}
+0c<`
+ZeX%%
+t@c<cr
+#0$i
+ZeX%P
+pb,b 9
+fPb,b 6
+'`%S
+/"OCjShck
+rfh&
+c<cx
+0d@2
+d@`?
+tB)g
+/"OClSi
+|@b\e
+@,d#
+2&B&m&l&k&j&i&h#o
+/"OChSmcl
+/"OChSlck
+dCj 
+Cbl2 b
+v_eof
+r"$ ` 
+Pfl7
+DDDD
+uR$lfs
+/"OCh
+c8#	
+d@`(
+((.... ......
+/"OG
+c<c02
+c0c8#m
+b,`l
+cL31c5
+30c4
+*0`)
+b,bz
+c<`l
+b b("
+ !Rc
+tLdG=
+d@` 
+tB)@` 
+L2"*@`"
+d@`"
+d@`"
+ !Bc
+/"OCh
+a b,e
+/"OCh
+/"OCh
+b `-
+,32+ `)
+*0`)
+,32* `)
+,32+ `)
+b,e9
+0 b$	
+c<eZ
+/"OCh
+Bd@a
+ b,d64
+"$&(*,.02468:<>@BDFHJLNPRTzVXZ\^`bdfhjlnprtvx@
+b8">
+<eS`@
+`dH$
+`dH$
+b,` 
+`dH$
+`dH$
+`dH$
+`dH$
+4 !2
+40" 
+2&B&i&h#o
+Be\32$I
+Be\2"$S
+Bfl32$,
+uPb,`
+Be\2"$ 
+Be\1
+Be\32$ 
+Be\2"$V
+Be\1
+Be\32$2
+Be\2"$B
+Be\1
+Be\32$S
+B(!	
+468:<>@BDFHJLNPRTVXZ\^`bdfhjlnprtvxz|~
+eS` 
+!#%')+-/13579;=?ACEGIKMOQS
+UWbdfhjmortwy|~
+B(!@
+u\ec`
+u\ec`
+u\ec`
+u\ec` 
+u\ec`@
+u\e@
+ b,gsf`3
+@b,b@
+C;" $
+@c<c@
+@c<c@
+/"OCh
+/"OCh
+/"OChSk
+@s9"#`A
+b,d64
+2cds
+@2"b
+<c8#
+"b2c&3
+t@b,` 
+c<dH$
+`9 G
+t@c|
+r b,` 
+c<c@
+B) L
+t@c<c6
+@0$'
+t@b,` 
+dH$:
+aQc=d
+<c1%G
+@s9 
+b,d64
+-dC`
+t@c<` 
+-dC`
+t@c<c
+|s@b,b9" $9
+@b,`
+|r@a
+xs9 
+`r) 
+ b,`
+s0c<`
+0c<c8#
+d"bj
+d2cT
+ b,b("
+e\6&6
+2d`r)!
+t@b,`&
+uPb,`
+uPb,`
+0c<c8#	
+@r)!
+$Rc5
+@=e5
+ b,b("	
+t@b,`
+`"d`q
+0c<c8#	
+u\e 
+r b,`
+,b 5
+/"OCh
+exu]
+B(!?
+ b,b("
+0c<`
+B(! 
+v!Fmh
+|r)!
+/"OChSj
+ b,`
+"exu]
+~r) 
+)$ 4
+0c<`
+2c8#
+c,g<c07
+bbBc82
+"%ba
+BeX%
+b,b("
+b,d64
+ps9 
+B)!	
+A@c<d
+C8".
+a(!"
+@ !@
+B)$H$
+d9$H$
+/"OCh
+@b,` 
+<dXQ
+,dLdW
+/"OCi
+b(B,8
+%X%*
+B)%X%
+xs9$h&
+B(!(
+LdJ!
+C;""(>
+ b,d7
+c<cG3
+\e\eY
+<cG3
+ b,b72
+<cW3
+ b,b
+<c72
+2&B&h#o
+/"OChSmclsk
+d)$H$
+<c02
+?t@a
+b,bG2
+At@b,d
+c<cG3	
+<c8#
+dB2-
+b,g_
+c<cG3
+c<cG3
+$H$1
+<c8#'
+"b9""(%
+,b 1
+<c@3
+"b9""(.
+,b("
+b2c9$L2"(
+/shBj
+*Pb,b("
+%`b,b("
+`b,g
+Pc<c 
+0%`a
+Pb,b 
+ %`c<g8
+Pc<g
+ %`c<c 
+Pc<g
+Pb,g
+Pc<g
+0%2$
+Pc<c
+2$Ba
+ "$&(*,.02468:<>@BDFHJLNPRTVXZ\^`bdfhjlnprtvxxxxxxxxxx
+t@c<`@
+??",
+;=?AC9;=?ACEGIKMOQSUWY[]_acegikmoqsUuwYy{]}
+rtpnljhttfdb`tttttt^\ZXVTtRPNLJHFDB@t><:86420.,*(&$" 
+ bPc,d<c74
+ b,e@c<c75
+0"@a
+bfciRc89b%
+dC` 
+-b("#
+-b"9
+@=eF
+ b,b("0
+@-eH
+0c<c8#
+@c<c8#
+dC` 
+`|r) 
+,f9&h&
+f9&h&
+B)&h&
+;"#`J
+b,d64
+@P!o
+@!!{
+<b 1
+<c=c<5]e
+d !;
+2c02
+;"#`
+,b-b,5]e
+@<eC
+ b,b#3#
+"b 1
+Pb,b("
+Pc<c8#
+@ #6
+c<dH$
+b,dH$
+ b,b("
+c<c8#
+ * )
+ b,b02
+2&B&l&k&j&i&h#o
+pr) G
+d b,b#4	
+0c<`
+CBd@3
+Pb,h
+Pc<h
+ b,b("
+0c<c8#
+0c<`
+Bd04>
+B 4:
+C042
+A@1L
+0c<e
+rzjzbzzZzRzJzBz:z2z*z"z
+ b,b'0
+ b,b'0
+/"OSh
+FP6	
+`c<iSg
+G|6ba
+u\eW;
+G|6aS0=
+u\eW;
++%C`@
+@<eK
+BBa(1R
+@b,b
+r $B
+@b,dCfCg
+c<dCe
+0c<d
+@ (o
+@c<c
+t@b,bx
+C9" $
+t@c<`@
+a(!	
+@ !4
+@0"#
+c<c8#
+@b,`
+b;"#`
+@r) 
+ b,b 1
+B) G
+t@b,`
+0c<`
+@r) 
+0c<`
+ b,dCju
+Pc<c04
+0c<d@%
+d2c=
+@=eV
+-e=c05
+@0(	
+`r)!
+pr)!
+#0(J
+`s9"#`
+c<c8#
+,b("
+c<c8#
+,b("
+!b-d@3&
+0c<`
+0c<c8#
+@c<d
+@b,d04
+ b,`
+0c<c
+C8"	
+b,` 
+b,` 
+c<cxq
+#0)7
+C8"G
+b,b`
+B(!6
+)@c<`
+0c<` 
+/"OChSi
+/"OCh
+/"OChSicmsk
+eRTQR(4
+dBUAQ
+DS<5SdB+<
+hCfbWaR(7
+7sfh&
+F`Bc<
+/"OChSj
+CeL37c9%Wa
+fbTaS84
+dR,4H$
+/"OCh
+9"(<
+/"OCh
+/"OCh
+C; ) 
+B"$d
+/"OCh
+2![P
+b,` 
+/"OCjch
+4BT	D	D
+/"Oi
+DL=P
+C<=<}
+/"OChcj
+t@c<`
+/"OChcj
+t@c<`
+/"OCjci
+@;%a
+@)%T
+	@	@
+	@	@
+5UVh&
+S01)
+C<4B` 
+B,4Bc8#
+t@b,`
+="$<
+tB`	@
+dBUAR(5
+5SdA
+<eS`
++S` 
+++S`@
+Bce,:
+:`c,
+`4z4
+	D	D
+c82,
+/"OCh
+2c8#
+C<9P
+32.x
+S2c8#
+S"#<
+eX%1
+B,37
+2c8#
+R"b("
+S2c8#%
+@,<!
+C<6ba
+B,5Rc8#%
+S:S8#
+R"d2"2&2%
+a2!5
+2&B&m&l&k&j&i&h#o
+/"OChSj
+C<4Ba
+e<5Rff1	
+BSl3
+r"%	
+/"OChSj
+4Bgx'
+<fc`
+%X%	
+/"OX
+Rb("
+STWQ
+TS<6
+uL5X%
+R"b("
+5SdH$
+,?&O
+/"OCkch
+C<4Ba
+;)S`
+kCj	
+/"OShci
+B+  
+CjK+
+/"Och
+/"OSh
+jL;EP
+/"OCh
+'S(R,36
+/"OSh
+t@c<`
+4Ch	
+/"OShck
+EQL5
+GS8#
+b	"?
+/"Oi
+CiSj
+36S8#
+B,3<s8
+4S8#
+2"X%
+B,34
+"!x'	
+Q61)
+`	@	@
+C<4G
+5Rb("&
+Sxs,
+S2c8#
+R"b("
+/"OChSk
+6cgrb("
+B,5Rd24
+iR("!
+fS8#
+36S8#4
+B,9<y
+2'RbhS<2&
+JdH$
+JdH$
+JdH$
+/"OChSi
+b("v
+c8#)
+Q61%
+`	@	@
+B,;[
+C<4Ba
+/"OCh
+tBUAR(5
+5SdC
+e,5WTSVH666
+VRUL5h&
+/"OChSi
+sRV2
+|6rP
+s2&Ba
+4CeRb("
+/"OCkSm
+`	@	@
+B,9[
+C<4Ba
+b4q,1F
+/"OCh
+4Cfbb("
+ES8#
+2&R("
+JdH$
+JdH$
+JdH$
+/"OSh
+5VS8#
+B,34V3Uh&	
+C<4Cj
+/"OCj
+`	@	@
+/"OChSicj
+xw|R0
+{S02,
+fh4H$.
+4wsk
+s`<1
+fh4H$
+fh4H$K
+eX%I
+S"b2c&3:
+R-R("6
+fh4H$
+S82!
+R'R("4
+eX%.
+qER)!AS01)
+B`BQT
+FR("
+CeRTQS84
+TR,4B&
+/"OChSj
+SdCjs
+"OSfCe
+"OSfCe
+"OSfCe
+"OSfCe
+"OSfCe
+"OSfCe
+"OSfCe
+/"OCh
+AFed
+FeFfV
+FeFfX
+/"OCi
+/"OCi
+B#H$#
+C;""$
+/"OSh
+@c<`
+@c<`
+|r)!
+a~r)!
+9%S`
+9%S`
+a~r)!
+/"OShck
+$2c2S
+@b,b@a
+$"b"R
+$"b"R
+$"b"R
+a~r)!
+$"b"R
+/"OCe
+2dBa
+/"OCh
+fSfY
+32%H
+CPb,b9"
+B,bk" %A
+@c<`
+ b,`
+Pb $Q
+c3`A
+C`DeD`2
+D`De
+Dfc`De
+DeS`@d
+ES`n
+/"OCh
+ap1	
+l4@c<c
+Cp3-
+l4@c<`
+l4@a
+l4@b,`
+l4@b,b
+9" $
+l4@c<c
+9",b+'
+/"OCh
+1c=c72
+ b,b 8
+C8$.
+c=eW1+
+b 88
+1c=e |
+@,d~
+d@8	
+c=cCh
+b,d@82
+B+  
+b;"#`
+ b,` 
+1c=e
+1c=ea
+b,b 8
+0c<` 
+/"OCj
+d@:X
+c<dG1
+ b,d@3
+tLlr
+b,b <
+b,b <
+ b,b
+ b,d74P
+b,`A
+t@)C
+0c<c
+t@c<`)
+30c4
+/"OCh
+`Be\
+ $,c8#	
+0c<c72
+@b,d
+/Sh0
+0c<c
+s<dC`
+tLdC`l
+<f`1
+tLdC`l
+SfC`l
+iLdC`l
+s2$S
+0c<d
+0c<c8#
+t@b,b@
+C;" $
+@c<c
+/"OCh
+@ !n
+@c<c8#
+vlf!
+vlfO
+0c<d
+4@b,b
+hs9",`
+~s08
+/"Oi
+Cksj
+dNm+
+<c;!
+0c<c8#
+t@b,b@
+d)$H$
+#`<c; 
+`2.x
+gs` 
+!@!@
+ b,b("
+,eS`
+a)!!A<c
+b<c+#
+!@!@
+#@c<`
+Db,b
+2&B&m&l&k&j&i&h#o
+Bexu
+t@c<` 
+b,`\
+c<`\
+`|s9 
+4@c<`
+~s9 
+dC` 
+D !	
+#3`E
+0c<c3`C
+/"OCh
+0c<c3`F
+0c<c3`C
+0c<e
+`@s9  
+ b,`
+Ld0c<e
+`@s9  
+`~r) 
+#3`2
+c<c8#,
+b("'
+/ChSj
+tLds`
+tLds`
+tLds`
+tLds` 
+tLds`@
+tLd@
+<eS`
+vlfS`
+vlfS`
+vlfS`
+vlfS` 
+vlfS`@
+vlf@
+,i9)
+'|dh&
+%\f&
+sdSf
+'|dh&
+%|d\f@(`*
+ b,` 
+xr)!
+9$Ce
+`s9"#`
+xs9 
+|r) 
+xr) 
+pr) 
+`r) 
+;"#`
+@&"OA
+/"OH
+Shci}
+b("#
+b#` 
+R+b'
+{Ne-
+d@eA
+@b r $
+t@eX%
+2&B&m&l&k&j&i&h#o
+/"OX
+Chcm
+d	E	E'
+C\3\381
+|0t@,Nc9
+x0xxxxxxxxxxxxBxTxfxxx$
+0c<e
+c<eX%
+dL7&7\
+u@#b)P(
+u@#b)>
+c<c8#
+c0c0"
+ b !
+u@"b)P(
+L5Pb,b
+ps9",a
+`r)!
+@s9 
+apr)!
+e)%X%
+0c<c
+s=c3`
+s=c3`
+d@b,d04U
+b,b("G
+b,b 1
+s=c3`
+d@b,d04	
+c<c8#
+R b,`
+c0c0+
+2&B&m&l&k&j&i&h#o
+uR(A
+Pb,b
+uR(2
+u\7|g
+u\7|g
+``r) 
+/"OCh
+a b,b 1
+/"OCh
+a,b 1
+,b<c02
+/"OSh
+-b"r-j
+a0c<c
+,b02
+/"OCh
+/"OSh
+0c<c
+<fTbc`$
+/"OY
+b,d1
+0c<c04*
+ b,b 4
+0c<c04
+c<d 
+2.b#`
+c,3=m
+@c\0
+@b\0
+@<l\
+2&B&m&l&k&j&i&h#o
+/"OY
+2k`r8
+a719
+dMd*
+2&B&m&l&k&j&i&h#o
+/"OCh
+c'3F
+dMdy
+@Ld-
+2&B&i&h#o
+/"OChSj
+/"OCh
+c82-`
+Td@.T`>
+T`Pe
+2&B&h#o
+/"OCh
+1@!T`
+2TdP`@"!
+2&B&i&h#o
+/"OCh
+Rc1S
+ !Bcq
+2%ERm
+"(("
+Rb("
+B*H$
+2dH$
+R,X%
+Rc1S
+c3SAs
+b#RBr
+R,X%
+Rc1S
+@ !s
+c<c8#
+SdCif
+CeSdJ
+")"#E
+SdCiL
+/"OCh
+2c3S
+"b"R4
+/"OCh
+uPb,b
+e-b 5
+2&B&i&h#o
+0c<c8#
+"b"b
+AS8#
+Bf\6`b,`
+uAQV1
+2c1S
+/"OCh
+@c<c
+b(30/c
+3>`c
+2.`b
+b#`A
+c3`B
+2dH$
+BTH$	
+CeSh7
+CeSd(
+SdCh-
+CeSi
+/"OChSf
+/"OShck
+/"OShcl
+dH$*
+/"OShck
+/"OCh
+/"OChSk
+,?&O
+/"OCh
+/"OCh
+,b,<
+/"OChSm
+<c<<
+/"OCh
+/"OChSjci
+/"OCh
+\4Ch
+\4Ch
+/"OCh
+4\4CP
+fh525
+,32V
+/"OChSkcj
+/"OCh
+ReX%
+/"OCh
+,:HVdr
+/"OCh
+bf,b`a
+Pc<db
+sd@%c
+v`b,g
+<c07
+/ChH
+Bd,b@a
+@a@b,b
+,5Pa
+f|gw6
+sf`%
+,b 5
+bg,bpa
+wpb,f
+<c06
+/"OCh
+@b,gx'
+=cR3
+-b"5
+-bR2
+Pc<`
+% $.
+=c25	
+Pb,`
+A`c<c 
+ % $,
+-bR2
+Pc<`
+0%0$
+A`c<c	
+ % $
+@c<gp1
+=cR3"
+-b"5
+%`b,b
+C9" &
+C`b,bk
+9" &
+% $7
+aR1"
+=c25
+`b,eS`
+Pb,b
+r %`c<c
+A`c<cP
+ %0$
+Pc<`
+@b,gx'
+=cb3
+-b"6
+-bb2
+Pc<` 
+% $#
+=c26	
+Pb,` 
+`c<c
+ % $9
+-bb2
+Pc<`
+Pr`a
+0%0$
+`c<c
+ % $
+@c<gp1
+2gDwqa
+hb8.
+2gFwqa
+`c<gs`
+=c08
+-b 9
+PsPa
+%`b,b9" &
+`b,bs
+Ps9" &
+% $E
+gLwqb-ib9.
+gNwqb-h
+PqPb,b
+r %`c<c
+`c<cQ
+ %0$
+Pc<c
+@b,gx'
+=cR3
+-b"5
+-bR2
+Pc<`
+% $%
+=c25	
+Pb,`
+tq`c<c
+ % $9
+-bR2
+Pc<`
+tr)!
+0%0$
+tq`c<c
+ % $x
+@c<gp1
+=cR3"
+-b"5
+%`b,bts9" &
+ts`b,bi
+9" &
+% $7
+aR1"
+=c25
+`b,eS`
+Pb,b
+r %`c<ctq
+tq`c<cN
+ %0$
+Pc<`
+@b,gx'
+=cR3
+-b"5
+-bR2
+APc<c
+=c25
+CPb,b;" %
+`c<`?
+& % $5
+-bR2
+Pc<`@
+&0%0$
+`c<`?
+& % $r
+@c<gp1
+=cR3!
+-b"5
+%`b,`?
+`b,`p
+% $4
+aR1!
+=c25
+`b,e
+Pb,b
+r %`c<`?
+`c<`?
+ %0$
+Pc<`
+=c25
+Pb,`
+2fxvaa
+Pb,`
+2fxvaa
+c25	
+Pb,`
+A`c<c#
+ % $)
+=c25	
+Pb,`
+A`c<c
+ % $
+`b,b
+C9" &
+@b,gp3
+-bR2"
+`c<eS`
+Pc<c
+s0%`a
+2fxvb
+aR1!
+`b,eS`
+APb,b
+r %`c<c
+`c<c
+ %0$
+Pc<`
+,`C`
+ddtB(Q
+a(!6
+/"OCh
+b,b 
+b,e<cP3
+-dC`
+2c0$
+C3`C
+!@!@
+0c<c.
+2c,4*t0$
+C3`A
+/"OCh
+BdxtM
+dxt&
+-b((
+"dxt(
+=c8(
+2dxt*
+2&B#o
+h38/
+ $pc
+s0'<
+r %;
+0%`a
+p!`c)
+%Pa<q
+ $@c<s
+0%Pa
+ $@c
+l50%
+\6s` 
+w~g(
+tNd(
+pc<c7
+Pb,b
+vnf(
+pc<c2
+pb,b'
+pc<c7
+pb,b'
+pc<c7
+pb,b'
+<c8#`
+ &Sf
+Ch`c<c
+w~g(
+Pc<c7
+Pb,b'
+Pc<c7
+Pb,b'
+Pc<c7
+Pb,b'
+/"OChSm
+c<c041
+<c05
+/"OX
+eP`D
+/"OCj
+d)$!D!DH$
+b,b"
+b,b'
+ b,d
+L6cd@`B
+c<c2
+/"OCj
+d)$H$
+c<c7
+,42c.t0$
+C3`C
+0c<fh
+"dxtg
+c32J
+d bG
+-bF2
+d b<
+Rexu\
+-eR4
+L7pd 4
+<6.vab-ba
+ b,b
+6*vaca
+e(E=c
+exu]
+-fb4
+d b#
+-fc`
+2c0%
+C3`S
+9&!F!F
+Sg`c<c7
+,7)wpc<c
+s0'Ba
+a<5*u
+@L:o
+b,db
+@ -c
+/"OCh
+c<2"*0`F
+/"OCh
+1c=c8#
+1c=c8#J
+@0";
+ b,b("
+c<cB
+ b,b02
+ b,b("
+@0"7
+@-dW
+@0(s
+r!)-c8#k
+"d@c<d
+@0"T
+"b b"
+2d@a
+2d@a
+,32, b,`
+c=c8#
+b,b("
+ b,`
+ b,b("
+@1")
+r!)-`
+a0c<d
+Rc@#Ra
+ b,d04
+Ab-eW3	
+Ab-b
+r!$k
+@=dE
+ b,b("
+@!!}
+S0c<`
+AAc=eW1"
+@c<c
+s0$<a
+c=c@
+0c<`
+c0c0(
+@b,d@3
+@c<d
+!b-dG3
+c<c8#
+1c=dH$
+0c<c8#'
+b,d0,,
+ b,d04
+ b,b("	
+ b,d04
+b,b("
+1c=dG1
+@0"W
+/"OCh
+b,d04	
+C04E
+@ !R
+/"OCh
+#0-H
+b,b("
+d 4	
+w}gw8
+b,b02%
+ b,f0c<g
+ b,b
+0c<c6
+ b,b'
+/"OCh
+"eX%
+/"OCh
+1"Ra
+ q!!Rc
+(+( s
+Qb-b
+r-b("
+~r)!
+0c<dC`
+ b,dC`
+Qc=c71
+Qc=c
+sv`b,`@
+`c<`}
+|s9" (
+/"OSh
+RaL1
+ReX%
+,5Pa
++$Pa
+xr)$@%
+ReX%
+,5Pa
++$Pa
+B)$@%
+ReX%=
+BH$3
+,5Pa
+B)$@%
+/"OCh
+@0)H
+"ghwpc<`
+wpb,b
+B-b+ 
+wpc<c1)t
+B=a-b+!
+BdL7pc<`(
+`pb,b
+B-b+ 
+wpc<`
+B-b+!
+C=c;"#`
+L5@a
+`Pc<c
+C=c; 
+L6`ax
+l:l5@v
+@b,`
+BeTuPa
+%BeTuPc
+#0%@
+BeTuPb,b
+C;" %BeTuPa
+%Bd|t@c<`
+d|t@c<c
+d|t@b
+,b9" $
+dxt@a
+dxt@c
+`9 C
+b9" $
+b9",a
+#0$A
+`) A
+#0$B
+`) B
+"! #
+d$t@c<cR
+t@b,b9" $
+d$t@c<`
+d$t@b,`
+d$t@b,b9" $
+/"OCh
+"dLt@c<c
+Lt@c)(<c
+t@c<`
+t@c<c
+v`c<`
+t@c<c
+d$t@b,b
+d$t@b,b
+ $H$
+t@c<`
+t@b,b9"
+d$t@b,b9" $
+/"OCh
+@b,eX%
+@Pv1
+t@b,`
+Re\6`a
+`c<`
+2fHv`a
+r 1F
+,uPc<`	@	@
+,uPa
+ac=c04
+b 4	
+,uPa
+<`	@	@
+0c<c8#
+,uPb,b
+Rglwpa
+pb,`	@	@
+`b,`
+pb,`
+pc<`
+pc<`
+pc<`
+pc<`
+Rdlt@c<c
+BbHr
+C0"Bd t@a
+d t@a
+/"OChSi
+d$t@b,` 
+@-eS
+@-es
+@=eB
+@=eL
+b-bF
+b-b6
+d$t@b,b9"
+/"OSh
+!C=i
+/"OShci
+@ !'
+/"OCh
+/Chci
+d|4@b,gp5
+vmfg9
+/ChSi
+vcdC`
+-b'9
+d\4Ac=f`9
+/Chci
+d|4Ab-gp5
+vmfg9
+/"OClShcisk
+<c7;
+t@c<c
+#0$`
+2r *
+B *7
+B+-q
+C;-u
+C9-t
+C2.Y
+@-eT
+@=e@
+!+-w
+C0*@
+2c$s0c<c
+@,e>
+@<eU
+2c$s0c<c
+C8#*
+2&B&m&l&k&j&i&h#o
+/"OChSicjsl
+@b,`
+A,b 1
+dHt@c<c#3
+@c<cv
+d$t@a
+d t@b,b
+9",a
+t@c<c
+#0$O
+@b,`
+eTuPb,`
+e$uPa
+eTuPa
+e$uPc<`
+%@b,`
+t@b,`
+dTt@a
+d$t@b,`
+d t@a
+dTt@c<c
+d$t@a
+d t@c<`
+`	@	@
+" *$t@a
+`	@	@
+uPb,b9" %
+e$uPa
+<`	@	@
+d t@c<`@
+<`	@	@
+2eHuPa
+<`	@	@
+`[  
+fHv`c
+B<c022
+`c"r<c02
+B<c02
+`c<c`
+B<c02
+B<c02
+"fHv
+c<`@
+fHv`b,bH
+`b,`p
+`b,b
+0s02	
+`b,b`
+`b,`@
+Tu0"
+ !Pc<c
+#0%W
+2fHv`ap
+`b,bx
+C9"H
+`c<cx
+fHv`b,bp
+C9"p
+"fHv`c<cx
+B 3	
+@c<`
+2e\6`aP
+C01u
+@b,b
+c<c@
+#0*`b,bp
+C9"p
+LuPc<c
+B+#0%
+B)!H
+`b,b("
+*@c<`@
+`b,bx
+C9"`
+c<`@
+*@b,`
+$H$"
+s9" *H
+e\6`bP
+2e`b,bp
+C9"p
+c<`	@
+2e`b,bx
+C9"H
+2e`b,bx
+C9"`
+c<`	@
+2e`b,`x
+C9 p
+$uPc<`	@	@
+C8#o
+bHr b,bL
+,`	@
+HuPcU
+B<c02!
+c<` 
+dTt@a
+d$t@c<cS
+#0$v
+@0"Q
+c<c8#
+/"OShcj
+BReHuPa
+a)!p
+B"$y
+@0(5
+Pc<cx
+@ ("
+Pb,bx
+C9"`
+v`c<`
+`c<`	@
+C2$0
+1c=c
+1c=c
+"$ *
+"$<c0*0(
+Re\6`a
+B) p
+$uPa
+`	@	@
+!b-b"!
+ `	@	@
+Ra9!
+`b,bx
+C9"`
+`c<cx
+`b,bx
+C9"H
+`c<cp
+dxt@c<c
+d t@c<c_
+b<r b,b
+BdHt@b
+A,b 1
+@b,bx
+C9",dX
+/"OCh
+Pb,b
+ps9)
+|r)*L
+/"OCh
+xr)*
+~r)*
+xr))
+(B((
+(B((
+pr))
+(B((
+`s9)1
+/"OCh
+!UfU`&
+t@b,bd
+9" $
+aHq]
+t@c<`
+d$t@a
+<`	@	@
+B+ $
+d t@c<` 
+Bd t@a
+`	@	@
+C; $
+/"OCi
+d t@a
+@=e%
+t@b,b
+9" $
+,`	@	@
+C; $
+d$t@b,`
+B(")
+b<r b,b
+c<s0c<c
+,`	@	@
+d$t@a
+d t@b,b
+c<s0c<c
+C8# 
+@<ed
+@-e\
+t@b,b
+9" $Q
+,`	@	@
+d t@b,bH
+9" $
+d$t@b,b
+9" $
+d$t@a
+cHs7
+B#`C
+#3`B
+t@b,`^
+@u@%
+ReXuPa
+zgx'c
+C06[
+b,b("V
+$0<H
+aPb,b 1
+BReHuPa
+a)!H
+C01.
+Pb,bx
+C9"`
+Pc<`x
+B) 0
+Pb,bx
+C9"X
+Pc<`x
+Pc<`x
+Pc<cB
+Pc<cA
+Pc<`R
+Pc<`Q
+Pc<`b
+Pc<cR
+H3=d$
+Pb,bP
+Pb,bT
+Pb,bC
+Pb,b
+"s02
+H2-d
+dxt@c<i@b
+,b9"	I
+dxt@a
+<t@c<`
+"eHuPc<`p
+Pc<c
+Pc<c`
+Pc<`@
+<t@a
+/"OCh
+dHt@cBr<c#3
+B<c32
+dHt@b,e`
+B)!H
+@b,bp
+C9"p
+0c<`
+5Qc=cG3
+cG3!
+\6`c<cG3
+BsBdHt@a
+@c<cF
+@c<cL
+B) p
+eP2T
+/"OSh
+2d<t@a
+t@b,`
+t@b,b9" $"
+t@c<c
+,b9" $
+$ uPc@
+e uPb,b
+BK" %
+d t@b,b
+d t@b,`
+`	@	@
+b,b 1
+"iHy
+2iHyg
+A,b 1
+t@b,b
+d$t@a
+d$t@b,b9" $
+dTt@a
+t@c<`
+B 3b
+|t@a
+cPs0c<`C
+bPr b,`C
+d t@b,`
+d$t@a
+,`	@	@
+/"OCh
+t@b,b9"
+t@c<`
+t@b,`
+t@c<c
+"dL5PaB
+Pc<cx
+d t@b,`
+/"OCh
+@b,eX%
+<v`a
+<`	@
+&Rd<t@c<c
+C0$ 
+"b r b,`	@	@
+t@c<cQ
+@c<c8#	
+d t@c<`
+t@c<c
+t@b,` 
+eBfLv`a
+&Bf v`c
+)%<c
+C[#0&Bd
+t@b,` 
+LuPa b,`
+e uPa
+zzzz*Ek
+&Re uPb,`
+$<v`c<`	@
+uPc<`
+v`b,b
+9" &Rf<v`a
+ $Rd
+t@c<ch
+2c<s0c<`	@
+/"OChSkcjsi
+s2$;
+Pb,`
+t@b,b3
+@ $ 
+/"OChSi
+R 1.
+ReTuPa
+2e\6`a
+"fTv`c<`~
+,b9",`
+b9" %
+8t@a
+dHt@a
+0r 1	
+@b,bp
+C9"p
+B)!H
+C01	
+@c<cx
+@b,`x
+C9 p
+Tt@a
+a b,eQ
+0c<f6
+dHt@bp
+@c<cx
+B)!`
+"dHt@c<cp
+2dHt@a
+B)!`
+c s0c<`
+C8#[
+`	@	@
+Tt@a
+"dHt@c`
+e	E)%X%
+@b,bp
+C9"p
+dTt@b,b
+d8t@b,b
+9" $h
+a b,e[
+0c<f
+dHt@bp
+@c<cx
+B)!`
+"dHt@c<cp
+/"OCjSh
+<DC`@
+etuPa
+etuPa
+etuPc
+)$<cL`
+dtt@b,b
+C;" $
+dtt@b,b
+B("<
+2dtt@a
+@c<c
+`s0c
+A<c;!
+/"OCiSjck
+etuPa
+dtt@c<`@
+dtt@c<c
+dtt@b,` 
+dtt@a
+2dtt@a
+"dtt@c<c
+@b,b
+9" $
+dtt@a
+/"OChclsk(
+/"OChclsk(
+d|t@a
+c|s0c<`
+b|r b,`
+C8#*
+xt@b,`
+c<`	@	@
+uPb,b
+#0(Bdxt@b,` 
+#0(P
+BHt $
+#<b@
+C;" (
+t@b,`x
+`	@	@
+,`	@	@
+<t@b,b
+B("(
+<t@a
+2dHt@b,b 1
+B)!X
+/"OX
+Ckcl
+s9 A
+`) B
+`) C
+t@b,`
+d t@a
+t@c<c
+b r b,`
+c<` 
+dxt@a
+dxt@a
+ePbxuPc<`
+t@b,b
+9" $
+d t@a
+l@c<cU
+d t@c<c
+b<r b,b
+t@b,`
+t@c<`	@	@
+d|t@a
+#0*<c
+b(r b,`	@	@
+#+#0*
+@	@<b
+" *,a
+c(s0c<`
+d|t@c<`
+dxt@b,`
+<`	@	@
+d t@a
+l@c<c
+B("&
+d t@b,b
+t@b,b
+9" $K
+dxt@b,`
+dxt@a
+dxt@c
+d|t@b,b9" $3
+cHsP
+Pb,b
+s9" %'
+,`	@	@
+ t@c
+,k@b
+B $<j
+d t@a
+c<s0c<c
+dxt@b,` 
+dxt@b,b9" $
+t@c<`	@	@
+uPc<`
+2cxs0c<c
+	@	@
+,`	@	@
+4t@b,d
+9$xt@b,d
+9$L`
+ b,b 1
+&*.2
+r b,`	@	@
+Bdxt@a
+jfh&
+@b,b
+jfh&
+ZeX%
+cxr b,b
+b+#0+<b
+s9"	@
+cxs0c<`,a
+)!	@
+exuPc<c
+e|uPb
+,b9" %
+exuPa
+2e|uPa
+d|t@c<c
+"dxt@c<`
+@b,`
+e|uPb,`
+@b,b
+&=Fla
+@|t@b
+@,b9"
+@xt@a
+Be\6`b
+Bq,b
+A,b#1
+q,b#1
+B)!p
+TuPb,b
+B %`
+#BdTt@b,`
+`b,bq
+`b,bv
+TuPa
+%BbHrp
+0"BdTt@a
+2cTs0c<`	@
+/"OChSi
+@ t@
+/"OCjSh
+t@b,`
+t@c<`
+t@b,`
+aHq"r
+t@c<`
+bHrQ
+t@b,b
+cHsA
+t@c<c
+bHrr
+t@b,b
+cHsd
+t@c<c
+C0$"r
+aHqV
+bHrC
+bHr*
+bHr$
+bHr\
+bHr\
+bHrZ
+bHrZ
+bHrY
+bHrY
+"e\4@aBs
+2e\4@bg
+A,b 1
+2eTuPa
+d t@c<`
+d$t@b,`
+d$t@a
+dTt@c<`
+t@b,`
+)!=@
+t@b,b
+c;" $9
+t@c<c
+#0$#
+t@b,bO
+c;" $
+BdHt@a
+B)!p
+@b,bx
+C9"H
+ $(,048<@DHLPTX\tx|
+"&*.26:>
+"&*.26:>B
+  $(,048<@DHLPTX\`dhlptx|
+S`"O
+BdL5Pa
+B)!H
+Pb,bx
+C9"`
+Pc<cp
+8t@a
+8t@a
+BdL5Pa
+B)!p
+Pc<cx
+Pb,bx
+C9"`
+uPc<`
+Pc<`	@
+8t@a
+@b,b9",a
+#0$A
+`) A
+`9 C
+`) B
+`9 A
+2c$s0c<`	@	@
+c<` 
+`	@	@
+"b\r b,b 1
+E\e@
+dL5Pa
+e\uPc<c'3
+Pc<c`
+`b,` 
+Pb,b!
+2dL5Pa
+dTt@c<c
+2dL5Pa
+@=eX
+uPc<`
+Pc<`
+"dXt@c<`b
+dtt@a
+pq !2etuPa
+2dL5Pa
+"dL5Pc<c
+`t@c,b
+B<c;"-dL1
+2dF1"
+b(C8"
+(B(!
+(C8"
+2sF3
+a(B(!
+>rF2
+AF1	
+|sF3
+C74S
+"b22 
+ b,d34
+0c<dG8
+Lb(8
+0c<dG8
+Lb(8
+0c<dG8
+Lb(8
+ b,b("
+ b,b 1
+`	@	@
+dTt@b,`
+b,` 
+`	@	@
+dL5Pb,b
+Pb,b`
+"dL5
+c<`	@	@
+Pc<c 
+Pc<c/
+b,`	@	@
+dTt@c<`
+$Pc<c/
+c<`	@	@
+#0,@
+"dL5Pc<`
+(Pc<c
+C0%.
+"e\uPc<c0
+c<`X
+v`b,`
+Pb,bG
+`b,`
+"dL5
+Pb,b@
+Pb,bO
+Tt@b,`
+2e\u
+,Pc<`c
+dtt@b,`8
+pr0"
+tuPb,b0
+C;" %
+dL5Pb,b
+2dL5Pa
+`t@a<c
+#=dL2"+
+2dF1	
+rF2	
+AF1	
+CF3	
+BF2	
+AF1	
+CF3	
+frF2	
+AF1	
+b,`	@	@
+c<` 
+b,`1
+dTt@a
+<`	@	@
+B 3F
+eXuPc<c02	
+Pc<c"
+Pc<c#
+b,`@
+b,b9" *V
+e\uPc<c'3
+Pc<c`
+b,` 
+Pb,b!
+@]e\
+2dL5
+*Qc=c
+s1%=a
+Tt@a
+9" ,
+`	@	@
+Pb,b0
+@,e0
+2dL5
+Tt@b,`
+Pc<c@
+2e\uPa
+c<`	@
+dTt@a
+dtt@b,`;
+pr0"
+etuPb,b3
+C;" %
+dL5Pb,b
+2dL5Pa
+`t@a<c
+#=dL2",
+Qc=f`1h
+2fb1
+0qb1
+1c=c02
+c\s0c<`e
+c\s0c<`g
+c\s0c<`e
+#$t@b,`	@	@
+d0t@b,b
+B $S
+<`	@	@
+`	@	@
+(t@a
+d&4G
+r 14
+A"b\r b,b 1#
+c<`@
+BdPt@a
+aPb,b 1
+t@b,`
+,dHq
+a01)
+/"OCh
+`X%4
+b,d@8,
+c<c8#
+ZpX%
+,0X%
+<0X%
+,0X%
+<0X%
+,0X%
+<0X%
+,0X%
+<0X%
+,0X%
+,0X%
+,0X%
+<0X%
+,?&O
+/"OChSi
+dX%	
+@c<c2)@a
+@c<c2)
+"bPr b,b 1
+@,e[
+"dLt@c`
+B+#0$3
+@<e,
+@c<`	@	@
+@c<c
+cTs0c<`u
+bHr^
+d$t@a
+a)!V
+t@c<c b,`
++#0$
+@,eH
+@=e9
+dTt@b,b
+,b9"
+c<`@a
+bPr b,`J
+/"OShci
+1c=d
+1c=d
+!b-d
+-b 8
+w}gw4
+cPs2
+,b ;/
+S=eXtP$
+<EP"
+P@tl
+"d\t@a<c
+@a<c
+bXr b,b
+@Q"J
+22222&&22
+@Q"&
+22222&&22
+l10!
+/"OX
+0c<c31
+L5Pc<`
+=c8#:
+C<2!b%
+c<cz
+-dH$
+Ab-b
+@c<c
+C@b,b'
+@c<`
+Ab-b
+/"OCkSmcl
+`uuu`AAuucuuuuu
+uuuuuuurruAe
+@,gS
+@<g8
+/"OCh
+/"OC`Sd
+b,fJ
+Gs`m
+=c8#
+C<0U
+c<cI
+Pb,`
+ b,d@3
+ b,b("
+ b,b 1
+/CgSh
+ b,b 1
+@b,b}
+r"'`g
+x'|3
+t&4x
+b,db
+0"QaN
+`b,g
+cCaw
+31c5
+c<c1
+t&4 
+C@b,b
+@b,`
+dL5&5T
+\4L1
+@b,`
+\4L1
+@b,`r
+dL5&5H
+Pb,bq
+$Pb,`Y
+1$Pa
+%Ac=c
+s1$Q
+b-i%
+c=i<
+a!b-b(1
+a!b-b(1
+dQc=cQa
+7ra*!
+ b,m
+H$L2
+b-eX%-
+ b,b 1
+=c:!
+Q,b=
+0c<c02
+!b-eX%
+1c=eX%
+0c<c8#
+<c8#
+2&B&m&l&k&j&i&h#o
+j b,f
+,b("
+-b*#3`
+r"$H
+Ac=c
+0c<c>
+,4@c<`
+Ac=e
+`b,fS6
+C b,b'
+4@b,`
+Ab-b
+mc82
+0c<c8#K
+R b,`
+ b,b("
+<4@a
+<c8#
+/"OCh
+<D4,$
+b,d@3"
+0c<c02
+Bb0"Ba
+Ab-b
+r!$0)
+r"$Qc=c
+s1%:
+=a!b-b 1
+d@2Q
+!b-b("
+s1)=a
+Cj<2&
+i b,h0c<kH$
+0c<c8#
+@b,b
+r $,c8#
+0c0$k
+dL5&5
+Pb,b("
+0c<k
+ b,k
+Pb,e05
+ b,b("u
+fh&"
+k2%`
+c=cM
+S b,i0c<k
+Rc4a
+k2%2
+=B+,
+b=L 
+a-L 
+Sl<2&
+k b,m2jX%
+0c<`
+0c<m
+1c=c8#
+0"Lh^
+0c<c8#
+@b,f06
+!b-b("
++*8=
+-J0c<c
+c(<=I
+@b,b-
+@b,b("
+s2&Qa
+fh&X
+pc<gp:
+ b,b :M
+@c<c8#
+r"&Qc=c
+s1%Qb-b
+1c=c32
+a"b(1
+1c=c8#
+ b !
+3` !
+/"OShcj
+B!!L
+&.6>FNV^
+r"$:
+!b-b 1
+!b-b("
+h"OCe
+ b,b 1
+@b,b("
+\2!a
+/"OSh
+ b,b 1
+\6ce
+ac=`
+Qc=c8#8
+I b,bF
+4AcK
+A0c<ez
+4Ab-b("
+0c<c8#
+:t@c<`
+vb$F
+b-b("
+xuSf
+<6aa
+azr)!
+@c<c
+s0$pa
+<5Qa
+%pc<`
+/"Oz
+ClSm
+|||||08xx|Vxh
+# ) 
+c<c|q
+/"Oz
+CkShci
+~r)!
+/"Ochsk
+l7pc<`
+`@s9 
+`NuSf
+l7pc<`
+@s9 
+`@s9 
+`NuSf
+\6<u^
+@c<`
+~s9 
+rd@b,`
+C@b,b;" $
+ b,b
+|s9"
+@ )x
+A@c<c
+#0$"d@c<`
+t@c<ct
+#0$d
+2c2"
+tr b,b@
+A@c<c
+#0$@
+@b,`
+CPb,eW
+`|s9 
+Pc<cV
+vA&F
+40c<gw
+`c<c
+s0&Aa
+Pc<`
+9'p%`b,b
+C`"O
+Apc<g
+=c8#
+ES`E
+ b,b("
+\4Ce
+5Qc=c8#9
+s1c5
+A<c7
+Ab-b.
+9"!$
+Pb,`
+xvpa
+0c<`
+ b,b("
+Ps0c<c8#
+/"OCe
+baP!bc
+s2&@
+"&Ac=c
+s1$>
+PuSf`a
+rc0`Q
+'Ab-b
+ut@b,`
+ut@b,b
+ps9" $p
+ut@b,b@
+C;" $
+ut@b,`
+ut@b,` 
+ut@b,b
+`s9" $ 
+ut@b,`@
+ut@b,b
+@s9" $
+`Lb+ X
+`Lb+ W
+BdH$
+BdH$
+ b,b#`
+ b,d<c04
+0c<c@a
+<d8y
+a,b 1
+L1 !	
+L3 #
+L3@q
+L1@r !
+L2@s0"
+QvS`
+R#q"Q
+\2|s1"
+!! ()
+eX%f
+@c<d
+f0c<e
+a b,g
+0c<c5
+ b,b&
+0c<c
+gbaC`
+LdRc
+2&qa
+<c00
+0c<c
+ b,b 0
+(@c<cU
+#pb,`
+uP&pa
+@<4M
+-b("
+at@a
+a!@c<c
+buSal1
+v@blf,bg2
+`<c@
+)#00
+:t@b,`
+sf)&h&	
+sf)&h&
+0c<c05
+6t@b
+@c<`
+@c<`o
+apr)!
+@b,`
+B)!@
+B<c)#01
+B(!	
+ b,bBa
+bfR6
+b$X%
+xtPb,eW
+`pr) 
+2c2"
+@b,`
+t@c<` 
+Ac=c
+@c<c8#
+/"OCh
+eB(Q
+0c<c8#
+Pb,eX%
+$X%	
+r)!@
+s9 `
+ b,b("
+(B+#
+#2$%
+ b,b#`
+0c<c8#
+eab-fg5;
+$) X
+1c=c)#
+0c<c8#
+BbQa
+"#a"$Qc=c8#?
+:c)!(C;!
+ b,b#`
+0c<c3`
+t@b,b`
+s9 @
+Pb,e05
+t@c<` 
+Ac=`@
+Ab-`@
+t@c<` 
+Ac=`@
+Ac=`q
+|r)!
+ #@b,` 
+SfcbL2 bC`$
+1c=gs`
+ac=c
+b9"!&
+!#X%	
+/"OCh
+B(!=
+B(!1
+B"8	
+/"OCh
+ab-b("
+u\eSgT
+G|6aa
+Qc=c8#
+uPb,b
+xs9" %
+C`"O
+!!,`&
+@0"&
+@c<c
+s9&h&
+@c<`
+ab-b
+ab-bW
+`r)!
+b,b~
+c<e\6
+CO[h
+1c=c
+1c=`@
+0c<`
+ b,e
+,d0c<e
+c<e@+Sd	
+Ac=dC`
+ b,`
+!b-`
+ b,b("
+!b-dC`
+c<c@
+1"1!?
+c=c@
+@c<d
+t@c<`
+@b,d04
+ b,b("/
+B(!"
+@c<c71
+ b,d
+ b,b72/
+C!b-b8"#
+b,b("
+b-dH$
+dH$@
+c<c08
+c<c08
+!b-dH$
+!b-dH$
+1c=`
+1c1)"bO
+1c=`
+1c=dC`
+a(!,
+B(!%
+0c<c8#
+ b,b("
+(Ab-b("
+b")1(
+<-fG
+b("+
+dRgpa
+v0cmf4
+%pb,`
+wpc<c@
+#0'A`
+Ac=c
+1*a+
+/"OChSi
+pc<c
+)%X%
+tLd@
+ b,e
+ b,e
+uP$t
+ b,en
+ b,eX
+ b,eB
+pc<`~
+uP$I
+pc<`?
+!b-m
+1c=m
+ $`a
+ b,gw3
+c0"A
+Pb !K
+p!`cR
+B!Ca
+2$3dK
+B"Cb>
+BB#<
+B%,4<
+/"OChSj
+r b,`
+c34 
+-dC`
+t0cMd
+b(")
+=dC`
+C3`!
+C3`!
+ !ce
+ceA"
+H0"O
+eS` 
+@b,b
+`s9"a
+ab-f8&
+0c<`
+@b,b>
+ps9"
+`pr) 
+0c<c8#
+@b,` 
+@b,`
+Ac=`{
+b,` 
+ b,b("
+eS`@
+#<c4
+#<c5
+t@c<c@
+/"OCh
+B)$H$
+0c<c8#
+r b,`
+Ac=dC`
+b,b 1
+c<c8#.
+c=c8#5
+b,b("0
+c<c8#
+c<c8#
+c<c8#
+dH$S
+0)Ce
+bc #bc
+<c8#
+,bSd<c82
+0c<dH$
+C!b-b'3
+0c<c8#A
+!b-b("
+C!b-b'3)
+c<c8#
+b,b("
+ ! *
+b,b("@
+fce)%05
+!b-b(",
+ b !
+ $X%
+Pc<h
+2,gs:
+t@c<c
+0c<c8#
+t@b,by
+`b,b
+d@2^
+cgpa
+c=cR`
+31+pa
+AR`-b
+=c82!)pa
+AR`-b
+=c82!(pa
+=c"b<2"&pa
+=c<2"&
+S2c62
+3<2"$pc<cR`
+pb,b
+m b,b =
+`b,f0%g4
+B,6lfH61
+0c<cg3
+@c<h
+ b,b("
+BdCabc816
+"b&1
+Pc<c
+s0%Aa
+pb,gx'P
+as1L
+t@c<`
+@b,`
+0r !
+ b,b("
+BdCcbb(3
+pc<c8#
+%qb-b
+r!'~
+pc<gx'
+Pb,bs2
+0"0!
+0c<c8#@
+Pb,b("
+%2c{
+BdCc"b(3s
+0%0!
+0"B!0&b
+0c<c8#
+ ! #
+2c2"
+"b"!
+a"b(12c
+R`Ca
+0r !
+d&4E
+",6@HPX`hpx;
+Ac=fh&
+Rg (
+r$a%pc<`Y
+0&<a b,b*!
+&pc<`
+wr$Qc=c
+r"$Qc=c
+s1%Ba
+0c<c8#	
+0r 6
+!FBa
+b,gs`
+Qc=c9
+s1%`(
+"!GB
+@b,bp2
+ !p$
+!G@c<cp3
+c<c8#
+@b,fPc<d@6
+vab-b
+9$@%
+c=cc3 
+Rcrb0c0"ra
+r"%Ac=c
+s1$ra
+vmf-bc2
+A71A
+@c<c8#3
+ b,b("
+!b1c-b=c02
+@b,dH$
+@b,d
+@0$\
+# (J
+0c<c8#
+ceg4
+5\e8
+H5 b,b#5
+t@b,b@
+C;" $(
+ b,b(""
+uQc=c
+$0"	
+ b,b("
+tAc=c
+ b,b("
+@c<d#
+ b,b("
+@ !z
+0c<c8#
+0c<c8#
+ b0c,b<c02
+0c0"
+#@b,`
+0c<c8#
+Pb,eX%
+ #Pb,`
+ b,e
+Pc<eT
+0c<c8#
+Pb,`
+Rf`a
+0'da
+$b%pa
+&Rc0c<`@
+0c0)Ra
+0)@b,b
+eP25
++`c<c8#
+ b !
+`b,`
+`b,`
+&!b-bRa
+b,b("
+ b !c
+#@b,`v
+@c<c8#
+@b,b("
+0c<c8#	
+0c<c8#
+ b,b("
+2(0c&
+r"(4
+3`0.
+Rb b *Ra
+s<c<4Ld
+ b,b
+cmRbs` b$
+ b 'a
+0c<f
+c4b,b2(0c<c1,
+bmc-b;"-a
+!b-fh&
+!b-f}
+qc=gw6
+a"( b,b!+
+C	C1+f
+C1+b
+ab-fw6
+l2!!@
+r"(S
+0c<gx'
+0c<gP
+r"(C
+0c<fh&
+0c<f@
+S0c<cC3
+<c8#
+b,b("
+Cab-f76
+b("3
+pc<g'7)
+f!b-gg7
+C@b,f06
+b-e75
+t`"B(@c
+s2(0c0!
+ b,fG6
+Rb b *Ra
+s<c<4Ld
+as1a
+0c<c8#
+1c=c9'q"
+sa!A
+|1!b-b)!
+0c<c
+s2(ab-b0c<c;"!&
+(ac=cU
+qb-gw3
+ b,b!&
+s2(ab-bL
+q&G<
+C8"\
+Ab-eX%W
+ b,b("
+|r) 
+|r) 
+`~r) 
+1c=f
+!b-e-
+ '@a
+,b 1
+c8#M
+2d@a
+2d@a
+ b,b("
+b#`g
+taaLd
+0c<c8#
+0r !
+ b,b("
+"b"!
+2&B&m&l&k&j&i&h#o
+Pc<c8#H
+bg %
+aW1 
+|32$
+pb,b 1
+Bg|1
+,bpc<c02
+r1c-b=c02
+s2$0c
+u\b<c02
+@c<dH$*
+ b,b("%
+,eH$
+ b,b("
+0c<c8#
+0c<c
+0$"b
+b,b("	
+Pc<eP!
+ b,b("l
+0c<c8#
+Pb,eX%
+Pc<eP!
+P"0$7
+ b !X%&
+0c<c8#
+@c<dH$V
+ b,b("Q
+,ex\
+ b,b("
+# $w
+2c2"
+ b,b("
+0c0"
+0c<c b8#)
+,b:"
+r !G
+d&4Q
+$,4<HPXdlt
+0c<c8#
+ b,b("
+0c<c8#
+ b,b("
+0c<c8#
+@ $x
+0c<c8#
+0c<c8#
+=c8#
+!b1c-b=c82-h
+0c<d
+ %0*x
+c82z
+ b !
++0c<cx
+ b,b
+B<2 !
+Sgrbba b !bc
+s2&rb
+b-bG2
+bL5-b]c<2!!
+tAc=c
+s1$k
+Pb,b("
+"b"!
+b0c0"
+c<c2
+0c<c1
+b,b0
+lrbba b !bc
+s2&rb
+tAb-b
+eX%!
+s2(9
+s2( b,b>
+@2(Y
+@b,e
+@b,b.
+`c<`)
+`c<c
+s0&(
+ b,dC`!
+`b,b
+0c<d
+C`0c4
+ b,d34
+0c<dC`
+A,b,1
+`c<c
+s0&<a
+ b,b("
+b0c0"
+r"(0s0"A
+C0"@
+r"(0"
+r"(0"
+0c<c
+ b !
+s2(Qa
+d-D@#
+(Qc=cn
+d-D@#
+Qc=c
+ b !
+ b !
+s2(L
+0c<c8#
+r"(0"
+r"(0"
+r"(0"
+r"(4
+r"(0"
+r"(0"
+ b,b("
+a!b !
+cAb-`
+(Aa+
+r"(0"
+!b !
+s2(	
+Pb,gx'
+s2(Md
+ b,gx'
+riMd
+r"(0"
+ b,b("Y
+r"(0"
+b#`U
+0c<c8#
+r"(W
+(bb !
+tMd^
+s2(<
+a b,b
+s2(I
+ac1*
+uBc]e`#Bb
+r"$qc
+vmf=cc3
+ura]e
+r"$rc
+@b,eX%F
+ b,b0c<c
+C;" !
+@c<e
+@c<c
+s0$`a
+ b,d34
+0c<d
+C` b$
+`c<c
+ b,dC`
+`b,b
+r &,c
+ b,b("_
+b0c0"
+r"(r
+0c<`
+(@b !
+s2(m
+0c<e
+c-@`
+s2(\
+Bfb#U
+1"bf^
+Br&,73
+r(Ba
+ebc(1
+#CaR`
+a!b-e;
+1c=f
+c=c8#
+!b-b
+ b,eX%
+b$c<e")
+(tb,er$
+(tb,b!&
+Er$]e
+s1(]baa
+c2,ab-bS2'
+bra b !rc
+S2c62
+rb2c62
+",ac
+u]e=cS3
+b"+Q
+C<6lf^
+0!Bb
+r"$9
+gtb,er$G
+2gta
+&]er$
+$ab-b]c;"!&-b
+a-b(1
+c=c8#
+C!b-b32
+ b,eX%
+ b,eX%x
+A1c=c
+0c<c8#
+ b,b("^
+a!b-b 1	
+0c<c8#L
+@b,b
+ b,b("N
+r"*k
+c<cs
+0c<c
+c<gh
+=cS3
+rbDc0"ra
+@cd^
+c-bc
+=c<2
+r"$.
+C0%Bb
+r"$#
+c0%Bb
+rbba b !bc
+s2&ra
+c<dH$-
+ b,b("(
+ b,b("?
+dr !
+0"0)
+"b"!
+"b&3
+b-b'4
+tMd(
+Rpc0"
+s2&e
+u]eC`
+]bSd(1
+c]a=c
+"b2c02
+c=c8#
+1c=dCb8
+21c=c32
+1c=du
+c<2!(
+r-b#`
+Sbb0c0"ba
+bcRa
+2c2$
+r-b#`
+u\eSg
+G|6ac=c8#
+@b,`
+Qc=c8#
+uPb,b
+C9" %
+C`XQ
+!b!!H$'
+a"b 1
+1c=`
+(1Ac=dG15
+2!(-cn
+a71(
+c<c8#
+s0c<`
+Ac=d\
+s0c<`
+dA(H$
+c=c8#
+r b,`
+1c=dA(H$
+0c0*
+c=c.
+@c<c8#b
+b,dH$
+Ac=d
+1c=d
+b,dH$
+1c=c<2!!
+0-Aa
+!b-b,1
+0c<c8#
+c<c~
+@c<eP1
+3uP$v
+a!b-b
+b,bk
+0c<c02
+@c<c8#
+dQb-bMc<2!%-a
+!!1%1&1
+ b,b("
+!!0c
+Pb,b("
+B!!0c
+1(1)
+=dH$
+Ac=c8#
+ b,b|
+1c=c<2!,
+ ! (P
+Pb,jx
+gRi2eC`
+DC`]
+=dH$
+1c=cAb-b<2!$
+Qb-b
+r!%A,
+a!b-b
+dqcCfI
+FReSaH
+qc=`
+qc=`9
+!b-g
+Fc`]
+-b("
+!b-dCf
+Fc`]
+=c8#
+D2`M
+c3`l31c
+#`l2!b=c
+"b2c02J
+S0c<c8#
+S1c=c
+a"b 1	
+!b-dH$
+)0cF
+c0c<c1(
+Ab-b
+r!$L
+Ac=c
+s1$C
+a"b&1
+@b,b("
+e b,b 52
+b,b!(
+c<c3s0)
+-dH$\
+1c=c
+31(!)
+!b-b,1
+e,bP2
+DC`}
+!b-b,1!
+(C`l
+ac=c04
+ b,b("
+Ab-d74
+Ac=c
+s1$	
+eb`\
+1c=c055
+=eb`\
+tqb-b#5
+t@c0"Qa
+b-b,1
+b,b 1
+&Rb@c
+t0"Ra
+0c<c8#
+Ab-e
+`Sbp
+a1c=c
+a,b 1$
+0$!b-bj
+d0c<gg
+f"eH$
+DC`m
+=dH$
+a!b-b
+dqcCfO
+eSaN
+qb-`D
+1c=dC`
+-b("
+!b-dC`
+31c5
+`L3M
+-`1c
+/ShCe
+Sd2`
+-f`4
+Q(h&
+/"OG
+,C=c;+
+2c2-
+a=c	
+=k!b,b,1
+0c<c8#
+b2c62
+"b"-
+/"OCh
+C1)=a
+Ab-b
+r!$^
+Ac=c
+s1$\
+b2c62
+"b"(
+c0c<c1,
+"b2c62
+a1c=c	
+C;"!)
+ b,b
+c(1=c
+Ra@!Rb
+r"%e
+Ac=c
+/"Och
+Q&\2N
+seQc=c
+DOdaa
+eQ"	
+ b,b("K
+<2"' 
+32,@
+32"P
+32"`
+32"p
+<2"-b
+ceshR`
+1c=eO
+qdG5
+cesf
+aCbR`
+tqcOd=cG3
+C1"1
+ac=c
+R`Cf4
+1c=e
+adG5
+aCbR`
+tqcOd=cG3
+b,b<c<2 *
+b,bPa
+<c<2%
+c<c: 
+`b,bPa
+<c<2 &,b
+BeSa	
+C=fj(z(
+rfca	
+&b'Z(=dJ(
+1c=`@
+0"0$Pb,b("
+ b,b("
+ b,b("
+ b,b("
+c=c8#
+0c<c8#
+ b,b("
+"b("
+a,b#1
+0c<`
+2c8#
+ b0c,b<c32
+0c<c8#
+Bgpa
+2e`b,f]
+SflcS
+ b,eW3
+-e1&=fS6
+1c=eW1
+Pc<c
+#0%<eS`
+!b-k
+ b,eX%?
+!&Pc<`
+ b,eS`
+0'AaQb-eac=fs
+,b<c
+p=a-b+!
+l,b!&I
+1c=i
+1c=gw1
+Ac=`
+B!% 
+(pc<`
+'aaQc=e>
+@-d:
+!b-k
+r-b,<
+ b,b("
+b,b("2
+t@b,`@
+b-b("B
+dH$@
+c<c8#
+b,b("
+b,b("
+t@b,`@
+0c<dH$
+@b,dH$
+ b,dH$
+0c<dH$
+r (N
+0c<`
+0c<c8#
+0c<c8#
+tAc=c
+ b,b("
+a,b 1
+tAb-b
+vac=c
+Pb,e1&Cb
+2-fW4
+5]eW6
+0c<c8#.
+0c<c8##
+0c<dPa
+dPb,e
+t!DS4
+d b,b@2
+0c<cH3
+ b,b
+Pc<c8#
+0c<cH30"
+tAc=c
+tAb-b
+r!$<
+0c<c8#
+0c<c
+s0"5
+r-b#`T
+`c<fh&
+@b,bc2
+s0c<`
+a,b 1
+a 1.
+Pb,b#3)
+<c<5
+`c<fh&
+0c<c8#
+ b,b("
+`1c4
+aPc<eU
+P"0c<c8#
+0c0%?
+@b,b#`b
+Pc<c3`c
+Pc<c3`g
+0c<c8#
+0c<c8#	
+0%3`Q
+ b,b("
+0c<c8#
+ b,b("
+0c<c8#
+ ! #
+0"@a
+0c<`
+@c<`
+"eX%
+Bb2c<2"$
+d9$H$
+@c<eX%
+X%Ld
+`b,fh&
+h&|h
+!b-gw
+Sb0c<cn
+@2)d
+C<2")
+"b"!
+"b"3
+BdH$
+"b"4
+"b"!
+"b"3
+a"b(13
+2c21
+Rf`c<g
+tMdRf`a
+!G!A*!
+a!G!A
+tMdG:
+r")0"
+cgpb,b
+dBaS`l
+u !\eBc
+s=c3`
+(pb,bS2
+r")ac=d
+,b,4
+Ab-bba
+31*Y
+b-e1c
+Sa=g|1
+bcRb0c0"Ra
+r"&qc=c
+s1'Ra
+bMd-bC2
+b")`
+0c<c8#
+ b,b(")
+b,b#1"
+fqb-gg7
+(@va%1c=fw6
+sfa%
+Qb-b
+l2!!
+0c<c8#,
+ b,b("'
+d'4!
+v!F`'
+tA%@
+!b-dG3
+1c=dt
+sf`c<c
+eC`|
+tRbLd0"Ra
+r-b#`
+`c<cC3
+!b-b("
+ b,e
+E\6ac=c8#
+b2c02J
+Ab-mD
+1c=c
+ebg:
+Rcpa
+r"%ba
+"b&1
+)Ab-b
+c<c8#
+(Ab-b
+Ac=m%
+mAc 
+@ b,b 
+b-b(=
+=c"`
+-b,3
+tAc=c
+bbRa b !Rc
+s2%bb
+r"&y
+2c62
+b")Ac=c
+r"(Ac=cx
+s1$qa
+tAb-b
+0&B!R
+1c1"@a
+ b,b("
+0c<c8#:
+`c0"
+Qc=`
+pb,b
+r,b 5l
+ab`}
+-b(1
+c=cb`}
+b-bb`}
+=c82!-
+-b,32)b`}
+32)3b
+S2c62
+b2$u
+3<2"$b`
+b,bm
+r +0c<h
+<7Bg
+S0c<c
+s<c05
+JdH$
+b,bC
+bfb"B
+B!! 
+d@"Q
+C1"'
+<2"%
+!!Ra"
+Rc2"Rb
+Rc2"8
+2$Ra
+Q!B`Sa
+<cS3
+c<c8#X
+b-b("T
+0c0*
+!b-bL2
+!b1c=e
+0c<c8#
+b-b("
+b-b("
+c2"_
+2"@a
+<2Rf"6
+b,b("
+@&Rc
+c<c8#
+@&Ra
+ )@&Ra
+DQc=cMa
+31%=c!
+!b-b02M
+2t2c
+b-b("
+Qc=cC`
+#00	
+ac=c
+!D!C
+#1&Ld
+ac=c!D!C1&Ld
+A1c=c71
+r b,`
+"b2c02
+C305
+BAc=d(1G1&
+4A(Mc
+!b-b("
+s0c<`
+dA(H$m
+c=c8#
+r b,`
+1c=dA(H$
+0c0)
+r!(U
+Ac=c
+s=c8#	
+AQcN
+$!%0
+0c<c31
+<e"`<
+,d2`\
+b-b 4
+e~r 5
+d"`\
+0c<d
+/"OChSj
+a-b+!
+=J-b
+/"OCh
+c=c	
+LC1)=a
+h=c	
+c=c	
+f\6`a
+S`Bm
+<c"d<4
+,b'<
+el5Pa
+$|gx'
+,b'<
+b,bx;
+c82 -
+d\4@c<c!C0$
+d"`\
+@!!	
+c<c8#
+c=dA+
+a"b 1q
+!b-b1c=c72
+(11c=c71c
+c<dH$
+RcAb-b0c<c=c;"!$Ra
+r!-t
+ b,dH$
+b,b("
+a"b 1	
+!b-dH$
+b,eX%
+Pc<c
+0%Aa
+Pb,b`a
+r,bc2+
+ %Aa
+ b,g07
+ %Ac<c1$ (h&
+lC|30"T
+Ac=c	
+C0'<b
+<c028
+ !Ac<c
+ b,b
+Qc=c06
+c8#.
+5Pc<c%
+6`a=j
+<gw:
+LdSfL6`c<c!C0&C`
+BB*,3/
+2)Cb/
+B,4B&
+/"OCh
+a!b-gt
+@=ec
+ b,b("
+/"OCh
+0"R!y
+/"OShcj
+B! $
+ b,dH$
+<cBb3`!
+,bBa#`
+0c<c8#
+ b,b("
+ b,b("
+A31<
+s=c3`
+dBfa
+S0c4
+s=c3`
+0c<c8#
+.AXfs
+@a0c<c
+@c<c
+2=t*tttLtkoqsG
+,b("
+0c<c8#
+/"OCh
+QR;$@"Sd
+AS0c<`
+;"!(l4u
+1c=f
+wpb,b@
+wB7	
+#S`s
+ !pa
+P"pb,`g
+B((	
+ !S`
+/"OY
+ b,`
+@ -g
+ b,`
+@ -P
+ b,`
+@ -9
+ b,`
+<c8#&
+B")@
+,b("
+C;""(@
+ b,b 1
+@")Y
+@")@
+@2)@
+ b,eX% 
+0c<e
+0c<e"dX%
+"e9%X%
+"fh&
+ +R,
+e)%X%
+c<c8#
+0c<`
+"e8%
+ b,b("
+V b,baT
+2&B&m&l&k&j&i&h#o
+/"OChSm
+<c8#
+$"+}
+C2$@
+$"+<
+"$"+
+Rf2eX&
+c<c8#
+c<c8#
+b$Bb
+C9&k""$
+/"OCh
+Q !p
+E b,b
+B(!	
+C)C8#
+D)DH$
+2&B&h#o
+@`(/
+@`(@
+"dC`@
+2dC` 
+"dC`
+2dC`
+!b!$0c<c	
+ b,b#`D
+/CjSkcd
+p)`b,b
+cjrc
+l31a
+`Y 	
+rcl31a
+rb3`l2&
+b-`Y 	
+ral1
+`l36
+tMd,bG2
+t`bMd,bG2
+tMd,bG2
+/Shck
+0c<f"i
+0c<f"i
+\4Ac=c
+vmfF
+tS`L
+lC8"
+w}gw6
+/"OSjchsi
+tB&Sd
+b,b("
+0c\4
+2fV6
+/"Of
+a21i
+S0c4
+/"OChSicksj
+0c<c
+c=c8#3
+b b,`@
+b b,`@
+/"OChSlck
+rdba
+tB'bb 4
+rb b,dX$
+Bc0c<ch#
+Flc3`D
+Bb b,bX"
+Bb b,bh"
+Flb#`\eD
+Ba"b
+/CjSkcd
+p)`b,b
+cjrc
+l31a
+`Y 	
+rcl31a
+rb3`l2&
+b-`Y 	
+ral1
+`l36
+tMd,bG2
+chBa
+B`l0
+`c<c
+B`l0
+c]e<cW3
+/Sicj
+0c<f"d
+0c<f"d
+)&h&
+gw6#
+gpcW
+pc<c
+s0'<eW6
+u]eW6
+/"Oi
+Chsm,
+32++
+ b,e-
+0c<e#
+c<c8#)
+/"OX
+=c8#
+b-b("
+t@c<c
+#0$8
+B+,H
+S8#8
+uPc<f
+ b,`
+@%bc
+Bb"%
+/"OCh
+0c<e
+d@`?
+tB)b
+ b,d64(
+$HHHHH0H<
+2d@`=
+@r@a
+0c<c
+@,dP
+/"OCh
+Ac=c
+B'34
+Ab-b
+c<2!$
+r-b#`
+Sbb0c0"ba
+bcRa
+2c2$
+r-b#`
+Rc0c0$Rb
+2c62
+"b"%ac=c
+Ra@!Rb
+r"%c
+Ac=c
+s1$v
+Ra"b&1
+ b,`
+!b-b8s72
+Ra@!Rc
+s2%?
+2%aa
+/"OCh
+t@c<c
+t@b,`
+@b,d04
+ b,b("
+ b,b("
+0c<c8#
+0c<e
+$(( 
+/"OChSjci
+/"OChSjci
+@b,`
+|s@b,b9" $
+@b,` 
+`s@b,b9" $
+@b,b
+C;" $
+@b,`
+@b,d@3
+xr@a
+@b,`
+xs@b,b9" $
+0c<d@1
+ b,`
+@@#.
+0c<c8#
+@b,b("
+@0$?
+/"OCh
+!R0"
+T<t:
+Bq !
+SFs0c<c8#
+Sas@#
+tr0"
+Q b !8
+TL5Pc<c
+Pb,`
+2&B&h#o
+CUJu
+rTcw
+l2"R0"BP
+pTb$
+/"OChSkcj
+Ttt@c<`
+THt@b
+,b9" $
+/"Oj
+ChSmsl
+Uh5V;
+TH$+
+2&B&m&l&k&j&i&h#o
+nCQD
+C b,b'
+|6ab-b
+B)B,b("
+`b,b 8
+/"OChSi
+U<uRTA
+dH$t
+Dxug
+TDtBa
+C`b,fg
+TDtBi
+@b,b
+TDtBdCf`c<`
+TDtBd
+/"OCh
+UPuSf`c<c8#8
+u`b,f*
+SPs0c<c
+gSf`a
+TPt@b,b
+c<c82 $
+hCQaq
+CQ@q
+CU<5l5Qc=`
+/"OCh
+	@	@
+CQFq
+ !CTFt@a
+aQR b,b+!
+CQuq
+/"OChSi
+2&B&i&h#o
+nCQtq
+CQtqQR b
+/"OChSi
+2&B&i&h#o
+CQaq
+ !CS?s #
+CUxul5Qc=`
+CQPq
+ !CS@s #
+CU,5l5Qb-`
+QR b
+CQsqP!@
+/"OCh
+Ttt@c<c@
+THt@b,`
+/"OCh
+SrsP#
+/"OCh
+T0t@c<d
+	D	@
+c<c8#
+T0t@b,`
+b b,b("!
+Ttt@b,b@
+C;" $
+THt@a
+2&B&h#o
+nCQvq
+Q !BQD
+<5Qa
+ BUDuRf
+ %BUDuRf
+CQ@qBR.
+/"OCh
+Tat@c<c8#
+Sas@#
+/"OCh
+	@	@
+vlfs`
+vlfs`
+vlfs`
+vlfs` 
+vlfs`@
+BS)&@s0d
+N4ND
+Pb,b@
+C;" %,g
+Pb,b@
+C;",g
+ %Pc<`
+S`"O
+h8	pr
+S<2"
+3R,1
+c3SCs0c0"
+Q#RDr b !
+c3SCs
+b#RDr
+a#RAr b !
+	@	@
+	@	@
+C8#	
+C)C8#
+B)B("
+2&B&h#o
+2(2*
+BdBS<
+BdBQ
+C<2'
+"b"UQuPc<c8#
+2Ca<1
+/"OCh
+BVDvCU
+5bfa
+l5Qc=`
+/"OCh
+X4Ci
+32-Y
+b b,b("
+R!b-b("
+C<6e
+a(10
+c2S<
+y $qc=c
+R"b(
+bl2"!Rgv9
+!,8Rc89
+<c8#
+/"OCh
+dBU0uQR b,b("
+X4Cl
+c,9<<
+S<2")
+S8<(
+TDtBh
+b,gse
+A3ZxzW
+si2c
+52V)
+bVx'
+bcc(3
+/"OCh
+!R0"H
+dCi;
+@b,`
+/"OChcjsi
+b,b("
+/"OCh
+/"OCh
+<c8#
+/"OChSkcj
+/"OCh
+/"OChck
+/"OCh
+<c8#
+AWBVv6
+x6cd
+DTh7x4
+/"OCh
+/"OCh
+@c<c
+s0$+
+eX%7
+dBdH$/
+c2d 
+BdCjH$
+@c<eX%
+@b,b
+dBdH$
+ebc2c
+/chsj
+5Rc8#
+dH$Z
+2c8#.
+aS8#
+ebb"b
+BdH$
+2c2d
+/"OCh
+/"OCh
+SH121
+/"OCh
+/Shsk
+U\eh&
+lfX%
+)'r$@
+9'r$@
+'r$s`@
+Bg)'r$s` 
+9'r$s`
+'r$s`
+)'r$s`
+'r$s`
+Bg)'r$
+b+#3`
+b+#3`
+b+#3`
+b+#3`
+b+#3`
+b+#3`
+b+#3`@
+t&4 
+48844848488848888884
+d@c02
+Bb,1
+ d@1
+MvP&
+Mt@a
+@r) 
+Rd@f`1
+@B%!
+tB%?
+d@c02l
+2&B&h#o
+/"OChSk
+BePeP1
+"eP`?
+uR$\
+/"OCh
+2"$=
+"eP`?
+BdC`
+"dC`
+2dC`
+dC` 
+"dC`@
+2c9 
+ b,b';
+ b,b'9
+R<2j
+C; B
+/"OCh
+A@8X
+% g 
+w`	v
+% g 
+`m`T
+/"OCh
+@%H$
+/"OCh
+dH$7
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChcl
+/"OSh
+COREDLL.dll
+KeInitializeDeviceQueue
+IoCompleteRequest
+KeInsertDeviceQueue
+KeRemoveDeviceQueue
+RtlInitUnicodeString
+IoCreateDevice
+IoDeleteDevice
+MmUnmapIoSpace
+HalTranslateBusAddress
+MmMapIoSpace
+HalMapInterrupt
+InitWDMDriver
+WDMLIB.dll
+Sega BuiltIn modem
+REV 1.0200
+a097840F284C6403F
+bF60430000
+r1031111111010000
+r3000111010000000
+Buffer empty
+ACTIVE_PROFILE :
+STORED PROFILE 0:
+STORED PROFILE 1:
+STORED PROFILE 2:
+STORED PROFILE 3:
+PHONE NUMBERS :
+Modulation type: 
+Bell 103
+Bell 1200
+V21 300
+V23 75TX/1200RX
+V23 1200TX/75RX
+V22 1200
+V22 600
+V22bis 1200
+V22bis 2400
+V32 4800
+V32 9600 (treillis coded)
+V32 9600 (uncoded)
+V32bis 4800
+V32bis 7200
+V32bis 9600
+V32bis 12000
+V32bis 14400
+V32terbo 16800
+V32terbo 19200
+V34 
+K56 
+V90 
+message not listed
+Receive level: -
+DSP`s Receive mean square error: 0x
+Round trip delay: 
+Near echo level: -
+ dbm
+Far echo level: -
+ dbm
+Termination reason.......... 
+LOCAL REQUEST
+LINK DISCONNECT
+Last Tx data rate........... 
+Highest Tx data rate........ 
+Last Rx data rate........... 
+Highest Rx data rate........ 
+Error correction protocol... 
+LAPM
+NONE
+Data compression............ 
+V42Bis
+NONE
+Line quality................ 
+BLACKLISTED
+error 1 
+invalid type of number 
+CONNECT
+RING
+NO CARRIER
+ERROR
+CONNECT 1200
+NO DIALTONE
+BUSY
+NO ANSWER
+CONNECT 600
+CONNECT 2400
+CONNECT 4800
+CONNECT 9600
+CONNECT 14400
+CONNECT 19200
+CONNECT 38400
+CONNECT 57600
+CONNECT 115200
+RINGING
+CONNECT 230400
+CONNECT 48000
+CONNECT 64000
+CONNECT 300
+CARRIER 50000
+CONNECT 460800
+CONNECT 691200
+CONNECT 921600
+CONNECT 56000
+CARRIER 52000
+CARRIER 54000
+CARRIER 38400
+CARRIER 48000
+CARRIER 56000
+CARRIER 57600
+CARRIER 64000
+CARRIER 32000
+CARRIER 34000
+CARRIER 36000
+CARRIER 38000
+CARRIER 40000
+CARRIER 300
+CARRIER 600
+CARRIER 3600
+CARRIER 42000
+CARRIER 44000
+CARRIER 46000
+CARRIER 1200
+CARRIER 2400
+CARRIER 4800
+CARRIER 7200
+CARRIER 9600
+CARRIER 12000
+CARRIER 14400
+CARRIER 16800
+CARRIER 19200
+CARRIER 21600
+CARRIER 24000
+CARRIER 26400
+CARRIER 28800
+CONNECT 16800
+CONNECT 7200
+CONNECT 12000
+CONNECT 75TX/1200RX
+CONNECT 1200TX/75RX
+CARRIER 75TX/1200RX
+CARRIER 1200TX/75RX
+CONNECT 21600
+CONNECT 24000
+CONNECT 26400
+CONNECT 28800
+PROTOCOL: NONE
+CONNECT 32000
+CONNECT 34000
+CONNECT 31200
+CONNECT 33600
+CONNECT 36000
+CONNECT 38000
+PROTOCOL: V42
+CONNECT 40000
+PROTOCOL: MNP REL
+CONNECT 42000
+CONNECT 44000
+PROTOCOL: X.25
+PROTOCOL: V.120
+PROTOCOL: V.110
+CARRIER 31200
+CARRIER 33600
+PROTOCOL: PPP
+PROTOCOL: MLPPP
+CONNECT 46000
+AUTOLOGON FAILED 
+PROTOCOL: V.120 COMPRESSION
+PROTOCOL: X.75
+CONNECT 50000
+CONNECT 52000
+CONNECT 54000
+CONNECT 128000
+TEST FAILED
+TEST PASSED
+CIRCUIT BUSY
+PROTOCOL: HDLC
+CARRIER 112000
+CARRIER 128000
+PROTOCOL: PIAFS
+CONNECT 28000
+CONNECT 29333
+CONNECT 30666
+CONNECT 33333
+CONNECT 34666
+CONNECT 37333
+CONNECT 38666
+CONNECT 41333
+CONNECT 42666
+CONNECT 45333
+CONNECT 46666
+CONNECT 49333
+CONNECT 50666
+CONNECT 53333
+CONNECT 54666
+CARRIER 28000
+CARRIER 29333
+CARRIER 30666
+CARRIER 33333
+CARRIER 34666
+CARRIER 37333
+CARRIER 38666
+CARRIER 41333
+CARRIER 42666
+CARRIER 45333
+CARRIER 46666
+CARRIER 49333
+CARRIER 50666
+CARRIER 53333
+CARRIER 54666
+ BPS
+Problem accessing CardBus modem section.
+(null)
+ (Return) 
+ (Hex):
+(Command)  : AT
+(Pause) 
+(Receive)  : 
+(Transmit) : 
+LOGON ;
+Dial number : 
+- Autologon Sequence -
+Autologon : 
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+16:38:27
+16:38:27
+16:38:27
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+Apr  1 1999
+16:38:27
+16:38:27
+16:38:27
+DELAYED 
++FCERROR
+!#%(*,.02468
+"#$'()+,-/0134578
+DP Hardware Reset OK...
+DP Hardware Reset NOT OK...
+Data Pump register:
+Data Pump Hardware Reset Test:
+TEST -> Succeed
+TEST -> Failed
+(c) Rockwell:23-Jul-1998:L8570A:CTL:4729 
+FEDC
+L ;L
+L<;LH<L
+LR<L
+LoFLo
+=L@=Lw=L;JL
+RLkSL
+TLuUL
+VLuWL"YL
+YL/ZL^ZLY
+ZL-[LF[L
+]Ll_L
+=LN@LN@L.AL8AL
+BL	CLHCL
+CLRDL
+FL"HL
+HL'IL
+L JLuJLEKL
+NLzOL
+XL>>L
+^LH^L
+LQcL
+ Ld!Lj!L$gL~#Lj$L
+kLEmLemL
+nL#oLMpLWpL
+rLrsL
+tL6tL\tL
+)L))LsgL
+jL@*LO,L|,L
+-L^nL
+.L8pL
+qL_rLyrL
+tLNtLitL
+uL!0L
+vLZ1L
+xLExL
+xLb1LL{L'|L
+}LS}Le1L
+0L&0L)0L/0L30L60L:1L3yL
+5L!5Ll
+IpAG)AL
+gEwE
+wg E
+JJJJJ
+b"; 
+bjH SOhn`
+ ?2 
+32"#
+:JJJJ
+Il ,
+`HJJ	
+hjjj
+`____________][YWWUSSQQOOMKIIGEEC
+ Vr 
+ 38oR
+jjjj
+#'%Q&z'
+,H-q.
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuv
+G; ,
+I  ,
+bj SOn`
+bj SOn`
+jf^f_f`
+D 2W
+La[Ld[ 
+I "!` 
+ Lr  
+32; 
+  6n
+ cl 
+ u[ z
+I +6
+`Lr!
+2 ?2
+bJ gw
+bJ~)
+$LGrLGrLWr
+JJJJJ
+ F~ {
+z Vr
+ 9s 
+ Zs 
+J Vr
+LvlLvlL~l
+ 38Lx-
+mWf T
+@' %
+L8/ %
+F' L
+s %0` wwO
+LN1 
+ P7L
+FKjFKj
+jjj)
+v a1``L|z
+2@w92@
+ {;L2
+GQw-
+ACAFEDCHB@J
+ACAFEDCHB@J
++H :
+O$L<
+ n=LS= n=LV= n=LY=
+<` q>
+L<@L<@
+`L+E
+L]>L
+32"#
+32`_
+)GAp
+	0 P
+B,@ 
+0@a50
+?X@	
+PT( 
+YD*8
+ /zl
+ /z{
+h.#""
+0 ]W:
+gLCP
++?-4
+LF;j
+0a%U:
+h:?L
+%KVP
+AIGFEDC
+LP:L
+LoFLo
+L7<Lr<L
+<L;JL
+RL!=L
+RLkSL
+TLuUL
+VLuWL"YL
+YL/ZL^ZLY
+L1=L
+ZL-[LF[L
+=Ll_L
+=LN@LN@L.AL8AL
+BL	CLHCL
+CLRDL
+FL"HL
+HL'IL
+L JLuJLEKL
+NLzOL
+L+ L+ L+ L+ L+ L+ L+ L+ L+ L, L: Ll L
+!L*!L
+^LH^L
+aL^bLQcLlcL
+!L$gL
+kLEmLemL
+!L#oLMpLWpL
+rLrsL
+tL6tL\tL
+&LsgL
+&LWlL
+)L^nLT*L
+nL0oLXoLn*L8pL
++L_rLyrL
+tLNtLitL
+uLyuL
+xLExL
+xLN,L|zLL{L'|L
+}LS}L
+L3yL
+|LC>L@
+LQ L
+Lf5L
+L|6L"
+Lo9L
+IpAG
+hJJJJ
+G; F
+jjH SOhn`
+***)
+bj SOn`
+bj SOn`
+****
+`@AKLPQPQ@APQPQPQ h
+jf^f_f`
+[ %\
+ZL~ZL
+L~Z[
+G'E|b"4p
+bJ gw
+bJ~)
+ F~ {
+ "(L
+' Vr
+ g+ 
+ 9s 
+ Zs "(L
+J Vr
+JJJJ
+`Wf T
+@' %
+F' L
+ZJn	
+8jn	
+*H S
+jjj)
+GQw-
+`x <
++H :
+O$L<
+2@w92@
+] P2L#@
+`L+E
+7%Le3
+ F6 ~
+WEGC i
+ B T
+ 	 T
+B,@ 
+B,`Q
+R, !
+@/~u
+QedewgD
+J@mb
+hRT%uGv
+GugW
+pAM3
+iQIM
+VUVU
+dFWWLEtD
+FDguUEU
+DD<2
+0I?I 
+@QP( 
+%0I 
+$H*H
+0I?IHJ
+oz+?K
+a9i-
+](nr
+b:R~r+~
+Q?idd
+qY`d
+]$~z
+HsiA
+D@AP
+62>n
+ikz^
+vz)=i	`
+03 003 303 
+2w;3
+3?3!;?3
+??3!
+?3!3
+ !"#$%&'()*+,-./0123456789:;<=>?
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+FCLASS
+CONNECT
+NO CARRIER
+ERROR
+DATA
+FCLASS
+VCID
+VRID
+VDID
++A8E: 
++GCI: 
++GCI: 
+CAP?
++MA: 
++MS: 
++MS: 
+,(0,1),
+(0,300-%d),(0,300-%d),(0,300-%d),(0,300-%d)
+,V22
+,V22B
+,V23C
+,V32
+,V32B
+,V34
+,K56
+,V90
+Unknown modulation
+V32B
+V22B
+V23C
+BELL
+V21     
+V22     
+V22B    
+V23C    
+V32     
+V32B    
+V34     
+K56     
+V90     
++GCAP : +FCLASS, +MS, +ES, +DS
+Sega
+BuiltIn Modem
+REV 1.001
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+44787
+2$5(5,5054585<5@5D5H5L5P5T5X5\5
+6T9X9\9`9d9h9l9p9t9x9|9
+90<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+2 2$2(2,202
+5T8X8\8`8d8h8l8p8t8x8|8
+<4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?
+2 2$2(2,2024282t3x3|3
+3,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+9 9$9(9,9094989<9@9D9H9
+< <$<(<,<0<4<8<<<4>8><>@>D>H>
+0h3l3p3t3x3|3
+3(5,5054585<5@5D5H5L5P5T5X5\5`5d5
+8 8$8(8,80848
+;T=X=\=`=d=h=
+p2t2x2|2
+9 9$9(9,90949
+> >$>(>
+\0`0d0h0l0p0
+3X4\4
+6 9$9(9,9094989<9@9D9H9
+>x>|>
+ 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+4 4$4(4,4044484<4
+;(>,>0>4>8><>@>D>H>L>P>T>X>
+4 4$4(4,4
+6$8(8,8084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8t8x8|8
+;L=P=T=X=\=`=d=h=l=p=t=x=|=
+? ?$?(?,?0?4?8?
+1 1$1(1,10141
+< <$<(<,<0<4<8<<<@<D<H<L<P<p=t=x=|=
+(0,0004080<0@0D0H0L0P0T0
+5 5$5(5(6,6064686<6@6D6H6L6P6T6X6\6
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:l<p<t<x<|<
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>
+4<6@6D6H6L6P6T6X6\6`6d6h6
+: :$:(:,:0:4:
+? ?$?(?,?0?4?8?<?@?
+X1\1`1d1h1l1p1
+74888<8@8D8H8L8P8T8
+;<=d>h>
+9H:L:
+2 2$2l3
+4,606 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9h<l<p<t<x<|<
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?
+1T4X4\4`4d4h4l4p4t4x4|4
+9 ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=
+0 0$0(0
+2 2$2(2,202
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<@?D?H?L?P?T?X?\?`?d?h?l?p?
+386h8l8p8
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+1 1$1(1,1014181<1@1D3H3L3P3T3X3\3`3d3h3l3p3t3x3
+< <@>D>H>L>P>T>X>\>`>d>
+4 4$4(4,404D5H5L5P5T5X5\5`5d5h5l5T7X7\7`7d7h7l7p7t7x7|7
+7 :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=
+3 5$5(5,505<7@7D7H74888<8@8
+8$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+= =$=(=D?H?L?P?T?X?
+4 4$4h6l6p6t6x6|6
+9 9$9(9,9094989<9@9D9H9X:\:`:d:h:`<d<h<l<p<t<x<|<
+(2,2024282
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3
+5 5$5(5|7
+7@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?
+h1l1p1t1x1|1
+1$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4
+7 7$7(7,7074787<7@7D7H7t9x9|9
+183<3@3D3H3L3P3T3
+9L;P;T;
+H1L1P1T1X1\1`1d1h1l1
+5\7`7d7h7l7p7t7x7|7
+9 9$9(9,9094989<9@9
+x0|0
+3 3$3(3,3034383
+4t6x6|6
+7x9|9
+< <$<
+0`2d2h2l2p2t2x2|2
+: :$:
+< <$<(<,<0<4<d>h>l>p>t>x>|>
+ 0$0(0,0004080t1x1|1
+5 8$8(8,8084888<8@8D8H8L8P8
+: :$:(:T<X<\<`<d<h<l<p<t<x<|<
+<(?,?0?4?8?<?@?D?
+l0p0t0x0|0
+082<2@2D2H2L2P2T2X2\2`284<4@4D4H4L4|5
+7h8l8p8t8x8|8P:T:X:\:`:d:h:l:p:
+<X>\>`>d>h>
+014181<1@1D1H1L1P1T1X1\184<4@4D4H487<7@7D7H7L7P7T7
+8|:X;\;`;d;h;
+<,>0>4>8><>@>D>|?
+$1(1,1014181<1@1D1
+4 4$4
+5t6x6|6
+6 8$8(8,80848
+;<<@<D<H<L<\=`=d=h=l=p=t=x=
+5L6P6T6X6\6`6d6h6l6p6t6 8$8(8,8084888<8@8
+< =h>l>p>t>x>|>
+0t3x3|3
+34585<5@5D5H5L5P5T5X5\5`5
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7|9
+< <$<(<,<0<4<8<<<@<D<H<L<P<
+0 0$0(0,0004080<0@0D0H0L0P0
+4t5x5|5
+5l8p8t8x8|8
+8,;0;4;8;<;@;D;H;L;P;T;X;\;`;
+> >$>(>,>0>4>8><>@>D>H>L>P>T>
+\1`1d1h1l1p1t1x1|1
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4
+7 7$7(7,7074787<7@7
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=
+@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0
+3 3$3(3,3034383<3@3D3H3L3P3T3X3
+486<6@6D6H6L6P6T6X6
+8 8$8(8,8084888<8@8
+<l?p?t?x?|?
+4282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2
+24585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+9p;t;x;|;
+> >$>(>,>0>4>8><>@>D>H>
+1l2p2t2x2|2
+5 5$5(5,5054585<5@5D5H587<7@7D7H7L7P7T7X7\7`7<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+;\>`>d>h>l>p>t>x>|>
+ 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+0H1L1l2p2t2x2|2
+2$3(3
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7 7$7`9d9h9l9p9t9x9|9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+:\<`<d<h<l<p<t<x<|<
+t1x1|1
+1<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+7@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+= =$=(=,=0=4=8=<=@=D=
+0 0$0(0,0004080<0@0D0H0
+3 3$3(3,3034383<3@3
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6
+9l;p;t;x;|;
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>
+1 1$1(1,1014181<1@1D1H1 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7l:p:t:x:|:
+:`=d=h=l=p=t=x=|=
+004080<0@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+4064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6 9$9(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9,:0:4:8:<:l<p<t<x<|<
+<8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+1H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4`6d6h6l6p6t6x6|6
+6,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9`<d<h<l<p<t<x<|<
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+T0X0\0`0d0h0l0p0t0x0|0
+0024282<2@2D2H2l4p4t4x4|4
+7 7$7(7,7074787<7@7D7H7L7P7T7X7\7
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<t>x>|>
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1
+4 4$4(4,4044484<4@4D4H4L4P4T4
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;
+> >$>(>,>0>4>8><>@>D>H>L>P>T>X>\>`>d>
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+8 8$8(8,8084888<8@8D8H8L8P8T8X8
+; ;$;(;,;0;
+;L>P>T>X>\>`>d>h>l>p>t>x>|>
+1 1$1
+7 7$7(7,707x9|9
+:l<p<t<x<|<
+<\?`?d?h?l?p?t?x?|?
+2l4p4t4x4|4
+6$9(9,9094989X:\:`:d:h:l:p:t:x:|:
+<`?d?h?l?p?t?x?|?
+T2X2\2`2d2h2l2
+7\9`9d9h9l9p9t9
+;D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+=L?P?T?X?\?`?d?h?l?p?t?x?|?
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2
+5 5$5(5,5054585<5@5$6(6,6064686<6@6D6H6L6P6T6X6
+2@4D4
+= =$=d>h>
+0 1$1
+3(5,5054585<5@5D5H5L5P5T5X5
+7 7$7(7,70747
+8 8$8
+9l:p:t:
+:@<d>h>
+`0d0h0l0p0t0x0|0
+3 3$3(3,3034383<3@3D3H3L3
+5084888<8@8D8H8L8P8T8X8\8`8d8h8l8p8
+= =$=(=,=0=4=d?h?l?p?t?x?|?
+$5(5,5054585<5
+6 6,686D6P6\6h6t6
+7(747@7L7X7d7p7|7
+8$808<8H8T8`8l8x8
+9 9L9
+<3\3t3
+<(<@<X<
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+\DARK\release\katana\sh4\wince\RETAIL\seg_rock.dll
+NB10
+C:\DARK\release\katana\sh4\wince\RETAIL\seg_rock.pdb

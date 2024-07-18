@@ -1,0 +1,7 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/ADV.AFS
+/MANATEE.DRV
+/MV_017.SFD

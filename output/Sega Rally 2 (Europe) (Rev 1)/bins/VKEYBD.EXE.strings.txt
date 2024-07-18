@@ -1,0 +1,17 @@
+!This program cannot be run in DOS mode.
+Richa
+.text
+`.data
+.pdata
+DL5X%
+/"OChSi
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+/"OChSi
+COREDLL.dll
+d:\dragon11\platform\KATANA\target\SHx\SH4\CE\retail\vkeybd.exe
+NB10
+d:\dragon11\platform\KATANA\target\SHx\SH4\CE\retail\vkeybd.pdb

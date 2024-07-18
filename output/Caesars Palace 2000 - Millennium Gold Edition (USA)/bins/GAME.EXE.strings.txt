@@ -1,0 +1,14349 @@
+!This program cannot be run in DOS mode.
+Rich1
+.text
+`.rdata
+@.data
+.pdata
+/"OD
+B,39
+2c sS
+.6b/
+1S s/
+6b".6i
+C<2*
+Y y_
+32c sP
+33eR
+2"b#eP
+2#fu
+a qP
+B,32c3eP
+RHr(
+ r#eU
+b#`	
+S?c6
+2&B&i&h#o
+1c8#
+2#d3
+s3g-
+33dH
+,?&O
+S72)
+"b#d"
+"b#e
+a q<
+#i2)#c
+2c8#
+"b#d
+C?c<9
+#1""
+s!C!C<c3`	
+B,b#`	
+c32*
+2!B!B,b#`	
+2c8#
+!b#dT
+2c s3eU
+2c3g
+2&B&i&h#o
+2c8#
+/"OC
+R#c1
+c<cH
+c<cH
+b,bH
+b,b#
+b,bH
+c0c<c3e
+h"OA
+b b,b#e
+c<c3f
+R#c2c3e!R#f
+/"OD
+b b,b#e
+c<c3f
+R#c1
+c<cH
+"b#e
+b,bH
+b,bH
+2"#o
+b,bH
+h"OA
+b,b#e
+c<c3f
+b b,b#g
+2c8#
+32c7
+34Sd
+32"M
+34Sd
+82(_
+<2%R,9
+32(N
+2"b r&
+2!R'
+31S;c
+2c3e
+34S82")
+H'8_
+2$R'
+32S;c7
+32c s6
+(3j!
+31S7
+C<2"b r#e
+32c s6
+(3j!
+31S7
+C<2"b r#eL
+2c3d<
+<2#f*
+2c3d$
+2c3d
+2&B&j&i&h#o
+,b 1b
+"b"!)
+"b("
+2c8#?
+2c8#
+"b("
+2c8#
+"b#dX
+2c3eK
+2c3g
+"b#dG
+2c3e>
+2c3g
+!b#d4
+2c8#
+"b("
+2c8#
+"b("
+2c8#
+"b("
+2c8#
+"b("
+/"OC
+S2!c
+r"!b
+33d_
+hB/9
+C<2"bE
+2"b?
+33e!
+2c<c)
+S,33d
+/"OB
+3b!R(
++#8#3
+"b"#
+#a2!
+"c3d!R#e
+C<2)
+"b("H
+"b/b#d
+2c3e%
+"b#f
+<2(R
+h"OA
+2c8#
+2c8#
+/"OC
+R#c2S
+b!R.
+B,32c3d
+S02+
+B,32c<
+2"b#d=
+c<c3e
+2"b#d=
+c<c3e
+B,32c3d
+R#c2S
+b,b#e
+b,b#dQ
+b,b#d
+R"R'
+C<2"bf
+#a2!
+2&B&h#o
+32c8#+
+B,35
+2"b("
+/"OC
+#i1)#c
+2c s3dp
+"b r
+"b rS
+ c<c
+#0"8
+ c<c
+#0"0
+R'13
+31c3d
+a#`	
+h#`	
+b3`	
+i3`	
+B,32c3d
+2c3d
+"b("
+"b("
+"b("
+"b("
+"b("
+/"OC
+R 1)
+R 1G
+32"Z
+B,32!M
+"b(1
+2c3d/
+32"7
+S02x
+"b,1
+"b#d
+2c8#V
+C<2,
+2c3d,
+2c3d,
+h"OA
+b b,b#e
+c<c3f
+b b,b
+2c s3d
+S0c<c
+C<2!b#d
+S0c<c
+C<2!b#d|
+C<2!b#du
+C<2!b#dm
+dr"#X
+r"!R
+"b#d
+"b#eD
+/"OB
+b,b#`	
+c<c3`	
+b"b%
+B,32c6
+R#c2S5
+/"Oy
+32c4
+3a0q,
+3j0z
+e1S3f#g
+2c3d
+2&B&k&j&i&h#o
+/"Ox
+B,1@
+b0rn
+f3gQ
+;"!!E
+f3g&
+<c2!"b$
+S024
+d1S3e
+<c3f#g
+<c3d#a
+"c3f!R#g
+"c3d!R#e
+<c3e
+,b#f
+,b#d
+<c3e
+,b#e
+,b#e
+f1S3g
+<c1!u
+,b"!p
+R!bE
+/"OC
+b,b$
+h"OA
+2c3d
+R"!*
+r,32c3d
+"b 1
+C<2"b&
+#2"c
+"b r#dZ
+2c3d^
+"b r#eV
+B,31c3`	
+"bZC-
+B,31
+c3`	
+"bZC-
+32c1c
+2cZA-
+"bDr(
+c3`	
+a3`	
+"bLr(
+c3`	
+a3`	
+"b#d!
+2c3d
+2c3g
+"b<r,
+32c1Sx
+2c 3
+2c3d
+C<2"b!R@
+"b r#e
+S8#n
+C<2"b!R@
+zZH-
+rZA-
+zZH-
+rZA-
+R#c9SD
+j+RL
+32c1Sf
+qZI-
+sZH-
+qZI-
+sZH-
+a;SL
+C<2"b!R@
+R("n
+0r,8
+R$r(
+rZJ-
+xZI-
+a(r(
+rZJ-
+xZI-
+a,r(
+S02"
+2c8#
+s<2#e
+"b(1
+!b(1
+b<2/b#`	
+3?c3`	
+"b r#d
+1c3`	
+aZC-
+b#`	
+2cZB-
+"bZA-
+c3dj
+2c s3eu
+"b#e\
+33f]
+"b#g
+"b#eH
+33fH
+"b#g
+2c3dK
+<2#f:
+2c3dA
+<2#f.
+2"b#d#
+"b#d
+32cH
+31S@
+2"RD
+b&1&
+cLs#i
+<2"b-
+32cH
+33S@
+2$RD
+<2"b-
+h"Oc
+C<2"b("&
+C<2"b#d
+B,32c2!
+2"b("
+R#c@
+3f#aD
+c#aD
+R#c@
+1S3f:
+;S3f1
+f3b"R#g
+a2c4
+2S3f
+<S3f
+f3b!R#g
+a2c4
+/"Ou
+,31S3f
+32S3g
+/"Ou
+,32S3f
+31S3g
+h"Ot
+s3f1
+/"Ou
+/"OT
+33e:
+33e2
+33e'
+,?&O
+n"Ot
+S8#	
+/"Ou
+3b!R%
++#8#
+S2c7
+32c3f
+,?&O
+f3g]
+/"Ox
+C<18
+S:2-
+2&B&j&i&h#o
+n"Ot
+/"Ow
+3a"!
+2#eE
+c3f,
+C<2"b%
+2#eQ
+33dG
+#h2(
+2&B&i&h#o
+/"Ow
+<2!R$
+<2"R(
+2&B&i&h#o
+/"Ow
+#a2!
+C<2%
+b!R-
+C<2&
+S:2".
+2&B&i&h#o
+/"OB
+S3a3b"b3h
+,?&O
+/"OT
+3b!R+
+R+R("
+#a2!
+C<2)
+X78)
+2&B&h#o
+/"OS
+Q6!6!6!6!6!6!6!6!
+33dK
+2#dF
+32ch
+,33f7
+S1S6
+S8#'
+2#d@
+33dM
+2#eF
+S1S3do
+33d2
+2#e(
+R'1{
+b!R'
+C<2"b#d
+33dZ
+33eH
+R("I
+S71=
+C<2%
+R!R&
+2#d>
+33e#
+S8#V
+Q6!6!6!6!6!6!6!6!
+2#dm
+,33f]
+33d]
+33eI
+2#eD
+2&B#o
+n"OA
+/"Ov
+pr#d*
+b"b#g
+b!R$
+b"R%
+/"OT
+b#f8
+33di
+R#c3
+/"OT
+R#c7
+R#c3
+R#c3
+/"OT
+R#c7
+/"OU
+3h"(
+#i2)
+b!R*
+#8#8
+C<2"b&
+X78)	
+C<2"b#d
+Xr#et
+C<2+
+2.#a
+C<22
+2"b("N
+C<2"b
+B,1g
+2&B&i&h#o
+/"OV
+d#e3
+33dr
+d1S3e
+d1S3e
+33d#e
+2#d;
+32c3f@
+32c3d
+c:8\
+c1S9
+2"b'
+2".\
+b!R)
+X78)	
+C<2,
+#i2)
+C<2"b#d
+b*1\
+32.\
+2"bI
+b!R)
+78)	
+C<2"b#d
+S>2\
+X78)	
+2#dW
+33fT
+C<2)
+Q!R*1
+32c\
+32.\
+32cH
+R.1\
+32.\
+C<2*
+32.\
+f"b#g
+2&B&j&i&h#o
+/"Ow
+2#dH
+jA3a
+C<2"bL
+C<2B
+2"b("
+"".jB-
+#2.jC
+S"#3a
+33d#e,
+"b("3
+,33d@
+2&B&i&h#o
+/"Ov
+S:2*
+a"!1
+S>2+
+X2(0
+/"Og
+C<2,
+2#dE
+2"b1
+b!Rp
+"c3e!R#f(
+#i2)
+#i2)
+2#g)
+32c3d
+b*9p
+32.p
+S>2p
+2c2(
+c:2'
+S>2".p
+2"b}
+33d#e*
+32c3d
+32.p
+S>1p
+d1S3e
+f"b#g$
+#i2)
+a`q-
+B,:@
+2&B&j&i&h#o
+/"OV
+C<2,
+2"b~
+b!Rl
+"c3e!R#f0
+#i2)
+#i2)
+2".l
+B,9P
+R.9l
+32.l
+32c}
+S'3)
+d3e)
+C<2"b0
+d!R#e
+33fx
+C<2"b#d
+S>8l
+32.l
+32.l
+C<1@
+a`q#c
+j`z#a
+2&B&j&i&h#o
+c1S5
+R"b'
+R"b"
+c1S6
+/"OS
+3b!R%
+/"Oe
+C<2"b
+S>2*
+X78)
+2&B&h#o
+/"Ox
+b#f,
+b#f,
+(3a!
+`q3b
+Xq3b r+
+2&B&j&i&h#o
+/"Oe
+C<2"b
+S:2*
+h"(1
+2&B&h#o
+/"Og
+R#cLs
+32c;
+b#f0
+b#f0
+(3a!
+`q3b
+Xq3b r,
+3b)R,
+X78)	
+#i2)
+b)R,
+S'3)
+b#R%
+c7S<
+X78)	
+b#R%
+c9S<
+X78)	
+2&B&j&i&h#o
+/"OU
+c1S8
+S'3)
+b"b(
+S:2@
+h"(1
+R.8@
+h"(1
+h"(1
+2&B&i&h#o
+/"OU
+c1S7
+b"b'
+#a2!
+S'3)
+R#c2c7
+a"!1
+2"bj
+2".8
+2"bW
+2".8
+d!R#e3f
+2&B&i&h#o
+/"OV
+2c2!.
+"b#g
+C<2!b&
+e#f"
+2c3g
+B,32c
+2&B&j&i&h#o
+/"OV
+2c2!.
+"b#g
+C<2!b&
+e#f"
+2c3g
+B,32c
+2&B&j&i&h#o
+/"OV
+c1S:
+!b("^
+#a2!
+S'3)
+R#c2c:
+R*1H
+32.H
+2c3g
+2"b%
+h"(1
+h2b*8H
+Z1S::
+R.:H
+32.H
+32.H
+32c{
+R*:H
+32.H
+C<2)
+d1S3e
+2"b*
+R#c1S:
+;"("
+2&B&j&i&h#o
+/"Og
+c1S9
+!b("
+#a2!
+S'3)
+R#c2c9
+C<2"b
+2#d&
+2#e 
++#8#
+q3h@
+	3ar
+2#d3e9
+S2hL
+3h`xP
+3a`q
+f2c3g:
+#i2)
+2&B&j&i&h#o
+n"Oc
+c1S6
+R"b%
+/"OV
+3b!R".2c8
+e#f2c3g"
+h"(1
+2&B&j&i&h#o
+/"OW
+3b!R".2c8
+3i`y#j
+k3a`q#h
+e#f2c3g(
+h"(1
+2*Ly
+2&B&k&j&i&h#o
+/"OV
+32c2.8#
+B,38
+"b"(@
+2c3g
+S:2"
+d1S3e
+2"b7
+2&B&j&i&h#o
+/"OU
+31c3`	
+"b"(@
+3h"(
+2"br
+C<2"b`
+2"."
+d!R#e3f$
+#i2)
+2&B&i&h#o
+c62 
+C<2$
+32c8#%
+32c3d
+C<2"b#d
+2"b("
+32c3d
+/"O{
+"b("
+R"b("
+R%R("
+R$R("
+R"R 3
+2"b#ex
+S2Sp
+r#di
+r#d_
+,?&O
+2#dB
+33d6
+R"R	
+2#d*
+S2S3f
+R#R("
+S2S3g
+2&B#o
+B,33
+3a"!
+/"Ox
+C<2"b+
+2"#c
+33e#f
+	1S>9
+Z1S>:
+S2c<c4
+2&B&j&i&h#o
+/"OS
+S3h/
+e!R#f
+a2c<c4
+/"OS
+S02;
+#a2!
+B,8X
+/"OV
+S025
+R 1%
+R 1!
+C<2'
+"("	
+C<2'
+"c3e!R#f
+R,b#g
+2&B&j&i&h#o
+R 1%
+/"OS
+S029
+b#f4
+33d(
+R#c@
+2&B#o
+/"OV
+R*R)
+32c;
+<2!R%
+2"R*
+C<2(
+C<2(
+"c3e!R#f
+R,b#g
+2&B&j&i&h#o
+n"OR
+R-R 1
+/"OV
+<2"b
+C<2"b/
+i2)!
+f2c3g6
+2"b_
+2&B&j&i&h#o
+n"OR
+R-R 1
+/"OV
+S3a@
+f2c3gV
+d1S3e
+f"b#gC
+2&B&j&i&h#o
+/"OT
+b#c@
+b#cD
+Q01 
+c3aA
+!3aLq#h
+B,39
+3a"!
+n"OR
+,R#f
+S72N
+C<2"b("<
+C<2"b
+#c1S:
+;"("
+C<2"b#d
+R'1t
+c1S:
+2"b#dL
+2"bb
+"b#g=
+#a2!
+32c8#!
+S72'
+32c8#
+32c3d
+B,32c8#
+C<2"b("
+C<2"b#d
+2"b("
+32c8#
+/"OD
+"b!R!
+C<1c
+32c2!e
+a qc
+"b r#d&
+2c s
+"b#e[
+2c3d\
+2c s3dT
+2x78
+2&B&i&h#o
+c72(
+C<2"b#d=
+32c3d/
+2c8#
+/"OB
+"b("
+<2"!O
+2c<1
+C<2!b
+2c8#
+2c<1>
+C82"!
+"R#d
+3S3d
+/"Og
+R 1e
+a"b)!
+2#d}
+a"b)!
+2#dn
+a"b)!
+2#d_
+a"b)!
+32c0sA
+"b0r@
+"b2r%
+3?c1"+
+S'33
+3?c3`	
+b#`	
+C82/b#`	
+b#`	
+j0z@
+X0xW
+i(y@
+b3`	
+b3`	
+32c0s5
+32c4s5
+32c(s5
+32c,s5
+32c0s#
+i y@
+32cd
+1c'3
+2&B&j&i&h#o
+2"b0r
+C<2!b"!q
+"b#dj
+!b/b,1
+!c&s?c1"P
+r/b!!I
+1c8#
+s?c1"=
+C3d&
+c1!!
+2/b!!
+2/1h&x
+!b!/
+2cks?c3d
+r/b!!
+=B#d&
+r/b#d
+=B#d&
+/"OD
+b,b#`	
+c<c3`	
+33dY
+/"OB
+<c2!"b$
+S02D
+d1S3e
+<c3f#g
+C<2"b!
+32c3d
+C<2"b
+"c3d!R#e
+<c3e
+,b#f
+,b!!d
+d1S3es
+33dw
+V#gd
+s3e]
+2#dk
+<c3e
+,?&O
+C<2"b#dC
+b b,b#`	
+"b("
+C3`	
+b!#K
+B#`	
+b#`	
+r/b#`	
+2cos;c?c3d2
+2c02
+C<2!b#d
+2c2"
+"b"!
+2c3dv
+R"!q
+r,32c3d
+"b 1
+2c s3dW
+"b r#eG
+2c s3eS
+2cZA-
+2cZA-
+aZC-
+"b#d,
+2c3e-
+2c3g
+"bDr(
+S02P
+2cxs2"
+C<2"b.
+2c s3d
+"b r#e
+S8#o
+R!R@
+0s<2
+}ZK-
+rZI-
+}ZK-
+rZI-
+b)RD
+82"!X
+!R r".
+#i2)#c
+"b("
+;" !6
+~r)!
+2c3dd
+"b#g
+"b("
+"b("1
+32c3dQ
+2c3dK
+32c3dC
+2c8#O
+2cZA-
+aZH-
+C<2"b!b
+aZI-
+"b#d
+2c3e
+2&B&i&h#o
+/"OT
+c3d\
+2&B&h#o
+/"OC
+<c72L
+<c8#
+C<2"b("
+2q71
+<c72 
+C<2"b("
+2q71
+32.3b!R(
+,b#c
+B,33
+Q1S:1
+2#dw
+33dt
+,b 1
+,b'1i
+C<8(
+#h2(
+2"b#dC
+2"bT
+C<2#e
+2&B&h#o
+n"OA
+s2!<
+b'1$
+b#`	
+r/b!!T
+<2"b("
+R,b#d,
+2q71
+33e>
+2c<c-
+2#e(
+/"OB
+"b("
+S<c3e=
+S72H
+<2"b#d1
+<2"bT
+C<2#e
+0c<c
+0c<c<1
+"b#g
+#a2!
+B,3H
+2!R,b #$
+2s'3
+,b#g.
+2b#d1S3e
+2b#f1S3g
+,?&O
+<2$r)
+2c3dZ
+R"b("E
+"b#e>
+2c<c3d
+S3hH
+S'3)
+S"#!
+S2c8#;
+"b#e
+h"OA
+2c8#
+2c8#
+2c8#
+s3d!
+"b("
+C<2!b#d
+/"OD
+b,b#du
+R#c2S
+b,b#e3f_
++#8#
+b,b#dT
+R#c=
+c<cP
+b,b#d
+R#c1S5
+,32cI
+R#c=
+c<c3d"R
+r,b#e$
+b,b#e
+C<2.
+c<c3d
+R"R'
+S"#3h
+2"b,
+2&B&i&h#o
+/"OT
+ r#d(
+R#c#a qF
+2c#h,
+C3i(
+h"OA
+/"Ox
+S3h8x
+!(8s
+b#`	
+c3`	
+b#`	
+a#`	
+i#`	
+ r#eh
+c3`	
+	ZC-
+b#`	
+b#`	
+c3`	
+b#`	
+33d,
+2#d 
+33e0
+b#`	
+c3`	
+/"OD
+i#`	
+j#`	
+h#`	
+b3`	
+i3`	
+C<2+
+!R("
+ s3d-
+c3`	
+	ZC-
+/"Od
+C<2$
+S1S8#
+R!R#d
+S3a!
+#d1S3e&
+" !3a
+B(1)
+R#c1SZA-
+XZC-
+/"Oe
+b#f0
+S8#*
+c3f0
+R#c:
+S?c1"
+1S8#
+R!R#d
+/"Ou
+(1c4
+/"Oe
+R"R&
+R(B+!
+C;"$
+S;"$
+S"#3a
+R#c6
+!R#f
+R#c6
+#!b%
+S1S3d
+2&B&h#o
+/"Oe
+b"b+
+S3h"
+C<2"b#f6
+R/b!!
+C<2&
+!R("
+2&B&h#o
+R#c(s5
+#c0s#h x
+5a2/
+/"OB
+R!b("
+S3a3b$R
+R#c 
+3d%R#en
+3?c0
+R#c#h*
+81#h
+d%R#eR
+S3h3a,
+ s3dE
+R#c0
+x#a2
+x#c4
+"#d x
+ r#d)
+S3h0
+q3b2
+q3h4
+)#3d q
+2c3d
+2c3g
+R b("
+3?c3`	
+R b("
+R+b%
+S#3 
+R#c5
+S,33d
+S;c5
+/"Oe
+c3`	
+Q!A2
+2 r*
+S0c8#A
+R b 
+R b#fz
+R("@
+S0c 
+R#c4
+S,33d
+R b("
+<B/b#`	
+<2/b#`	
+C<2"b
+/"OC
+#a2!
+h"(1
+#a2!
+33d.
+S02;
+33dy
+d3eu
+C<2$
+d!R#eJ
+2#dI
+C<2$
+d!R#e,
+2#d.
+2#dB
+2c2S3f>
+Q!R*1
+2#d)
+2c8S3f$
+"b(r(
+Q!R*1
+2&B&h#o
+/"OB
+32c2"M
+"b#dC
+2c3eU
+S?c3`	
+3a"!
+"c3d!R#e'
+S3h,8
+,?&O
+(:"+(
+d1S3e,
+2#d/
+S?c3`	
+,?&O
+"b#ev
+!b#d
+"b#ea
+1c3d
+2c8#%
+"b("!
+1c'3
+3?c1"/
+1c72
+1c1"*
+!b'1
+S?c82/b!!#
+!b!!
+"b("F
+/b(1
+"b/b(1
+"b"!0
+<2"!%
+<B/b!!(
+2c8#
+2c3e
+"b#eR
+F?c3g
+?c3f
+S?c3f
+2c3d
+r/b#g4
+2c8#3
+"b#d
+3?c3f
+s?c3g
+<B/b$
+/"OT
+c sO
+S?hI
+B#i2
+/"OU
+R'17
+32c1
+R!R#R#e
+#c1c1!
+b#`	
+/"Od
+b#`	
+c1S1c1"
+R!b!!
+1c3d
+9"("
+9"("Z
+R!R$
+R/c3`	
+,31S8
+c3`	
+#8#E
+#1"|
+b!R#R'
+R!b@
+9"("d
+,8(x
+;"!!B
+#8#k
+R'1`
+R!b@
+9"("D
+3(s9
+c72c
+R%RD
+R#c!
+"#`	
+C9"("
+R!R#R#
+S723
+b%RD
+S3a1
+C3`	
+C9"("
+R!R#R$
+/"OB
+S72S
+R%RD
+S3a1
++#3`	
+S1S3S8
+""!0
+c3`	
+#8#a
+#8#.
+"b/b,1
+C9"("
+#8#9
+2c?c82/b!!p
+9"("i
+"("Z
+9"(",
+R!R$
+R/b#`	
+S3d7
+<2!R(
+b#`	
+R!br
+9"("
+"b(1
+2c8#
+S)#8#
+S)#8#
+S)#8#
+S)#8#
+,b("
+C<2!b,b
+2c8#
+"("^
+2!R%
+b!.+
+"b#e
+2!R!b
+9"("
+S)#8#
+<2!R%
+S)#8#&
+c3`	
+c3`	
+2&B&h#o
++#2!
+C;"!!
+#8#&
+32c2
+#1"	
+C9"("
+C9"("
+R'1$
+5S3d
+5S3d|
+2c8#
+"b#dq
+/"OT
+9"(" 
+R#c:
+#e?c3f
+2&B&h#o
+R%RD
+S'3#
+R%RD
+.6k7
+<98y
+"b#eh
+S82#d
+S5SD
+R!R#R!
+b#`	
+B,3:
+C3dC
+=B,1
+2c3e
+S?j@
+2/b8
+R,3<;
+2&B&k&j&i&h#o
+#c2S3
+#a3h
+1c3`	
+S3h1c
+c3`	
+3?c8
+<88x
+<1(q
+3?c3`	
+2c2"0
+c723
+C<2"b
+S724
+C<2"b("'
+C<2"b
+/"OS
+32c=
+32c;
+32c>
+S<2#e
+r"!<
+33d'
+S<2#e
+S<2'
+C<2"b#e:
+C<1n
+=c2!7
+C<2"b,1
+c=c3d
+2"b#e
+32c32
+b-b#dL
+B,32c3eI
+32"?
+S72$
+b-b#d
+/"OC
+S3a3b$R
+S2S8#
+R#c(
+C<2/b#`	
+R#c#h:
+<B,1
+3?c3`	
+S3h3i@
+<B,9
+R#c<
+c3`	
+b#`	
+R r#eO
+R#co
+d#e5
+"b#g
+R#c<
+33d#R#e
+h"OA
+C9"("
+c8#T
+S5SD
+)#8#6
+9"("
+R r#d
+S1cr
+"b("
+2c8#O
+#8# 
+#8#	
+S2"3
+2c8#@
+"b#d0
+?c3`	
+2c8#9
+"b#d
+"b("
+2c8#K
+32"K
+r"!E
+C2"B
+<2"!=
+/"OS
+R#c5SD
+/"Of
+R%RD
+<2".#a@
+?c3`	
+"("y
+b!b 
+9"("
+,b#f
+<c3g
+c s3d
+,b#g
+b!b@
+9"("
+)#8#
+,1(q
+b!b@
+C9"("
+2&B&i&h#o
+1S1c
+)#8#
+R!R#R"!
+S1S1c@
+S1S3S?c3d
+/"OT
+R#c7
+c3`	
+<2".
+(C9!
+"b("
+2c8#
+<2".
+9"("
+(C9!
+"b("|
+2c8#t
+C<2!b#`	
+,32.
+31c3`	
+h084
+R#d'
+S3h3a
+2&B&h#o
+)#h1
+)#h1
+)#h1
+h"OR
+2#fV
+S$s8
+QDq:
+q(s8
+q,s8
+/"OB
+r,b !?
+ c<c
+s<c0"7
+,b#1
+R!B'
+<2"b
+"("#
+C;""!
+C9"("'
+"b,1
+""!S
+/"OS
+2c3d
+ c<c
+3<c0"
+ b,b
+Xs32
+0c<c3`	
+R!B)
+,32c@
+9"("
+""!i
+,31SB
+,32S:
+2#R*
+,32S:
+(B)!
+,32S:
+h3ai
+2#R*
+(C9"("
+,32c 
+C<2#f
+/"OS
+R!B(
+<2"b
+C;""!
+C9"(")
+"b,1
+""!=
+9"("
+2"R*
+2c#h
+2"R*
+2c#h
+(B)!
+2"b 
+C9"("
+2c3g
+/"OB
+S'3\
+,33d
+/b#`	
+s82"!%
+c!C2"
+"b/b!!
+B#`	
+3?c3`	
+2c8s?c3`	
+2c8#
+32cs
+3?c1"t
+C<2"bn
+2/b#`	
+2c8#
+!b#`	
+b-b#`	
+b-b/b#`	
+b,c3`	
+c,b#`	
+/"OB
+,b"!e
+B,32c;
+3a"!
+S'3)
+b!R(
+X78)
+c1S7
+b!R(
+X78)
+s<2)
+#c1S8
+3b!R'
+S'3)
+c3ez
+C<2"
+b#fv
+2c3d
+S02b
+S02,
+Q!A!A
+2c#3
+2c2"N
+B"!V
+Q!A!A
+2c3d;
+(*#;(
+#a2!
+S'3)
+2c3d}
+b!R(
+C<2(
+h"c:8
+Q!R*1
+h"(1
+c1S9
+#a2!
+"b#d=
+e1S3f7
+S)#8#&
+2c'3
+2c2"
+"("%
+2c72
+2c2"
+"b#d
+2c02
+2c02
+"b("
+"b("
+!b,b#`	
+/"OD
+.&hL
+9"("%
+b!R#e
+c+#3`	
+c+#3`	
+c+#3`	
+c+#3`	
+R#c4
+c3`	
+c3`	
+$R("
+R$R#f
+S1S3ee
+2&B&i&h#o
+/"OD
+1S3f
+2&B&i&h#o
+2c?c1"W
+C3`	
+C3`	
+2c?cd
+2c?cf
+"b#g
+"b/bj
+|r#d
+2c3g
+"b#g
+"b/b
+2c\s3d@
+!b#`	
+c!C?c1"d
+/b!#
+2c<2"!
+2c<2"!
+2c<2"!
+2c<2"!
+<B"!
+=B"!
+b!B"!
+2c3`
+1c1/
+r/b!!z
+2c2/x
+"b\r#dN
+2c3d[
+"b(1!A!A
+S2"@
+s2"<
+9""!2
+"!"#+
+2c3d
+!b"!'
+32")
+"b#do
+33dl
+3!C!C2"_
+2c62
+2c2"U
+R"!U
+r"!Q
+"b#d
+"b$r"#
+"b$r"#
+"b,r"#
+"b(r"#
+b#c&
+h"Ot
+/"OT
+R"b%
+S4S3d
+R$R#d
+R$R"!
+"b#df
+C<2"b
+e2S3f1
+S1S3e-
+1S3d
+f2S3g
+,?&O
+S0c<c
+S0c<c
+#3dK
+b,b,b
+=B#d
+#3d.
+b,b,b
+=B#d
+R b,b#e
+e3b!
+b,b#f2
+c<c3g
+b,b#e
+2b#f1S3g
+b b,b#e
+c<c3f
+b b,b
+2#gi
+,b#e
+2b#f1S3g
+<c3e#a
+f!R#g
+b b,b#e
+b b,b#e
+b"b#e
+b b,b#e
+c<c3f
+e3b!
+b,b#f2
+b b,b#e
+c<c3f
+b,b#e
+c<c3f
+b b,b#g
+b,b#e
+e0c<c3f
+#3dD
+b,b,b
+=B#d
+R#c1
+c<c3e
+a b,b$
+b b,b#e
+1S3d}
+2#db
+f2S3ga
+2#d}
+,?&O
+b b,b#e
+b b,b#e
+b b,b#e
+ b,b
+ b,b
+c<c3`	
+ b,b
+c<c3`	
+ b,b
+<c3`	
+0c<c
+s<c0"
+ b,b
+ b,b
+0c<c
+s<c0"
+2c8#
+ c<c
+s<c0"@
+2c2"k
+2c8#
+ b,b_
+0c<c02U
+ b,b("
+q6!6!6!6!6!
+0c<c
+Q4!4!4!4!4!4!4!4!
+ b,b
+0c<c
+ b,b
+r,b !8
+0c<c@
+0"0!)
+c&#&#&#&#&#&#&#&#&#&#2/
+ b,b 1
+ b,b
+2c3d
+S0c%
+S02,
+S02u
+S029
+S02D
+S,35
+S,35
+S,35
+R b("
+0c8#
+Q0!4
+2#dQ
+,?&O
+"!3a
+R"!3a
+"b("
+r/b!!@
+"!3a
+"b("
+s?c1"@
+"b("
+"!3a
+"b("
+s?c1"@
+"b("
+/"OB
+2c8#
+s?c1"@
+h"Ot
+r/b!!@
+/"Od
+"b("
+r/b!!@
+2c8#
+/"Ou
+R,b#`	
+"b("
+r/b!!@
+2c8#
+"!3a 
+,b !$
+"b("
+s?c1"@
+"b("
+/"Ou
+2c8#
+s?c1"@
+/"Ou
+(3b(
+"b("
+r/b!#
+S<c0"
+"!3a
+R,b !3a
+R,b#`	
+s?c1"@
+"b("
+r/b!#
+S<c3`	
+r/b!#
+1c3`	
+r/b!!
+"!3a
+R,b !3a
+R,b#`	
+s?c1"@
+"b("
+/"Ou
+R,b !$
+"b("
+/"OS
+R,b #q
+2c8#
+s?c1"@
+/"OS
+,b#`	
+2c8#
+s?c1"@
+/"OS
+,b#`	
+2c8#
+s?c1"@
+"!3a
+R,b !
+"b("
+s?c1"@
+"b("
+/"OS
+R,b#`	
+2c8#
+s?c1"@
+/"OT
+)3a#`	
+3a#`	
+"b("
+/"OS
+R,b#`	
+2c8#
+s?c1"@
+2c8#
+2c8#
+r/b!!@
+s?c1"@
+/"Ou
+"b("
+r/b!!@
+/"Ou
+"b("
+r/b!!@
+/"OS
+/"OS
+"b("
+/"Ou
+/"OS
+"b("
+2c8#
+2c8#
+r#ex
+2c8#
+r#eX
+2c8#
+r#e8
+2c8#
+S4S3d^
+!!!#V
+B,34
+2c2"2
+2c8#
+1c02
+1c8#
+r/b!!
+/"OS
+b#`	
+33e5
+<c<1
+<c<2 b
+b#`	
+2#dD
+3b!R%
+S'3)
+2&B#o
+/"OS
+2#eD
+<c0.D
+,b#`	
+B,32c1
+r,b#`	
+B,32c1
+c<c82(
+R("%
+2"b!
+b,b(1(
+B,32c1
+33dH
+c1S7
+Q71)
+2&B#o
+/"Od
+S02)
+33da
+2#d]
+b"b#d 
+,?&O
+/"Ow
+"R".,
+#R(1
+S#3)
+2#d,
+"b#f
+2c3f
+2#d|
+a71G
+33dk
+33d\
+2#dY
+"b#f
+33d;
+2&B&i&h#o
+/"OS
+S,3@
+C<2"b-
+C<2"b-
+S;c;
+33d1
+"b#f
+2#d 
+33eX
+2&B#o
+/"Of
+C<2"b#e
+33dn
+2#df
+#i2)#c
+.#i<
+5	>r*
+2&B&i&h#o
+c0c<c
+c0c<c
+s9!`
+32c3`
+/"Od
+32c3e
+2"b#f
+0c<c<c
+C<2"b$
+h"OR
+30c0"
+R b,b,b
+2,b#`
+c0c<c
+R'15
+S72'
+S,33d
+R,b#fr
+#c#ap
+S'3:
+S,33d
+R,b#f
+S8#	
+R#c:
+/"OB
+R#cL
+R'1$
+S,38
+#h3a
+<2 b
+/"OB
+R'1"
+13h,8
+C3dO
+/"OS
+#h88
+e#f/
+b#dQ
+S<2#dC
+C<2"b#f
+R#c2S3f#a
+c"b%
+R#c2c6
+a!R'
+S8s3d
+2c3d
+b"R#f
+c3S3g
+"b#d
+f3b#R#g
+a1S4
+c<c6
+##cr
+"b#d`
+f3b#R#g
+a3b!R$
+a2c5
+b1S7
+##cH
+S8s3d
+U#f8
+R#c2S3f#a
+c!R$
+"b#d
+f3b#R#g
+a1S4
+##cH
+r#d(
+2c3d5
+b"R#f
+c3S3g
+c1S4
+/"OJ
+"b#f
+b2c6
+2c02
+R!R	
+R"b)
+r/b!!@
+"b#d
+32c3fv
+<2"b
+33d}
+r#df
+"b,1
+,32c3`j
+"b#dP
+c<c3fO
+s2"U
+a#`	
+a#`	
+2c3d3
+,?&O
+b,b#`	
+/"OB
+b,b#`	
+b,b#`	
+b,b"#
+S2c4
+,b 1$
+,b 1$
+,b 1$
+,b 1$
+,b 1$
+b,b#e
+b,b#e+
+2&B#o
+n"OA
+b,b#`	
+b,b#`	
+S2c5
+c<c3d
+R 1)
+c72H
+S0c 
+S0c~
+2/b,1
+r/b!!
+S0c 
+S0c3`	
+R b("
+S0c8#
+b/b#`
+/"Ow
+/b#`	
+C<2#d
+c,3?c3`	
+a71!
+c'3#
+<2#d\
+s?c3`	
+32c3
+?c3`	
+b!B(1
+C3`	
+C3dH
+a71X
+i,92)
+33g0
+c,32c5
+2"b%
+b#`	
+2!B/b#`	
+s?c3`	
+&B&i&h#o
+n"OA
+/"OT
+R#c;S
+R+R"b#d
+2!B/b#`	
+R(8!H
+3!C?c3`	
+32c3d
+r!B/b#`	
+C<2"b#d
+2&B&h#o
+/"Oy
+s3d3
+U#ft
++#8#
+2c3de
+2!#a
+S3a'
+3b7S8
+e8S3f#g$
+S3a(
+:S3d
+c<c3f#a
+b,b$
+3!C?c3`	
+b*R%
+s?c!
+R("W
+c:S3d
+a#c:S5
+c81!A
+*R#d
+b,b#f
+c<c3g
+s?c^
+#8#s
+C<2"b(
+32c8
+c3dQ
+b#eM
+S3hX
+R#cX
+e)R#f
+c<c3f#h
+b,b$
+c82&
+R#cX
+C<2#
+r/b`
+c3d'
+a2qX
+/b#`	
+S:S8#!
+R*R%
+b2rP
+?c3`	
+S3h+
+r/bd
+32c5
+R4r,
+c3`	
+R%RD
+#c!R!b!#
+S8S3f
+s3`	
+c!C81
+C<2#
+s?ch
+C<2!b@
+b#`	
+b#ee
+c3`	
+S3h1c
+S s3d`
+V#g1
+S s3d
+R r#d
+c<c4
+9"("L
+=B,1
+C<2+
+b-bh
+S3h5S1S8
+c3`	
+3h<8
+S'3	
+#c,3<2(
+Q!A\
+c3`	
+3h<8
+S!C?ch
+3?c3`	
+h78=
+c(3?c3`	
+/b(9
+2/b#`	
+s?c3`	
+2c3ez
+S!C?cN
+R#cN
+2/bN
+S3hN
+3?cN
+?c<2/b#`	
+R+R("
+2/b#`	
+s?c<1
+r/b#`	
+S<S'3
+c72,
+b#h<8
+2/b#`	
+S3h3ij
+	3ad
+r/b#`	
+R%RD
+"("^
+2/b#`	
+c,3?c3`	
+9"("	
+X!H!H
+2c3e
+?c3`	
+=B#d
+C<2+
+/b#`	
+C3dx
+"b#eu
+?c3`	
+2c3ei
+2/b#`	
+S3hN
+S3h/b^
+2&B&k&j&i&h#o
+n"OR
+b#`	
+s?c1!
+B,35
+r/b!#a
+31c32
+C<2!b,1
+R r#d
+31S8#
+)#8#
+2"!+
+,35S8#
+,32S8#3
+2c81
+S)#8#
+S)#8#
+S)#8#
+S)#8#
+R#cX
+3d#h
+e)R#f
+c2c4
+c<c3f
+S3hX
+s?c3`	
+R"b!
+9"("_
+"("Y
+S3h3a
+S3h3aT
+r/bT
+2c2"
+31S8#
+2c2"
+2c2"
+31S8#
+2c2"
+c4s6
+R%R!b
+S2c1
+#8#'
+R%RD
+<2)R#d
+S5S3dv
+S;S2c1S3dp
+C<2"b("	
+C<2"b#dc
+R*R("
+<2'R#dL
+,34S8#
+2#d2
+2c8#
+<2!R("
+"b("
+"b("
+<2!R("
+9"("
+<2#R
+c!C<2/b 
+b!B,1
+<2#R
+a!A 
+2/b#`	
+b!B"
+(3?c3`	
+S:S8#
+32c8#
+R#c;S
+32c3d
+f#cj
+S2c1c
+S2c1c6
+2&B&h#o
+s?c1"
+(3b#
+b+b3h
+2/b#`	
+b<2/b#`	
+2/b#`	
+/"Ou
+R b#f
+b#`	
+R/b#`	
+B#`	
+/"OS
+b"b"
+S0c8#,
+<2#d
+R/b#`	
+<c2/
+<c72
+,b'1
+/"OT
+32c4
+33fI
+2b#d1S3eE
+3<2"b#f6
+d1S3e2
+33d#e7
+f3g!
+B,3,
+C<2,
+2&B&h#o
+n"OA
+R b("!
+ b,b#e
+R b("
+b,cT
+R'16
+,1?b#`	
+r,b !p
+c<c7
+S3a0c<c
++#0!
+S ##dQ
+9"("
+R#c b,b
+"b("
+<c'3
+9! b
+9" 1
+)!0c
+)#01	
+)#71
+/"OB
+c<c7
+R"b#d
+c<c7
+2&B#o
+32c8#
+<2"b("
+R,b#d
+/"OC
+"b("
+"b r#e
+2c3d
+a#`	
+h#`	
+b3`	
+i3`	
+#i1)#c
+C<2"b#dw
+"b#dn
+3S3db
+!R#d\
+2c3dY
+2c8#
+2c8#
+2c8#
+2c8#
+2c8#
+2c8#
+2c8#
+/"OD
+c<c<c
+C3d%
+c<c3f
+c<c3e
+,b 1
+2c5S:
+b#`	
+b#`	
+b#`	
+B/b,
+B/b!.3b)
+b#`	
+B/b#`	
+2c6S3d
+2#eu
+2c6S
+2&B&i&h#o
+n"OA
+,b 1
+R b,b#ed
+c<c3e_
+b b,b#d
+b,b#e
+2b#f1S3g
+R#c8
+b,b,3
+3b#R'
+e1S3f8
+R#c1S6
+!R#d
+2S3d
+"b#d
+2c5S2c8#
+e1S3f
+/"Ox
+#i1)#c
+C<2/b,
+b3`	
+b3`	
+2#eK
+2&B&j&i&h#o
+/"Ow
+b0rH
+2c0s6
+2c3d
+;"!!,
+/"Ox
+C<2/b#`	
+b3`	
+b3`	
+b#f(
+;"!!
+2&B&j&i&h#o
+n"OA
+,b#e
+f3gn
+,b#e
+f1S3gT
+d1S3eD
+<c3f#gE
+,b#e
+f1S3gn
+d1S3e&
+<c3f#g'
+<c3d#a
+"c3f!R#g
+"c3d!R#e
+<c3e
+,b#f
+,b#d
+<c3e
+<c2"
+/"OD
+2c<2"!h
+9"!!b
+"b,1
+S02\
+"b#d(
+33ed
+C<2/b(
+;"!!c
+;"!!=
+32"x
+"b("
+2&B&i&h#o
+C<2"b#dh
+"b#d_
+"b#dT
+1S3dQ
+#R#dK
+"b#e;
+33f<
+"b#g
+2c3d
+b"R%
+2c8#
+"b("
+S<c3e
+2#f6
+<c3g1
+S72)
+B,1%
+!<c3d
+"c3d!R#e
+R,b#d
+X2(=
+R#ce
+S<c3e
+R#c%
+/"OC
+"b("	
+2c8#
+<2#d
+33d?
+"b("
+<2$R("
+r/b!!
+R,b#d
+S<c3e
+S<c3e
+R,b#d
+S<c3d
+R,b#e
+R,b#e
+S<c3d
+S<c3e
+S<c3e
+R,b#e
+ b,b,1
+C<2)
+2&B&h#o
+/"OC
+b,b#d2
+d2S<c3e
+d2S<c3e
+<c3d
+S"#3a
+,b#d
+c<c3d
+2&B&h#o
+SNs4
+SNs4
+b?c<2/b!!
+RNr$
+s?c1"
+SLs4
+c<2!
+r#dD
+/"OT
+R#c1
+/"OB
+R"b.R%
+<2(R"1
+2#dX
+c72#
+/"OC
+S3a!
+/"Ov
+a3bz
+b3h|
+/"OT
+h"(1
+#i2)
+h2(!
+c:2-
+#i2)
+d1S3e
+<2#f
+#i2)
+,?&O
+/"OU
+b#f8
+33dp
+s3eo
+2#df
+1#c2cl
+6	#aK
+d!R#e#
+2&B&i&h#o
+/"Of
+h"(1
+#i2)
+9#au
+q#cd
+R#cH
+i#a?
+a#c0
+r(33dX
+#i2)
+2&B&i&h#o
+#a2!
+#h2(
+h"(1
+h"(1
+h"OA
+/"OC
+<2#d
+/"OD
+R"b#d
+Q1S:1
+b"bh
+!R.1
+i")1
+2&B&i&h#o
+/"OD
+R'1m
+"i2j
+!R1S>2-
+b"be
+S>2/
+i2)!
+/"OC
+#i2)
+r/bC
+b!R"
+2/8#
+#c1S2
+;"(")
+/"OD
+d3e9
+2c3d
+S:2-
+S'3)
+2#dI
+2c3d
+b"bp
+S:2".4
+h2(!
+S>2-
+#i2)
+"c3d!R#e
+2&B&i&h#o
+/"Of
+2#e#
+c3f,
+S>2$
+c3f,
+b#f,
+33d)
+R/bP
+c>2,
+S>2,
+h2(!
+#a2!
+R#c;
+2&B&i&h#o
+/"OU
+c3f8
+S>2.
+S>2".
+32.8
+S>2.
+2&B&i&h#o
+/"OD
+R#c2c>
+2#e 
+"(" 
+R#cE
+R"b#d
+b!R'
+2".<
+2&B&i&h#o
+/"OE
+c2cI
+"b#d
+"b#d
+X78)	
+R"c:1@
+X!R*8
+d3eQ
+"b#d
+R*1@
+i")1
+S>2".@
+d1S3e!
+h"(1
+2&B&j&i&h#o
+/"OD
+2#dX
+"h2i
+!R1S>2".0
+1S>2".
+h2b.8
+Q1S>1
+c>2,
+h"(1
+#a2!
+2&B&i&h#o
+/"OD
+R"b#d
+S2c3d
+S2c3d
+b"bq
+>2".8
+b"b]
+#h2(
+C<2.
+#i2)
+2&B&i&h#o
+/"OE
+b!R'
+3a"!
+S'3)
+R#c2c7
+S'3)
+R#c2c7
+#i2)
+2&B&j&i&h#o
+/"Ow
+R'1=
+"i2h
+!R1S>2/
+S:1@
+6	#d
+"c3e!R#f
+2&B&i&h#o
+/"OD
+b"b+
+R"b#d
+X!R*8
+13b"b
+!R.1
+&	3aZ
+	3a?
+3d#e
+2&B&i&h#o
+/"OU
+s3d9
+2#e 
+S72]
+33d%
+2&B&i&h#o
+"b#d
+1S3d
+#R#d
+32c2/
+32c4
+R"b$
+R"b$
+R%R%
+<c'3
+b-b#
+S'3]
+C<2$
+R'1&
+33d4
+C<1N
+-b"!
+C3`	
+"b#e>
+2c3f<
+/"OU
+"b#eb
+2c3eU
+"b#eV
+2c3eH
+"b#eC
+2c3e@
+"b#e<
+2c3e%
+"b#e
+2c3e
+"b#e
+2c3e
+"b#eE
+2c3eH
+"b#eA
+"b#d
+2c3e
+"b#d
+2c3e
+2c3ep
+"b#eb
+2c3eW
+"b#eU
+2c3eL
+"b#eN
+2c3eK
+"b#e0
+2c3e0
+"b#e.
+2c3e#
+"b#e
+2c3e
+2c3e
+"b#e
+"b#d
+2c3e
+"b#dU
+2c3d)
+"b#e
+2c3e
+"b#e
+2c3e
+"b#e
+2c3e
+"b#dU
+"b r#e4
+2c3d
+0x#i
+a#`	
+h#`	
+b3`	
+i3`	
+2&B&i&h#o
+B,32c3dk
+2c3db
+#R#dQ
+2S3dN
+"b#dH
+2c3dE
+"1c3`	
+R 1(
+b b,b#`	
+a31v
+C<2!b#d
+C<2!b+b/b#d
+C<2!b#d
+C<2!b+b/b#d
+R 1'
+c3`	
+31c3dv
+31c3dm
+B,31c3dd
+C<2!b#dL
+c1"7
+31c3d'
+2c8#
+2c8#
+2c8#
+2c8#*
+2c8#
+2c8#
+2c8#
+,b 1
+R b,b#e
+c<c3e
+c<c<c
+S1S8#
+R b,b#d
+b b,b#d
+R b,b
+<c023
+R#c2
+c3e!R#f
+R!R("
+R#c2
+c3e!R#f
+R#c2
+c3e!R#f
+R b,b
+r#dx
+e1S3f
+e1S3f
+,b 1
+R b,b#e'
+c<c3f 
+R#c0c<c3d!
+b,b#e
+b,b<
+/"OD
+,b 1
+ b,b#e
+c<c3e
+b b,b#d
+R'1E
+h"OA
+b b,b#e
+S0c<c3db
+R#c0c<c3d!
+b,b#eL
+b,b%
+d<c3eB
+S2c8#
+s2/1a
+/"OC
+2&B&h#o
+b b,b#e
+c<c3e
+S0c<c3d
+/"OD
+b,b#e3f
+32c6
+/"Ox
+R0r,
+C<2/b,
+b3`	
+b3`	
+2#eK
+2&B&j&i&h#o
+/"Ow
+R#c0s
+e!R#f
+#1",
+/"Ox
+C<2/b#`	
+i0yH
+b3`	
+b3`	
+b#f(
+33d#
+;"!!
+2&B&j&i&h#o
+"c3d!R#e
+<c3e
+,b#f
+<c3d#a
+"c3f!R#gd
+<c3e
+,b#f
+<c3d#a
+"c3f!R#g1
+"c3d!R#e
+<c3e
+,b#f
+<c3d#a
+"c3f!R#g
+"c3d!R#e
+<c3e
+,b#f
+,b#d
+<c3e
+,b#e
+f3gd
+,b#d
+<c3e
+,b#d
+<c3e
+<c2"=
+"b,b#d/
+2c<c3e
+2c8#
+#1""
+"b,b#d
+!R#d
+2S3d
+"b#d
+2c5S2c8#6
+"b#dr
+1S3do
+#R#di
+S72+
+B,32c8#
+"b#dK
+"b#eA
+33f(
+"b#g
+2c3d
+c2S5
+2c8#
+"b("
+"b("
+R 1$
+2c<2"!
+B,14
+3i!)3b
+;"!!4
+2#ed
+"b#d4
+33ed
+"b,b#d2
+2c<c3e
+;"!!
+32"a
+2c8#
+2&B&i&h#o
+S)#8#Y
+s?c3`	
+S)#8#
+r/b#`	
+s?c3`	
+S)#8#
+B"!v
+2c8#
+2c2"r
+,b 1
+b,b#dM
+0c<c3d9
+ b,b-
+33eD
+/"OD
+b,b#dx
+b,b#d
+c<c3dS
+S2S7
+b,b#e9
+2&B&i&h#o
+n"Oc
+0c<c3d
+cOs3d
+s3du
+b.r#dq
+ b,b
+33eW
+9"#`	
+b#`	
+9"("
+<c)#8#P
+0c<c3dC
+R#cW
+2#e$
+ b,b#d
+ b,b#d
+2#eT
+<c)#3d
+2&B#o
+/"OC
+2"b@
+0c<c3d
+ b,b#e
+2c8#5
+ b,b#d3eC
+,33d=
+33e6
+ b,b?
+S?c3d
+2c8#
+0c<c
+S02#
+0c<c3g
+r")@
+h"OA
+2#dZ
+r#eV
+S,33e
+ b,b#d
+<c0"`
+b #<
+ b,b#dE
+0c<c3d3
+ b,b#d)
+ b,b#d%
+ b,b#d#
+R("H
+2c8#
+<c0!
+,b !h
+0c<c3dr
+2#eH
+?c3`	
+$R#d(
+$R/b#d
+<c0"
+/"OC
+0c<c3dT
+0c<c3g
+0c<c3g
+Q0q@
+#a2!
+ b,b#g
+0c<c3d
+ b,b#e\
+ b,b#g
+2&B&h#o
+4S3e-
+4S3e'
+R 1@
+"c3e!R#f
+5S<c4
+"c3e!R#fK
+5S<c4
+"c3e!R#f
+5S<c4
+/"OB
+"b("
+2c8#
+,b !>
+ b,b#dE
+ b,b#e0
+0c<c3d
+S'3)
+0c<c3dF
+ b,b#d
+0c<c3e?
+ b,b#e0
+2c8#
+0c<c3f
+R'1$
+2c8#
+"b("
+,b !
+2c8#"
+"b("
+"b("
+<c0"#
+f1S3g
+/"OC
+b"bN
+S'3)
+/"Oe
+<1&!&!
+S&#&#&#&#&#&#&#&#&#&#4
+h"(5b*
+c#`	
+!b,bF
+0c<c
+1c<2 b,b#df
+h"OA
+R8r#d<
+c72 
+#f3g(
+b&1C
+c62&
+2"b("
+S62$
+2"b("
+,33d2
+s3d$
+2"b("
+,33d
+/"OT
+R#c7
+/"OT
+R#c7
+b,bd
+#i2)#c
+2#d$
+2&B&i&h#o
+2#e	
+/"OD
+3a"!
+#h2(
+S2cQ
+X78)
+<2".
+h"(1
+2&B&i&h#o
+/"OX
+c2.8#
+,32c8#
+b".(",
+2c8#;
+2c2.r
+r"!p
+(3a!
+c1S3e
+f3S3g
+2&B&i&h#o
+3b!R%
+S'3)
+S2c)
+3b!R(
+S'3)
+,33d
+(3a!
+c1S3e
+2&B&i&h#o
+r#d:
+S8#(
+/"OC
+33ef
+R("L
+f,b#g
+/"OB
+,32.2
+S<c3g
+c2cx
+3b!R"
+S'3)
+<c+#
+2&B#o
+33dc
+2#e`
+R,b#g
+R,b#g
+33d]
+2#eZ
+2#dX
+s3e/
+r(33dX
+r#e?
+,33f2
+s3d)
+Q01'
+30c<c<c
+b b,b,b
+c<c<c
+-C01
+30c<c<c
+S72"
+S<2 b
+R#c0c<c<c
+b,b,b
+b,b,b
+S<2 b
+2#er
+2#ea
+2#eP
+R#c5S5
+/"OB
+S8#*
+/"OU
+R#c2c4
+<1"b
+R#c1S5
+s!RX
+d1S3e
+b!R%
+R#c:S5
+2&B&i&h#o
+30c<c3e
+<c<2 b,b#d
+d3b"b8r#e
+"3a{
+b"b#d
+c2c3e
+a"!1
+S3h7
+/"OC
+"b("
+2c8#
+R#cD
+R#c2c3d#a
+2c2!#c
+2c3g
+b"b#e
+2c2"
+2c3g
+R"bI
+b"b#d
+/"OB
+?c3`
+/"OC
+B!!w
+"b r#e
+"b#e
+#i1)#c
+a#`	
+h#`	
+b3`	
+i3`	
+"b#d
+C<2"b#d
+"b#d
+2c3d
+/"Ox
+2"b$
+3?c,
+a0qs
+"b0r&
+#j1*#c
+2c0s6
+2c3d
+;"!!J
+2&B&j&i&h#o
+/"Ow
+3<1@
+2"b%
+#a0q.
+2c0s6
+2c3d
+e!R#f#
+;"!!,
+,b#e
+,b#d
+<c3e
+,b#e
+,b#d
+<c3e
+,b#e
+,b#d
+<c3e
+<c2"a
+/"OB
+b,b#e
+2b#f1S3g
+#h,8
+B,32c5
+"c3e!R#fH
+h"OA
+c<c<c
+C3d#
+c<c3e
+c<c3e
+e1S3f
+"b#d
+2c5S2c8#
+/"OD
+2c<2"!a
+9"!![
+"b,1
+S02R
+2#ed
+3?c(
+2c3d(
+;"!!3
+2c<2"!
+2&B&i&h#o
+C<2"b#d
+"b#d
+"b#d
+"b/b!!x
+32cP
+3?c1"T
+2c3s
+3?c3`	
+"b#e?
+33fE
+"b#g
+2c3d
+3<13
+2"b'
+"b("
+c62'
+3Hs3
+/"OC
+S72%
+R"!3d
+Sps3d8
+q,1 
+/"OS
+b!R&
+f<c3g
+a,b$
+/"OV
+b!R/
+2".d
+S>2/
+<1Hq
+S<c4
+2#e'
+h"(1
+2&B&j&i&h#o
+/"OV
+b!R,
+Q!R.1
+2Hr&
+2".0
+<1Hq
+f<c3g
+2&B&j&i&h#o
+S,s3d
+/"OD
+S62S
+"h2i
+!R1S>2,
+S!R.3>
+s3dE
+Dr#d
+R(""
+S8#b
+s3dF
+s3d%
+X28:
+SAs3d\
+S22	
+2#d@
+h28%
+2&B&i&h#o
+c2S2"A
+"b&1#
+33d3
+"b#g6
+2c&3#
+"b#f
+2c3g!
+,?&O
+/"OB
+S62|
+30s6
+S1S8
+30s8
+3b!R'
+/"Og
+.*b!
+C<2&
+#c1S2."b'
+;"(")
+S3bk
+2".f
+h"(1
+R#c(
+2#d=
+c'3)
+S2.("
+.:c1
+2#d9
+c:2".
+Q2b*1
+X1S:8
+:c2.
+S3hZ
+.3bU
+2&B&j&i&h#o
+B,3<
+R.32.@
+32cps3e
+"b"#
+#a2!
+3Hs@
+2&B&i&h#o
+Dr#d2
+#i2)#c
+"b"!
+,10q
+c1S7
+C<2"b
+30s2
+"h2i
+!R1S:2(
+,80x
+<90y
+c62*
+B,33
+C<2"
+r/b#`	
+/"OE
+#a2!
+C<2'
+X78)
+#8#>
+d1S3eY
+33d#eT
+32c3d
+a2b*1
+X1S:8
+S'3)
+2"b~
+2".8
+32ch
+32.8
+#i2)
+2&B&j&i&h#o
+S,33dy
+2c<c-
+2#e^
+/"OD
+b,b#d!
+b,b#d
+c<c3dm
+R#c=
+c<c3d"R#e
+R#c=
+c<c3d"R#e
+S2S7
+32c0
+2&B&i&h#o
+/"OB
+"b("
+,1Pq
+"b#dJ
+"b#e4
+2c<c3d
+S3h9
+S'3)
+S2c8#
+2c3e"
+S1S:
+R!R*
+X2()
+2c8#
+S2"K
+S<c3d
+"b("
+h"OA
+"c3d!R#e
+/"OE
+S 3y
+R&1R
+Q!R*1
+2"b/
+S>1H
+2&B&j&i&h#o
+33e[
+0c<c-
+2#eC
+0c<c3d
+0c<c3d9
+ b,b-
+0c<c3d
+ b,b#d
+"b("
+S<c3e\
+2#fB
+<c3g7
+<c72.
+<c3a
+B,1.
+r".#
+"c3f!R#g
+2&B&h#o
+<c72
+<2(r".\
+0c<c3dS
+c"#,
+c1S3
+b"b("s
+h2(	
+C<2$
+2&B&h#o
+/"OD
+"b("
+2c8#
+,b'1p
+<c72O
+b .@
+9"("
+2". c<c
+<c'3
+c0.@
+<c<1@
+ !#d
+,b,30c
+,b,32.0a
+ b,b
+<c'3
+0c<c0
+<2*R("
+ b,b#dO
+c2.3
+ b,b0
+0c<c3d
+ b,b#eC
+0c<c3d
+#i0)#c
+#i3`	
+"b("
+r#ed
+ b,b#dE
+2c8#
+0c<c0.9
+33f(
+C<2#e
+:S8#
+c2.3
+C<2#d
+c02[
+0c<c
+&i".
+C<2(
+<c02
+2&B&i&h#o
+/"OD
+b,b#dV
+R#c=
+c<c3d"R,b#e7
+R#c=
+c<c3d"R,b#eB
+b,b#d
+c<c3d*
+S2S7
+32c;
+R#c=
+c<c3d#h
+e"R	
+2&B&i&h#o
+S72<
+c3`	
+r,b !F
+b'1 
+3:S8#
+c72 
+<2"b("
+32c8#
+/"Od
+Q710
+S,34
+S<2#d
+2&B#o
+C<2"b#f
+C<2"b#f
+2"b#f~
+C<2"b#g
+R#c1
+B,32c3f]
+32c3gh
+C<2"b#f`
+C<2"b#fX
+2"b#fC
+C<2"b#gL
+R#c1
+,?&O
+C<2#eU
+Ls<2#eJ
+2#dg
+33e[
+,?&O
+/"OE
+33g1
+33d$
+V#g$
+2&B&j&i&h#o
+/"OE
+33gt
+33d\
+V#g]
+2&B&j&i&h#o
+nB/P
+<c02/
+B,3<
+2 b,b,b
+2 b,b,b
+c72#
+b'1B
+s2(H
+s2(p
+2!R,8
+c3`	
+s>c0(
+c<2A
+C<2"b
+C<2"b("	
+C<1d
+2"b("
+S328
+R#1#
+2 b("	
+B,32cc
+c326
+32ch
+c<2'
+32cm
+2&i&h#o
+,b,33d
+S3a 
+,b,1
+R#c3d
+R#c3d
+/"OB
+R(";
+r,30c
+S<2#d
+c726
+" 3"
+c<2 b
+c72D
+c<2 b
+S,30c
+c72=
+)#3`
+/"OT
+<c3`	
+R#c0c
+ !3a
+"#`	
+R#c3d
+R#c0c
+#3`	
+9"#`	
+/"Oe
+9"#`	
+S0c<c<c
+C3`	
+ b,b,b
+B#`	
+X<c3`	
+b,b#e6
+R#c0c
+#3`	
+ b,b,b
+B#`	
+S,b#`	
+X<c3`	
+b,b"/
+S3b!
+b,b!
+a0c<c71
+R b,b
+S0c<c'3
+R b,b
+S0c<c02(
+S0c<c
+b,b#1
+b,b("
+r#dU
+b<c0"
+/"Ou
+S0c<c
+R b,b
+S0c<c02
+R b,b#`	
+b,b#`	
+c<c'3
+b,b 1
+b,b#1
+".("	
+c<c32
+,b("
+2&B#o
+S0c<c
+R b,b
+R b,b
+S0c<c02^
+R b,b("
+r#eu
+S0c<c
+c<c02
+c<c32
+S;"#`
+R<2%
+ b,b
+b,b#e*
+b,b("5
+b,b#e
+c<c3e
+R<2'R#`0
+/"Ox
+r5"6"6"(
+S<2 b
+2#e4
+r#dL
+d#eL
+37S8#P
+X78J
+C<2 b,b'8
+2a,1
+37St
+a#`	
+a#`	
+2&B&j&i&h#o
+c72%
+c<2 b
+c72%
+c<2 b
+<2"b("
+<c'3
+b#`	
+S0b !
+/"OC
+2c8#
+2c s3dq
+"b#d`
+2c3ep
+B$U)
+b3`	
+i3`	
+#i1)#c
+C<2"b#d
+"b#d
+3S3d
+!R#d
+2c3d
+2c8#
+2c8#
+2c8#
+2c8#
+/"OB
+9"#de
+b b,b#e
+R b,b#dY
+c2.1
+b b,b#d
+c2.2
+"b".4
+R b,b
+<c02
+S0c<c
+s3dx
+R!R#f
+2&B#o
+"b("
+R b,b
+,b 1
+32c5S4
+R b,b
+/"OF
+ b,b
+<c02
+"b%R$
+R'1W
+)#h1
+,b,b
+=B 8
+S>s:
+R>r#d`
+33em
+S3hy
+<2#dy
+33dy
+R'1G
++3j#`	
+3k#`	
+3k#`	
+2&B&k&j&i&h#o
+n"OA
+b,b#e
+2b#f1S3g
+R#c2S6
+"c3e!R#f
+b!R&
+Q71)
+!R#d
+2S3d
+"b#d
+2c5S2c8#"
+e1S3fs
+/"Ox
+3i!)3b
+C<2/b,
+i0yE
+b3`	
+b3`	
+2#eK
+2&B&j&i&h#o
+/"Ow
+"b0r&
+#1",
+,b#e
+,b#d
+<c3e
+,b#e
+f3gj
+,b#d
+<c3e
+,b#e
+f3gL
+,b#d
+<c3e
+<c2"1
+/"OD
+"b(1
+2c3d
+2c<2"!m
+9"!!g
+"b,1
+S02R
+2#ed
+3?c(
+2c3d(
+;"!!
+2c<2"!
+2&B&i&h#o
+C<2"b#dd
+"b#d[
+"b#dM
+1S3dJ
+#R#dD
+"b#e8
+33f:
+"b#g
+2c3d
+c2S5
+/"OC
+2c8#
+ r#d
+2c s3e
+"b#e
+"b%R"!g
+2c3dW
+2c3dO
+b3`	
+i3`	
+#i1)#c
+a#`	
+h#`	
+C<2"b#d`
+!R#dW
+2c3dT
+2c8#
+2c8#
+2c8#
+2c8#
+2c8#
+2c8#
+2c8#
+c<c<c
+c<c3e
+R#c1
+e!R#f
+b,b#e
+2b#f1S3g
+R#c8
+b,b,3
+3b#R'
+e1S3f
+R#c1S6
+"b%R"b("
+e1S3fS
+/"OD
+2c<2"!.
+9"!!-
+9"!!$
+"b,1
+2#ed
+1S3d(
+3?c(
+2c3d(
+;"!!O
+2c3d(
+#1";
+"b,1
+2&B&i&h#o
+/"Og
+r,32c;
+#i1)#c
+C<2/b0
+2c0s5
+2c0s5
+2c3d
+"c3e!R#f
+2#eK
+2&B&j&i&h#o
+/"Og
+r,32c7
+b0rv
+"c3e!R#fE
+#1"0
+h"OA
+"c3d!R#e
+<c3e
+,b#f
+<c3d
+e!R#f
+d1S3e
+<c3f#g
+2b#e1S3f
+"c3d!R#e
+<c3e
+,b#f
+<c3d
+e!R#ft
+R#c2c2!
+<c1!
+<c2!
+,b"!w
+/"OC
+C<2m
+b b,b#`	
+2c8#
+b#`	
+b 1O
+b 1n
+C<2!b#dt
+C<2!b#dO
+2!b#dF
+31c3d=
+c1"&
+C<2"b#d
+!R#d
+2c3d
+"b#e{
+33fz
+"b#g
+2c3d
+2c<2
+b"R%
+2c8#X
+32"Z
+C3dd
+1c82'
+3?c1"9
+<B,1
+"bZA-
+c3`	
+hZC-
+"bZA-
+2c3d$
+2c3g
+2c<c-
+"b#d
+33e0
+c72V
+"b("C
+R#c2S#a
+#c3S#a
+#c2c{
+<24r(
+2c3dX
+S3b~
+"b#e4
+2c<c3d
+S3h8
+S'3)
+C<2*
+S2c8#d
+2c3e
+#c1S6
+;"("
+30c<c3e
+2c8#
+"b("
+2c8#
+R 1<
+R 1+
+,14q
+R"!8
+2c3d=
+R,b#d
+"b("
+/"OD
+b,b#dQ
+c<c3dM
+b,b#dE
+c<c3dA
+b,b#d9
+b,b#d
+R"R'
+2"b0
+c<c3d
+c<c3d
+2&B&i&h#o
+/"OT
+30c<c3e
+,1?b 
+,9(y
+S2!=
+rr,1
+r,b !T
+33d6
+b'1 
+3=S8#
+c72 
+<2"b("
+/"OD
+3b!R(
+.2c7
+*(:)
+R"b#d
+R"b$
+S2c3d
+b!R'
+h78)	
+R"b#d
+f3g:
+a2cH
+32.#i
+#i2)
+S2.8#
+2&B&i&h#o
+/"OE
+R*1@
+32.@
+b"b,
+S>8@
+2".@
+2&B&j&i&h#o
+R'1)
+S3S1
+#c2S2.#a
+b".#d;
+c0.3`	
+9"("
+)#81
+32.0a
+32.0a
+33d#e
+2&B&h#o
+/"OD
+32.&h
+h"(1
+.2c8
+S>2".
+X78)	
+S2."
+b!R(
+h78)	
+R"b#d
+S>2".
+X78)	
+Y1S:9
+S<S8#
+S2c1
+d3e>
+R"b#d
+a3b"bJ
+2&B&i&h#o
+/"OE
+c1S6
+X78)
+S:2@
+b"bw
+S>2".@
+b"bf
+#i2)
+#i2)
+2&B&j&i&h#o
+2&B#o
+)#>c3`	
+".b#`	
+<2 b&
+33d,
+S02B
+S02V
+s3d>
+,?&O
+/"OD
+2".6h
+b 1;
+R 1)
+3S2.
+2#e2
+S<c3g
+R#c$
+s?c$
+S3h$
+S>2!
+2&B&i&h#o
+32c8#
+2"b#dI
+2"bT
+C<2#e
+,3(s;
+<8"x
+3(s?
+2&B&i&h#o
+n"OA
+/"OD
+R#c1S6
+;"("
+h"(1
+2"b#d
+X78)
+d3e<
+2#d9
+c1S9
+S'3)
+2"b|
+2".<
+32ch
+2&B&i&h#o
+c72$
+<2"b("
+)#01
+)#01
+)#71
+9" !
+b,bx
+b,bx
+C9" !
+<c)#3`
+30c<c<2,b#`
+b'1#
+r")<
+s>c0(
+c<2B
+C<2"b
+C<2"b("	
+C<1<
+2"b("
+S326
+R#1#
+2 b("	
+C<2d
+B,32cc
+c327
+32cl
+C<2"b'
+2&i&h#o
+n"OA
+S<2 b,b#d
+S,3	
+S<2 b,b#d^
+C<2"b#fN
+,?&O
+/"OB
+<2(R#1
+/"OB
+S72 
+C<2"b("
+S02	
+R 16
+C<2"b
+33dI
+33eK
+2&B#o
+2"b#`
+S72!
+33d~
+R 1	
+R'1-
+-C<1
+R,10!
+2&B&i&h#o
+/"OB
+S72!
+S025
+3"#N
+3"#4
+C<2"b
+S02Q
+R 1#
+31S2"D
+"b#`L
+33d,
+,?&O
+C<2"b
+C<2"b*
+C<2#f
+b#di
+S"#3a
+33dW
+,33e
+2c2!
+C<2"b
+C<2"b
+#a2!
+C<2O
+32c<8
+C<2#d$
+C<2"b
+2&B&h#o
+2#R("
+33d[
+B,33dP
+B,33d3
+,1`q
+,1`q
+,1@q
+,1@q
+,1 q
+,1 q
+S62[
+2#R("4
+/"OM
+33d 
+C<2#d
+"b("8
+32c3dD
+C<2"b 1Z
+32cO
+C<2#f<
+2#d&
+32c<
+3b!R(
+,?&O
+C<2"b 1
+C<2"b("
+C<2#d
+33ds
+C<2"b("
+C<2"b(1
+C<2"b&1
+C<2"b%
+R,32!O
+2a(1
+C<2#d<
+33d+
+-C<1
+2c8#9
+C<2"b
+2c8#
+C<2#d
+33dx
+/"OC
+R&1G
+S62;
+C<2#d
+R 1	
+33d 
+C<2#d
+2!R("
+"b#d
+B,37S
+h p)
+s?c3`	
+b!!N
+!b#eH
+s?c3`	
+32c4
+!b,b)
+1c3d
+!b#d
+r,b !3a
+33de
+C<2#da
+"b("
+C<2"b("
+C<2"b("
+"b("
+r/b#`	
+32c8#
+C<2"b}
+2"bk
+2c8#]
+C<2"b*
+S"#3h
+C<2#f
+2"b#di
+2c2(
+#a2!
+33d<
+C<2"bg
+h"(1
+c>2".
+h"(1
+2&B&h#o
+32c8#
+2c8#
+S02x
+"b/b(1
+s?c1"
+1c3ex
+0c8#
+"b("
+1c3`	
+r/b!!D
+2c8#&
+"b(""
+2c?c<2/b!!D
+32cA
+d1S3e%
+33d"
+ b("P
+2c8#;
+"b("7
+1a/b,1
+2#e8
+2c8#
+2c8#
+S)#8#
+,?&O
+2c8#
+"b("
+C<2"b("
+C<2"b
+C<2"b("
+C<22
+C<2"b("
+C<2&
+2c8#
+"b("
+/"O=
+B,32c<1
+2!b7
+C31)
+31c3`	
+a<1}
+b#`	
+e#f@
+c1S1
+32c.
+33di
+2#ee
+2&B&i&h#o
+C<2#d
+32cM
+32"J
+C<2"bo
+32cR
+Q!R.1
+C<2"b
+#a2!
+2c8#
+2c?c82/b!!>
+2c8#I
+32c5
+2a"h
+1S!R.3>
+C<2"b!
+#a2!
+"b("
+B!!;
+2c8#
+C<2"b("
+32c8#
+C<2"b("
+32c8#
+C<2"b("
+32c8#
+"b("
+"b#d
+2c8#
+"b("-
+S)#8#
+C<2"b("
+2c8#
+S)#8#
+"b("	
+C<2a
+"b,1D
+32cF
+C<2#fP
+C<2"b3
+X78)
+C<1d
+R&15
+33d`
+2#d>
+2#d9
+R("	
+2&B&h#o
+/"O|
+C3`	
+"b#f/
+c3dP
+31S3d`
+B,32c3eS
+31S3f
+!b("
+<2#d
+C<2"b
+R'18
+"2s3d
+B,82(I
+32c s
+R("C
+2"b#f
+S3dj
+s3e;
+2&B&j&i&h#o
+C<2"b#d
+s?c3`	
+"b%R"b("
+b.c0!#d
+/"OB
+b b,b#`	
+1c02
+S0c<c
+C2.U
+!Cds?c3dQ
+!Bdr+b/b#dE
+2&B#o
+c<c02
+b,b#`	
+b,b 1
+S0c<c<c
+b<2"/
+C<2"b#dD
+-C<1
+c2.3
+2"bZH-
+2"b"
+C<2"b r#e
+=B,1
+C<2"b r#e>
+33e-
+33f#
+"b#d
+<c<2,b (
+B,33S8#
+32.^
+iZC-
+32cJ
+32c s3d
+32cN
+<2#f
+B,33d
+B,32S8#
+32.s
+iZC-
+32c^
+=B,1
+32c s3e>
+C<2"b r#d
+C<2"bN
+C3`	
+2c3g
+2&B&i&h#o
+0c8#
+r.b #
+1a/b,1
+2!bK
+2!b#`	
+2!bK
+2!bdr'
+s<2!b#`	
+1c3`	
+r#`	
+b!B,1
+33d4
+33e$
+/"Od
+2#dI
+2".ZB-
+.ZA-
+<2#d
+<2 b("
+2&B#o
+33dK
+32c3f
+C<2#d@
+C<2"b#f
+2c8#
+<2"R("
+3?c1"
+!b,1
+!b,1
+B!!1
+!b,1
+30c8#*
+<2#df
+<c0.
+C<2"b
+31S5
+32S6
+31S9
+C<2"b
+C<2"b
+C<2"b
+C<2"b
+C<2"b
+C<2"b
+2c3d
+3>c0"^
+33d 
+C<2"b("3
+C<2!b#`	
+C<2!b#`	
+2#d@
+9"("I
+2#d 
+C<2"b
+C<2"b
+2&B#o
+a q\
+#i2)#c
+2c3d
+B,10
+x!H!H
+C<c3`	
+flf	
+3!C!C<c3`	
+C<c3`	
+"bDr(
+2cHs8
+33d<
+"bHr(
+33d<
+"bDr(
+33d<
+"bHr(
+33d<
+!b#d
+2c s3e
+2c3g
+2&B&i&h#o
+<2#d4
+"b#e#
+33f"
+"b#g
+/"Od
+=c3`	
+-b#`	
+=c3`	
+-b#`	
+d3e(
+2&B#o
+-b#`	
+-b#`	
+-b#`	
+-b#`	
+R#h"
+S3h"
+33S?c3`	
+34S1c=c?c3`	
+35S?c3`	
+36S?c3`	
+/"OW
+c3`	
+#=c3`	
+2&B&k&j&i&h#o
+n"OR
+2#d|
+S=c"
+s=c"
+C3`	
+b-b#`	
+b-b#`	
+!!3a
+"b/b#`	
+b#`	
+/"OT
+b#`	
+c3`	
+c!C?c3`	
+R#c3
+c3`	
+h#c<
+c=c3`	
+b-b#`	
+r#`	
+d3er
+-b#f
+d3ee
+c3`	
+s3`	
+a3b,
+b-b#`	
+c=c3`	
+r#`	
+3i#a$
+3h#i%
+3a#h&
+/"OT
+b3h$
+b3h%
+b3h&
+33d#el
+B#`	
+i3b-
+b-b#`	
+i3b$
+,b#`	
+h3i%
+b3h&
+/"OT
+b-b#`	
+R#c@
+b-b/b#`	
+,b#`	
+,b#`	
+,b#`	
+S3h"
+i3b.
+b-b@
+2/b#`	
+c=c?c3`	
+C<2#d
+/"OChSi
+FV$V$V$V$V$V$V$
+2c>TBa
+R")|
+t!DH$
+!DH$
+L6F6
+Ec=c3a
+,A3b
+U<5X
+T,4I
+Q!G!A
+L6F6
+T<4I
+/"Oj
+E\8L
+Ef$f$f$f$f$f$f$
+Q31-TX
+2FeFfR"a
+FeFfR
+FeFfT
+FeBdV
+Bc6S
+:BbP
+"b("
+EBb\8&R<
+B'3)
+[L=!
+S,37
+:"b	
+"b("
+,?&O
+/"OCi
+Rb"R
+Rb"R
+Rb"R
+dBc2S
+/"OSh
+5RUX%
+Rc2S
+6sdrb
+/"OCjSk
+vbeX%
+Rc2S
+CSd,
+uRd"%B*
+/"OChSi
+JTCf
+vbeX%
+Rc2S
+CSd,
+,4BTBc2c
+/"OSi
+GV$V$V$V$V$V$V$
+dC`	
+DC`	
+DC`	
+DC`	
+dC`	
+DC`	
+DCa)
+K!ZA-
+DCa)
+K!ZA-
+DCa)
+K!ZA-
+DCb)
+K"ZB-
+$C`p
+2&B&m&l&k&j&i&h#o
+/"OCiSgcj
+rcsd2cT
+FV$V$V$V$V$V$V$
+DV&V&V&V&V&V&V&
+TBc2S
+GsjH$
+b-bqa
+a'b)!
+bc7cqb-b=c9"!'
+TBb"R
+,?&O
+/chEQ
+S`!@
+fS`	
+Ab-b
+(-I=G
+{)mfk),E]e
+-`c`
+/"OV
+"b("
+b#c6
+<c3`	
+2/b#`	
+R!B!B(
+c1S=
+B/b#`	
+<c(3?c3`	
+3?c3`	
+R/b#`	
+R#c1
+c1c=c3`	
+C3`	
+C3`	
+/"OT
+R#c6
+c3`	
+s?c3`	
+s?c3`	
+c3`	
+c3`	
+b#`	
+/"Ox
+b#`	
+b(3?c3`	
+b"b$
+b"b$
+2/b#`	
+c3`	
+b(""
+c82/b#`	
+3?c3`	
+c82/b#`	
+c=c82(
+c3`	
+c3`	
+R#c@
+C3`	
+S1S4
+R!R$
+2c(s3d
+c3`	
+b#`	
+2-b#`	
+c=c3`	
+c3`	
+,b#`	
+<c3`	
+b"b'
+b-b#`	
+/"Oy
+"b("
+<B/b#`	
+<B/b#`	
+c<2/b#`	
+2/b#`	
+/b#`	
+b#`	
+3a#`	
+d3e 
+r/b#`	
+b#`	
+b#`	
+C3`	
+33d#e
+s?c3`	
+C3`	
+B#`	
+C<2#d
+s?c3`	
+c3`	
+r/b#`	
+c3`	
+B#`	
+r/b#`	
+r/b#`	
+r/b#`	
+c3`	
+d#ef
+s?c3`	
+c3`	
+r/b#`	
+c3`	
+B#`	
+r/b#`	
+r/b#`	
+r/b#`	
+d3e(
+C3`	
+33d#e
+s?c3`	
+C3`	
+B#`	
+C<2#d
+s?c3`	
+s?c3`	
+r/b#`	
+s?c3`	
+b#`	
+2#d3e
+s?c3`	
+s?c3`	
+s?c3`	
+r/b#`	
+C3`	
+B#`	
+C<2#d
+r/b#`	
+r/b#`	
+r/b#`	
+B#`	
+b#`	
+B#`	
+2#d3ec
+s?c3`	
+s?c3`	
+s?c3`	
+r/b#`	
+C3`	
+B#`	
+C<2#d
+r/b#`	
+r/b#`	
+r/b#`	
+s?c3`	
+b#`	
+c#`	
+B#`	
+b("x
+r/b#`	
+s?c3`	
+C3`	
+s?c3`	
+33d#eC
+c3`	
+b#`	
+h#`	
+i3`	
+3?c3`	
+2/b#`	
+/"Oy
+"b("
+<B/b#`	
+<B/b#`	
+c<2/b#`	
+2/b#`	
+/b#`	
+b#`	
+3a#`	
+d3e 
+r/b#`	
+b#`	
+b#`	
+C3`	
+33d#e
+s?c3`	
+C3`	
+B#`	
+C<2#d
+s?c3`	
+c3`	
+r/b#`	
+c3`	
+B#`	
+r/b#`	
+r/b#`	
+r/b#`	
+c3`	
+d#ef
+s?c3`	
+c3`	
+r/b#`	
+c3`	
+B#`	
+r/b#`	
+r/b#`	
+r/b#`	
+d3e(
+C3`	
+33d#e
+s?c3`	
+C3`	
+B#`	
+C<2#d
+s?c3`	
+s?c3`	
+r/b#`	
+s?c3`	
+b#`	
+2#d3e
+s?c3`	
+s?c3`	
+s?c3`	
+r/b#`	
+C3`	
+B#`	
+C<2#d
+r/b#`	
+r/b#`	
+r/b#`	
+B#`	
+b#`	
+B#`	
+2#d3ec
+s?c3`	
+s?c3`	
+s?c3`	
+r/b#`	
+C3`	
+B#`	
+C<2#d
+r/b#`	
+r/b#`	
+r/b#`	
+s?c3`	
+b#`	
+c#`	
+B#`	
+d3e}
+b("x
+r/b#`	
+s?c3`	
+C3`	
+s?c3`	
+33d#e>
+c3`	
+b#`	
+h#`	
+i3`	
+3?c3`	
+2/b#`	
+/"OF
+r/b#`	
+s?c3`	
+r/b#`	
+r/b#`	
+<2/b#`	
+s?c3`	
+d#ef
+s,3?c3`	
+c3`	
+C3`	
+d#e7
+C3`	
+s3d#e
+b#`	
+c#`	
+b#`	
+C3`	
+B#`	
+s?c3`	
+c3`	
+r/b#`	
+c3`	
+B#`	
+C3`	
+c3`	
+#h3`	
+C3`	
+c3`	
+#h3`	
+C3`	
+d#ew
+d#eE
+a3b"
+"bZA-
+"bZA-
+"bZA-
+2c3d!
+<2#f
+/"Of
+#i2)#c
+b#`	
+c3`	
+b#`	
+c3`	
+b#`	
+c3`	
+S82-
+B@r/b#`	
+c=c3`	
+b-b#`	
+b#`	
+S#`	
+c3`	
+X3`	
+b#`	
+S#`	
+R#c"
+c=c<c3`	
+c=c3`	
+b-b#`	
+b,c3`	
+c,b#`	
+=c3`	
+c3`	
+X3`	
+b#`	
+S#`	
+c3`	
+X3`	
+b#`	
+b-b,b#`	
+c3`	
+<2#d
+b#`	
+S#`	
+c3`	
+X3`	
+b#`	
+b-b,b#`	
+X3`	
+S3h%
+b#`	
+-b#`	
+d3eM
+b#`	
+S#`	
+c3`	
+X3`	
+b#`	
+S#`	
+X3`	
+S3h%
+b#`	
+-b#`	
+d3el
+c3`	
+X3`	
+b#`	
+S#`	
+c3`	
+X3`	
+b#`	
+S3h#`	
+b#`	
+"3i3a
+33d#e
+2&B&i&h#o
+/"Ov
+=B,1
+3?c3`	
+2/b#`	
+b-b#`	
+b-b/b#`	
+,b#`	
+/"OS
+33ej
+2#dc
+2#ea
+#c2c2.!R!
+33d9
+33e5
+2#d)
+2#d"
+33dq
+2#dl
+33dh
+33d_
+S72)
+S0c8#
+S0c8#
+33e	
+2&B#o
+/"Ow
+#i2)#c
+33e 
+b"R-
+b"RD
+3b!R`
+c3`	
+X3`	
+b#`	
+S#`	
+c3`	
+X3`	
+c<c3`	
+#<c3`	
+<2#d
+2&B&i&h#o
+#i2)#c
+b"Rp
+b"RW
+3b!RB
+b#`	
+S#`	
+c3`	
+X3`	
+b#`	
+a3b-
+b-b,b#`	
+a3b.
+a3b-
+b-b3h
+a3b,
+b-b3h
+2,b$
+a3b-
+b-b3h
+2,b%
+b,b#`	
+=c3`	
+S3h7
+#<c3`	
+2&B)
+&i&h#o
+#i2)#c
+33e(
+R"!J
+b"Rc
+b"R]
+3b!RF
+33e4
+33dD
+b#`	
+S3h#`	
+b-b#`	
+b-b/b#`	
+,b#`	
+3i3a
+d3e!
+33d#e
+2&B)
+&i&h#o
+/"Ow
+#i2)#c
+b"Rl
+b"R|
+3b!R
+c3`	
+X3`	
+b#`	
+S3h#`	
+2#d3e
+c3`	
+X3`	
+b#`	
+S3h#`	
+2#d3ee
+c3`	
+X3`	
+b#`	
+S3h#`	
+2#d3e7
+c3`	
+X3`	
+b#`	
+S3h#`	
+2#d3e
+2&B&i&h#o
+/"Ov
+b#`	
+<2/b#`	
+3b"b$
+b(12c3
+R#c1c3`	
+b#`	
+c,3?c3`	
+c=c3`	
+b-b#`	
+c3`	
+<c3`	
+<c3`	
+<c3`	
+h"b&
+c<2'
+2/b#`	
+r/b#`	
+2&B&h#o
+/"OS
+#a2!
+"b("
+33d7
+,?&O
+/"Ou
+#c#a
+C<2#d
+C3`	
+s?c3`	
+c3`	
+=c3`	
+2c(s3d
+b'1d
+b#`	
+=c3`	
+2c(s3d
+b#`	
+=c3`	
+2c(s3d
+"b(r#d
+2c8#
+r/b!!:
+r/b!!.
+:"!!'
+C1""
+<2#d	
+b+b/b#g
+s?c3`	
+b#`	
+32c8#
+r/b#`	
+r,b !3a
+B!!b
+c3`	
+-C<1
+33d0
+S72#
+,33d 
+!c3`	
+s?c1"m
+33dU
+<2#d
+9"("
+32c8#
+32c8#
+2c8#
+s?c3`	
+32c8#
+C<2"b~
+2"bl
+2c8#\
+C<2"b*
+S"#3h
+C<2#f
+2"b#de
+2c2(
+#a2!
+32cq
+C<2"b(
+h"(1
+2&B&h#o
+32c4
+2c<c)
+"b#d
+33e 
+32c8#
+2c8#
+2c?c82/b!!
+C<2"b("
+!c3`	
+s?c1"
+c3e^
+0c8#
+2c8#
+2c8#
+"b("
+"b("
+2c8#
+2c8#
+"b("
+"b("
+32cy
+0c8#
+2c8#
+"b#d
+b?c<2/b!!
+2c8#
+"b("
+2c3d
+2c8#
+2c8#
+"b("
+C<2"b
+2c8#
+2c8#
+"b("
+2a,1
+"b("
+2"b,1
+C<2"b
+32cw
+Q!R.1
+C<2"b?
+#a2!
+B"!D
+2c8#
+2c?c82/b!!^
+2c8#R
+s2"<
+C<2"bu
+C<2"b`
+#a2!
+"b("
+B!!5
+C<2"b("
+32c7
+S"#3a
+33dk
+h2(!
+C<2"b
+32c}
+C<2!b$
+2"bW
+C<2"bE
+"b("c
+S"#3h
+C<2#f
+2".@
+C<2"b
+2&B&h#o
+2c3d0
+/"OB
+B,32c<1#
+2!b7
+C31.
+31c3`	
+a<1}
+e#f@
+c1S3
+2#d"
+32c/
+C<2"b
+32c]
+2&B&i&h#o
+/"OB
+2"#s
+C<2"b
+2"#^
+382"(A
+C<2%
+C<2"b@
+33d'
+"b("#
+c)#4
+R#`	
+R&1)
+B,1@
+=B,1
+1b#`	
+r/b!#2
+C<2"b#d.
+C<2"b(1
+C<2"b
+32c82$
+32c4
+C<2%
+b82"!
+32c8#
+<2#dr
+2"b(32!]
+32!T
+h"OA
+s2!G
+32c3d>
+32c3e2
+s3d#
+C<2"b#e(
+S!s2"
+2c8#
+"b("
+"("4
+C<2"b("
+2"b0
+2c<2D
+33fP
+2#d$
+32c3
+C<2/
+S625
+33dB
+33d=
+2#d2
+2#d-
+2&B&h#o
+c3`	
+/"OS
+R%R("
+R"b(",
+R"R("
+R&1#
+S62B
+C<2"b&1
+C<2"b
+C<2"b
+C<2"b
+33d\
+B,1/
+32c=
+C<2"b2
+R"*#`
+2&B&j&i&h#o
+s3e[
+r/b!!W
+"b/b(1
+7S&3
+1cas'
+?c<9
+!b(1
+1c3`	
+s?c1"i
+"b("|
+!b#`	
+#c,3<2!
+s<1;
+r,80
+7S&3
+"b("
+2&B&i&h#o
+32cM
+8#)	
+"b"!#
+2c8#
+32c2.
+r#ds
+r#de
+1c8#
+c?c<2/b#`	
+1c1.	
+c3`	
+s?c3`	
+31c3`	
+r/bR
+s?c"
+2/b 
+"b("
+r/b!!	
+2c8#
+2#df
+c1.3h
+C<2E
+7S3d$
+2c8#
+2&B&k&j&i&h#o
+32c3dg
+s3dV
+C<2"b#fN
+3?c1"}
+C<2"b
+B,1G
+c72!
+s?c3`	
+!b#`	
+2c8#
+2!R"#
+C<2"b
+C<2"b
+C<2"b
+<2#d
+32c3gx
+32c8
+C<2"b
+C<2"b.
+C<2"b
+C<2"b}
+2&B&j&i&h#o
+s3e3
+,3?c3`	
+!b("
+R/b#`	
+1c8#
+S?c3`	
+=B,9
+32c$
+s?c1"
+33dK
+"b("Y
+r,3+
+"b("
+7S3d"
+s3dn
+s3d\
+2c8#
+c?c<1
+3?c3`	
+s3ak
+2!b#`	
+r/b!!	
+32c8#
+C<2"b
+B,1P
+33S2!D
+B,1/
+s?c3`	
+32c31
+32c3dO
+s3d@
+C<2"b#f=
+3?c1"N
+=B,1
+<s<1
+s?c1"#
+"b("
+/"OU
+S72(
+R'1`
+2"b#d
+r,38
+,32c3d
+2"b#d
+r,1T
+s>c0!
+2 b #
+R#1(
+C<2,
+s2"\
+R#16
+32c8#
+C<2,
+B,1l
+32c2!
+32cl
+C<2"b
+C<2"b
+C<2"b
+C<2"b
+,32c
+S<2h
+2#`	
+2&B&i&h#o
+/"OU
+R'1(
+r,38
+,32c3d
+2"b#d
+r.b #
+r"!^
+R#16
+32c8#
+C<2,
+B,1l
+32c2!
+32ct
+C<2"b
+C<2"b
+C<2"b
+C<2"b
+,32c
+S<2h
+2&B&i&h#o
+/"Ov
+C<2"b#f
+C<2"b#g{
+32c3eq
+32c3fU
+32c3fQ
+32c3e4
+32c3f&
+32c3g
+32c3e	
+C<2"b#f
+32c3f
+C<2"b#f
+C<2"b#e
+32c3f
+C<2"b#f
+C<2"b#f
+C<2"b#g
+32c3e{
+C<2"b#fc
+2&B&h#o
+n"OA
+R#c4
+/"Ou
+2#d1
+<c<2!
+/"Ov
+<c<2!
+c3`	
+c3`	
+b"b#d
+/"Ou
+b#`	
+s?c3`	
+c3a/b#`	
+c82#d
+b?c3`	
+32c8#
+C<2"bx
+32cR
+C<2#f\
+2#d+
+32c3d#
+C<2"b~
+"b"#T
+#a2!
+C<2"b
+"b("
+2c8#
+2c8#
+,33d
+,33d
+ b("
+32c3e
+s3dK
+C<2"b#eE
+/"OB
+<2(R#1
+Q4!4!4!4!4!4!4!4!
+/"OD
+S82&
+S'3$
+S<2(
+2"b")
+R'17
+s<1I
+33d*
+R'17
+s<1J
+33d*
+/"OT
+S$#$#$#$#$#$#$#$#:
+S72 
+R#h3i
+s<2"b!
+R'1/
+/"OU
+S$#$#$#$#$#$#$#$#8
+R'1B
+32c1
+R!B"#
+S726
+C<2"b|
+2"bD
+2"b@
+82".
+"b#g
+33d5
+2c3g
+2&B&h#o
+/"OS
+S72I
+2"b(
+S!C2!C
+2"b)
+C<2"b2
+32c3d
+32c3g
+32c4
+C<2"b#d
+,?&O
+/"OU
+R'1-
+R!B"#[
+B,32c7
+32cd
+C<2"b
+r#f<
+32c3g<
+33d0
+33d(
+2#dL
+33e#
+2&B&i&h#o
+R'1-
+R!B"#>
+B,32c8
+32cd
+,?&O
+C<2#d
+S$#$#$#$#$#$#$#$#2
+/"OD
+S82&
+S'3$
+S<2(
+2"b")
+S72-
+32c2"
+32c2)
+32c72
+2"b&
+R'1-
+#a3h
+C<2"b"!
+32c2)
+32c72
+2"b&
+/"OT
+h3i<9
+S$#$#$#$#$#$#$#$#6
+S724
+R'1/
+/"OT
+S$#$#$#$#$#$#$#$#6
+S724
+R'1/
+R!B"#
+S726
+C<2"b|
+2"bD
+2"b@
+82".
+"b#g
+33d8
+2c3g
+2&B&h#o
+/"OS
+S72F
+2"b(
+S!C2!?
+3"#,
+R"!,
+B,32c9
+32c2
+33d#
+2#d)
+32c3d
+,?&O
+/"OU
+R'1-
+R!B"#]
+B,32c7
+32cd
+C<2"b
+r#f<
+32c3g8
+33d4
+33d,
+2#dL
+33e 
+2&B&i&h#o
+R'1-
+R!B"#<
+B,32c8
+32cd
+,?&O
+"b#f<
+33di
+b#`	
+c02R
+b#`	
+31S3dl
+B,32c3ef
+31S3fT
+!b("
+<2#dT
+C<2"b
+,32c3d
+,31S3f!
+32S3g!
+!2r#d
+h x|
+3j"*3b
+C<2"b#e
+b#`	
+2cHs8
+1">c0!9
+2&B&j&i&h#o
+C<2"b#d
+"b("
+"b("
+b.c0!#d
+/"OB
+b b,b#`	
+1c02
+S0c<c
+C2.M
+!Cds?c3d=
+!Bdr+b/b#d1
+2&B#o
+c<c02
+b,b#`	
+b,b 1
+/"Ov
+32c3d;
+C<2"bDr*
+C<2"bDr
+aHq:
+c3`	
+S:"+
+32cHs8
+2S8#
+32c s3eK
+32c s3dD
+2c0(
+C3b3`	
+B#a`
+"b#d
+32c3e
+2&B&h#o
+/"Ov
+32c3d
+S:"&
+32cDs*
+C<2"bHr
+333333
+C<2"bLr*
+C<2"b r#eW
+33eM
+C<2"bN
+C3`	
+33f.
+"b#g
+2&B&h#o
+c72Z
+9"("C
+2"b("
+r/b#`	
+30c4
+b+b/b#e
+R!R4
+S1S4
+c72+
+=B,1
+S1S4
+c72Q
+30c4
+r+b/b#e
+s?c3`	
+/"OB
+c 3	
+<2#d$
+2#f]
+(r,1
+33e4
+a01	
+2&B#o
+/"Od
+2#d$
+Q71,
+s?c1./
+9C ()
+r/b!.@
+<2#d 
+<2 b("
+33d 
+2#e0
+b#`	
+32c3f
+33d 
+2#e0
+33fM
+b#`	
+32c3f+
+33d 
+2#e0
+b#`	
+32c3f
+C<2"b("
+C<2"b
+33d 
+2#e0
+a q\
+#i2)#c
+2c3d
+B,10
+x!H!H
+C<c3`	
+flf	
+3!C!C<c0.
+C<c3`	
+"bDr(
+2cHs8
+33d<
+"bHr(
+33d<
+"bDr(
+33d<
+"bHr(
+33d<
+!b#d
+2c s3e
+2c3g
+2&B&i&h#o
+,b,1
+0c<c
+"b#e/
+33f0
+"b("
+<2#d
+/"OS
+B,32c8#
+/"OC
+S72_
+C<2"b("Q
+B,31S6
+C<2#f4
+2#d`
+B,32c
+R.32.<
+32c8#Q
+32c6
+C<2"b]
+h2(!
+2&B&h#o
+"b#f
+,?&O
+#a2!
+"b("
+2c8#
+2c3d
+"b("
+2c8#
+2c8#
+32cR
+2c8#
+2c8#
+2c8#
+2c8#
+2c8#
+"b("
+c<c 
+S02=
+B,1C
+C<22
+2!R("
+B,1%
+2c8#0
+"b(",
+2c8#8
+"b("/
+2c8#'
+B,32c3e	
+C<2O
+2!RH
+2c'3
+2#dA
+2c3f@
+b#d7
+.6b'
+C<2"b8
+#a2!
+"b".
+32.&h
+b!R'
+C<2".
+c3dG
+31S;
+C<2"bV
+32cp
+"b"#
+h"(1
+2&B&h#o
+B,1l
+C<2g
+C<2!R,1
+C<2^
+C<2"b[
+31S<2"!I
+32c+
+C<2#f
+2#d&
+C<2"b
+2c8#
+"b("
+2c8#
+"b(1
+b!R/
+S"#3a
+33dV
+S:2D
+#a2!
+"b("8
+32(-
+C<2+
+C<2%
+2#d\
+32.D
+32(E
+C<2C
+C<2=
+32"-
+2c8#
+2&B&h#o
+R'13
+S8#!
+B,32c8#
+R("I
+C<2"b4
+2#dM
+B,32c3fE
+2#gC
+33d6
+B,16
+33g+
+b@r/b.
+c`s?c.
+2&B#o
+C<2"bk
+32cM
+C<2#e
+C<2"b6
+C<2"b
+C<2"bk
+#a2!
+C<24
+2!R0
+X78M
+C<2#
+32)!
+S<2"(8
+31S%
+2&B&i&h#o
+B,1N
+C<2H
+2!R=
+2c'3,
+C<2>
+s2"8
+B,16
+r"!/
+B,31S
+C<2j
+C<2!R(1
+B,1c
+B,1Y
+"b'1
+B,1R
+S<2"!L
+B,1J
+b82"!c
+B,1B
+B,1:
+S<2"!4
+B,12
+b82"!3
+B,1*
+32c<2"!
+C<2"b(8
+C<2!b#`	
+C<2#e
+S2"?c3d
+"b("
+2c8#
+R/b#e	
+S"#3a
+33f8
+33dK
+C<2"bz
+S"#3h
+2b.1
+1S>8
+32c5
+33e!
+C<2"b#
+C<2P
+,?&O
+B,32c8#
+r"/.
+<c'3
+"b("
+"b("
+"b("
+"b("
+"b("
+"b("
+B,1S
+B,32c
+"b("
+/"OW
+S 3	
+33S'
+2"b("
+2"b("h
+31S;
+2"R*
+2"b("
+/"OB
+31S8#!
+32c'3
+2c8#
+2c08
+C<2>
+2!R9
+,32c
+31S"
+r 3D
+B,1J
+C<23
+2!R/
+,32c
+<2"b
+/"OB
+32c'3
+-b"#
+c=c3d{
+c=c3d]
+!R'R
+0c<c
+ b,b
+B,31S
+B,31S
+s3dA
+B,10
+S 3%
+C<2$
+B,31S
+!R'R
+0c<c
+ b,b
+s3d{
+r#ds
+s3dp
+!R'R
+0c<c
+ b,b
+B,31S
+B,31S
+s3dL
+B,1H
+S 3'
+C<2<
+r#d6
+B,31S
+s3d,
+!R'R
+B,31S
+2c8#
+"b("
+2c8#
+"b("
+s2"d
+C<2"b,
+B,31SC
+S 3 
+2c3d
+31SH
+"b 3!
+C<2$
+!R'R 1l
+1S7S
+s08D
+S1S9
+C<2*
+2c3d
+"b#d
+"b("
+C#3L
+2"#*
+B,1(
+B,1!
+2c8#8
+"b("
+R!R)
+Q!R.1
+C<2"b
+#a2!
+C<2"b^
+h"(1
+2c<1
+2c8#	
+2c8#(
+C<2P
+"b("
+"b("
+2"##
+B,1!
+"b("
+C<2"b3
+C<2"b
+#a2!
+a2b.1
+X1S>8
+h"(1
+2c8#
+2c3d
+ b,b
+1S7S
+2c3d
+2(3d
+"b("
+r"!k
+s2"a
+2c8#
+R'1	
+2c3d
+C'3>
+S72 
+c)#:
+2&B&h#o
+"b("(
+2c8# 
+"b("
+2c8#
+"b("
+r"!U
+B,31S
+B#13
+2c2"
+r"!=
+2c3d
+B'1	
+2c3d{
+"b("
+"b#dZ
+b 1-
+2c8#c
+"b("_
+c1S1
+&h"/
+32/3a
+C<2!
+2c8#A
+"b("=
+s2"X
+2c3d
+)#8#
+"b#d
+33f2
+"b#g
+"b#d
+33f&
+"b#g
+s2"o
+32.&a
+h#`	
+32.&h
+78)	D
+32.&h
+2.2h
+d1S3eA
+i3`	
+2.2i
+d1S3e
+h#`	
+S82+
+c)#2.
+2#dZ
+33dL
+2c2"(
+2&B&i&h#o
+nB/2
+B,31S
+S1S9
+h"(1
+<c3h
+2"b!
+!R%R"!4
+#a2!
+C<2"
+/"OC
+S2!I
+hq#h
+B,33d.
+S,34
+!R%R
+S,38
+S'3c
+R<2"b("F
+S,32c
+2"b 3
+2"b@
+C<2"b
+S;c3
+/"OB
+1S7S9
+S&#&#&#&#&#&#&#&#6
+R'16
+1S7S
+C<2"b("
+R'1	
+,?&O
+/"OD
+!R%R.
+B,31S
+#a2!
+"b("
+!R'R#d0
+S'3z
+C<2"b 1
+C<2"b
+C<2"b
+1S:S01
+S'3.
+d3ey
+B,9o
+32c2)
+1S8S8#
+S02,
+c2c9
+32c<1
+b"b)
+2"b,9
+2"b,9
+S"#3h
+#;"("
+#i2)
+#i2)
+R#c2
+2&B&i&h#o
+s?c3`	
+r,b !3a
+/"OS
+#a2!
+S02m
+S023
+R!R$
+r/b#`	
+32c8#x
+B,32c%
+2h"i
+1S!R.33
+32.&i
+C<2"bx
+2c2(
+h"(1
+2"b4
+"a2h
+.!R1S>2!
+2&B&i&h#o
+/"Ov
+32cG
+C<2#fP
+2#d$
+32c3
+C<2/
+#c1S:
+2"b"#`
+C<2"b("'
+C<2"b
+2#eC
+R("/
+33d0
+33d,
+2#d(
+R("!
+C<2"b("
+b,bX
+r,b !
+2&B&h#o
+32c4
+"b,b)
+2c3d
+"b#d
+/"OB
+32c8#
+2c8#
+"b/b(1
+c3`	
+s?c1!
+2c8#
+"b("
+2c8#
+S)#8#
+C<2"bv
+2#e0
+2c8#j
+1h/b,8
+33dF
+#a2!
+C<21
+"b("
+0c8#
+"b("
+,?&O
+h"OA
+2c8#
+"b("
+2c8#
+"b("
+2c8#;
+1c8#
+3?c1"L
+C<2B
+2!b("
+S)#8#
+S)#8#
+!b("
+1b	r/b!#
+c3`	
+s?c1!
+s?c1!	
+:"!!
+b#`	
+r/b!! 
+B,1a
+b#`	
+r/b!![
+B,31c8#
+C<2G
+2!b#`	
+B,31c
+:"!!
+b#`	
+r/b!!
+C<2\
+#1"U
+C<2S
+!c3`	
+s?c1"
+C<2J
+B,31c
+B,35
+B,31c
+:"!!	
+b#`	
+r/b!!
+B,1W
+C<2D
+#1"=
+C<2;
+!c3`	
+s?c1"
+C<21
+B,31c
+B,35
+B,31c
+B,1_
+:"!!X
+B,1V
+b#`	
+r/b!!
+<2!R("
+32S8#
+<2$R("
+35S8#
+<2'R("
+<2)R("
+3:S8#
+<2,R("
+3=S8#
+C<2	
+2c8#
+"b("
+S)#8#,
+"("'
+2c8#
+S)#8#
+"b("	
+2c8#
+#c1S5
+2c?c82/b!!+
+R!R+
+#a2!
+"b("
+B!!a
+1"1!T
+R&1n
+C<1!!
+3?c1"
+!b(1
+?c3`	
+:"!!3
+!b(1
+!b(1
+C1"	
+!b("
+2#dh
+C<2"b
+C<2,
+Q!R.1
+C<2"b,
+#a2!
+B,9W
+C<2#f
+h"(1
+R!R)
+"b/b(1
+#a2!
+2&B&i&h#o
+r/b#`	
+/"Ox
+32ch
+C<2#f
+b#d;
+C<2"bH
+S!R.39
+S"#3h
+33d 
+S:2"
+C<2"b
+32cX
+C<2,
+"."i
+d!R#e+
+2#d(
+2&B&i&h#o
+/"OB
+s2"R
+32cv
+C<2#f<
+2#d9
+B,3<
+31c8#
+2"bL
+2"b1
+B,3(
+B,1/
+B,3(
+c72G
+r/b#`	
+C<2Y
+B,1S
+C<1(
+C<2"b
+c726
+r/b#`	
+C<1(
+C<2"b
+B,1Q
+C<2"b
+B,1&
+C<2"b3
+c72!
+s?c3`	
+c32!
+B,1V
+B,3 
+C<21
+C<2M
+C<2/
+C<2T
+C<26
+B,31c
+s?c3`	
+r/b#`	
+/"OD
+2#df
+C<2)
+C<2)
+C<2"by
+#a2!
+33d2
+C<2)
+32c(
+C<2)
+2#db
+b#`	
+33d-
+C<2)
+C<2"b
+a"!1
+33d8
+31cT
+C<2"b
+a"!1
+33d8
+C<2"b
+a"!1
+33d7
+C<2"b
+a"!1
+33d6
+C<2/
+C<2)
+C<2"b(
+32c(
+C<2)
+C<2!b
+C<2!b
+"("-
+2!b4
+31c02
+C<2"b
+a"!1
+33d7
+C<2"b
+a"!1
+b#f(
+2&B&i&h#o
+2c3eY
+,32c3d
+,31S3f/
+32S3g'
+2c8#
+2"b#e
+!b("
+2#dl
+c)#<
+S!C!C
+C=c3`	
+31S3dU
+2"b#eJ
+!b("
+2#dl
+C<2!R#d
+1c8#
+C<2"b
+32c3e
+2!R#fl
+1c8#
+2,33dl
+C<2"b
+R'1+
+B,82(2q
+32c sF
+33eo
+32c3f
+,?&O
+"b%R"b("
+/"OS
+b.c0!#d
+/"OB
+b b,b#`	
+1c02
+c0c<c
+!Cds?c3d]
+!Bdr+b/b#dQ
+/"Ou
+2#dM
+<2#d 
+<2 b("
+,?&O
+/"Od
+2#d@
+<2#d 
+<2 b("
+,?&O
+/"Ou
+2#dl
+<2#d 
+2#fH
+<2 b("
+,?&O
+/"Ou
+c,38
+<2 b$
+<2 b,
+<2 b.
+<2 b
+33e4
+30c,
+/"Ou
+c,38
+<2 b$
+<2 b,
+<2 b.
+<2 b
+33e4
+30c,
+3?c1"
+&s72
+C<2q
+C<2"b
+33e4
+/"OS
+c)#8#N
+c)#8#H
+<2#d4
+c)#8#
+<2#d4
+2#fD
+33eD
+s>c0.(
+33d4
+2#eD
+33d4
+2#eT
+/"OC
+,b,1
+0c<c
+<2#d 
+2!b#`	
+2!b#`	
+c02-
+"#`	
+b.b#e
+C<2!b
+<2#dm
+<2#dX
+2!b#f
+C<2#dJ
+"c3f!R#g
+33d9
+B,36
+f1S3g
+B,1&
+2!b#f
+<2#d
+/"Oe
+2#dT
+S"#3a@
+2#e(
+c3f0
+C<2"b
+c1S>
+$@02
+C<2"b
+B,1H
+a"!1
+B(3?c3d
+e3fS
+<2#dF
+c2c9
+2#dQ
+C<2"b
+b!R.
+e#f!
+/"Ov
+C<2r
+2!b$
+<2#d`
+<2#d[
+33dF
+S:"-
+b"b*
+C<2)
+C<2"b
+B,1L
+a"!1
+2/b#e
+2/b#eL
+r/b#`	
+33d1
+c,39
+b#f4
+33dY
+C<2)
+#c1S?
+C<2"bg
+B,1L
+a"!1
+2/b#e3f&
+c82P
+s?c3`	
+/"Ov
+C<2r
+2!b$
+<2#d`
+<2#d[
+33dF
+b"b*
+C<2)
+C<2"b
+B,1T
+a"!1
+2/b#e
+2/b#eT
+r/b#`	
+33d1
+c,39
+b#f<
+33dw
+C<2)
+#c1SD
+C<2"b
+B,1T
+a"!1
+2/b#e3fA
+c82P
+s?c3`	
+C<21
+33d&
+c2c:
+2#dt
+C<2"b
+b!RD
+c)#?
+q!AP
+3?c3e
+x!HP
+33dl
+x!HP
+(3?c3eT
+b!BP
+a!AP
+2#e|
+33f(
+q!AP
+,?&O
+B,35
+B,3O
+S1S7
+B,1=
+e1S3f
+e1S3f
+e1S3f
+,33d
+2c3g^
+B,1X
+"b"#
+C<2C
+2c2(
+C<2#d
+2c2(
+C<2#d
+2c2(
+C<2%
+"b#g
+,33d
+2c3g	
+a qx
+#i2)#c
+2c3d
+B,10
+x!H!H
+3!C!C<c
+"bDr(
+2cHs8
+33dX
+"bHr(
+33dX
+"bDr(
+33dX
+"bHr(
+33dX
+!b#d
+2c s3e
+2c3g
+,?&O
+2c3d8
+C<2#f<
+2c8#%
+2"b("
+"b#fS
+/"OB
+R"R)
+R"!X
+C<1d
+2!("
+R$R)
+B,3d
+C<2"b
+S72$
+RAr&
+B,32c3d+
+32c8#
+2c3e
+/R("
+/"OU
+2c3d
+C<2"b r
+.&c@
+aPq{
+,32.
+2c2!
+2&B&i&h#o
+R 1m
+2c82'
+2c3d
+32"k
+"b("
+"b"!v
+S!C2"
+32"_
+2c82'
+2c3dW
+"b#dM
+2c<2"!:
+R!B"!
+S2.8#
+"b"!#
+2c2"z
+2"b r&
+32cPs6
+)3a!
+hZC-
+C<2"b r#e
+"b#f
+2c3g
+2&B&i&h#o
+"b 17
+"b#1
+S)#8#
+S)#8#
+/"Ox
+V F 
+"b,1
+2c;c2"
+R("h
+C<2&
+#c s8
+ r#d
+XDx:
+R r#e
+"b#d
+2c3f
+2&B&j&i&h#o
+"b#d}
+33eZ
+"b#d}
+0c8#H
+r"!2
+s2"%
+"b#f~
+"b#fs
+"b#fi
+"b#ev
+2c3f_
+"b#el
+2c3fU
+"b#eX
+2c3fA
+"b#f8
+"b#f.
+"b#f
+2c3e'
+"b#e
+2c3f
+S720
+C<2!R#d-
+C<2"b#g
+2c3`
+B,3<1
+S8#r
+r#dY
+s3dO
+R'1+
+33d?
+2#d1
+33d*
+2#dd
+33dd
+xr,1
+r#d5
+=c3d%
+32c3d
+2&B#o
+S02#
+S022
+S72<
+,1?c;
+R'1<
+2c3f
+2c3f
+2c3f
+b#`	
+2c8#
+ b,b("
+"b#fi
+2c8#
+2c3d0
+/"Oe
+B,32c3eW
+2$R#fO
+2!R#eH
+C<2%R#f@
+=B,8
+d3e(
+2#R#e'
+C<2'R#f
+C<2#d
+C<2!b 
+2#dA
+33f8
+X08!
+33d#e+
+33g!
+2#eG
+33d;
+2#d&
+"("(
+2#dx
+s3d5
+,?&O
+/"Od
+S,32c
+S,32S
+R<2$
+S'3H
+S3h,8
+32S3f
+2"b#d
+d3e(
+33d#e(
+33d#e(
+33d#e(
+r#d#
+"b#d
+2c3e
+"b#e
+2c3f
+2c3e
+"b#f
+2c3f
+d3e(
+B#`	
+d3e(
+d3e(
+2#dU
+33dN
+2#d@
+s3d?
+2&B#o
+2c8#
+C;"!!
+33f8
+,?&O
+S)#8#b
+33dD
+33gJ
+s3`	
+b!B(1
+2&B#o
+b#`	
+1c8#
+S72(
+2c3d
+33d/
+2#f(
+B#`	
+,?&O
+/"Od
+33gL
+B#`	
+C0.#
+c82/b#`	
+B .#
+2&B#o
+/"OW
+b"b#d
+32S8#
+=B,1
+C<2"R*
+2"b#e
+c2c3e
+=B,1
+S,33d4
+S3h,8
+b!((
+,?&O
+=B,1
+0c8#
+".!c
+s?c1"/
+B!!,
+2.1a
+#c1S7
+R"b("	
+c3ej
+2#g4
+b!B(1
+B)!@
+82/b<
+C9"@
+33dd
+B)!@
+.ZA-
+b!.ZB-
+B)#@
+S2c3d
+@333?p
+b".'
+S2c3d 
+1c>c<c&
+R#c#h@
+2&B)
+&h#o
+/"Ou
+2#dk
+s3`	
+a!A5
+2/b 
+<c3`	
+,b#`	
+2&B#o
+/"Ow
+#1"h
+9"!!a
+#1"?
+9"!!8
+#1"#
+9"!!
+s?c3`	
+C;"!!
+C;"!!i
+C;"!!
+C;"!!
+C;"!!
+#1"e
+C;"!!b
+C;"!!S
+#1"F
+#1"*
+C;"!!
+#a2!
+h"(1
+#a2!
+h"(1
+#a2!
+h"(1
+d1S3e+
+U#f&
+S72H
+b!R(
+2&B&i&h#o
+/"Ou
+R#c:
+"b("
+/"Oe
+,32c8#!
+r/b#`	
+2"b#e&
+3?cH
+2/bJ
+C3`	
+2c3do
+"b/b#f
+2c8#
+"b#dh
+2c3ei
+2/b#e
+3?c3g
+,32c8#z
+,32c3e7
+2#g/
+!C82/bH
+S,3?cJ
+"b#dS
+2c?c3eP
+2c3dL
+2/b#e^
+C<2/b#g
+,32c8#M
+,32c3e=
+2#g6
+!C82/bH
+S,3?cJ
+2&B&h#o
+/"OD
+#i2)#c
+#i2)#c
+#i2)#c
+#i2)#c
+#i2)#c
+#i2)#c
+#i2)#c
+#i2)#c
+#i2)#c
+#i2)#c
+#i2)#c
+c2.#h2(
+!4b=
+X4(4(4(4(4(4(4(
+)$a-
+r4"-
+33d#e(
+d3e(
+33d#e(
+d3e(
+!3h(
+C<2!R#d 
+2#d?
+33d=
+C2. 3/
+R!b("Z
+r#dn
+s3dd
+d3e(
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+S1c&
+R!b("	
+!b("
+R!b#f\
+>c3g
+s?c$
+r/b$
+S1c3g
+32c4
+C/s?c$
+r#dp
+s3df
+d3e(
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+C<2"b#d
+R!b#f\
+>c3g
+B,9^
+>c<8
+C<2"b
+B,9T
+2#d#
+33f*
+32"+
+2#d?
+2#d9
+33f?
+#2"P
+2#d&
+;""!
+<2#fb
+9""!H
+2#fJ
+<2#f9
+9""!8
+33dS
+33dE
+#2"e
+As>cS
+33d!
+;""!?
+;""!
+2#d8
+2#d*
+33f'
+9""!
+Ar.b
+32"t
+2#d4
+33f:
+#2"E
+33d^
+C<2"b$
+31S2c2"
+2#fk
+2#d[
+33fY
+33dO
+33fP
+ds<9
+Pr,8
+33f@
+<r,8b
+Pr,34S4
+34S4
+(3a!
+s?c1"
+2#di
+33dg
+33dU
+.&a-
+!b("
+33d#e(
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`
+2#db
+33dL
+R!b#g
+2#f#
+!b!!
+;"!!Y
+h"(1
+2#d<
+32c3f>
+S72;
+,33d
+r/b!!
+9"!(
+2"b#d
+r#do
+s3de
+d3e(
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+r#d!
+S72P
+33d|
+C<2"b#e+
+R'16
+C<2"b#dT
+2#d^
+2#eP
+R'1C
+2&B&i&h#o
+d3e(
+33d#e(
+33d#e(
+33d#e(
+i#`	
+i#`	
+i#`	
+i#`	
+i#`	
+i#`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+C3af
+4	#c
+"b r#d4
+R'1G
+33d'
+2"b#e
+=c3e
+2"bX
+c08T
+B#c!
+C3b+
+R#c1c
+R#c1c%
+b 3T
+32cX
+C3a0
+4	#c
+"b r#d
+33d#e(
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+d3e(
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+33dj
+32cN
+32cX
+33d#e(
+33d#e(
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+33d#e(
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+d3e(
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+33di
+32cN
+32cX
+33d#e(
+33d#e(
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+a#`	
+b3`	
+33d#e(
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c-
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+2#e9
+2c s3d4
+C3aS
+4	#c
+"b r#d-
+d3e(
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+2#di
+33e8
+C<2"bN
+C<2"bX
+C<2P
+d3e(
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+R!b,
+r#d>
+S1c3g
+B,32c3d9
+=c3d
+S1c,
+R 1h
+r#d"
+S72G
+R!b#g
+2"b#d
+-b#d@
+R!b,
+S1c3g
+B,32c3de
+=c3d2
+S1c,
+S1c3g
+B,32c3d^
+=c3d1
+S1c,
+"b("
+X 8N
+d3e(
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+5b".
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+2#dv
+33eC
+R'1K
+B#i#`	
+B#`	
+31S3dB
+B,82(`
+B,32c3e2
+B,31S3fQ
+32c3g
+2"b#d"
+2"bn
+i0yg
+h@x1
+2"bS
+i(yL
+h,xE
+C<2"b r#e
+C<2"!]
+C<2"b0r
+h@xA
+C<2"bp
+h(xi
+a,qb
+C<2"b
+aZH-
+c1cx
+2"b#e^
+2"b#d
+91c(
+2c3dt
+2&B&j&i&h#o
+#i2)#c
+#i2)#c
+#i2)
+#i2)
+#i2)
+d3e(
+d3e(
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+2#d_
+33fl
+2#d:
+R*35
+2#f7
+S)#7
+R#c1c&
+R!b#`	
+s?c3`	
+r/b#`	
+2#d)
+,33f)
+d1S3e
+"c3d!R#e
+"c3d!R#eX
+!R*9
+S<2#d@
+#i2)
+2#d0
+33d$
+33dn
+C>2"
+X78)	
+S:2$
+S<2#d;
+R.33
+h"(1
+33d-
+d1S3e
+2#eD
+2#d3
+2#d$
+2#dT
+1S:1
+#i2)
+2#d 
+c1S4
+h"(1
+2#d=
+d1S3e7
+d1S3e 
+"c3d!R#e
+b#`	
+33d#
+2&B&i&h#o
+RPr#d$
+R r#d
+SPs3d
+r".)
+B,32c3e
+31S3f
+<2#d
+2#d3e(
+d3e(
+d3e(
+2#eQ
+2c s3dM
+-b/b:
+=c?c8
+-b/b
+=c?c
+-b/b
+=c?c
+-b/b
+=c?c
+-b/b
+=c?c
+-b/b
+=c?cd
+-b/bZ
+=c?cW
+-b/bO
+=c?cL
+-b/bE
+=c?cC
+-b/b=
+=c?c;
+s2.	
+R)r!
+31c3dp
+h08G
+b'17
+31c3e
+b#`	
+X9( 
+r/b#`	
+s?c3`	
+c<2 b (
+1c8#
+2#fW
+h"(1
+r/b!!
+c72	
+h08"
+2c3d
+"b#d
+2c3fr
+2#er
+!B(1
+2#fp
+33gH
+C<2"b#d%
+3?c-
+s2.)
+=c3d7
+S?c3`
+2&B&h#o
+q$!$!$!$!$!$!$!$!$!$!$!
+r4"4"4"4"4"4"4"4"4"4"4"$
+#i2)#c
+q$!$!$!$!$!$!$!$!$!$!$!
+r4"4"4"4"4"4"4"4"4"4"4"$
+#i2)#c
+$!$!$!$!$!$!$!$!$!$!
+r4"4"4"4"4"4"4"4"4"4"4"$
+d3e(
+d3e(
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+b3`	
+b3`	
+h#`	
+h#`	
+R/b!(
+2#dQ
+33dO
+/b#`	
+?c3`	
+s?c3`	
+B`r,9
+2/b*
+<r,9
+R!b("
+r/b#`	
+r/b&
+R'1c
+<s<1
+C<2/b#`	
+<r,8
+3?c:
+c)#4
+Pr,8
+#c<S#h
+Y+R*9T
+2#d$
+c:S:2%
+33d8
+33d+
+C`s<1
+<r,9
+3?c*
+<s<1
+C<2/b:
+R!b#f
+32c3d8
+2#d?
+33d8
+2&B&i&h#o
+b<2"/
+d3e(
+d3e(
+d3e(
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+d3e(
+2c8#
+!b#`	
+2c8#2
+2c8#
+2c8#
+?c3`	
+s?c$
+s?c$
+B#`	
+33dO
+b,b#d
+i>c<9
+b>c<2.b (
+c<c3d
+3>c0)
+R#c0c<c
+3>c<9
+b,b#d
+3	s5
+b>c<2.b (
+c<c3d
+3>c0)
+2.b,9
+"b r
+,:`z
+R/b!*8#
+R'1h
+<2#f2
+32c3f 
+d!R#e
+S72@
+xr,9
+33d6
+2#d0
+/b#`	
+2c8#R
+"b("
+2#dw
+R!BAr.b
+c32k
+S72&
+C<2!b
+33d	
+R'1!
+2#dA
+2#f<
+2#d*
+33d-
+c)#5
+!b#f
+33d1
+C<2,:
+#1*(
+2c3e
+"bpr%
+#i1)#a
+#i3`	
+#i3`	
+#i3`	
+C<2"b#d
+2&B&j&i&h#o
+33d#e(
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+d3e(
+?c3`	
+"b("+
+2c8#
+C3`	
+h08G
+C3`	
+r/b#`	
+B#`	
+c 3$
+B#`	
+33dp
+"b#eb
+2.b !
+c<c3d
+R#c3
+3>c<1
+b,b#d
+R#c2
+3>c<9
+! b,b#d
+b>c<2.b (
+c<c3d
+,9	y
+3>c0)
+R#c4
+3>c<9
+b,b#d
+,:0z
+j8zv
+<1Hq
+aPqP
+2`r)
+B,3<1
+#1!`
+S72l
+xr,9
+33dM
+2#dG
+2c1c:
+c)#@
+?c3`	
+"b("A
+B#`	
+2c8#
+2#d~
+33dw
+B#`	
+2#dC
+2#d/
+C<2,9
+X!HAx
+S?c3`	
+S'3{
+S72/
+C;"!)P
+C;"!(@
+,33d
+33f	
+R'1>
+2.bs
+3>cl
+2#f!
+S72%
+,33dM
+33fN
+33d=
+B#`	
+s?c&
+33d&
+c)#6
+2#dJ
+2#d<
+9"!)
+C;"!(y
+R!b#f
+S1c3g
+B#`	
+xs<:
+2#d^
+B`r,:
+#1*h
+#1)Y
+C`s<1
+C;"!*
+(3i!
+2c?cj
+i3`	
+i3`	
+i3`	
+2#fh
+C<2,9
+9"!)"
+C;"!(
+2c8#
+s3d~
+c<c3d
+3>c0)
+2.b,8
+"0c<c3d
+0a.b,1
+R b,b#d
+2.b (
+3>c0)
+<:	z
+2.b,8
+c<c3d
+0a.b,1
+b,b#d
+2.b ([
+33f+
+b'1/
+C<2"b#d
+2&B&j&i&h#o
+2c?cp
+"b/bt
+32cl
+C<2"bf
+d3e(
+33d#e(
+33d#e(
+33d#e(
+5b".5h
+i#`	
+i#`	
+i#`	
+i#`	
+i#`	
+i#`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+R'1e
+2!R#f
+C<2"b#ec
+32c3eM
+3"#@
+ s3e
+2. 3
+C<2!b("
+C<2'
+C<2"b("
+S7c;
+,32)
+S1c8#
+2c3d
+2c2"
+2c3d 
+"b#dX
+R#c1c
+9!b(
+,33d
+32c3eD
+R#c1c
+8!b(
+2"b,
+Y#a#
+"b#df
+R#c1c
+9!b(
+,33d
+32c3eS
+R#c1c
+8!b(
+S3hl
+B#ah
+$	3b
+R#c;
+32c8#
+32c@sB
+h(xm
+32c,sf
+2"b#d=
+32c0sH
+i@y!
+32c4
+i(y-
+2"b,r&
+C<2"b<r
+h0xg
+j@z2
+j(zL
+32c,sE
+B,32c<s
+hZA-
+C<2"bk
+C<2"bX
+C<2'
+r"*:
+=c3d
+S 3q
+S,3?
+-b#d?
+=c3e6
+"b#f%
+2c3g
+C<2"b#d$
+2#d>
+33d,
+"b#e#
+R'13
+2&B&j&i&h#o
+d3e(
+33d#e(
+33d#e(
+33d#e(
+5b".
+i#`	
+i#`	
+i#`	
+i#`	
+i#`	
+i#`	
+#i1)#c
+c2.#h
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+c2.#h
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+c2.#h
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+9"!!I
+C9"("
+#1"'
+#1"9
+S)#5
+R!b#`	
+c3`	
+C<2"b#d
+2#d:
+2&B&i&h#o
+/"OD
+3d#e(
+d3e(
+Pr#d
+d3e(
+2c?c1"
+"b/b#`	
+ b,b("
+C<2!b
+C<2*
+/b#`	
+s?c1!c
+c8#)
+r"!M
+2c8#
+2c3d
+2c8#
+2c3dN
+r/b!!
+2c3d
+1c2"g
+c2"c
+.%aD
+.5bD
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+#r/b$
+s?c.
+s?c&
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+.5bD
+a#`	
+a#`	
+a#`	
+a#`	
+a#`	
+33dI
+"b("
+2&B&i&h#o
+r/b!#
+2#d,
+2"b#f
+!b#`	
+33d#e(
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+#i1)#c
+#i3`	
+#i3`	
+#i3`	
+#i3`	
+(#i3`	
+#i3`	
+d3e(
+r/b*
+s?c,
+S,32
+!r/b,
+2#dd
+33dd
+2#dQ
+2&B&i&h#o
+"b#dj
+2!8#
+2c3d
+r"!;
+2c3d
+"#("
+/"Ov
+"b#d
+"b#d
+"b#d@
+#a2!
+<c0"
+2c3d
+2c8#
+"b#d}
+"b("
+ b,b
+0c<c'
+@r"/
+c&#&#&#&#&#&#&#&#2/
+@s2/
+a6!6!6!6!6!6!6!6!
+ b,b
+c72V
+0c<c
+C<2"
+S1S5
+0c<c
+ b,b
+/"OV
+#a2!
+<c3h
+C<8(
+#h2(
+0c<c
+S1S2.8#
+b.32.
+c1S>9
+C<2"b*
+#i2)
+ b,b,:
+b!R*31
+i")1
+2"b".
+ b,b
+2&B&j&i&h#o
+/"OU
+#a2!
+<c3h
+C<8+
+#h2(
+2#d 
+S<c3f	
+2&B&i&h#o
+ b,b
+0c<c<2
+b!R!
+ b,b
+<c<2
+R#c3
+ b,b
+C<2"b
+/"OC
+,b#c
+0c<c
+C<2'
+32c<
+S'3)
+2"#o
+S1S6
+ b,b
+/"Of
+ b,b
+<c<2
+b"b&
+R#c8
+32c8
+32.8
+C<2"b'
+C<2(
+S>2".8
+i2)!
+#a2!
+h"(1
+2&B&i&h#o
+/"Oe
+ b,b
+<c<2
+b"b&
+#i2)
+/"Og
+ b,b
+<c<2
+b"b*
+2#e3f
+33dl
+,b#c
+R#c1
+2&B&j&i&h#o
+/"Ox
+ b,b
+<c<2
+b"b&
+R#c8
+2#e3f
+,b#`	
+S:2@
+R.32
+C<2"b'
+#i2)
+i")1
+2&B&j&i&h#o
+/"Ox
+ b,b
+<c<2
+b"b(
+R#c7
+2#e3f
+c>2"
+R.35
+C<2*
+#i2)
+c>2!
+32c6
+h"(1
+2&B&j&i&h#o
+/"OU
+,b#c
+3b!R)
++#8##
+i")1
+0c<c
+2".<
+<c3f 
+2&B&i&h#o
+/"OU
+,b#c
+):"+)
+R.8@
+R"c:1
+Y!R*9@
+c1S6
+33d#eb
+2#dc
+R*9@
+i")1
+0c<c
+<c3f
+2&B&i&h#o
+/"OU
+ b,b
+b"b)
+b!R(
+,b#c
+32c:
+0c<c
+ b,b,8
+,b#f 
+B,32c?
+2&B&i&h#o
+"b r#dP
+"b#e(
+/"Od
+S 3$
+ s3dr
+S3a3b r
+D s3er
+"b#d3eV
+ r#d.
+b rO
+R/b9
+C<2"b
+B#a!
+/"Og
+"b("
+s?c3`	
+r/b#`	
+s?c3`	
+s?c3`	
+r/b#`	
+s?c3`	
+r/b#`	
+s?c1.
+S?c3`	
+b(1d
+c(33d
+?c3`	
+c3`	
+,3HsS
+3HsE
+<:Hz6
+,88x
+2 b 
+2/b#`	
+s?c1.
+3?c3`	
+9Hy8
+3Hs*
+<:Hz
+2&B&j&i&h#o
+R'1$
+"#da
+"b!b#`	
+2c1c3`	
+c3`	
+c3`	
+R#cL
+2/b<
+3b/R%
+3?c3`	
+#c6S2
+r"/d
+<2!b("
+<2#`
+r"/d
+/"OB
+2&B#o
+/"Of
+30c<c3dz
+2c<2 b,b#dk
+2&B&i&h#o
+/"Ow
+R!b#`	
+<c3`	
+d#e?
+<2!b("
+S3a3b!
+2/b#`	
+S3h1
+3?c3`	
+b#`	
+X!H!H
+R#c#h
+Q!A!A
+S3h3a
+R!B!B,1
+3b#R
+e/b#f
+R/b#g[
+#2":
+""!+
+R r)
+2c8#
+R#c#h
+R#c#h
+=B#d
+S3h(
+3?c3`	
+S3h3i:
+C<2/b#`	
+R#c#h>
+<B,1
+C<2#d
+"b#dN
+2c3eP
+B"!>
+2c3d!
+2c'3
+&j"/
+6b2/!
+#k2+#c
+b!RH
+"b"!
+"b"!
+b#c2c2!|
+#c1S1
+R"!"#
+2c82"!l
+"b("
+"b"!a
+"b"!^
+=B#dN
+b+b/b#d=
+#1"~
+!b#`	
+c;c2"o
+"b"!d
+"b r#d[
+S:"$
+C,3:
+2&B#o
+"b r#d
+2c s3e
+"b r
+S:"%
+S:"&
+2&B#o
+2cDs8
+"bHr(
+2c s3d
+c72g
+C<2(
+2&l&k&j&i&h#o
+32"B
+2c32	
+2c2"@
+"b(1
+"b#d
+#i2)#c
+C<2"b!R@
+2#eS
+C<2"b!R@
+33eD
+r/b!)
+31c3d
+!b#`	
+2&B&i&h#o
+/"Ou
+/"OB
+b&R'
+b#`	
+3?c3`	
+c3e#f
+c2c8
+c3`	
+/"Ou
+b%R&
+b#`	
+b#`	
+b#`	
+b#`	
+b#`	
+c3`	
+R(".
+<2.R("
+<2.R#d
+b("#
+c3`	
+S?c3`	
+c3`	
+/"OT
+ r#d*
+R#c#a qH
+2c#h.
+C3i*
+h"OA
+/"Ov
+"/b#`	
+2#ea
+2#fX
+S1c3`	
+c3`	
+#a3h
+c3`	
+2&B&h#o
+/"Oy
+S<2'
+c3a&q3b2r+
+3j3a
+3b3h
+S?c3`	
+<;*{
+2*r#e
+/"OC
+c3d,
+c1.3`	
+b!.#`	
+c1.3`	
+c1.3`	
+b!.#`	
+c1.3`	
+#8#"
+b#`	
+b#`	
+r#e]
+b<2/b#`	
+1S'3
+2&B&h#o
+/"Ox
+,b,b
+<c0.8#
+c<c02
+R<2%
+S3a2c@
++#2!
+s2.%h
+i3`	
+h#`	
+i3`	
+h#`	
+2*r#e
+2&B&j&i&h#o
+5b2/!
+c72E
+#a#c2c
+#2!#a
+/"Oh
+b"b%
+#3`	
+3a#h
+3i#j
+	3k#a
+3i3j&
+	3kP
+2&B&k&j&i&h#o
+%h"/
+b*r'
+#i1)#c
+h"OA
+R"b("
+2"b("
+R("+
+<2"b
+33dS
+R&R$
+S8#X
+R("U
+R#c2c7
+)#8#
+<2#d
+/"Og
+". !p
+9"("
+R.R)
+R"b@
+9"("G
+s2.%h
+R#c"b
+""#p
+R"R("
+b"Rg
+2c82"
+3?c3`	
+3?c3`	
+3?c3`	
+S2S8#
+2S78
+r#`	
+c!C!C?c3`	
+S3h2c
+#2(~
+R"R("
+S s3dj
+c3`	
+S s3eN
+S2c 
+#8#)	
+C3h!
+B#c7
+2c3d
+2&B&j&i&h#o
+/"OB
+R%R$
+S8#>
+R"b("
+2"b("
+/"OV
+2"b%R"!M
+b"!H
+<8*x9
+33e}
+32/2b
+32/2b 
+,3*s7
+)3h#`	
+3i#`	
+3i#`	
+<9*y
+h#`	
+h#`	
+b3`	
+a3`	
+%c"/1
+b b,b,b
+/"Ou
+2&B#o
+/"OU
+<2"b("f
+3#ah
+3#a^
+3#aT
+3#aJ
+2&B&i&h#o
+/"OE
+<2"b("w
+"b#d
+r"."h<8
+r".!c
+3?c1"
+3?c1)
+s2.2b
+2&B&j&i&h#o
+/"OS
+<2"b("
+ r#dH
+ s3e,
+ s3e%
+ r#d
+C<2#f
+/"Ou
+2&B#o
+/"Of
+<2"b("
+3#a3
+83a"
+3?c3`	
+2&B&i&h#o
+/"OE
+<2"b("
+"b#d
+r"."h<8
+r".!c
+3?c1"
+i?c89
+r"."j
+2&B&j&i&h#o
+/"OS
+S62\
+<2"b("M
+c3`	
+c3`	
+c3`	
+2c3d
+"b#g
+/"Ou
+R#c/
+2&B#o
+/"OU
+<2"b("
+R#c0
+R#c0
+<8#a
+2&B&i&h#o
+/"OF
+<2"b("
+R#c0
+s2.1a#i0
+S3h0
+Y3a0
+2/b#`	
+2,r"."k
+,3;S
+36S?c81
+r"."j
+R#c0
+s2.2k#a0
+2&B&k&j&i&h#o
+/"OS
+<2"b("
+ r#dU
+S3a0
+ s3e6
+<2$R#dV
+S3h<
+ s3d
+"b#d
+"b#g
+"b#fv
+2c3el
+U#fe
+<B/b#`	
+"b("!
+2c3d
+2c1S
+"b#d
+"b"b
+2c8#
+"b("
+2c3d
+"b("!
+2c3d
+"b("
+2c02R
+2c8#
+h"OA
+2c8#
+"b("
+"b("
+2c3d[
+"b("
+2c8#
+9"("
+"b("
+32"=
+S02m
+2c2c
+2c8#
+"b("
+"b("]
+"b#dU
+2c5S
+"b#f8
+2c3e-
+2c2S
+/"OB
+R'1&
+"("u
+)#8#-
+R#c8
+)#8#
+3a"!
+/"OB
+R'1N
+<2#ec
+2c8#
+S)#8#
+"b("$
+"b("
+2c8#
+"b("F
+2c8#
+1c3`	
+"b$R
+!b!!@
+2c4S
+R 1M
+2c6S
+R'1-
+C9"("
+"b("
+S)#8#
+"b(")
+S2c3e
+S8#>
+"b#R
+"b#R
+"b#R
+"b#R
+"b#R
+"b#R
+"b#R
+"b#R
+,b!!
+2c3S
+,b!!_
+2c3S
+,b!!=
+2c3S
+R!R(
+s2"E
+2c3d?
+"b#d,
+2c3eD
+"b#d'
+R"!p
+5b2/!
+a#`	
+a#`	
+b3`	
+b3`	
+a#`	
+5i2/
+a#`	
+R"!-
+5b2/!
+a#`	
+a#`	
+b3`	
+b3`	
+"b(1
+2c3ew
+C(36
+!b(1
+C<2/b!!g
+<B,1
+3?c3`	
+C<2/b#`	
+<B,1
+"bZA-
+c3`	
+hZC-
+"bZA-
+"b r#e)
+"b r#e#
+2c s3d
+"b#d
+2c3e
+"b#g
+s2/K
+32"G
+32"G
+b!!E
+<2"b
+2c3d+
+2c8#
+"b#d
+2c8#
+"b("
+"b 1B
+!b"!
+"b#d
+2c3e
+32c3g
+s2"z
+2c8#0
+"b#d
+"b#ex
+"b#dl
+2c2"i
+2c8#3
+"b#dd
+"b#eP
+"b#dD
+!b!!;
+"b("
+32".
+C<2"b#e-
+c<2"!
+Q71E
+C<2"
+"b("
+32"s
+C<2"b#es
+c<2"!c
+s?c1"]
+r/b!!T
+"b("
+32"=
+<2"b
+c=c3dA
+1c3`	
+r/b!!.
+s?c1"
+2c8#
+2c8#-
+2c8#
+c824
+c712
+%c"/1
+/"OT
+C<2"b%
+6b".6id
+(3a!
+/b#`	
+,b#`	
+R#ci
+S3h4
+C<12
+2&B&i&h#o
+S3ar
+c1"g
+b#`	
+c3`	
+b#`	
+S3a,
+b#`	
+c3`	
+S3a.
+S3a%
+/"OB
+<2"b#e
+2!R#f
+=c2!
+<2"b
+32c3e
+,31S3f
+2,3"
+R b("6
+r.b !
+R b("
+/"OS
+C<2"!
+2"2!D
+,30c
+R#c6
+2"b#d
+2"b#e
+S82%
+2 b #
+R#c8
+2c3eS
+2c3e
+<c71
+R#c$C:34
+"(01
+h4(4(4(4(4(4(4(
+#2/T
+r"!V
+"b&1
+2c82,1
+s2">
+s2":
+"b&1
+2c82!
+"b#e
+S<2#d"
+2c3d
+"#("
+"b("
+    
+/"OC
+#i2)#c
+2#dy
+,?&O
+/"Oh
+S,32c8#G
+2"b#e%
+33d6
+32c8#
+,?&O
+r/b#`	
+/"OB
+b#`	
+C<2*
+S,3<
+S02	
+S02,
+2c8#
+:""!K
+2c3eA
+#2"?
+"b#e9
+:""!,
+c2c1
+b#`	
+C<2&
+9"("
+S+#5
+9"("
+S+#5
+C9"("
+S+#5
+#8#!
+(C9"("!
+S+#5
+s2"5
+2c3e&
+S8#E
+"b("
+2c<2"!
+c2c1
+c2c@
+b!RD
+/"Oe
+,32c8#
+S!C82+
+,32c8#S
+!C82/bD
+B#`	
+,32c8#
+2#e!
+2&B&h#o
+"b("t
+2c8#
+"b("
+2c8#
+"b("]
+"b("
+"b("
+R("L
+2c8#
+2c8#
+"b("
+"b("
+2c8#
+2c8#
+,?&O
+R"/G
+Sps2/=
+C<2"/6
+C<2"//
+C<2"/(
+C<2"/!
+C<2"/
+C<2"/
+C<2"/
+<2"/
+<2"/
+/"OT
+S3aM
+R#c6
+S3a)
+#c<S:
+b#f4
+s<2!R"1]
+#c1S7
+31S22'
+S2"_
+R"b'1
+2&B&h#o
+n"OA
+&i"/
+6b2/!
+c(s3
+&i"/
+6i2/
+&i"/
+6i2/
+/"Ow
+S>2'
+S>2(
+S>2(
+S>2(
+S>2(
+33d#eV
+/"OU
+R8r#d4
+Sps3d/
+33d!
+C<2#d
+C<2#d
+<2#d
+h"OR
+/"OS
+<2#d"
+r/b#`	
+h"Oc
+2c3eG
+/"Ou
+b"b$
+c1S7
+/"OS
+R'1	
+/"OB
+r#dn
+d3eU
+h"OA
+#a!R
+S1S3e
+s3f0
+"b#e
+/"OC
+2!R#d
+C<2"b#d
+=B,1
+=B,1
+s<2"b#dU
+"b(""
+33d1
+h"OA
+R 1`
+C<2"b#d
+R#c4
+ b.b-b!#("
+R#c2
+ b.b-b!#("
+R#c4
+!b-b.b #("
+R#c2
+!b-b.b #("
+Q6!6!6!6!6!6!6!6!
+S1c=c%
+S1c=c
+1c=c3`	
+S02x
+S02;
+S02T
+S,34
+S,34
+S0c8#
+R b.b-b
+!b-b("
+,?&O
+/"OChSkcjsi
+/"OChcj
+BeX%
+/"OChSi
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+Cse<6
+yb'L7
+8L6L5
+AUX%
+Bb"%BeX%
+Rfh&
+"fb$
+"b"fh&
+"eRf
+Bfh&
+Bb"%R$
+BVh&
+CUX%
+uRb 4
+%DUX%
+EUX%
+/"OCh
+/"OCh
+/"OChSlck
+/"OChSjci
+/"OChSjci
+/"OChSjci
+tL2*
+/"OX
+S$s8
+<DZD-
+<DZD-
+DZD-
+/"OSh
+"b$S6
+d tH
+@CeP
+"b'3
+R!B`
+Re2f!F
+W!A(
+gZG-
+BbW2
+"b"-2,
+2kx{
+2c8#
+"e\3
+F"`n
+b r}
+fR"a
+d<4C
+E+%N
+E<c;%,1P!
+ES`	
+ES`	
+ES`	
+a9 T
+(1"*
+"gx'
+2kx{
+2c8#
+s2!"b
+"dH$
+B2`a
+"b"TH$
+"dxtM
+@2e^
+@"b.
+<2"&
+dtt}
+d|tH
+fl5Pv
+Rf0v
+#bc$sZK8
+ba(q
+bc,s8
+;dZK-
+a4q:
+a8q8
+dFfB
+3b#Q
+FeBdR
+"fmS8#
+nR("
+S2c<0
+S2c<0
+S2c<0
+cBb2"Ba
+2c2TH$
+dtt'
+d|tH
+fl5Pv
+dttq
+d|tH
+R$r]
+S,s8
+dZD-
+5Z@-
+aZ@N
+@<5Z@P
+aZ@P
+s"j2$
+dttD
+d|tH
+EZER
+EZET
+EZEV
+c<4BQ
+b,4BS s8
+U,:B*Q
+"b"TH$
+/"OX
+:"$Z
+eB"Q
+USdx
+be\1s
+b"c2)<
+dZD-
+xv"bL
+a b,b,1
+S b,b,1
+S b,b,1
+fl5XR("
+Acd3
+"exu
+"exu
+dL32-
+Rfl1O
+5 b,b,0 
+`<c<0"
+/"OChSlcksj
+/"OCh
+/"OCh
+/"Oz
+S"`>
+E<c;%N
+C<1P!
+ES`	
+ES`	
+ES`	
+`@r) 
+S8#$
+R("T
+Q2`A
+/"OChSicm
+/"OChSj
+R("r
+dL2_
+,32%
+e0uY
+z2cLs8
+2eDuX
+dDTH$
+VZF-
+"eZE-
+"%bfZF2k-
+2!ReZEBf-
+Q2c2!
+S"#s
+S"b2c'3
+"b'4
+"b<2]
+e\2[
+",2dCg
+Qd 4
+fR#a
+E@a+%
+E;%N
+%<2P"
+ES`	
+ES`	
+ES`	
+bA`,
+(1",
+"gx'
+R"b72
+T<4IQ
+ JR!
+/"OChSicjsk
+dF1G
+3<2"% a
+FZF-
+4B%DxBc2(Ra
+Rb"R"
+/"OShsi
+"OCep
+,?&O
+"OCeV
+,?&O
+/"OChcksj
+Sc	C
+/"OCh
+Baw1
+Rfh&
+Sfbc@3
+/"OCh
+<4Aa
+a-b'
+b-b'
+b-b'
+c=c7
+,4Ac=c
+a-b'
+/"OCh
+ES8#	
+2%TP
+/"OCh
+4Ab-b("4
+,4DTH$
+<4ETH$
+4FTH$
+wBbw2
+S"`>
+CTAQ
+S"`>
+qX%d
+<L{L
+S"`>
+/"OChSj
+/"OY
+p1!H$
+Q2c2!
+S"b"#Ra
+Q2!RR
+Q2c2!
+S"b"#TQ
+Q2!XUs
+b"dD
+D2cL32"
+S2d[
+D"bL2"!#a
+2c-C<1
+33b2*
+C<2"+
+Q<9"b0
+S2c7
+d"eH
+dH$(
+R!b!(
+S1c=e
+2&B&m&l&k&j&i&h#o
+/"OG
+aBb 10
+ARRa!!@
+/"OChSmclsk
+/"OChSm
+dB,@
+DR`N
+DR`N
+ReL5Rh
+dAd#
+UP4A
+W\7@wrch32'
+W\7Dwrah1
+W\7Hwrbh2"'
+W\7Lwrch32'
+W\7Pwrah1
+W\7Twrbh2"'
+W\7Xwrch32'
+W\7\wrah1
+/"OChSjci
+"!ZJ-
+/"OChSi
+FeFfR#a
+FeBdR
+FeFfR!a
+FeBdR
+"b $
+B#`	
+B#`	
+B#`	
+"OChSlcisk4
+2`0x?
+!b-e
+c<dZD-
+2c2!
+"b"-
+"#pc<gZG-
+`c<fZF-
+Pc<eZE-
+`b #X
+pb #Pc0!
++ b &X
+0c0'3
+0c<k
+Q0!E
+ b,f<c76
+0c<f8
+d,b'4
+ b,d+
+%c`	
+dZD-
+S22g
+CX3	C"3
+B&\4+
+2c2+b
+"b"+
+R"b("
+eX%=
+S2"<
+R"!=
+S2"=
+R"!=
+S2"?
+R"!@
+b"!?
+S2">
+R"!=
+ b,b"%
+0c<c2$
+B"%Bc
+C2$ba
+2&B)
+&m&l&k&j&i&h#o
+Z$jD
+J%jEj
+J%jE
+J%jE
+J%jE
+J%jE
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+Z$jDj
+Z$jD
+J%jE
+Z$jD$
+2&B)
+&m&l&k&j&i&h#o
+d"b(4!D!DZD-
+a"b 1
+2\H$2c
+<<Cc
+"b("
+R,14
+a;"Q
+(C b
+#,b+#2,
+r"!Bc
+qH$@
+2"2!H
+CeX%
+C`Sd
+/"OG
+Sich
+xZG-
+/"OG
+Shci
+/"OG
+Smcl
+ b ,0`
+0c0,
+c<c3`	
+@"!2
+@2d6
+/"OChSlck
+/"OCiSjck
+"Ocg
+/"OShci
+AfQa
+!DZD
+@Sd4
+@Sd/
+@Sd*
+@Sd%
+@Sd 
+eS`	
+9",eS`	
+uRgsf,Fh&
+)#rh)@1!(@AQ)@
+|5rVc`AS)@(@)@3
+9&ARoa
+")@CR(@)@!
+vfc`CQ)@(@)@
+&CSob#`	
+/"OCh?
+Ba\!GSk
+FCi2
+/"OCh"
+EAT!G
+/"OCh
+EAT!G
+L5Sg
+vB'g8Sd
+s2"W
+R)$0
+t648
+#i!B
+9)+)
+3i!C
+d!C)#
+C<2,4
+#i!B!B
+9)+)X
+#i!B
+9)+)
+C<2,4
+/"OChQ
+/"OCh-
+/"OCh
+/"OCh
+9$K%
+B)#o
+)&<F
+QSL11
+RSL<2
+L3SQ
+L=TQ 
+L;UQ$
+L:VQ(
+L9WQ
+Bb"!ra
+2Ba$
+;BS(
+<11S2)
+Bc2(Rc2&
+(6S2&
+(Rb"&J
+2'L6G
+Bc2%CQ
+S`FgFfr%a
+FgFfr
+FgFft
+FgFfv
+FgFfx
+FfBdj
+/"OClSh
+d9$H$4
+9$H$'
+dZD)B-
+Kb/j
+<EZE-
+<EZE-
+,DZD-
+,DZD
+d9$H$i
+)$H$
+DC`	
+@/i@
+DZD-
+DZD-
+<DZD-
+dZD-
+DC`	
+9$H$@
+dZD-
+DZD-
+,DZD-
+,DZD
+,DZD-
+DC`	
+<EZE-
+<EZE-
+eZE-
+C?eW
+FZF-
+EZE-
+EZE-
+,EZE-
+(4<DZD-
+<DZD-
+/"OClSh
+d9$H$3
+9$"(H$
+)B/m
+DC`	
+<DZD-
+<DZD-
+<DZD
+<DZD-
+$H$B
+<DZD-
+<DZD
+xZD-
+<DZD-
+<DZD-
+DC`	
+)$H$B
+DZD-
+DZD-
+DZD-
+,DZD
+DC`	
+)B/m
+<FZF<B-
+86,FZF-
+,C?e
+	,FZF-
+;f,FZF-
+,FZF-
+<4,DZD
+<DZD-
+<DZD-
+"OClSh
+9$H$3
+)B/m
+xZD-
+<DZD-
+<DZD-
+<DZD
+<DZD-
+$H$B
+<DZD-
+<DZD
+xZD-
+<DZD-
+<DZD-
+DC`	
+)$H$B
+DZD-
+DZD-
+DZD-
+,DZD
+DC`	
+)B/m
+<FZF<B-
+86,FZF-
+,C?e
+	,FZF-
+;f,FZF-
+,FZF-
+<4,DZD
+<DZD-
+<DZD-
+"OChSj
+SZD-
+zZI-
+"OChSj
+SZD-
+zZI-
+"OChSj
+SZD-
+/"OCh
+LC8(
+J%jE
+Z&jF=
+uB'W6
+(Gk'r
+(@Qb+ 
+/Shci
+BeS`	
+FS`	
+/"OChSf
+/"OChSi
+/ShciCf
+ZEb!J
+w"&!
+/"OCmSjcksl
+uQf9
+c8w<c1"
+`<@!
+wAc<c1'
+A`,@q
+"kSj"
+JdH$
+/"Oj
+S0c<d
+S0c<d
+dC` 
+/"O{
+S0c<d
+S0c<d
+S0c<d
+dC` 
+/"OClSkcm
+Ac8w;
+<c1"
+A`<@!
+wQc<c1'
+Q`,@q
+ JdH$
+CfbeX%
+!b'`Q
+bb0"N
+AQ!b'`
+AR0"
+BdH$
+B!"OC`Sd
+C`H$
+Gs`	
+a$x'
+vm`F
+UWs`	
+Gs`	
+mb#`	
+vm`H
+VWs`	
+Gs`	
+mc3`	
+vm`G
+Ab-b
+w}c<2!$H
+vmb,1
+3=c3`	
+WR-b#`	
+/chEQ
+S`!@
+,E9%
+fS`	
+f]eAc=cA
+c-F}amf=Ek!]e[!
+-`X%
+-`S`
+h"OCf
+dBb.
+(wrc\3
+trb\2
+ra\1&
+rc\3'
+ra\1:
+bcG3
+/"OX
+/"OCh
+dBb.
+2c,39P
+#Rsd
+2"H$
+Ef$f$f$f$f$f$f$f$f$f$f$f$f$f$
+P"OCf
+dBb.
+"OCjL
+FV$V$V$V$V$V$V$
+DCb)
+K"ZB-
+DCb)
+K"ZB-
+dZD-
+dZD-
+4ZD-
+4ZD-
+dZD-
+RZD-
+dZD-
+4ZD-
+RZD-
+4ZD-
+dZD-
+QZD-
+SZD-
+4ZD-
+4ZD-
+xZD-
+dZD-
+4ZD-
+4ZD-
+4ZD-
+,?&O
+"OChL
+iJTR
+\4CUDTZE-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+"OChL
+\4CUDTZE-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+"OChL
+Z<:|
+FV$V$V$V$V$V$V$
+DCb)
+K"ZB-
+DCb)
+K"ZB-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+dZD-
+r")|
+"OChL
+a-A2
+"OChL
+"OChL
+"OChL
+"OChL
+1c35
+1cS3
+FTCf$
+Bb%R
+dBb.
+B)Ba
+dBc:S
+dBc;S
+Ab!!
+%C`"!.
+ac2"Qb)
+<c74
+,b'5
+G{$(D
+E[$k$
+C` V
+CmClW
+R("C
+b-gsf
+&sd)$se
+F<Db
+<H!F!D
+=DK'['q-
+/"OShcjsix
+v&v&v&v&
+Ev&v&v&v&v&v&v&v&v&
+Bb%R
+,?&O
+"OCg
+Bc<S
+"OC`Sd
+\6aWs`	
+4BR("
+TBb"R
+4AS8#
+2!TBc2S
+BeX%
+ASdG
+CUX%
+Rc2S
+CSdC
+FUX%
+Rb"R
+/"OCh
+4BUX%
+Rc2S
+,4AUX%
+4BS8#
+2"TBc2S
+4AS8#
+2!TBc2S
+FV$V$V$V$V$V$V$
+=TBa
+ba\12
+rbG2
+rb\2
+bcG3
+F%F%F%F%F%F%F%F%"d'
+Bc9S
+US`	
+ES`	
+US`	
+ES`	
+US`	
+ES`	
+US`	
+ES`	
+tMh\
+2&B&k&j&i&h#o
+dBc>
+"b("
+FV$V$V$V$V$V$V$V$V$V$V$V$V$V$V$
+Ef$f$f$f$f$f$f$
+TBb.
+/"OCiSf
+GV$V$V$V$V$V$V$V$
+37Z4Q
+dC`	
+DC`	
+TC`	
+DC`	
+TC`	
+DC`	
+dC`	
+DC`	
+DCa)
+K!ZA-
+DCa)
+K!ZA-
+DCa)
+K!ZA-
+DCb)
+K"ZB-
+$C`p
+2&B&m&l&k&j&i&h#o
+/"OCgSi
+?x' 
+2csd
+FV$V$V$V$V$V$V$
+DV&V&V&V&V&V&V&
+TBc2S
+GsjH$
+b-bqa
+a'b)!
+bc7cqb-b=c9"!'
+TBb"R
+,?&O
+/"Oj
+FV$V$V$V$V$V$V$V$
+t!DM
+Bc2c
+2c8#
+Df%f%f%f%f%f%f%f%
+Bb"b
+TBb%R
+4$tB`
+2c8#	
+4$tB`
+TBb"R
+2&B&m&l&k&j&i&h#o
+/"OCe
+"d2fg4&
+<5VV
+/"OChSmclsk
+/"OCh
+/"OCf
+"OCe
+SdCi
+CeSj
+RdH$2%2(
+2)H$l
+dBc2S
+4V$$
+V$V$V$
+FV$V$V$V$V$V$V$V$V$V$
+/"OCh
+,4Cl
+,5Bc3S
+/"OB
+RdL3
+rf06
+j6:&
+Skslbb}r"&
+rc8#
+"d04
+%bb}r&:
+,?&O
+q 1<h
+"b 1
+/"OCh
+"b"4
+"b"5
+h"OCf
+/"OCh
+dBb#R
+Bb"b
+/"OCh
+BTBa
+"OSf
+Bb-R
+/"OCh
+/"OChSlcksj
+Bb*R
+dCeP6
+/"OChSjci
+BTBa
+BTBa
+/"OCh
+TBc2S
+/"OCi
+2&B&k&j&i&h#o
+/"OChSkcjsi
+/"OCh
+/"OCh
+/"OCh
+2c8#
+c80w
+DCa)
+K!ZA-
+"b("
+2c8#
+"dH$
+/"OCh
+b("	
+BdH$
+DCc)
+K#ZC-
+DCa)
+K!ZA-
+.TBc>
+z&jF
+2)2*2+2,2-1
+2&B&m&l&k&j&i&h#o
+/"O#
+.TBc>
+,?&O
+/"OShcksjCf
+TBb"R
+/"OSh
+\4H$0
+&.F6NV^
+2&B&h#o
+2c8#
+/"OCh
+BaZA
+RZB-
+0c<d
+d,b'4
+d,b'4J
+RZB-
+0c<d
+0c<d
+d,b'4
+0c<d
+a0c<d
+cZC-
+ +0c<d
+0c<e
+0c<e
+ )0c
+ b,f
+ b,f
+2&B)
+&m&l&k&j&i&h#o
+|5ZD-
+ZG<DSb-
+OdZD
+<EZDcb$
+_eZE-
+/gZG-
+ofZF-
+"OChSi
+dZD-
+dZD-
+bc2"Rb 
+qgZG-
+gZG-
+/"Ov
+5AWBVu
+CVDTg
+/"OCh
+dCh@
+IU\d
+CeSi
+"OC`Sd
+VL9s
+L8"$
+T&T&
+GT&T&T&T&T&T&T&T&T&
+5d%<yd%
+d%d%
+5t%t%t%
+Ft%t%t%t%t%t%t%t%
+Ft%t%t%t%t%t%
+t%&x
+/"OCh
+Rb(R
+TBc2S
+/"OCh
+TBb"R
+TBc5S
+TBb#R
+Bc;S
+TBc6S
+<c020
+TBc5S
+TBb&R
+/"OCh
+/"OChv
+V$V$V$
+FV$V$V$V$V$V$V$V$V$
+b,gx'
+,?&O
+/"OCh
+C<4\4@bX
+i,b 9
+E(D0
+jFZE-
+EZE-
+J&jF 
+J%jE=
+dI""%
+RcI#7
+(B ;
+C79%
+,4Bc
+<4Ba
+<c05
+/"OChSj
+")l`
+x(04
+@"dT
+@"dD
+DL6baWb)!
+GbRa)!
+1&Ra
+c<c8#
+;v`b,eX%
+$ci}
+=t@c<eX%	
+c<c8#
+b,eX%
+Bb(")
+c<c8#
+Xt@b,eX%
+X%"!\
+2"ChT
+b,b("
+Wt@a
+bc8#)
+&ChJ
+c<c8#
+v`b,eX%
+X%Ba
+$ch@
+c<c8#
+v`b,eX%
+X%Ba
+$ch6
+c<c8#
+d"b(4
+DCb)
+K"ZB-
+d"b(4
+DCb)
+K"ZB-
+"k2-
+$ReB
+s2-D
+eiS`
+Bb%R
+Bb%R
+Bc5S
+Ef$f$f$f$f$f$f$
+Ef$f$f$f$f$f$f$
+,?&O
+/"OChSj
+"OCf
+/"OY
+4FeFfU
+FeFfW
+FfFei
+dFfFe
+FfFeg
+FfFei
+FeFfT
+2&B&m&l&k&j&i&h#o
+"OChSjciL
+31$ 
+31$ 
+/"OY
+4FeFfU
+FeFfW
+FfFei
+dFfFe
+FfFeg
+FfFei
+FeFfT
+2&B&m&l&k&j&i&h#o
+"OChSjci
+31$ 
+31$ 
+/"OY
+4FeFfU
+FeFfW
+FfFei
+dFfFe
+FfFeg
+FfFei
+FeFfT
+2&B&m&l&k&j&i&h#o
+"OChSjciL
+31$ 
+31$ 
+/"Od
+UB(Q
+b,b /
+Q0!"b#``
+"2c3`H
+c<c)#2/
+"2c3`
+r#`$
+R"c0c<c3`	
+c<c)#8#
+R c<c@
+/"Ov
+R"c2
+R b,b 
+r".#
+2#d*
+,b#`	
+R b,b+!
+R#c3S3d(
+b-b#eX
+R#c#h
+R#c#R
+R b,b@
+C9"("
+,b 1
+S2c3d
+S<2"!
+2&B&h#o
+/"Ou
+S2.,
+35S8#
+R#c2c!R,3=
+S8#/
+s3e$
+Q71)
+R#c#R
+e]eZ
+R<2"!
+2&B#o
+33d+
+,?&O
+/"Ow
+9"+!
+9"+!
+9"+!
+"-b!.
+)#;!
+"+#=c3`	
+c=c8#
+9"+!
+9"+!
+9"+!
+RMIDRIFFdata
+MThdMTrk
+S3i,9
+31S88
+S3h#`	
+B#a#`	
+B#`	
+2&B&i&h#o
+n"OA
+/"OS
+C3`	
+2c8#
+R("8
+2c3d
+9"("	
+"b("
+"b("
+2#e|
+"b("
+"b#d 
+33eq
+2c8#
+2c3e
+"b("
+!R#dc
+"b("
+"b#d`
+2c3e^
+2c2"[
+2c3dE
+2c3dC
+2c8#
+33f9
+"b#d"
+"b("
+b-b!
+2c3d 
+2c8#S
+2c3d 
+"b#d
+"b("
+"b#d
+"b("
+"b#d{
+2c3ex
+2c3dr
+2c3dv
+2c3do
+2c8#
+"b#d_
+2c3dP
+2c8#	
+"b#dL
+2c8#
+"b#d:
+"b#dJ
+"b("
+2c3d-
+2c8#	
+"b#d(
+2c8#
+"b#d
+"b("	
+2c8#
+"b#d
+2c3e
+2c8#
+2#dc
+33d}
+2c8#
+2c8#
+R'1J
+"b#e
+2c3e
+"b&R
+33eh
+"b#R
+2c3a
+2c3dX
+2c3a
+,?&O
+U2c?S
+<2"b("
+<2"b#a
+<2"b$
+2c3e
+,32c4
+R#c8
+e2c9S
+"b#e
+33e(
+f"b$R
+"b#e
+31S'3
+"b#d
+h"OR
+32c7
+33e"b)R
+W"b,R
+2c3eC
+2c3dJ
+/"OS
+2c3d
+h"OR
+s2/d
+"b("
+r"!.
+s3` 
+s2"t
+"b("
+s3` 
+/"Of
+2c3d#
+33g}
+R82-
+e#ff
+"b#d^
+34S@
+B,33e
+33f[
+9"("
+c<c;"-b$
+c<c;"
+33e(
+"b#R
+2c3e&
+#c3d
+"b#d
+2&B&i&h#o
+/"Of
+<2$R#e@
+"b#d
+2#gL
+"b#d
+,12!0
+2c8##
+2c3d#
+2#g\
+R#c?
+b,b+#=c3`	
+"-b#`	
+b,b+!
+b,b+!
+"b#c<
+2c3S
+"b#d
+2&B&i&h#o
+Q71:
+"b#dl
+33fX
+/"OS
+,35S3d
+/"OB
+<2#R
+32c8
+32c8
+R#c1
+2#f2c4S
+S3b"
+"b+R
+2c3d
+c3e<
+f"b$R
+R#c8
+2c3d
+2&B#o
+/"OB
+2&B#o
+2c3a
+"b("
+d"b"R
+2c3d~
+"b#d
+2c3d
+s2"[
+S8#	
+<2"b%
+<2"b%
+d"b"R
+R#c:
+#d2cH
+R#c9
+2c=S
+<2%R#d 
+RIFFWAVE
+c=c(C;""
+S2c8#	
+S2c8#
+c,32/
+hdatafmt "Oc
+Q0!(
+2c3dT
+2c3d
+2c3d
+/"OCh
+Rb"!
+/"OCh
+/"OCk
+) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) 
+) ) ) ) ) ) ) ) ) ) ) ) 
+W1i(
+ 1Y(
+ 5i(
+i(X%
+X%i(
+CCbl2
+Y(h&
+T&T&
+GT&T&T&T&T&T&T&T&
+T&Ba
+y(IS
+4CeS`	
+325i(
+3V3i(
+BeX%
+H$Y(
+2&B&i&h#o
+	(	(
+rb("
+urbV2
+jfh&
+AQ 1
+jfh&
+BQ 1*e
+/"Ochsm
+CeX%
+CeX%
+CeX%
+CeX%
+C`C`
+/"Oi
+-\<@b,eCj
+b,eX%
+c<eX%
+b,eX%
+=B,1
+c<eX%
+b,eX%
+=B,1
+8,b	I
+/"OShcm
+Cl)D
+#4H=E
+b,b,<
+/"OSh
+R#c5S
+#c5S3e#a
+f'R#g
+C<2"b("
+C<2'
+S3d 
+#c3dl
+V"b"b
+#c3d"b"R
+d2c3S
+/"Ou
+2"bd
+B,32cC
+2"bo
+B,32c8
+2"bY
+f2c6S
+"b("
+C<2"b("
+C<2"b#d>
+B,12!,
+32c3b&
+33f"b&R
+C<2"b 1
+32c3`
+/"Ou
+C<2%
+4&<&
+2"b#db
+C<2"b
+B,12! 
+33dQ
+2#dL
+2c8#	
+2#d=
+2c3eg
+33d^
+f2c8S
+,?&O
+/"OT
+C<2"b("(
+B,32c3b'
+33eb
+32c3f"b)R
+e"b#R
+h"Ot
+32c>
+W"b$R
+W"b%R
+R#c6
+#d2c7S
+32ck
+d"b&R
+R#c6
+#d2c7S
+R'11
+d2c2S
+"b("
+C<2"b("
+/"Ow
+S'3"
+R c<c
+h"OR
+2#e 
+V2c2c
+d2c2S
+"b("
+33f"b$R
+33e,
+G"b%R
+R#c@
+2c7S
+d"b"R
+<1jq
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OCh
+Rb"R
+Rb"R
+dBb"R
+/"OChcisf
+d9$H$
+d9$H$R(
+/"OChSlcksj
+/"OCh
+TBb"R
+/"OChSkcj
+Df%f%f%f%
+V&V&V&V&
+DV&V&V&V&V&
+Ed'd'd'd'd'
+,?&O
+/"OChcksj
+TBb!R
+,?&O
+/"OCh
+(C; 
+/"OChSi
+Bb,R
+/"OCi
+dBb-R
+/"OCg
+}Vh&
+qS8#
+/"OCh
+/"OChSjci
+/"OChSi
+Vh&#
+bc2S
+Rc2S
+Bb!R
+Rc2S
+Bb!R
+Bc?S
+/"OCh
+C<4BeX%
+dBb("
+/"Oi
+Chx'
+qR("
+Bfh&	
+,4Bc8#
+dBc<S
+S8#"
+dBeX%
+,?&O
+/"OX
+Chcm
+Bc2c
+TBb"R
+dBc;S
+BeX%
+dBb"R
+dH$'
+TBb"R
+,?&O
+/"OCh
+"b("
+"b("
+/"OSh
+/ChSjci
+bdH$
+)2(baE
+rfh&
+b$X%
+ReX%
+/"OCh~
+/"OChSjci
+/Shci,
+t&t&
+Et&t&t&t&
+"OChL
+"OChSiL
+h"OCf
+"OCgn
+,?&O
+/"OChSisjE
+Z$jD
+Z$jD
+Z$jDm
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jDm
+Z$jD
+Z$jD
+Z$jD
+J%jE
+J%jE
+J%jEm
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jEm
+J%jE
+J%jE
+J%jE
+2&B&j&i&h#o
+Z$jD
+Z$jD
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+Z&jF
+Z&jF
+j%jE
+j%jE
+j%jE
+j%jE
+J%jE
+J%jE
+J%jE
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z&jF
+Z&jF
+Z&jF
+Z&jF
+Z&jF
+Z&jF
+Z$jD
+Z$jD
+2&B)
+&h#o
+"OChL
+J%jE
+J%jE
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+$jDj
+(EZ$jD
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+%jEM
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+2&B)
+&h#o
+"OChL
+J%jE
+J%jE
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+$jDM
+Z$jD
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+%jEj
+(DJ%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+2&B)
+&h#o
+"OChL
+J%jE
+J%jE
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+$jDj
+(EZ$jD
+J%jE
+J%jE
+J%jE
+J%jE
+%jEM
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+J%jE
+2&B)
+&h#o
+"OChSj
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+Z$jD
+J%jE
+J%jE
+J%jE
+J%jE
+Z$jD
+Z$jD
+J%jE
+J%jE,
+J%jEm
+J%jE$
+J%jE
+J%jE@
+/"OB
+Bb"b
+TBc2S
+Bc1S
+V$V$
+FV$V$V$V$V$
+Bc<S
+,?&O
+/"OchsiCfSg+
+,?&O
+wrfqUb$Q
+Ub$Q
+fb$Q
+TR(A
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHDDHHHHHDDDDDHHHHHDDDDDDDDHDDDDDDDDDDHHHSSSHHHHHSSSSSHHHHHSSSSSHHHHHSSSSSHHHHHSSSSSHHHHSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHDDHHHHHDDDDDHHHHHDDDDDDDDHDDDDDDDDDDSSSSSSSSSSHHHDDDHHHHHHHDDDHHHHHHHDDDHHHHHHHDDDHHHHHDDDDDHHHHHDDDDDSSHHSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHDDDDHHHHHDDDDDDDDHHDDDDDDDDDHHHSSSHHHHHSSSSSHHHHHSSSSSHHHHHSSSSSHHHHHSSSSSHHHHSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHDDDDHHHHHDDDDDDDDHHDDDDDDDDDSSSSSSSSSSHHHHDDHHHHHHHHDDHHHHHHHDDDHHHHHHHDDDHHHHHHDDDDHHHHHSDDDDSSHHSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS//////////HH/////HHHHHH////HHHHHHHHHHHHHDDDDDDDDDDH/////HHHHH//////HHH//////////S/////S//SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+//////////HHH////HHHHHH////HHHHHHHHHHHHHDDDDDDDDDDHH////HHHHH//////HHH//////////S/////S//SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+A23456789TJQKW
+]u`@j
+j@2"
+3V`\f
+A)Cf
+A)`;
+A)a;
+tU5Pz
+k/$I8
+k/$I8
+DEST
+t0Z8H
+Q('/\{
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+B^@V
+B^pzZ
+6e-{
+rn{p
+LZO real-time data compression library.
+Copyright (C) 1996, 1997, 1998 Markus Franz Xaver Johannes Oberhumer
+<markus.oberhumer@jk.uni-linz.ac.at>
+http://wildsau.idv.uni-linz.ac.at/mfx/lzo.html
+LZO version: v1.04, Mar 15 1998
+LZO build date: Aug 29 2000 18:57:45
+LZO special compilation options:
+ LZO_ALIGNED_OK_4
+ LZO_DICT_USE_PTR
+$Id: LZO 1.04 built Aug 29 2000 18:57:45 by Microsoft C 1200 $
+$Copyright: LZO (C) 1996, 1997, 1998 Markus Franz Xaver Johannes Oberhumer $
+COREDLL.dll
+FirmwareGetSoundMode
+SetFirmwareValues
+ResetToFirmware
+PLATUTIL.dll
+DirectInputCreateW
+DINPUTX.dll
+DSOUND.dll
+midiOutGetNumDevs
+midiOutGetDevCapsW
+midiOutLongMsg
+midiStreamOpen
+midiOutReset
+midiStreamProperty
+midiOutOpen
+midiOutPrepareHeader
+midiStreamClose
+midiOutSetVolume
+midiStreamOut
+midiStreamRestart
+midiStreamStop
+midiOutClose
+midiOutUnprepareHeader
+CEMM.dll
+MapleCreateDevice
+MapleEnumerateDevices
+MapleFreeLibraries
+MAPLEDEV.dll
+DirectDrawCreate
+DirectDrawEnumerateW
+DDRAW.dll
+\CD-ROM\FILE_SL1.STR
+\CD-ROM\
+%sFILE_SL%d.STR
+Unloading slot machine
+shutdownscene
+shutdown3dengine
+Unloaded
+Machine %i reel %i is spinning to position %d
+Machine %i reel %i is stoped at %i
+Machine %i trail %d
+Machine %i reel %i is nudging by %d nudges
+Reel(%i,%i) on machine %i, has turned into %i
+COMING
+Pulse - Roll Dice
+After Pulse - Roll Dice
+Free Memory = %d
+Start
+Free Memory = %d
+Engine allocated
+\CD-ROM\FILES_RL.STR
+Free Memory = %d
+Sound deallocated
+Free Memory = %d
+Start of models
+Dice anims
+Rake anims
+buttons
+Ord Chips
+Roul Chips
+relocating..
+Free Memory = %d
+Free Memory = %d
+Free Memory = %d
+Unloading Craps
+Craps Dice: [%i],[%i] ( total = %i )
+dice anim : %d
+Player %d has %s on pile %d
+ wins %s
+LOSE
+ loses %s
+PUSH
+Player %i, region %i: LOST %s
+Player %i, region %i: WON %s
+Player %i, region %i: RETURNED %s
+Craps: Game Phase  %d
+Crap: New Point %i
+bet on the Pass line
+bet on the Don't-Pass line
+working Come bet on this point
+working Don't-Come bet on this point
+Come Bet: Point %u
+Come Bet
+Self-Service Bet
+Pays Even Money
+Available only after point established
+Don't Come Bet: Point %u
+Don't-Come Bet
+Self-Service Bet
+Pays Even Money
+Buy/Lay %u
+Dealer-Booked Bet
+Pays %u to %u on buy, %u to %u on lay
+Must pay 5% "vigorish" to buy/lay points
+Pass Line
+Self-Service Bet
+Pays Even Money
+Don't-Pass Line
+Self-Service Bet
+Pays Even Money
+Available only before come-out roll
+Field Bet
+Self-Service Bet
+Pays Even Money on 3,4,9,10 and 11;
+double on 2; or triple on 12
+Eight
+Big %s
+Self-Service Bet
+Pays Even Money
+Place %u
+Dealer-Booked Bet
+Pays %u to %u
+Normally OFF during come-out roll
+Pass Line Odds
+Self-Service Bet
+Pays %u to %u on 4 & 10; %u to %u on 5 & 9;
+and %u to %u on 6 & 8
+Pays %u to %u on current point (%u)
+Don't-Pass Line Odds
+Self-Service Bet
+Pays %u to %u on 4 & 10; %u to %u on 5 & 9;
+and %u to %u on 6 & 8
+Pays %u to %u on current point (%u)
+Come Bet Odds: Point %d
+Dealer-Booked Bet
+Pays %d to %d
+Working come bets are also placed here
+Don't Come Bet Odds: Point %d
+Dealer-Booked Bet
+Pays %d to %d
+Working don't-come bets also placed here
+Any Craps
+Dealer-Booked Bet
+Pays 8 for 1
+"Yo" Eleven
+Dealer-Booked Bet
+Pays 15 for 1
+C&E: Craps/Eleven Split
+Dealer-Booked Bet
+Pays 4 for 1 on 2,3 and 12; 8 for 1 on 11
+Snake Eyes (2)
+Acey-Ducey (3)
+Any Seven
+Boxcars (12)
+Dealer-Booked Bet
+Pays %u for 1
+Hardway %u (double %u)
+Dealer-Booked Bet
+Pays %u for 1
+Illegal Bet!
+Come bets can only be placed when a point has been established (i.e. after the "come-out" roll).
+Tip: a bet on the pass line before the come-out is basically equivalent to a come bet.
+Illegal Bet!
+Don't-come bets can only be placed when a point has been established (i.e. after the "come-out" roll).
+Tip: a bet on the don't-pass line before the come-out is basically equivalent to a don't-come bet.
+Illegal Bet!
+You can only place a bet here before the point is established (i.e. before the "come-out" roll).
+Illegal Bet!
+You cannot make pass/don't-pass odds bets on the come-out roll.
+Illegal Bet!
+You must have a %s in order to place odds here.
+ (the maximum you can win on a proposition bet is 3 times the table limit; the limit for this region is calculated from the actual maximum payout of %d times your bet, rounded up to the nearest %s)
+The field pays even money if the next roll is a 3, 4, 9, 10 or 11; 2 to 1 if a 2 is rolled, and 3 to 1 on twelve (some tables only pay 2:1).
+You lose if the next roll is a 5, 6, 7 or 8. This popular bet gives the house a relatively small 2.77% edge (5.55% if "12" only pays double).
+However, we still don't recommend this bet, as much better odds can be found on the Craps table.
+The "Big" means big advantage for the house, and big mistake for the player. Since the house only pays even money, it has a 9.09% advantage.
+If you want to wager on this number, consider making a "place" bet instead - it will pay 7 to 6 (with correct units bet) instead of even money, trimming the casino's percentage to a meagre 1.52%.
+The house edge on this point is 6.67%
+This bet gives the casino a 4.00% advantage.
+The house only has a 1.515% edge on this bet, which makes it comparable to the 1.414% and 1.402% edges on the pass and don't-pass lines.
+However, we do not recommend this bet, because you cannot take advantage of free odds, as you could by making pass, don't-pass, come and don't-come bets.
+This one-roll bet only wins if a 2, 3 or 12 is rolled. The chances of rolling craps are 1 in 9; the house only pays 7 to 1, which means the house has an 11.11% edge.
+This bet wins if the next roll totals 11, and loses on any other roll.
+Like all proposition bets, the odds are stacked significantly against you. On the "Eleven" bet, the house holds a 16.67% advantage over the player.
+This is a combination "any craps" and "eleven" bet, which means that it wins if the next roll is a 2, 3, 11 or 12; all other totals lose.
+It pays 3 to 1 on "craps", 7 to 1 on "eleven"
+There are 4 ways to win 3 units and 2 ways to win 7 units out of 36 rolls; this gives the house an 11.11% edge on this bet.
+This bet only pays if the next roll is a %d all other totals lose this bet.
+The true odds of making this point are 36 to 1, the casino only pays 29 to 1 (30 FOR 1); this sucker bet gives the house a 16.67%% edge.
+This bet only pays if the next roll totals three (1-2 or 2-1 on the dice), all other totals lose.
+Since there are 2 ways out of 36 to roll a three; the true odds are 18 to 1. The 15 FOR 1 (14 to 1) paid by the casino gives them a 16.67% edge.
+(It's just like donating the money to the casino, except you can't deduct it from your taxes!)
+If the next roll is a seven; this bet wins.
+Any other total loses.
+Seven is the most likely number to be rolled, at 6 ways out of 36 (1 out of 6 chance). However, the casino only pays 4 to 1 on this bet, giving the house a 16.67% edge. Save your money for the show.
+9.09
+11.11
+This bet wins if %d is rolled the "hard way" (i.e. both dice show %d), and loses if %d is rolled the "easy" way or if a 7 is rolled.
+Unlike the other, one-roll proposition bets, hardway bets stay up until the number is rolled or the bet "sevens out".
+The house enjoys an edge of %s%% on this bet, making it as bad as any other prop bet.
+Can't Remove/Reduce Bet!
+You cannot remove any portion of a pass-line bet that you made before the last roll of the dice.
+Odds Bet Adjusted
+Since you reduced your flat bet, your odds bet will also have to be reduced.
+%s's Coach
+Recommendation
+You should:
+You should have:
+right
+don't-
+wrong
+Place 
+Placed 
+a bet on the %spass line
+Place 
+Placed 
+full odds on the %spass line
+Place 
+Placed 
+full odds on your %scome bet on %u
+Place 
+Placed 
+a %scome bet
+You have made all the proper bets for the
+chosen strategy.
+Conservative
+Aggressive
+[%s "%s" bettor]
+Cannot Place Bet
+You already have the maximum allowable bet for this region %s.
+Insufficient Wager
+The bet amount must be increased to the table minimum unless adding on to a previous bet, in which case the bet must be at least $1.
+Insufficient Funds!
+You do not have enough money to place this bet.
+Betting Limit Reached
+This bet would exceed the maximum allowable bet of %s.
+Your bet will be topped off at that amount.
+"%s" is not a recommended bet.
+take
+With a point of %d, the maximum odds bet you can %s on this "%dx odds", %s-limit table against your flat bet of %s is %s.
+Illegal Bet!
+%sYou have already bet that much here.
+Insufficient Funds!
+You don't have enough money to make an optimal odds bet.
+Insufficient Funds!
+You don't have enough money to make a larger optimal odds bet.
+Insufficient Funds!
+You don't have enough money to make the maximum odds bet. The largest optimal odds bet you can afford will be automatically placed for you.
+Insufficient Funds!
+You don't have enough money to make this bet.
+Insufficient Funds
+%sYour wager will be topped-off at that amount.
+Since the vigorish is rounded up to the nearest dollar, your %s bet of %s overpays the house by %s, which means the house is actually getting a commission on your bet.
+%s bets on the number %d should be made in units of %d to take the most advantage of the vigorish.
+Buy/Lay is not a recommended bet, since you must pay the house a 5% commission, or "vigorish".
+However, if you're going to make this bet, you should take full advantage of the vigorish you pay.
+Table Limit
+You already have the maximum allowable bet here.
+Insufficient Funds!
+You cannot make this bet; you have no money left!
+Table Limit
+You already have the maximum allowable bet here.
+Insufficient Funds
+You do not have enough money to make this bet.
+The bet unit of %s, plus the 5%% vigorish of %s totals %s which is more than the %s you have available.
+Insufficient Funds!
+You cannot make this bet; you have no money left!
+Insufficient Funds
+You do not have enough money to make this bet.
+The bet unit of %s, plus the 5%% vigorish of %s totals %s which is more than the %s you have available.
+Betting Limit Reached
+This bet would exceed the maximum allowable bet of %s.
+Your bet will be topped off at that amount.
+Table Limit
+You already have the maximum allowable bet here.
+Incorrect Multiple for Lay Bet
+Note: Lay bets must be made with correct units, with bets divisible by 2 (for laying 4 and 10), 3 (for laying 5 and 9) or 6 (for laying 6 and 8).
+Your bet of %s would have pushed the entire stack over the table limit of %s, and was clipped to that amount. This limit, however, is not the proper multiple of %u for laying this number.
+You can either change your bet to the nearest acceptable multiple, or cancel this action.
+Incorrect Multiple for Lay Bet
+Note: Lay bets must be made with correct units, with bets divisible by 2 (for laying 4 and 10), 3 (for laying 5 and 9) or 6 (for laying 6 and 8).
+Your bet of %s is not the proper multiple of %u for laying this number.
+You can either change your bet to the nearest acceptable multiple, or cancel this action.
+Incorrect Multiple for Lay Bet
+Note: Lay bets must be made with correct units, with bets divisible by 2 (for laying 4 and 10), 3 (for laying 5 and 9) or 6 (for laying 6 and 8).
+Removing %s from your bet would have reduced the stack to under the table minimum of %s. This limit, however, is not the proper multiple of %u for laying this number.
+You can either change your bet to the nearest acceptable multiple, or cancel this action.
+Incorrect Multiple for Lay Bet
+Note: Lay bets must be made with correct units, with bets divisible by 2 (for laying 4 and 10), 3 (for laying 5 and 9) or 6 (for laying 6 and 8).
+Removing %s from your bet would leave an improper multiple of %u for laying this number.
+You can either change your bet to the nearest acceptable multiple, or cancel this action.
+Can't Remove Bets!
+Not all bets could be removed. By rule, come, don't come and pass-line bets must remain until won or lost.
+FRONT LINE
+WINNER
+CRAPS
+FRONT LINE
+WINNER
+SEVENS
+SNAKE
+EYES
+BOX CARS
+3 CRAPS
+HARD
+EASY
+\CD-ROM\FILES_RL.STR
+RoulLoad: geos
+relocating..
+RoulLoad: 7
+RoulLoad: 8
+Unloading roulette
+Roul: Spin wheel to %i ( '%s' )
+Player %d has %d chips on pile %d
+Player %i, region %i: LOST %s
+Player %i, region %i: WON %s
+%s%s
+Roul: - Last chip - 
+Roul: Clean Table
+Roul_MoveCamera(%d : %d)
+TUUU
+Straight-Up
+Split
+Street
+Street
+Corner
+Top-Line
+Double Street
+Double Street
+Dozens
+Column
+High or Low
+Odd or Even
+Black
+ won %s
+Recommendation
+Do not make a top-line bet as it carries the highest house margin in roulette.
+cleared %d: need %d
+You must remove all bets before changing your bet unit
+Novice
+Holiday Player
+Regular Player
+Semi Professional
+Professional
+Emperors Club
+Limits: |
+Coin Value: %s
+Coin Value: %s
+Coin Value: %s
+Coin Value: %s
+Bet Unit: %s
+Loan: %s
+Played: %d
+Profit: %s
+Total: %d
+Profit: %s
+Money: %s
+Money: %s
+Text in Button Menu !!!
+Init Objects: no link
+Init Objects: no active region
+Init Objects: no link
+Init Objects: no active region
+ERROR: accessing null menu!
+ERROR: menu index out of range!
+ERROR: accessing null menu!
+ERROR: menu index out of range!
+Accept
+Cancel
+Joker
+ERROR IN TRANSLATION
+Clubs
+Diamonds
+Hearts
+Spades
+ERROR in suit value
+Error Event: %s%s
+Error Event: %s
+%s%s
+--------Shuffling--------
+Dealer was dealt a card face down
+Player %i was dealt a card face down
+Dealer was dealt a %s of %s
+Player %i was dealt a %s of %s
+Dealer turned card %i over
+Player %i, pile %i, turned card %i over
+Player %i has %i on pile %i
+%i, %i total(%i), was rolled
+Player %i Won %i on pile %i
+Player %i Lost %i on pile %i
+Player %i's bet(%i) on pile %i was returned to him
+Player %d - Hint message %i (%i,%i)
+Machine %i reel %i is spinning
+Machine %i lighting up %d trail
+Machine %i reel %i is stoped at %i
+Machine %i reel %i Nudged up 
+Machine %i reel %i Nudged down 
+Reel(%i,%i) on machine %i, has turned into %i
+%i Coins have been added to the machine %i
+Hand %i was dealt a card face down on machine %i
+hand %i was dealt a %s of %s on machine %i
+User on machine %i has selected hand %i for deal
+%s%s
+Camera moved to poisition %i
+Player(%i) split hand, %i
+Player(%i) activate hand, %i
+Player(%i) remove hand, %i
+ You must place yoyur own destory function here
+clean the table of playing stuff
+Paigow Hand Event
+-- Last chip --
+-- Game Phase : %d --
+** Notify Pause...
+Flushed a message
+I recommend that you hit.
+I recommend that you stand.
+I recommend that you split.
+I recommend that you double.
+I recommend that you surrender.
+I recommend that you rescue.
+Aces
+Deuces
+Threes
+Fours
+Fives
+Sixes
+Sevens
+Eights
+Nines
+Tens
+Jacks
+Queens
+Kings
+----------------------
+Illegal Card: type %d
+----------------------
+%s should have hit.
+%s should have stood.
+%s should have doubled.
+%s should have split.
+When using the basic method, you never take insurance.
+When playing multiple decks you take insurance when
+True count >= 1.5
+Count = %d  Half decks remaining = %d
+True count = %s%d.%d
+You should take insurance.
+You should not take insurance.
+When playing a single deck you take insurance when
+True count >= 1
+Count = %d  Half decks remaining = %d
+True count = %s%d.%d
+You should take insurance.
+You should not take insurance.
+When playing multiple decks you take insurance when
+True count >= 1.5
+Count = %d  Half decks remaining = %d
+Ace count = %d  Expected aces = %d
+Adjusted count = %d  True count = %s%d.%d
+You should take insurance.
+You should not take insurance.
+When playing a single deck you take insurance when
+True count >= 1
+Count = %d  Half decks remaining = %d
+Ace count = %d  Expected aces = %d
+Adjusted count = %d  True count = %s%d.%d
+You should take insurance.
+You should not take insurance.
+Recommendation
+Card Coach
+You should bet 1 unit.
+You should bet %d units.
+The basic method does not have guidelines for how much you should bet.
+Count = %d
+Half decks remaining = %d
+True count = %s%d.%d
+Count = %d
+Half decks remaining = %d
+Ace count = %d
+Expected aces = %d
+Adjusted count = %d
+True count = %s%d.%d
+Soft
+Hard
+Your hand totals a %s %d, and the dealer is showing %s.
+You have a pair of %s, and the dealer is showing %s.
+I recommend that you split.
+Normally, you should double, but you don't have enough money.
+I recommend that you hit.
+Normally, you should split, but you don't have enough money.
+I recommend that you hit.
+an Ace
+a two
+a three
+a four
+a five
+a six
+a seven
+an eight
+a nine
+a ten
+a Jack
+a Queen
+a King
+an Ace
+a Joker
+Aces
+Deuces
+Threes
+Fours
+Fives
+Sixes
+Sevens
+Eights
+Nines
+Tens
+Jacks
+Queens
+Kings
+Aces
+Jokers
+Three
+Four
+Five
+Seven
+Eight
+Nine
+Jack
+Queen
+King
+Joker
+Clubs
+Diamonds
+Hearts
+Spades
+%s %s %s
+machine:%d pnum:%d transmit:%d type:%d game:%d wait:%d
+machine:%d pnum:%d transmit:%d Message:%s
+machine:%d pnum:%d transmit:%d Command:%d Code:%d
+machine:%d pnum:%d transmit:%d type:%d game:%d wait:%d
+machine:%d pnum:%d transmit:%d Message:%s
+machine:%d pnum:%d transmit:%d Add 1 Player
+machine:%d pnum:%d transmit:%d Start Game:%d
+client:%d pnum:%d received:%d from:%d type:%d 
+Game:%d
+Code : %d
+Added 1 Player
+ERROR _ UNHANDLED EVENT RECEIVED _
+message to server id:%d
+Player  Tie  Banker
+ERROR: Unable to allocate message box
+Free Memory = %d,  %d blocks
+X Pressed for menu
+Tri Pressed for menu
+%s - %s
+|???|
+You do not have enough money to place this bet.
+Not Enough Money. Forfeit.
+The house edge on this game depends on
+whether you go to war on tie bets, or
+forfeit.  When you go to war, the house
+edge is 2.88% as opposed to 3.70% if you
+forfeit on a tied hand.  It is not
+advisable to make a tie bet as the house
+takes an advantage of 18.65% on this bet.
+\CD-ROM\FILES_BJ.STR
+Loading camera paths
+Loading Solo camera paths
+Initialising Dealer
+Unloading CasWar
+CasWar Card %d, %d:  - %s %s
+CW RemovePile:  Dealer 
+CW RemovePile: Player %i
+ - pile %i
+CWar: Player %i has %i on pile %i
+CWar: Clean Table
+CWar: Player %i, pile %i: LOST %s
+TIE BET
+LOSES
+LOSES
+CWar: Player %i, pile %i: LOST %s
+FORFEITS
+CWar: Player %i, pile %i: WON %s
+TIE BET
+WINS
+WINS
+CWar: Player %i, pile %i: RETURNED %s
+PUSH
+Dealer shows %s
+%s has rescued their bet!
+%s has been returned,
+the bank takes %s.
+%s has rescued their bet!
+%s has been returned,
+the bank takes %s.
+You do not have enough money to double up.
+Your last bet of %s exceeds the current table limit of %s, so you cannot speed bet that amount.
+Your last bet of %s is less the current table minimum of %s, so you cannot speed bet that amount.
+You do not have enough money to repeat your last wager of %s.
+You have no bet here to insure!
+You have already placed an insurance bet.
+You have already placed an insurance bet.
+You already have the maximum allowable bet here.
+You do not have enough money to place this bet.
+Your bet was increased to the table minimum.
+You do not have enough money to place this bet.
+Only an additional %s was placed so that your total wager would not exceed the table limit of %s.
+There is no insurance bet to remove.
+You do not have enough money to make the split.
+Blackjack
+Soft
+%s %u
+Error - No CardPile!
+Loading camera paths
+Loading camera paths 2
+Loading camera paths 3
+Loading camera paths 4
+Loading Solo camera paths
+\CD-ROM\FILES_BJ.STR
+Loading geometrys
+Loading geometrys
+memory %d in %d blocks
+memory %d in %d blocks
+Loading card buttons
+Initialising Dealer
+All Loaded.
+Unloading blackjack
+BJ: Game Phase  %d
+BJ_MoveCamera(%d : %d)
+DealCard:  Dealer 
+DealCard: Player %i
+, Pile %i
+ - %s %s
+ (face down)
+TurnCard:  Dealer 
+TurnCard: Player %i
+ - pile %i, card %i
+BJ_shuffle %d
+Shuffle type %d
+RemovePile:  Dealer 
+RemovePile: Player %i
+ - pile %i
+BJ_split: Player %i, hand %i
+BJ_Activate: Player %i, hand %i
+BJ: Player %i has %s on pile %i
+BJ: Player %i, pile %i: LOST %s
+LOSES
+BJ: Player %i, pile %i: BUST 
+BUSTS
+BJ: Player %i, pile %i: WON %s
+WINS
+BJ: Player %i, pile %i: BLACKJACK win: %s
+BLACKJACK
+BJ: Player %i, pile %i: RETURNED %s
+PUSHES
+AI player %d
+You do not have enough money to insure your bet.
+Settling- %d
+Settling- %d
+Dealer
+Dealer shows an Ace !
+Dealer shows %u
+Dealer has a Blackjack!
+Soft 
+Dealer has %s%u
+BJ_DoAction - bad code - %d
+\CD-ROM\FILES_BJ.STR
+\CD-ROM\FILES.STR
+\CD-ROM\FILES.STR
+Loading camera paths
+Loading Solo camera paths
+Loading buttons
+Initialising Dealer
+Unloading Baccarat
+Bacc: Player %i, pile %i: LOST %s
+LOSES
+Bacc: Player %i, pile %i: WON %s
+WINS
+Bacc: Player %i, pile %i: RETURNED %s
+PUSHES
+Bacc: Player %i has %i on pile %i
+Bacc Card %i:  - %s %s
+Bacc: Clean Table
+Rules : Player
+When either the Player's or
+or the Banker's first two cards
+are a natural 8 or 9,
+neither hand draws
+Rules : Player
+When the Player's first two cards total:
+0-1-2-3-4-5   Draws a card
+ 6-7   Stands
+Player must draw to %u
+Player has a natural %u
+Player must stand on %u
+Rules : Banker
+The Banker always stands on 7 to 9
+Rules : Banker
+If the Player must take a third card,
+the Banker draws a third card if:
+Banker has 0-2 and Player drew any card
+Banker has 3 and Player has not got 8
+Banker has 4 and Player drew 2-7
+Banker has 5 and Player drew 4-7
+Banker has 6 and Player drew 6-7
+Rules : Banker
+When the Player stands on 6 or 7,
+the Banker must draw on 0 to 5
+and stand on 6 to 9.
+Bank must draw card
+Bank must stand
+Bank has a natural %u
+Player wins, %u over %u
+Bank wins, %u over %u
+Player and Bank Tie
+Collecting Commissions
+Any commissions that have not been collected will be deducted from each player
+Collecting Commissions
+The house has a policy of collecting commissions immediately if they exceed $25.
+Sorry
+You do not have enough money to place that bet.
+Sorry
+You will not be allowed to make that bet, since it would not leave you enough money to pay your commissions.
+Sorry
+The table minimum of %s is more than your current balance, adjusted for any commissions owed. I'm afraid you do not have enough money to place bets at this table.
+Betting Limit
+The minimum bet at this table is %s. That amount will be placed on the table.
+Betting Limit
+The maximum bet at this table is %s. Your bet will be topped off at that amount.
+Recommendation
+Place either a "player" or "banker" bet, but not both.
+The house edge on player bets is 1.36%; the house edge on banker bets (even after the commission is subtracted!) is only 1.17%, so both of these are good bets.
+You should never place a tie bet, since the house edge is a whopping 14.10%.
+Baccarat Coach
+Place either a "player" or "banker" bet, but not both.
+The house edge on player bets is 1.36%; the house edge on banker bets (even after the commission is subtracted!) is only 1.17%, so both of these are good bets.
+You should never place a tie bet, since the house edge is a whopping 14.10%.
+Your last bet of %s exceeds the current table limit of %s, so you cannot speed bet that amount.
+Your last bet of %s is less the current table minimum of %s, so you cannot speed bet that amount.
+You do not have enough money to repeat your last wager of %s.
+Your high hand must be of a better rank than your low hand.  Your hand is invalid and therefore automatically loses.
+Error - Invalid PG Hand
+You should throw out all 5 cards. You have nothing worth keeping.
+You should hold on to the one high card and throw out the other 4 cards.
+You should hold on to the 2 high cards and throw out the other 3 cards.
+You should keep the 2 cards of the royal flush and discard the other 3 cards.
+You should keep the 3 cards of the straight flush and throw out the other 2 cards.
+You should keep the 4 cards of the straight and discard the other card.
+You should hang on to the pair and throw out the other 3 cards.
+You should keep the wild card and throw away the other 4 cards.
+You should hang on to the 4 cards of the flush and draw the other card.
+You should hang on to the 3 cards of the royal flush and throw out the other 2 cards.
+You should hold on to the high pair and throw out the other 3 cards.
+You should keep the 2 pairs and draw 1 card.
+You should keep the 4 cards of the straight flush and throw out the other card.
+You should keep the 3 of a kind and draw 2 cards.
+You should hang on to the two wild cards and throw out the other 3 cards.
+You have a straight. Keep all of your cards.
+You have a flush. Keep all of your cards.
+You have 4 cards of the royal flush. Hang on to them and draw the other card.
+You have a full house. Keep all of your cards.
+You should hang on to the 4 of a kind and draw the other card.
+You should hang on to the 3 wild cards and throw out the other 2 cards.
+You have a straight flush, hang on to all of your cards.
+You have a royal flush with a wild card. Keep all of your cards.
+You have 5 of a kind. Keep all of your cards.
+You have 4 wild cards. Keep all of your cards.
+You have a royal flush. By all means, keep all of your cards.
+You should have thrown out all 5 cards. You had nothing worth keeping.
+You should have kept the one high card and thrown out the other 4 cards.
+You should have kept the 2 high cards and thrown out the other 3 cards.
+You should have kept the 2 cards of the royal flush and discarded the other 3 cards.
+You should have kept the 3 cards of the straight flush and thrown out the other 2 cards.
+You should have kept the 4 cards of the straight and discarded the other card.
+You should have kept a pair and thrown out the other 3 cards.
+You should have kept the wild card and thrown away the other 4 cards.
+You should have kept the 4 cards of the flush and drawn the other card.
+You should have kept the 3 cards of the royal flush and thrown out the other 2 cards.
+You should have kept the high pair and thrown out the other 3 cards.
+You should have kept the 2 pairs and drawn 1 card.
+You should have kept the 4 cards of the straight flush and thrown out the other card.
+You should have kept the 3 of a kind and drawn 2 cards.
+You should have kept the two wild cards and thrown out the other 3 cards.
+You had a straight. You should have kept all of your cards.
+You had a flush. You should have kept all of your cards.
+You had 4 cards of the royal flush. You should have kept them and drawn the other card.
+You had a full house. You should have kept all of your cards.
+You should had kept the 4 of a kind and drawn the other card.
+You should had kept the 3 wild cards and thrown out the other 2 cards.
+You had a straight flush, you should have kept all of your cards.
+You had a royal flush with a wild card. You should have kept all of your cards.
+You had 5 of a kind. You should have kept all of your cards.
+You had 4 wild cards. You should have kept all of your cards.
+You had a royal flush! You should not have thrown away any cards.
+and 
+Five %s
+A Royal Flush, %s
+%s high Straight Flush, %s
+Four %s
+Full House, %s and %s
+%s high Flush, %s
+%s high Straight
+Three %s
+Two Pair, %s and %s
+Pair of %s
+%s, %s High
+Error
+Your high hand must be of a better rank than your low hand:
+Your High hand - %s
+Your Low hand - %s
+Dealers Hand
+High Hand - %s
+Low Hand - %s
+Pai Gow Poker Recommendation
+In order to stand a better chance of winning at this game, you need a balanced high and low hand.  The house would arrange your cards as follows:
+High Hand - %s
+Low Hand - %s
+Pai Gow Poker Recommendation
+In order to stand a better chance of winning at this game, you need a balanced high and low hand.  The house would arrange your cards as follows:
+High Hand - %s
+Low Hand - %s
+Free Memory = %d
+Free Memory = %d
+\CD-ROM\FILES_BJ.STR
+Free Memory = %d
+Loading geometrys
+Loading camera paths
+Loading camera paths 2
+Loading camera paths 3
+Loading camera paths 4
+Loading Solo camera paths
+Loading buttons
+Initialising Dealer
+Unloading PaiGow
+PaiGow Card %i-%i:  - %s %s
+PG_Activate: Player %i
+PG: Paigow Hand Event (%d)
+PaiGow: Player %i has %i on pile %i
+PaiGow: Clean Table
+PG: Player %i, pile %i: LOST %s
+LOSES
+PG: Player %i, pile %i: WON %s
+WINS
+PG: Player %i, pile %i: RETURNED %s
+PUSHES
+PaiGow_MoveCamera(%d)
+\CD-ROM\FILES_BJ.STR
+Loading camera paths
+Loading Solo camera paths
+Initialising Dealer
+Unloading RedDog
+RedDog Card %i:  - %s %s
+RDog: Player %i has %i on pile %i
+RDog: Clean Table
+Rdog: Player %i, pile %i: LOST %s
+LOSES
+Rdog: Player %i, pile %i: WON %s
+WINS
+Rdog: Player %i, pile %i: RETURNED %s
+PUSHES
+Reddog Marker: %d
+RDog_MoveCamera(%d : %d)
+You already have the maximum allowable bet here.
+You do not have enough money to place this bet.
+Your bet was increased to the table minimum.
+You do not have enough money to place this bet.
+Only an additional %s was placed so that your total wager would not exceed the table limit of %s.
+You may only raise up to your initial bet of %s
+You do not have enough money to place this bet.
+Your bet was increased to the table minimum.
+The chance of winning on a hand with a spread of 6 or less is smaller than 50%.
+You should only raise your bet if
+the spread of cards is 7 or more
+and the chances of you winning
+are greater than 50%
+You do not have enough money to place this bet.
+Only an additional %s was placed so that your total wager would not exceed your initial bet of %s.
+Card is %s
+You should only raise your bet when
+you have a spread of 7 or more.
+Your last bet of %s exceeds the current table limit of %s, so you cannot speed bet that amount.
+Your last bet of %s is less the current table minimum of %s, so you cannot speed bet that amount.
+You do not have enough money to repeat your last wager of %s.
+Royal Flush
+Straight Flush
+Four of a Kind
+Full House
+Flush
+Straight
+Three of a Kind
+Two Pair
+Jacks or Better
+Royal Flush
+Four Deuces
+Five of a Kind
+Royal Flush Wild
+Straight Flush
+Four of a Kind
+Full House
+Flush
+Straight
+Three of a Kind
+Royal Flush
+Five of a Kind
+Royal Flush Wild
+Straight Flush
+Four of a Kind
+Full House
+Flush
+Straight
+Three of a Kind
+Two Pair
+Royal Flush
+Straight Flush
+Straight Flush
+Four of a Kind
+Full House
+Flush
+Straight
+Three of a Kind
+Two Pair
+Tens or Better
+You should throw out all 5 cards. You have nothing worth keeping.
+You should hold on to the one high card and throw out the other 4 cards.
+You should hold on to the 2 high cards and throw out the other 3 cards.
+You should keep the 2 cards of the royal flush and discard the other 3 cards.
+You should keep the 3 cards of the straight flush and throw out the other 2 cards.
+You should keep the 4 cards of the straight and discard the other card.
+You should hang on to the pair and throw out the other 3 cards.
+You should keep the wild card and throw away the other 4 cards.
+You should hang on to the 4 cards of the flush and draw the other card.
+You should hang on to the 3 cards of the royal flush and throw out the other 2 cards.
+You should hold on to the high pair and throw out the other 3 cards.
+You should keep the 2 pairs and draw 1 card.
+You should keep the 4 cards of the straight flush and throw out the other card.
+You should keep the 3 of a kind and draw 2 cards.
+You should hang on to the two wild cards and throw out the other 3 cards.
+You have a straight. Keep all of your cards.
+You have a flush. Keep all of your cards.
+You have 4 cards of the royal flush. Hang on to them and draw the other card.
+You have a full house. Keep all of your cards.
+You should hang on to the 4 of a kind and draw the other card.
+You should hang on to the 4 of a kind and draw the other card.
+You should hang on to the 3 wild cards and throw out the other 2 cards.
+You have a straight flush, hang on to all of your cards.
+You have a royal flush with a wild card. Keep all of your cards.
+You have 5 of a kind. Keep all of your cards.
+You have 4 wild cards. Keep all of your cards.
+You have a royal flush. By all means, keep all of your cards.
+You should have thrown out all 5 cards. You had nothing worth keeping.
+You should have kept the one high card and thrown out the other 4 cards.
+You should have kept the 2 high cards and thrown out the other 3 cards.
+You should have kept the 2 cards of the royal flush and discarded the other 3 cards.
+You should have kept the 3 cards of the straight flush and thrown out the other 2 cards.
+You should have kept the 4 cards of the straight and discarded the other card.
+You should have kept a pair and thrown out the other 3 cards.
+You should have kept the wild card and thrown away the other 4 cards.
+You should have kept the 4 cards of the flush and drawn the other card.
+You should have kept the 3 cards of the royal flush and thrown out the other 2 cards.
+You should have kept the high pair and thrown out the other 3 cards.
+You should have kept the 2 pairs and drawn 1 card.
+You should have kept the 4 cards of the straight flush and thrown out the other card.
+You should have kept the 3 of a kind and drawn 2 cards.
+You should have kept the two wild cards and thrown out the other 3 cards.
+You had a straight. You should have kept all of your cards.
+You had a flush. You should have kept all of your cards.
+You had 4 cards of the royal flush. You should have kept them and drawn the other card.
+You had a full house. You should have kept all of your cards.
+You should had kept the 4 of a kind and drawn the other card.
+You should had kept the 4 of a kind and drawn the other card.
+You should had kept the 3 wild cards and thrown out the other 2 cards.
+You had a straight flush, you should have kept all of your cards.
+You had a royal flush with a wild card. You should have kept all of your cards.
+You had 5 of a kind. You should have kept all of your cards.
+You had 4 wild cards. You should have kept all of your cards.
+You had a royal flush! You should not have thrown away any cards.
+Recommendation
+Coach
+You should always bet the full 5 coins.
+Recommendation
+You should always bet the full 5 coins.
+Coach
+$100
+$1000
+Jackpot!
+The siren attracts the cashier, who pays you %s
+Jackpot!
+The siren attracts the cashier, who pays you %s
+Maximum Credit
+The machine won't accept more than 500 coins at once.
+Insufficient Funds
+You do not have enough money drop in a %s coin.
+ and 
+ does not have enough money to meet the minimum bet next round and so has been ejected from play.
+ do not have enough money to meet the minimum bet next round and so have been ejected from play.
+There is nobody left at the machine with enough money to meet the minimum bet.  Returning to lobby.
+\CD-ROM\FILES_VP.STR
+VP load 6
+Unloading Videopoker
+Vpoker: Clean Table
+Player 
+ has $
+Player 
+as $
+long string 2
+concat
+concat
+long string 2
+long string 2
+long string 2
+last 3
+\CD-ROM\files.str
+Failed to load sprite to VRAM
+Warning - Out of Video Memory
+Height of ticker is busted!!
+LOADING  v 0.04
+Maximum Credit
+The machine won't accept more than 500 coins at once.
+You do not have enough money to insert 1 coin of %s
+player denom = %d
+denom lut = %d
+You do not have enough money to insert %d coins of %s
+Poker Challenge Coach
+You can always maximize your bonus payouts by playing 5 coins.
+ and 
+ does not have enough money to meet the minimum bet next round and so has been ejected from play.
+ do not have enough money to meet the minimum bet next round and so have been ejected from play.
+There is nobody left at the machine with enough money to meet the minimum bet.  Returning to lobby.
+High
+%s High
+%s-%s High
+%s-%s-%s High
+Three
+Four
+Five
+Seven
+Eight
+Nine
+Jack
+Queen
+King
+Aces
+Twos
+Threes
+Fours
+Fives
+Sixes
+Sevens
+Eights
+Nines
+Tens
+Jacks
+Queens
+Kings
+Aces
+%s-%s
+Pair of %s
+Pair of
+Two Pair
+%s and %s
+2 Pair: %s's and %s's
+Three
+Three %s
+Four
+Four %s
+Full House
+%s over %s
+Flush
+ High
+Straight
+to %s
+Straight Flush
+to %s
+ROYAL
+FLUSH!
+Recommendation
+Out of %d tries ...
+ Hand #1 won %d times (%d%%)
+ Hand #2 won %d times (%d%%)
+ Hand #3 won %d times (%d%%).
+These hands are too close to call.
+Recommendation
+Out of %d tries ...
+ Hand #1 won %d times (%d%%)
+ Hand #2 won %d times (%d%%)
+ Hand #3 won %d times (%d%%).
+Hand #%d looks like a winner.
+Recommendation
+Out of %d tries ...
+ Hand #1 won %d times (%d%%)
+ Hand #2 won %d times (%d%%)
+ Hand #3 won %d times (%d%%)
+ Hand #4 won %d times (%d%%).
+These hands are too close to call.
+Recommendation
+Out of %d tries ...
+ Hand #1 won %d times (%d%%)
+ Hand #2 won %d times (%d%%)
+ Hand #3 won %d times (%d%%)
+ Hand #4 won %d times (%d%%).
+I would pick hand #%d
+Recommendation
+Since you get a double bonus with 5 coins, you should always play 5 coins to maximize your payouts.
+Recommendation
+Out of %d tries ...
+ Your hand won %d times (%d%%)
+I would not recommend doubling unless you have over %d%% of the wins.
+Poker Challenge Coach
+To maximize your payouts, you should always 
+play the maximum number of coins.
+Recommendation
+Out of %d tries ...
+ Your hand won %d times (%d%%)
+Any bet over %d%% is probably worth the risk.
+I would double.
+Poker Challenge Coach
+To maximize your payouts, you should always 
+play the maximum number of coins.
+Recommendation
+Since you get a double bonus with 5 coins, you should always play 5 coins to maximize your payouts.
+Poker Challenge Coach
+You did not pick the best hand.
+The winning hand percentages are:
+Hand #%d: %d%%  - You picked this hand.
+Hand #%d: %d%%  - BEST hand.
+Hand #%d: %d%%
+These winning hand percentages are based on simulating %d games completed from these starting hands, not calculation.  Therefore, they are not perfectly accurate. 
+Due to the effect of ties, the total percentages may not add up to exactly 100%%.
+Poker Challenge Doubling Coach
+Your hand only had a %d%% win rate.
+I wouldn't recommend doubling unless you have over %d%% wins.
+Poker Challenge Doubling Coach
+Your hand had a %d%% win rate
+I would always recommend doubling when you have over %d%% wins.
+Recommendation
+Out of %d tries ...
+ Hand #1 won %d times (%d%%)
+ Hand #2 won %d times (%d%%)
+ Hand #3 won %d times (%d%%).
+These hands are too close to call.
+Recommendation
+Out of %d tries ...
+ Hand #1 won %d times (%d%%)
+ Hand #2 won %d times (%d%%)
+ Hand #3 won %d times (%d%%).
+Hand #%d looks like a winner.
+Recommendation
+Out of %d tries ...
+ Hand #1 won %d times (%d%%)
+ Hand #2 won %d times (%d%%)
+ Hand #3 won %d times (%d%%)
+ Hand #4 won %d times (%d%%).
+These hands are too close to call.
+Recommendation
+Out of %d tries ...
+ Hand #1 won %d times (%d%%)
+ Hand #2 won %d times (%d%%)
+ Hand #3 won %d times (%d%%)
+ Hand #4 won %d times (%d%%).
+I would pick hand #%d
+Recommendation
+Since you get a double bonus with 5 coins, you should always play 5 coins to maximize your payouts.
+Recommendation
+Out of %d tries ...
+ Your hand won %d times (%d%%)
+I would not recommend doubling unless you have over %d%% of the wins.
+Poker Challenge Coach
+To maximize your payouts, you should always 
+play the maximum number of coins.
+Recommendation
+Out of %d tries ...
+ Your hand won %d times (%d%%)
+Any bet over %d%% is probably worth the risk.
+I would double.
+Poker Challenge Coach
+To maximize your payouts, you should always 
+play the maximum number of coins.
+Recommendation
+Since you get a double bonus with 5 coins, you should always play 5 coins to maximize your payouts.
+Poker Challenge Coach
+You did not pick the best hand.
+The winning hand percentages are:
+Hand #%d: %d%%  - You picked this hand.
+Hand #%d: %d%%  - BEST hand.
+Hand #%d: %d%%
+These winning hand percentages are based on simulating %d games completed from these starting hands, not calculation.  Therefore, they are not perfectly accurate. 
+Due to the effect of ties, the total percentages may not add up to exactly 100%%.
+Poker Challenge Doubling Coach
+Your hand only had a %d%% win rate.
+I wouldn't recommend doubling unless you have over %d%% wins.
+Poker Challenge Doubling Coach
+Your hand had a %d%% win rate
+I would always recommend doubling when you have over %d%% wins.
+invalid machine
+\CD-ROM\FILES_PC.STR
+Unloading Pokerchallenge
+    JACKPOT   
+    WINNER    
+  UNDERSEA    
+  HALLOWEEN   
+   BASEBALL   
+    FRUIT     
+  WILD WEST   
+    EGYPT     
+Recommendation
+In order to maximize your potential jackpot win, you should always insert the full %d coins allowed on this machine.
+SL COMMAND: BETONE
+SL COMMAND: ADDCOIN
+CREDITS: %d
+SL COMMAND: BETMAX
+SL COMMAND: SPIN
+SL COMMAND: CASHOUT
+SL COMMAND: NEXT_PLAYER
+SL COMMAND: SPEED SPIN
+SL COMMAND: SPEED ADDCOIN
+CREDITS: %d
+Recommendation
+In order to maximize your potential jackpot win, you should always insert the full %d coins allowed on this machine.
+Cashout!
+To Pay: %d
+Destroying Menu
+Pay win!
+Payout: %s
+Destroying Menu
+New Player: %s
+Destroying Menu
+CREDITS: %d
+BET: %d
+PAID: %s
+Maximum Credit
+The machine won't accept more than 500 coins at once.
+Player has no money left to add!
+Destroying Menu
+Creating Menu
+%s has no more money, will be kicked out!!
+Insufficient Funds!
+%s can no longer play on this machine because they do not have enough money to add another coin.
+There are no eligible players left at this machine.
+Returning to Lobby.
+All players have no money, back to lobby!
+Destroying Menu
+Creating buttons
+Creating Menu
+Creating Menu
+Load Texture Swap failed, offset = , length = %d
+Invalid texture to swap, material = 
+Invalid texture to swap, material = 
+Cashout
+              
+   Spinning   
+    WINNER    
+   JACKPOT    
+CREDITS %d
+   JACKPOT    
+PAID %s
+COINS BET %d
+PROGRESSIVE
+COIN VALUE
+              
+      
+      
+ and 
+ does not have enough money to meet the minimum bet next round and so has been ejected from play.
+ do not have enough money to meet the minimum bet next round and so have been ejected from play.
+There is nobody left at the machine with enough money to meet the minimum bet.  Returning to lobby.
+Jackpot!
+The siren attracts the cashier, who pays you %s
+Jackpot!
+The siren attracts the cashier, who pays you %s
+333333
+?333333
+?333333
+?333333
+?333333
+?333333
+?ffffff
+333333
+@ffffff6@
+@Recommend
+Casinos take a very high margin on Keno, typically 29%.
+Although you can potentially win a million dollars from a bet of just a few dollars the chances of this happening are remote.
+The best chance of winning is to play those games which have smaller jackpots, but better payoffs for the more likely number of hits that you will score, eg All Catches.
+Bet Maximum
+The machine will only accept bets of one coin.
+You do not have enough money to insert 1 coin of %s
+You do not have enough money to insert %d coins of %s
+Keno Coach - Forty Tickets
+The top, bottom, left or right 40 numbers are automatically picked for you.  If the computer matches 11 or more of the numbers you will win.
+Keno Coach - Forty Tickets
+The top, bottom, left or right 40 numbers are automatically picked for you.  If the computer matches 11 or more of the numbers you will win.
+Keno Coach - Forty Tickets
+The top, bottom, left or right 40 numbers are automatically picked for you.  If the computer matches 11 or more of the numbers you will win.
+Keno Coach - Forty Tickets
+The top, bottom, left or right 40 numbers are automatically picked for you.  If the computer matches 11 or more of the numbers you will win.
+Keno Coach - Forty Forty Tickets
+This game is a variation on the normal forty number game.  Instead of picking a set of forty numbers it compares the spread of numbers picked, either top and bottom or left and right.
+No numbers are highlighted in these games as you are comparing one side to the other.  Each side has it's own colour for drawn numbers.
+Keno Coach - Forty Forty Tickets
+This game is a variation on the normal forty number game.  Instead of picking a set of forty numbers it compares the spread of numbers picked, either top and bottom or left and right.
+No numbers are highlighted in these games as you are comparing one side to the other.  Each side has it's own colour for drawn numbers.
+Keno Coach - Thirty Two Tickets
+The edge 32 or inner circle 32 numbers are automatically picked for you.  You win if the computer draws either most of the numbers or very few of them.
+Keno Coach - Thirty Two Tickets
+The edge 32 or inner circle 32 numbers are automatically picked for you.  You win if the computer draws either most of the numbers or very few of them.
+Keno Coach - Straight Ticket
+Pick between 1 and 20 numbers.
+Keno Coach - All Catches
+Pick between 7 and 10 numbers.
+You are guaranteed to win some money, but not necessarily as much as you bet!
+Keno Coach - All or Nothing
+Pick between 4 and 8 numbers.
+You only win if the Keno machine draws all the numbers you picked or none of them.
+Keno Coach - Bet Against
+Pick between 8 and 15 numbers.
+You only win if none of the numbers you picked are drawn by the Keno machine.
+Keno Coach - Catch All
+ Pick between 2 and 7 numbers.
+You only win if the Keno machine draws all the numbers you picked.
+Keno Coach - Last Ball Drawn
+Pick between 1 and 6 numbers.
+If the last number drawn by the Keno machine is one you picked and all your other numbers have been drawn, then your winnings will be doubled subject to a casino maximum of $100,000,000
+Keno Coach - Super Special
+Pick between 3 and 10 numbers.
+The payout odds on this machine are higher than the standard ticket game.
+Top 40
+Bottom 40
+Left 40
+Right 40
+Top / Bottom 40
+Left / Right 40
+Edge 32
+Inner 32
+Straight Ticket - 1 to 20 spots
+All Catches - 7 to 10 spots
+All or Nothing - 4 to 8 spots
+Bet Against - 8 to 15 spots
+Catch All - 2 to 7 spots
+Last Ball Drawn - 1 to 6 spots
+Super Special - 3 to 10 spots
+\CD-ROM\FILES_KN.STR
+Unloading Keno
+keoker: Clean Table
+deleted actor : %d
+deleted font
+some text string
+Demo Free Memory Before= %d,%d blocks
+\CD-ROM\animicon.str
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+LOADING...
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+LOADING...
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+\CD-ROM\VMGFX.STR
+\CD-ROM\frontend.str
+Startup Sounde Mode = STEREO
+Startup Sounde Mode = MONO
+\CD-ROM\voices.str
+\CD-ROM\files_wav.str
+Screen %d x %d
+\CD-ROM\FRONTEND.STR
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Player Progression
+Congratulations %s
+You have reached the Rank
+of %s
+in %s
+Player Progression
+Congratulations %s
+You have reached the Rank
+of %s
+\CD-ROM\files.str
+\CD-ROM\FILES.STR
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Free Memory = %d
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory After= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory After= %d,%d blocks
+loops: %d bj:%d sp21:%d credits:%d
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Main Menu
+\CD-ROM\FILES.STR
+Loaded
+\CD-ROM\FILES.STR
+INVALID DISPLAY MODE - USE A US DREAMCAST
+d	w	
+b"6vg[
+s"#z
+"6f{
+2#u{
+uUUgWs"&
+UUVwWs3#
+YuUgx
+TDIUy
+dDDE
+S2""33336
+c""##2##38
+"#"""""31@
+3"""!
+v23gyY
+"6wU
+Uc"7
+V2"j
+us"&
+f""z
+ViUU[
+W2"j
+DDZvgeVUVeY
+XU2#w
+a"""#g
+q"""""""38
+""""""""&
+2!"""""""8
+c33fz
+ff2"#7
+Uv2#7
+#6v{
+b#jU
+UWUUUVeY
+UUYU
+r#3k
+b""&
+c"""&
+DDgvfc""""!
+EUTDH
+2""""! :
+UTDDH
+2""!"!
+dTDDX
+"""!
+q4DDUX
+DTUQ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.?***
+\CD-ROM\FILES.STR
+\CD-ROM\LOBBY.STR
+RuneCraft Credits
+Lead Programmer
+Steve Baker
+Programmers
+Neil Davidson
+Duncan Chambers
+Doug Anderson
+John Carlyle
+Dave Sowerby
+3D Engine Code
+Steve Caslin
+Scott Walsh
+Steve Baker
+Sound Engine Code
+Neil Davidson
+Lead Artist
+David Tolley
+Artists
+Bob Davies
+Lee Doyle
+Lawrie Pick
+Jane Stroud
+Karen Pinchin
+Tina Palmer
+Animation
+David Tolley
+John Jones
+Designer
+Dave Lago
+Producer
+Bill Newsham
+Sound Engineer
+Matt Sugden
+Q.A. Manager
+Mark Hooley
+Lead Tester
+Mick Jagger
+Testers
+Paul Dean
+Wez Foster
+Greg Ellis
+Mick Barlow
+Art Resources Manager
+Andy Noble
+Executive Producers
+Keith Jackson
+Martin Hooley
+Special Thanks to:
+Dave Lee
+Interplay Credits
+Division Director
+Brian Christian
+Producer
+Steve Baldoni
+Associate Producer (UK)
+Nana Penemo
+VP of Development
+Rob Nessler
+Art Director
+Todd Camasta
+Box Art
+Carol Angell
+Director of Marketing
+Debbie Howell
+Product Marketing Manager
+Kevin Johnston
+PR Manager
+Heather McLaughlin
+Audio Director
+Charles Deenen
+Audio Administrator
+Gloria Soto
+Voice Over Director
+Chris Borders
+Voice Over Project Co-ordinator
+Virtual Casting
+Script
+Linda Barnett
+Traffic Manager
+Sherry LaVertu
+Manual Design and Layout
+Michael L. Quintos
+Director of Quality Assurance
+Michael Motoda
+QA Divisions Operations Manager
+Monica Vallejo
+QA Project Supervisor
+Erik Guenther
+QA Managers
+Dave Simon
+Greg Baumeister
+Project Supervisor
+John Kirkland
+Senior Testers
+Rodney Smith
+Amy Presnell
+Testers
+Thomas Edmonds
+Lisa Hawker
+Marc Droudian
+Daniel Cragun
+Sean Johnson
+Special Thanks to:
+Brian Fargo
+Chip Bumgardner
+Not integrated, Press 
+ to Continue
+The controller has been removed or
+a VMU has been recognized.
+Controller removed or a VMU is being recognized.
+Load Sound file from '%s'
+Empty
+Create message....
+Created TABLE LIMIT
+Created COIN LIMIT
+Select or Back done, end table/coin limit
+Player %d : %s
+All players have dosh!
+Some players have dosh!
+Players without sufficient funds.
+Press 
+ to retire these players, or
+ to select another Table Limit.
+ to select another Coin Limit.
+No players have dosh!
+All players have insufficient funds.
+Press 
+ to select another Table Limit.
+Press 
+ to select another Coin Limit.
+The controller has been removed or
+a VMU has been removed.
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXX
+XXXX
+XXXX
+XXXX
+Add a Player
+Start Game
+Accept
+Press 
+ to add a new player to the game.
+Press 
+ to start the game.
+Press 
+ to select this character.
+Press 
+ to delete character.
+Press 
+ to clear name.
+Press 
+ to accept name.
+At least one player must be added.
+Press 
+ to delete this player.
+Press 
+ to add a new player.
+Press 
+ to retire this player from the game.
+Press 
+ to re-activate this player.
+Press 
+ to cycle through the Controllers.
+Press 
+ to accept this setup.
+At least 1 human player must be active.
+Player must have at least 1 character.
+At least 1 human player must be active.
+There must be an empty position to add a player to.
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\animicon.str
+Empty
+Empty
+Empty
+Empty
+Running : New Game
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+ Back
+ Back
+ Main Menu
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+ Back
+ Main Menu
+There are no controllers inserted.
+Please insert a controller to continue.
+The following players controllers have
+been re-assigned to Controller %s
+Press 
+ to continue.
+Empty
+Banned
+Active
+Retired
+Empty
+Banned
+Active
+Retired
+Empty
+Banned
+Active
+Retired
+Empty
+Banned
+Active
+Retired
+ Back
+Empty
+Empty
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Empty
+Empty
+Empty
+Empty
+ Back
+Retired
+Active
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\animicon.str
+ Main Menu
+NewGame end Memory %d in %d blocks
+Press 
+ to play a card game.
+Press 
+ to visit cashier machine.
+Press 
+ to play on a slot machine.
+Press 
+ to play a table game.
+Press 
+ to view statistics.
+Press 
+ to play a video game.
+Press 
+ to save game.
+Press 
+ for Blackjack.
+Press 
+ for Spanish 21.
+Press 
+ for Mini Baccarat.
+Press 
+ for Red Dog.
+Press 
+ for Casino War.
+Press 
+ for Pai Gow Poker.
+Press 
+ for Progressive Fruit.
+Press 
+ for Halloween.
+Press 
+ for Ancient Egypt.
+Press 
+ for Wild West.
+Press 
+ for Baseball Challenge.
+Press 
+ for Roulette.
+Press 
+ for Craps.
+Press 
+ to play a Video Poker Game.
+Press 
+ to play a Video Keno Game.
+Press 
+ to play a Poker Challenge Game.
+Press 
+ for Tens or Better.
+Press 
+ for Jacks or Better.
+Press 
+ for Jokers Wild.
+Press 
+ for Deuces Wild.
+Press 
+ for Multi Ticket.
+Press 
+ for Auto Spotter.
+Press 
+ for Double Hold'em Challenge.
+Press 
+ for Hold'em Challenge.
+Press 
+ for Double Stud Challenge.
+Press 
+ for Stud Challenge.
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.str
+\CD-ROM\animicon.str
+Running : Lobby
+\CD-ROM\FE3D.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.STR
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.STR
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.STR
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.STR
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.STR
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Blackjack
+Spanish 21
+Mini Baccarat
+Red Dog
+Casino War
+PaiGow Poker
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Slot Machine 'Progressive Fruit'
+Slot Machine 'Halloween'
+Slot Machine 'Ancient Egypt'
+Slot Machine 'Wild West'
+Slot Machine 'Baseball Challenge'
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Roulette
+Craps
+\CD-ROM\FE3D.STR
+\CD-ROM\FE3D.STR
+\CD-ROM\FE3D.STR
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Video Poker 'Tens or Better'
+Video Poker 'Jacks or Better'
+Video Poker 'Jokers Wild'
+Video Poker 'Deuces Wild'
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Video Keno 'Multi Ticket'
+Video Keno 'Auto Spotter'
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Poker Challenge 'Double Holdem Challenge'
+Poker Challenge 'Holdem Challenge'
+Poker Challenge 'Double Stud Challenge'
+Poker Challenge 'Stud Challenge'
+\CD-ROM\FILES.STR
+QUITCHOICE %d [%d/%d]
+Player %d is in
+Player %d is out
+%d == %d
+everybody is kicked out
+not everybody is kicked out
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.str
+\CD-ROM\animicon.str
+ Back
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+XXXXXXXXXXXXXXXXX
+XXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXPrevious
+Next
+Accept
+Please choose a player
+Borrow
+Repay
+Select an option
+Use 
+ to choose option, 
+ for previous player.
+Use 
+ to choose option, 
+ for next player.
+Use 
+ to choose option, 
+ to accept.
+Use 
+ to choose option, 
+ to borrow.
+Use 
+ to choose option, 
+ to repay.
+Use 
+ to choose keypad , 
+ to select.
+Use 
+ to choose keypad , 
+ to accept.
+Use 
+ to choose keypad , 
+ to delete.
+\CD-ROM\lobby.str
+\CD-ROM\lobby.str
+\CD-ROM\lobby.str
+\CD-ROM\lobby.str
+(%s)
+(%s)
+(%s)
+(%s)
+(%s)
+Enter amount to Borrow
+(%s)
+Enter amount to Repay
+(%s)
+You can only borrow more money when
+your current balance is below $200.
+Press 
+ to continue.
+ Back
+Press 
+ to move, 
+ to select.
+Press 
+ to move, 
+ to delete.
+Press 
+ to move, 
+ to clear.
+Press 
+ to move, 
+ to accept.
+Player must have at least 1 character.
+\CD-ROM\FE3D.str
+\CD-ROM\signin.str
+\CD-ROM\signin.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+ Cancel
+SIGN IN
+FRONT END: Kill Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Signin end Memory %d in %d blocks
+XXXXXXXXXXX
+XXXXXXXXXXX
+XXXXXXXXXXX
+XXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX
+XXXXXXX
+XXXXXXXXXXXXXXXXXXXName :
+Game
+Rank
+Plays
+Profit
+Blackjack
+Spanish 21
+Mini Baccarat
+Red Dog
+Casino War
+Pai Gow Poker
+Roulette
+Craps
+Slots
+Poker Challenge
+Video Poker
+Video Keno
+Use 
+ to choose player, 
+ to view statistics.
+Use 
+ to scroll statistics.
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Running : Statistics
+More.....
+Overall Total
+ Back
+Press 
+ to continue.
+Press 
+ to choose Player List, 
+ to load Player List.
+Searching for VMU in a Controller.
+Error searching for VMU.
+Loaded, OK.
+Corrupt VMU file 'CPAL2000.000'.
+No VMU found.
+Please insert a VMU into a Controller.
+VMU found in Controller A, Slot 1.
+(<xxx> Free Blocks)
+Loading, please wait.
+Do not remove VMU.
+No save games found.
+Please insert another VMU.
+Error while accessing VMU.
+Insert another VMU.
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Running : Load Player List
+The controller has been removed or
+a VMU has been removed.
+CPAL2000.
+00/00/0000  00:00
+Corrupt VMU file '%s'
+The controller has been removed or
+a VMU has been removed.
+(%d Free Blocks)
+Empty
+ Back
+Press 
+ to continue.
+Press 
+ to choose Player List, 
+ to save Player List.
+Searching for VMU in a Controller.
+Error searching for VM.
+Saved 'CPAL2000.000', OK.
+Corrupt VMU file 'CPAL2000.000'.
+No VMU found. Please insert a VMU with
+at least 12 free blocks into a Controller.
+VMU found in Controller A, Slot 1.
+(<xxx> Free Blocks) 12 Blocks per Save Game.
+Saving, do not turn Power off.
+Do not remove VMU.
+No save games found.
+Please insert another VMU.
+Loading, please wait.
+Do not remove VMU.
+Error while accessing VMU.
+Insert another VMU.
+There are not enough free memory blocks.
+12 free blocks are required for saving.
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Running : Save Player List
+The controller has been removed or
+a VMU has been removed.
+CPAL2000.
+00/00/0000  00:00
+Corrupt VMU file '%s'
+The controller has been removed or
+a VMU has been removed.
+Empty
+(%d Free Blocks) 12 Blocks per Save Game.
+CPAL2000.000
+Empty
+ Back
+Empty
+Saved '%s', OK.
+Empty
+00/00/0000  00:00
+ Back
+Effects
+Speech
+Ambient
+Audio Output
+Accept Changes
+Use 
+ to adjust Volume.
+Use 
+ to adjust Volume.
+Use 
+ to adjust Volume.
+Use 
+ to toggle output.
+Use 
+ to Accept Changes.
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\FE3D.str
+\CD-ROM\animicon.str
+Running : Sound Volume Controller
+ Cancel
+Set Sound Mode to MONO
+Set Sound Mode to STEREO
+Set permanent ambient volume to 0, silence! - MIN VOLUME
+Set permanent ambient volume to %d - MAX VOLUME
+Set permanent ambient volume to %d
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Sound end Memory %d in %d blocks
+New Game
+Continue Game
+Load Game
+Audio Options
+Press 
+ to start a new game.
+Press 
+ to continue previous game.
+Press 
+ to load a saved game.
+Press 
+ to adjust sound volumes.
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Running : Main Menu
+\CD-ROM\ingame.str
+\CD-ROM\ingame.str
+\CD-ROM\ingame.str
+\CD-ROM\ingame.str
+Audio Options
+Use 
+ to adjust Volume.
+Use 
+ to toggle Audio Output.
+Press 
+ to Accept Changes.
+ Cancel
+SPEECH
+SPEECH
+AMBIENT
+AMBIENT
+AUDIO OUTPUT
+AUDIO OUTPUT
+ACCEPT CHANGES
+ACCEPT CHANGES
+Play demo mode with 
+%d AI players on
+FRONT END: Kill Front End
+FRONT END: Clean Front End
+FRONT END: Free Texture Surfaces
+FRONT END: shutdownscene
+FRONT END: shutdown3dengine
+Blackjack
+Spanish 21
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+\CD-ROM\frontend.str
+Press START button
+Error creating the registry key
+Error opening the registry key
+Error closing the registry key
+Error setting the registry value
+Error getting the registry value
+Bet Code Dealloc
+You do not have enough money to place this bet.
+You do not have any chips on this region to remove.
+You already have the maximum allowable bet here.
+You do not have enough money to place this bet.
+Betting Limit Reached.
+This bet would exceed the maximum
+allowable bet of %s.
+Only an additional %s was placed so that your total wager would not exceed the table limit of %s.
+You do not have enough money to place this bet.
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+Init Game: memory %d in %d blocks
+Demo - Press START Button
+Demo Free Memory Before= %d,%d blocks
+Demo Free Memory Before= %d,%d blocks
+Helps left = %d
+Free Memory = %d
+\CD-ROM\CRD.OVL
+\CD-ROM\CRD.OVL
+\CD-ROM\CRD.OVL
+\CD-ROM\CRD.OVL
+\CD-ROM\CRD.OVL
+\CD-ROM\CRD.OVL
+\CD-ROM\CRL.OVL
+\CD-ROM\CRL.OVL
+\CD-ROM\SLT.OVL
+\CD-ROM\VID.OVL
+\CD-ROM\VID.OVL
+\CD-ROM\VID.OVL
+\CD-ROM\DEALER.DLR
+\CD-ROM\dealer.dlr
+No Valid PLayer !!
+\CD-ROM\file_sl1.str
+\CD-ROM\file_sl1.str
+.\savedata\
+.sav
+.\savedata\*.sav
+.\savedata\
+Loaded Player %d : [%s]
+render1 = %d
+render2 = %d
+render3 = %d
+** DC - Playing MIDI Track
+** DC - Stopping MIDI
+** DC - Playing CD-DA Track
+** DC - Stopping CD-DA
+srcAlphaCounter = %d
+dstAlphaCounter = %d
+Pause mode start...
+The controller has been removed or a VMU has been removed.
+The controller has been removed or a VMU has been removed.
+The controller has been removed or a VMU is being recognized.
+The controller has been removed or a VMU is being recognized.
+The controller has been removed or
+a VMU has been recognized.
+Wendy
+Rebekah
+Luke
+Tommy
+Vance
+Toni
+Jane
+Jenny
+Stats: plyd %d,  Placed %s,  Won %s
+\CD-ROM\voices.str
+Sound Effects...
+Streamed Sound Effects...
+Dealer Chosen: %d
+Common Dealer Streamed Sound Effects...
+Deuces Wild
+Tens or Better
+Jokers Wild
+Jacks or Better
+Double Hold em Challenge
+Hold em Challenge
+Double Stud Challenge
+Stud Challenge
+Auto Spotter
+Multi Ticket
+Halloween
+Baseball Challenge
+Progressive Fruit
+Wild West
+Ancient Egypt
+New Game
+Continue Game
+Load Game
+PAUSE
+Quit Game
+Press 
+ to start a new game.
+Press 
+ to continue previous game.
+Press 
+ to load a saved game.
+Press 
+ to go to options.
+Press 
+ to quit game.
+Add a Player
+Start Game
+Press 
+ to add a new player to the game. 
+ Cancel
+Press 
+ to start the game. 
+ Cancel
+Audio Options
+Screen Position
+Controller Configuration
+Press 
+ to adjust sound volumes.
+Press 
+ to set screen position. 
+ Cancel
+Press 
+ to adjust controller configuration. 
+ Cancel
+Add what type of player ?
+Human
+Press 
+ to add a human player. 
+ Cancel
+Press 
+ to add a AI player. 
+ Cancel
+Delete player ?
+Press 
+ to confirm.
+Press 
+ to delete.
+Player list already exists, do you want to :
+Create new player list
+Press 
+ to create new player list. 
+ Cancel
+Use existing player list
+Press 
+ to use existing player list. 
+ Cancel
+MEMORY CARD unformatted, Format MEMORY CARD ?
+Press 
+ to cancel
+Press 
+ to format MEMORY CARD
+Overwrite VMU file ?
+Press 
+ to confirm
+Press 
+ to Overwrite VMU file
+Choose a Controller
+Controller A
+Press 
+ to select.  
+ Cancel
+Controller B
+Press 
+ to select.  
+ Cancel
+Controller C
+Press 
+ to select.  
+ Cancel
+Controller D
+Press 
+ to select.  
+ Cancel
+Resume
+Return to Lobby
+Quit Game
+Save Player List
+Game Settings
+Volume Settings
+Help
+Paused
+Press 
+ to resume the game
+Press 
+ to return to the lobby
+Press 
+ to quit the game
+Press 
+ to save the player list
+Press 
+ to go to the game settings menu
+Press 
+ to change volume settings
+Press 
+ to get a play recommendation
+Select Game
+Blackjack
+Spanish 21
+Mini Baccarat
+Red Dog
+Casino War
+Pai Gow Poker
+Roulette
+Craps
+Slot Machines
+Poker Challenge
+Video Poker
+Video Keno
+Undersea Adventure
+Halloween
+Baseball Challenge
+Progressive Fruit
+Wild West
+Ancient Egypt
+Next 6 Games
+Previous 6 Games
+Quit Application
+ Place manual bet
+ Place bet
+ Return to Betting Options
+ Place Player bet
+ Return to Betting Options
+ Place Banker bet
+ Return to Betting Options
+ Place Tie bet
+ Return to Betting Options
+You must Select 2 cards for the back hand
+ wins 
+Straight bet - 
+Split bet - 
+Street bet - 
+Double Street bet - 
+Corner bet - 
+ - Pays 35:1
+ - Pays 17:1
+ - Pays 11:1
+ - Pays 8:1
+ - Pays 5:1
+Top-Line bet - 0,00,1,2,3 - Pays 6:1|
+Black bet - Pays 1:1|
+Red bet - Pays 1:1|
+Odd number bet - Pays 1:1|
+Even number bet - Pays 1:1|
+High or Low bet - 19:36 - Pays 1:1|
+High or Low bet - 1:18 - Pays 1:1|
+Dozens bet - 1:12 - Pays 2:1|
+Dozens bet - 13:24 - Pays 2:1|
+Dozens bet - 25:36 - Pays 2:1|
+Column bet - 1:34 - Pays 2:1|
+Column bet - 2:35 - Pays 2:1|
+Column bet - 3:36 - Pays 2:1|
+1:6|
+4:9|
+7:12|
+10:15|
+13:18|
+16:21|
+19:24|
+22:27|
+25:30|
+28:33|
+31:36|
+1,2,4,5|
+2,3,5,6|
+4,5,7,8|
+5,6,8,9|
+7,8,10,11|
+8,9,11,12|
+10,11,13,14|
+11,12,14,15|
+13,14,16,17|
+14,15,17,18|
+16,17,19,20|
+17,18,20,21|
+19,20,22,23|
+20,21,23,24|
+22,23,25,26|
+23,24,26,27|
+25,26,28,29|
+26,27,29,30|
+28,29,31,32|
+29,30,32,33|
+31,32,34,35|
+32,33,35,36|
+1,2,3|
+4,5,6|
+7,8,9|
+10,11,12|
+13,14,15|
+16,17,18|
+19,20,21|
+22,23,24|
+25,26,27|
+28,29,30|
+31,32,33|
+34,35,36|
+1,4|
+2,5|
+3,6|
+4,7|
+5,8|
+6,9|
+7,10|
+8,11|
+9,12|
+10,13|
+11,14|
+12,15|
+13,16|
+14,17|
+15,18|
+16,19|
+17,20|
+18,21|
+19,22|
+20,23|
+21,24|
+22,25|
+23,26|
+24,27|
+25,28|
+26,29|
+27,30|
+28,31|
+29,32|
+30,33|
+31,34|
+32,35|
+33,36|
+0,00|
+1,2|
+2,3|
+4,5|
+5,6|
+7,8|
+8,9|
+10,11|
+11,12|
+13,14|
+14,15|
+16,17|
+17,18|
+19,20|
+20,21|
+22,23|
+23,24|
+25,26|
+26,27|
+28,29|
+29,30|
+31,32|
+32,33|
+34,35|
+35,36|
+Press 
+ to Continue
+Do you want to take Insurance?
+ has %d
+Dealer shows %d
+ has a soft %d
+Dealer shows %d
+Game Settings - BlackJack
+Coaching
+Coaching Strategy
+Basic
+Simple Count
+Complex Count
+Shoe Size
+Game Settings - Spanish 21
+Game Settings - Mini Baccarat
+Score card
+Rules card
+Game Settings - Red Dog
+Game Settings - Casino War
+Game Settings - Pai Gow Poker
+Automatic Lose on Invalid Hand
+Game Settings - Roulette
+Information Bar
+Game Settings - Craps
+Coaching Strategy
+Conservative
+Aggressive
+Coaching Style
+Right
+Wrong
+Odds
+Maximize Odds
+Odds On During Come Out Roll
+Game Settings - Slot Machines
+Simultaneous coins
+Coin value
+$0.50
+$100
+$1,000
+Animations
+Game Settings - Poker Challenge
+Deal cards on select
+Game Settings - Video Poker
+Game Settings - Video Keno
+Game Settings
+ Accept changes      
+ Cancel
+Multiplayer
+Multiplayer
+Start a Game Server
+Join a Game
+Start Game
+Network Game
+Player Maintenance
+Sound
+Quit Game
+Are you sure you want to quit?
+If you quit out now you
+will lose your current bet.
+Do you still wish to quit?
+Credits still in the machine
+will be returned on leaving.
+Do you still wish to quit?
+Chips still on the table
+will be returned on leaving.
+Do you still wish to quit?
+Chips still on the table which
+can be returned to you will be.
+Do you still wish to quit?
+Edit Name
+Delete Player
+Enter Password
+Name Entry
+Are you sure you want to delete this player?
+XXXXXXXXXXXXXXXXXXXXXXXXX
+Player 1
+XXXXXXXXXXXXXXXXXXXX
+Player 2
+XXXXXXXXXXXXXXXXXXXX
+Player 3
+XXXXXXXXXXXXXXXXXXXX
+Player 4
+XXXXXXXXXXXXXXXXXXXX
+TCP/IP
+Modem
+Serial Link
+Protocol
+TCP/IP
+MODEM
+Network Game
+Choose Protocol
+Start Game
+Join Game
+Main Menu
+Demo
+Cash Out
+Hold1
+Hold2
+Hold3
+Hold4
+Hold5
+Deal Draw
+Bet Max
+Bet One
+Add Coin
+Next Player
+Not yet available for this game
+Novice
+Holiday Player
+Regular Player
+Semi-Professional
+Professional
+Emperor's Club
+Table Limits
+$1 - $100
+$10 - $1,000
+$25 - $2,500
+$100 - $10,000
+$250 - $25,000
+$1,000 - $100,000
+ Select    
+ Cancel
+Table Limits:  |
+Insufficient Funds!
+ has been ejected from this game because they do not have enough money to meet the minimum bet for this table.
+There are no eligible
+players left at this table.
+Returning to Lobby.
+, place your bets
+, play your hand
+Hand is Bust
+ has Blackjack
+ has won %s
+ has lost %s
+ forfeits %s
+'s hand is a push.
+%s returned.
+At least one player must place
+a bet before play can begin
+Dealer has Blackjack
+Paying Insurance bets
+No Blackjack
+Collecting Insurance bets
+Recommendation
+ Coach
+Shuffling
+Craps Buy/Lay
+You may either buy this number to win,
+or lay against this number to lose.
+These bets pay true odds, so the
+casino will charge you a 5% vigorish.
+Buy bet
+Lay bet
+Cancel
+Spread is %u which pays %u:1
+The cards are equal,
+another card will be dealt.
+If it is the same the house pays 11:1
+otherwise it is a push.
+The cards are consecutive,
+this hand is a push.
+Push, your bet of %s has been returned
+Congratulations |
+a triple pays 11:1. Win is %s
+Congratulations |
+your win is %s
+Unlucky |
+, dealer wins.
+You lost %s
+Hand is a triple which pays 11:1
+Card is within spread of %u
+which pays %u:1
+Card is not within spread
+Hand is a push
+ to play
+Force Die 1
+Force Die 2
+Your turn, |
+Deuces Wild
+Tens or Better
+Jokers Wild
+Jacks or Better
+Double Holdem Challenge
+Holdem Challenge
+Double Stud Challenge
+Stud Challenge
+Auto Spotter
+Multi Ticket
+sprite
+light
+blocks allocated:%d requiring:%d bytes
+invalid texture detected
+(%d) 
+Mats->
+Geometry no:%d: ID: %d 
+fmov.s @r4+,fr0
+fmov.s @r4+,fr1
+fmov.s @r4+,fr2
+fmov.s @r4+,fr3
+fmov.s @r4+,fr0
+fmov.s @r4+,fr5
+fmov.s @r4+,fr6
+fmov.s @r4+,fr7
+fmov.s @r4+,fr8
+fmov.s @r4+,fr9
+fmov.s @r4+,fr10
+fmov.s @r4+,fr11
+fmov.s @r4+,fr12
+fmov.s @r4+,fr13
+fmov.s @r4+,fr14
+fmov.s @r4+,fr15
+frchg
+E   
+E   
+E   
+E   
+E   
+E   
+E   
+E   
+E   
+E   
+E   
+E   
+ERROR: FindFreeList() - safety<TSLOTS
+ERROR: FindFreeList() - safety<TSLOTS
+Pixel format chosen:
+	R,G,B,A: %d,%d,%d,%d
+	Bit depth: %d
+Error - No 16-bit compatible formats found!
+*TRANS*
+*SEMI-TRANS*
+handling messages
+ERROR: Trying to create another heap
+ERROR: Failed to create heap
+DEBUG: heap created: %d bytes
+ERROR: Failed to destroy current heap
+DEBUG: heap destroyed
+in window proc
+1234567890-=
+QWERTYUIOP[]
+ASDFGHJKL;'`*\ZXCVBNM,./678 :;<=>?@ABCDEFGHIJKLMNOPQRSWX
+	!	'	,	1	6	;	@	E	K	P	U	Z	_	d	i	n	s	x	}	
+	}	x	s	n	i	d	_	Z	U	P	K	E	@	;	6	1	,	'	!	
+** MIDI Error - 
+No MIDI port was found.
+The hardware is busy with other data.
+Buffers are still in the queue.
+The buffer or header pointed to has not been prepared.
+The specified resource is already allocated.
+The specified device identifier is out of range.
+The specified error number is out of range.
+The flag specified by wFlags is invalid.
+The specified handle is invalid.
+The specified pointer or structure is invalid.
+The device driver is not installed.
+The function call succeeded.
+The system is unable to allocate or lock memory.
+The function is not supported.
+MIDI Error: Unknown
+error: error getting file size
+Couldn't create the event handle
+No devices found on system
+Couldn't get device capabilities
+Failed to find at least one of the MIDI devices needed
+MIDI Initialized
+Failed to load the tonebank
+Failed to open MIDI stream for sequence
+Failed to set the SMF property of the MIDI stream
+Failed to set the General MIDI property of the MIDI stream
+Failed to open MIDI out port for tonebank
+Failed to allocate aligned block for tonebank
+Failed to prepare MIDIHDR for tonebank
+Failed to select tonebank
+Failed to load MIDI sequence
+Couldn't reset the MIDI stream device
+Couldn't set time division property of the MIDI stream
+Couldn't set looping property of the MIDI stream
+Failed to prepare MIDIHDR for MIDI sequence
+Failed to queue up playback of MIDI sequence
+Failed to restart MIDI stream
+Playing MIDI
+Stopping MIDI
+Failed to stop MIDI stream
+Failed to unprepare tonebank MIDIHDR
+Failed to close tonebank MIDI port
+Failed to unprepare MIDI sequence MIDIHDR
+Failed to close MIDI stream port
+Closing MIDI
+Read, bytes read: %d bytes
+Seek, new file pointer: %d bytes
+Sound Data Initialized.
+Error reading sound file!!
+Error reading streaming sound file!!
+DirectSoundCreate(NULL, &pds, NULL)  failed with HRESULT(0x%x)
+IDirectSound_SetCooperativeLevel(pds,hWnd,DSSCL_EXCLUSIVE)  failed with HRESULT(0x%x)
+IDirectSound_CreateSoundBuffer(pds, &dsc, &pdsbPrimary, NULL)  failed with HRESULT(0x%x)
+Sound Initialized!!
+IDirectSoundBuffer_GetStatus(pdsb, &fPlaying)  failed with HRESULT(0x%x)
+Sound is playing!!
+IDirectSoundBuffer_GetStatus(pdsb, &fPlaying)  failed with HRESULT(0x%x)
+IDirectSoundBuffer_GetCurrentPosition(pdsb, &ibRead, &ibWrite)  failed with HRESULT(0x%x)
+Streamed sound is playing!!
+Invalid sound id: id = %d
+IDirectSoundBuffer_GetStatus(pdsb, &fPlaying)  failed with HRESULT(0x%x)
+IDirectSoundBuffer_Play(pdsb, 0, 0, fLoop ? DSBPLAY_LOOPING : 0)  failed with HRESULT(0x%x)
+Sound played, Slot %d
+Invalid sound id: id = %d
+Playing streamed sound, sound = %d, offset = %d
+Sound playing, Slot %d
+No free slots for sound!!
+Sound created, Slot %d
+No free slots for streamed sound!!
+Streaming Sound created, Slot %d
+Error reading sound header!!
+Error retrieving wave data for sound!!
+IDirectSound_CreateSoundBuffer(pds, &dsc, &pdsb, NULL)  failed with HRESULT(0x%x)
+IDirectSoundBuffer_Lock(pdsb, 0, dsc.dwBufferBytes, (void **)&pb, &cb, (void **)&pb2, &cb2, 0)  failed with HRESULT(0x%x)
+IDirectSoundBuffer_Unlock(pdsb, pb, cb, pb2, cb2)  failed with HRESULT(0x%x)
+Error reading sound header!!
+Error retrieving wave data for sound!!
+IDirectSound_CreateSoundBuffer(pds, &dsc, &pdsb, NULL)  failed with HRESULT(0x%x)
+initialising sound thread...
+tried to init sound thread again!
+*************************************
+-- Thread sound playing, sound = %d
+-- offset = %d, cb = %d
+*************************************
+Error: DSERR_ALLOCATED
+Error: DSERR_CONTROLUNAVAIL
+Error: DSERR_INVALIDPARAM
+Error: DSERR_INVALIDCALL
+Error: DSERR_GENERIC
+Error: DSERR_PRIOLEVELNEEDED
+Error: DSERR_OUTOFMEMORY
+Error: DSERR_BADFORMAT
+Error: DSERR_UNSUPPORTED
+Error: DSERR_NODRIVER
+Error: DSERR_ALREADYINITIALIZED
+Error: DSERR_NOAGGREGATION
+Error: DSERR_BUFFERLOST
+Error: DSERR_OTHERAPPHASPRIO
+Error: DSERR_UNINITIALIZED
+Error: DSERR_NOINTERFACE
+Error: Unknown
+Sound freed: Direct Sound!
+Sound freed : ALL!
+Sound freed, Slot %d
+Sound Stopped : ALL!
+Killing Streaming Thread
+Error playing track.
+Playing CD Audio
+Error stopping CD Audio.
+Stopping CD Audio
+Error pausing CD Audio.
+Pausing CD Audio
+Error resuming CD Audio.
+Resuming CD Audio
+cd status is : %d
+GDROM: sending door messages
+GDROM: Setting Door Open to Reboot
+Error opening GD-ROM
+There is no media in the GD-ROM drive.  Please place a CD or GD-ROM in there, and rerun this sample.
+Error setting GD-ROM door behavior (0x%08x).
+GDROM: State Change Successful
+Error opening CDRom
+Closing Audio
+Decomp Lib Failed
+KpaK
+Compression is broken
+1.04
+Mar 15 1998
+1.04
+Mar 15 1998
+b"6vg[
+s"#z
+"6f{
+2#u{
+uUUgWs"&
+UUVwWs3#
+YuUgx
+TDIUy
+dDDE
+S2""33336
+c""##2##38
+"#"""""31@
+3"""!
+v23gyY
+"6wU
+Uc"7
+V2"j
+us"&
+f""z
+ViUU[
+W2"j
+DDZvgeVUVeY
+XU2#w
+a"""#g
+q"""""""38
+""""""""&
+2!"""""""8
+c33fz
+ff2"#7
+Uv2#7
+#6v{
+b#jU
+UWUUUVeY
+UUYU
+r#3k
+b""&
+c"""&
+DDgvfc""""!
+EUTDH
+2""""! :
+UTDDH
+2""!"!
+dTDDX
+"""!
+q4DDUX
+DTUQ
+flash mem in port num:%d, devnum:%d, fcnnum:%d
+CORAK:  MapleCreateDevice failed.
+CORAK:  QueryInterface failed.
+SAVEDGAME
+CAESARS PALACE 2000
+CPAL2000
+file opened
+CORAK:  MapleEnumerateDevices failed.
+CORAK:  Aborting because no flash devices found!
+CORAK:  MapleCreateDevice failed. [LCD]
+CORAK:  QueryInterface failed.[LCD]
+Enumerating LCD devices
+test for standard lcd
+get buffer
+failed : result code %d
+%d x %d x %d @ %d
+** DC: Available Display Modes:
+NB10
+C:\projects\caesars\DreamCast\DCast Code\WCESH4Rel\Game.pdb

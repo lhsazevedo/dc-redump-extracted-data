@@ -1,0 +1,105 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+B#`	
+B#`	
+B#`	
+B#`	
+B#`	
+B#`	
+/"OCichSf
+dCeSd?
+B#`	
+B#`	
+B#`	
+C3`	
+C3`	
+C3`	
+/"OB
+/"OChSjci
+CeSd
+/"OChSi
+/"OChSlck
+/"OSh
+/"OChSi
+/"OCh
+/"OChSicksj
+/"OChSicksj
+DSal1
+aC`	
+h"OC`Sd
+ ,8@HPX`hpx
+cd@u
+Ccd 
+/"OCh
+uSd	
+(6Dd
+dcd&
+Bce 
+"!"O
+/"Ocish
+dCiO
+4R"x
+/"OChSjci
+CeSd
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcj
+/"OCh
+a"b(1
+qF1*
+"b2c82Cc
+!B!B
+B,32!
+`BeSa
+/"OChcj
+/"OChSi
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+FlashRead
+FlashOpen
+FlashClose
+FlashWrite
+FlashFormat
+FirmwareGetClock
+PLATUTIL.dll
+MGameFlash.dll
+DllCanUnloadNow
+DllGetClassObject
+DllMain
+DllRegisterServer
+DllUnregisterServer
+{B1AD2E20-721A-11d2-8F40-00A024BC20C8}
+MUSASHI MGameFlash
+MUSASHI.MGameFlash.0
+MUSASHI.MGameFlash
+2 2|2
+2`4d4h4l4p4t4
+8 8|8
+: :$:(:,:0:4:8:<:L:X:d:p:|:
+:L;P;T;X;
+; <D<H<L<P<T<p<
+<0=<=H=T=`=l=x=
+0 0$0(0,0004080L1P1T1X1\1`1d1h1l1
+X0\0
+0 0(00080@0H0P0X0`0h0p0x0

@@ -1,0 +1,21 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/E03.AFS
+/E04.AFS
+/E04M.AFS
+/E05.AFS
+/E05M.AFS
+/E06.AFS
+/E06M.AFS
+/E07.AFS
+/E09.AFS
+/E09M.AFS
+/E10.AFS
+/E11.AFS
+/EBA.AFS
+/ECO.AFS
+/ET2.AFS
+/MANATEE.DRV
+/SE.ACX

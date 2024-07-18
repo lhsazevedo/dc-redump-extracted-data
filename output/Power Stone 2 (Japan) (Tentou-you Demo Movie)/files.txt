@@ -1,0 +1,7 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/MANATEE.DRV
+/PWS2DEMO.SFD

@@ -1,0 +1,12 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/AUDIO64.DRV
+/CREDITS.SFD
+/EUROPE_WARN.DA
+/INTRO.SFD
+/LOGO.SFD
+/OUTRO.SFD
+/SLIP.GRV

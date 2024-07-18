@@ -1,0 +1,117 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.pdata
+@.reloc
+F0:s
+SdB/Ra
+"OCe
+/C`Sd
+cb|2 b,`Chx
+t1(\	
+2 b,a
+31c1'
+/"OChSi
+dB)CeX%
+"OCe
+(B+$
+/chsi
+BeSa
+/"OS
+/"OCh
+/"OCiSh[
+,?&O
+/"OCiShi
+,?&O
+/"OChSii
+/"Oz
+,?&O
+/"OShsk
+TB/Ba
+/"OSh
+2"dH$
+BaRb 1
+AQQR 1)
+sfBQRR 1)
+cgCQSR 1)
+/"OCh
+/"OCh
+/"OChSjci
+/"OCi
+/"OChSlck
+T@9)
+T@9)
+T@9)
+T@9)
+TB+B/Ba
+/"OChSlck
+dB/Ba
+TB/Ba
+B/Ba
+/"OChSk
+TB/Ba
+/"OCh
+TB/Ba
+/"OSh
+B(B/Ba
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcj
+/"OChcj
+/"OChSi
+COREDLL.dll
+ole32.dll
+CLSIDFromProgID
+CLSIDFromString
+CoCreateInstance
+CoFreeLibrary
+CoFreeUnusedLibraries
+CoGetClassObject
+CoInitializeEx
+CoLoadLibrary
+CoSetState
+CoTaskMemAlloc
+CoTaskMemFree
+CoTaskMemRealloc
+CoTaskMemSize
+CoUninitialize
+CreateBindCtx
+GetClassFile
+StringFromCLSID
+StringFromGUID2
+StringFromIID
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+5$5(5@5
+>(?,?0?4?8?<?@?D?
+0p0t0x0
+2h3l3
+30444H4T4`4l4x4
+5 5,585D5P5
+6 6$6@6
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(1
+d:\dragon11\public\DRAGON\cesysgen\oak\target\SHx\SH4\CE\retail\ole32.dll
+NB10
+d:\dragon11\public\DRAGON\cesysgen\oak\target\SHx\SH4\CE\retail\ole32.pdb

@@ -1,0 +1,19 @@
+!This program cannot be run in DOS mode.
+Rich!
+.text
+`.rdata
+@.data
+.pdata
+TBc3S
+TBc4S
+TBb"R
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+/"OChSi
+CoInitializeEx
+CoCreateInstance
+ole32.dll
+COREDLL.dll

@@ -1,0 +1,5009 @@
+!This program cannot be run in DOS mode.
+RichR8
+.text
+`.rdata
+@.data
+.pdata
+Bfh&
+bc4S
+Bgx'
+rc;S
+,?&O
+/"OCh
+Ef$f$f$f$f$f$f$f$f$f$f$f$f$f$f$
+!b-dac=c7
+,b("
+1c=d
+!b-d}
+b-bs
+c=c7
+b-b'
+/"OChSmclsk,
+tS`	
+/Shci
+G|5Qgs8
+wqgs9
+vmf@
+/chsi
+G|6ags8
+EBt\4
+tAdC9
+/"OChSmcl
+<B,1
+/"OChSk
+(B,:(C
+/"OCjSkcl
+3b<1
+a-Ao
+b,D/
+a-AK
+3<2")
+/"OCj
+b=Bz
+/"OChSm
+fc`	
+uX%.
+e)$Ci
+D<c<4Ci
+)$Ci
+vc`	
+vc`	
+vc`	
+/"Oi
+T@b,b#`	
+Dc<e
+wX%o
+Db,k#
+wS`	
+`c<c@b
+,b=c<2-k
+!S`	
+K@a,b
+#S`	
+`b,b@a
+k,1pb
+3(B,1
+#S`	
+c@3!
+Btm,6t`
+t`tmb
+tmtl
+tlpg
+a	C<1
+30c<l
+3#a<1
+a#c(A
+2 b<c(C
+b9"(0
+Bc0c<
+l:c`
+%c`	
+<c04
+Gs`	
+bl2"!
+/"OCichsdSgN
+`b,b+b.i
+a`b,b(1
+f|;sj
+`cL0
+B<c<2+b/g
+PbL0
+,b`c
+A<c<1
+2/gsa
+sj|;
+A<c<1
+PaL0
+<c,b
+2(3?gsa
+/"OSkclshJ
+Q2!%
+S,35
+2dH$
+R"b ;
+}"b ;
+2&B&m&l&k&j&i&h#o
+/"OX
+/"OCh
+/"OCh
+/"Oi
+ChSjsk
+/"Oi
+Cesh
+/"OChSi
+/"O{
+2'3X
+R(" 
+,?&O
+/"OChSl
+<6V&V&V&V&V&
+DV&V&V&V&V&V&V&V&V&V&V&V&
+6F&F&F&F&F&F&F&
+EF&F&F&F&F&F&F&F&F&F&
+<6V&
+V&V&V&V&V&V&V&
+DV&V&V&V&V&V&V&V&V&
+uF%F%
+,6V&'
+V&V&V&V&V&
+DV&V&V&V&V&V&V&V&V&V&V&
+6F&F&F&F&F&F&F&
+EF&F&F&F&F&F&F&F&F&F&
+<6V&
+V&V&V&V&V&V&V&
+DV&V&V&V&V&V&V&V&V&
+uF%F%
+,6V&'
+V&V&V&V&V&
+DV&V&V&V&V&V&V&V&V&V&V&
+/"OCh
+Z@(Dj
+J%jE-
+J%jE(
+J%jE
+J%jE
+J%jE
+J%jE
+/"OCh
+Z@(Dj
+J%jE-
+J%jE(
+J%jE
+J%jE
+J%jE
+J%jE
+/"OCh
+Z@(Dj
+J%jE-
+J%jE(
+J%jE
+J%jE
+J%jE
+J%jE
+y<x<4<
+FV$V$V$V$V$V$
+2+"*")
+Q2!"*2)
+/"OCk
+r!,D
+dBb+R
+TH$O
+b("[
+Bb%R
+dBb.
+/"Oo
+,?&O
+/"OSiceCf
+Qcc 
+"dH$
+S8;H$
+t!DCj
+t!DCi
+/"OCh
+(B@a
+S`C`
+S`C`
+/"OCh
+6c`	
+4pb $
+gpb $
+gpb $
+5@c<f0
+tc0%
+upb("
+vrag
+2&B&k&j&i&h#o
+/"OB
+/"OG
+bb("
+Sbb<2"&R$
+/"OCh
+bc08
+r"&\4J
+bcAQ
+32&"$
+/CePa
+Sd@f
+lgPc<f
+t@fh&
+dC`	
+)$@2
+ b,b("
+/ChSi
+uS`	
+tC`	
+uS`	
+t!DCk
+rdqUrV
+FV$V$V$V$V$V$V$V$V$V$V$V$V$V$V$
+BdH$
+Shcisj
+sb\2
+vmf 6
+AWbep5
+2&X%
+glS3<
+AR"'
+b$becgX%
+2$Sf
+BUX%
+AVre`5	
+/"OCh
+/"OCh
+FV$V$V$V$V$V$V$
+<6V&V&V&V&V&
+DV&V&V&V&V&V&V&V&
+"!H$
+"OChcjL
+"OChckL
+/"OCh
+"R("4
+<2"$
+!!0(C
+&TH$u
+FV$V$V$V$V$V$V$V$
+,?&O
+32$"b("0
+<2"$
+2S8#
+-b("
+!b-d
+R"b("b
+Bc7S
+FV$V$V$V$V$V$V$V$
+,?&O
+EF&F&F&F&F&F&F&F&F&
+d"b(4
+DCb)
+K"ZB-
+dH$+
+2dH$
+!b-i
+V2eA
+@<E\
+DtBd
+!b-i
+DtBd
+"dBc>
+,?&O
+"OCkSlcmL
+c,b%
+!b-d
+DL<L=
+84ZD-
+B,`<
+2<c(C<2
+DL<L=
+r-`00
+<dZD
+B,`<
+2<c(C<2
+DL<L=
+r-`00
+a<c5
+C<1,b(B,1
+1c=d
+DL<L=
+a#1+
+Gs`	
+DL5L6
+Gs`	
+DL5L6
+a#1n
+jZD-
+mx=ZM-
+@cb^
+b|3<
+B,`<
+b)B,`<
+<c(C<1
+32c6
+;!b-d
+DL5L6
+=dZ	
+jZD-
+mx=ZM-
+@ca^
+<`2/
+a|2,
+,b(B,3
+2"b&
+DL5L6
+"OChSmcjL
+,dZD 
+Q	@,
+B,31!
+<=<:
+,b=B
+S,34
+!b-d
+DL=L:
+dZD 
+,b=B
+S,34
+,=,:
+84ZD-
+R	@<
+DL=L:
+"OChSmcjL
+,dZD 
+Q,31!
+<=<:
+,b=B
+S,34
+!b-d
+DL=L:	
+dZD 
+,b=B
+S,34
+,=,:
+DL=L:
+a#1E
+Gs`	
+ms`	
+!b-d
+DL5L6
+Gs`	
+-ms`	
+81c=d
+DL5L6
+jZD-
+mx=ZM-
+-b#`	
+,b"/
+@	@<
+31c5
+;!b-d
+DL5L6
+=dZ	?
+jZD-
+mx=ZM-
+%GC`-
+G|2!
+=c3`	
+<c2/
+Q	@,
+B,31!
+1c=d
+DL5L6
+jZD-
+mx=ZM-
+-b#`	
+,b"/
+31c5
+!b-d
+DL5L63
+Ac=d#
+jZD-
+mx=ZM-
+G|2!
+=c3`	
+<c2/
+Q,31!
+;1c=d
+DL5L6
+Ef$f$f$f$f$f$f$f$f$f$f$f$f$f$f$
+<6V&
+DV&V&V&V&V&V&V&V&
+"OChSisjL
+L5Rd
+,?&O
+"OChSisjL
+!9%,
+"OChSicjL
+,?&O
+"OCh
+1c=c
+1c=c
+d2c84
+DCc)
+K#ZC-
+"b("
+Bfh&L
+/"OCh
+dFUX%
+"dFUX%
+"b("
+Bb("
+/"OCi
+ShL2&
+;:z4p#
+S!e1f
+/"OCi
+L5Qa
+ShL1
+;:z4r<tE
+@=e6
+"b("
+/"OSh
+c<c38
+"b&U
+/"OShcj
+/"OChSk
+UX%)
+b#`	
+c=c3`	
+/"OChSi
+t!DB(6
+t!D!D
+"(6y
+/"OCh
+/"OChSj
+/"OCh
+dAb-fc`	
+1c=g|0\
+,b'3
+Ab-f
+va$mf
+dac=c
+a<1-`\
+32!qb-`
+b;""*Am
+'Ab-b
+1)1&
+c=`\
+Sa,b
+2!-qa
+-b("	
++Ac=c
+s1$qm
+dab-b
+c,34
+2,30c
+<c,C
+C<=\
+<c,C
+"qc=`
+ab-b;
+#1+Aa
+$qb-b
+r!'Ac=c
+dAb-fc`
+vSml=
+30c4
+AmSc
+Ac=c
+s1$=f
+/"OCh
+Sc,32*
+bSc,32! 
++bb"'
+b("%
+0c<`rb
+!!bb
+r"&Bmrc
+1"bb
+r"&Bc
+s2$Ra
+eBcr`0c<cba
+!!bm
+M-b=c<2
+2!#bdAm
+Ab-b;"!$bd
+tB&Ra
+2"* 
+<5R+
+b("%
+ b,`ba<@rm
+'Bcbb0c<`
+"!ra
+r"$Rm
+eBbb` b,brm
+s2'Bm
+2)cg
+dbbAa
+@,0$
+#rdBm
+Bb;""$rd
+`bm<
+2 b,b
+R<c(C<1
+"rdBc8#
+Ba+!
+tB'Rm
+/"OCi
+4Bb"*
+a(1Bc
+t!DH$*
+b-b!D@2
+Qc=c8#
+Qb-b
+;"!%Bg
+gl7qa
+2!'Ba
+FfFgb
+FfFgd
+FfBdf
+Fgb%q
+FgFfr
+FgFft
+FfBdf
+AWs`	
+FgFfr
+FgFft
+FfBdf
+Ffr%a
+FgFfr
+FgFft
+FfBdf
+Ffr%a
+FgFfr
+FgFft
+FfBdf
+FgFfr
+FfFgd
+FfBdf
+/"OCgch
+F&F&F&F&F&F&F&F&F&S`	
+sdraW
+Ub(Q
+/"OChSi
+<DA+
+b<2"-
+/"OChSi
+/"OCh
+FTH$
+Rb"R
+Rb"R
+TBc5S
+Rb"R
+/"OChSi
+&TH$
+t!D!D
+fbeC5
+Gs`	
+/"OCh
+29"-b#`	
+t!D~
+t)$M`
+,DB!
+/"OCh
+Rc2S
+b':	
+/"OCiSkclsm
+31$ba
+Bc5S
+/"OCh
+$3`	
+"$3`	
+"$3`	
+"$3`	
+"$3`	
+"$3`	
+"$3`	
+2$3`	
+"$3`	
+/"O{
+CgSicm
+1c=`
+S1c=c<1
+#Qb-`
+!(!,!+!*
+R!c=`
+#!b-`
+ b,d#
+ b,`#
+l1<5
+(1c=`
+r!(\
+0c<e
+,43`	
+,43`	
+,43`	
+c=cK
+@<4,
+d1c=f4
+!b-e
+c=b\4Ca=c<1!
+e!b\4
+-e1c=f\4g4W
+1c=c
+S1c=c<2!+1
+S\2>
+ b,d*
+0c<`@
+1c=dH$
+tMb,1
+b-b,3
+bCa-b
+<1,0
+c!b=c-d
+s1*Mb
+S1c=c8#/
+1c=e\6oe
+!b-g
+V|6of\6
+S2c76
+-b,1
+Roc"b72
+S"#s
+!b-g
+V|6of\6
+S2c76
+c=c]a
+31+k
+!b-`
+dC`	
+c=c7
+b-b'
+c=cC
+(!b-`
+31,	
+31+1
+tA(1c=`
+R!b-b("
+tA(1c=`x
+R!b-b("
+tA(!b-`f
+R!b-b(=
+S1c=c8#
+tC`	
+=c<2!,
+tC`	
+=c<2!+
+(!b-`
+tC`	
+tC`	
+(!b-`
+c=c`
+/"Oz
+TtBaK
+"Pc<d
+b-b:
+!c=c
+3,32$
+&Qb-b("
+slcjSi
+S<2"-
+'!&Qc=c8#n
+S1c=c8#
+b-m@
+31c5
+S1c=c0=
+b=a-b 1
+'1&Qa
+slcjSi/
+b=c02
+'1&Qa
+slcjSi
+b=c02
+&Qb-b("
+cjSiO
+S<2"-
+r!*-c
+1c=`
+Gr% 
+tRcG
+<Fb%
+,4RcG
+tMdLf
+l1,1
+tMdLf>
+l1,1
+tMdLf1
+l2<2'
+c=c"
+/"OShci
+<EQ""
+<EQ"f
+,EQ!
+FV'V'V'V'V'V'V'V'V'V'V'V'V'V'V'
+"b<2>
+f2`ca)
+v0"a%&
+0c<`
+ b,`
+0c<`
+ b,`
+0c<`@
+Qb-fcb
+#a%H
+0c<`
+ b,`
+0c<`
+ b,` 
+0c<c
+!b-b#3
+Qc=f"`cc
+v !a%
+ b,`
+0c<`
+ b,`
+0c<` 
+ b,`@
+1c=c31
+f2`caK
+v0"a%H
+0c<`
+ b,`
+0c<`
+ b,`
+0c<`@
+ b,b8"
+Qb-fcb
+0c<`
+ b,`
+0c<`
+ b,` 
+0c<c
+!b-b#3\
+Qc=fcc"`
+ !a%9
+ b,`
+0c<`
+ b,`
+0c<` 
+ b,`@
+Qc=c
+s1%Ba,1
+$Qc=c
+a,1Y
+Qc=fcc"`
+ !a%F
+ b,`
+"b2"B
+0c<`
+ b,`
+0c<` 
+ b,`@
+1c=c31
+f2`ca
+v0"a%
+0c<`
+ b,`
+0c<`
+ b,`
+0c<`@
+ b,b8"
+Qb-f
+`cbL
+#a%I
+0c<`
+ b,`
+0c<`
+ b,` 
+0c<c
+!b-b#3
+Qc=fcc"`
+ !a%
+ b,`
+0c<`
+ b,`
+0c<` 
+ b,`@
+1c=c31
+f2`caK
+v0"a%H
+0c<`
+ b,`
+0c<`
+ b,`
+0c<`@
+ b,b8"
+Qb-fcb
+0c<`
+ b,`
+0c<`
+ b,` 
+0c<c
+Qb-b}
+r!%Bc
+32$Qb-bA
+Qb-fcb
+#a%(
+a"!#
+0c<`
+ b,`
+0c<`
+ b,` 
+0c<c
+!b-b#3
+Qc=f"`ccv
+v !a%s
+ b,`
+0c<`
+ b,`
+0c<` 
+ b,`@
+1c=c31
+fca2`
+0"a%D
+0c<`
+ b,`
+0c<`
+ b,`
+0c<`@
+ b,b8"
+Qb-f
+0c<`
+ b,`
+0c<`
+ b,` 
+0c<c
+!b-b#3
+Qc=f"`ccJ
+v !a%G
+ b,`
+0c<`
+ b,`
+0c<` 
+ b,`@
+1c=c31u
+fca2`
+0"a%
+0c<`
+ b,`
+0c<`
+ b,`
+0c<`@
+ b,b8"
+%Bb<2"$Qa
+"b<2:
+fca2`
+0"a%(
+0c<`
+ b,`
+0c<`
+ b,`
+0c<`@
+ b,b
+Qb-f
+`cbv
+#a%s
+0c<`
+ b,`
+0c<`
+ b,` 
+0c<c
+!b-b#3
+Qc=fcc"`
+ !a%D
+ b,`
+0c<`
+ b,`
+0c<` 
+ b,`@
+1c=c31
+f2`ca
+v0"a%
+0c<`
+ b,`
+ b,`
+0c<`@
+ b,b8"
+Qb-f
+`cbJ
+#a%G
+0c<`
+ b,`
+0c<`
+ b,` 
+0c<c
+!b-b#3u
+Qc=fcc"`
+ !a%
+ b,`
+0c<`
+ b,`
+0c<` 
+ b,`@
+Qc=c}
+s1%Ba,1
+$Qc=cA
+a,1?
+!b1c=e
+@-d.
+fcj2`
+0"a% 
+fcc"`
+ !a%G
+"b2c6
+"b2c6
+"b2c6
+"b2c6
+"b2c6
+"b2c6
+Qc=fca
+*a%H
+0c<`
+0c<`
+a"b&
+0c<`
+0c<`
+a"b&
+0c<`
+0c<` 
+a"b&
+0c<`@
+0c<c
+1c=c3:
+Qb-f
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3d
+f2`cj9
+v0"a%6
+Bb<2"$Qj
+ReSk
+ReSc
+E!!d
+*"!Y
+L2"!
++a%B
+"b1c1"=
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+Qc=fca
+0c<`#
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<` 
+!b-b
+a#`	
+0c<`@
+!b-b
+a#`	
+0c<c
+!b-b
+a#`	
+1c=c3:
+Qb-f
+`ckG
+#a%D
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+fcj2`
+0"a%
+fcc"`
+ !a%E
+"b1c5
+"b1c5
+"b1c5
+&Qb-bQ
+!!!#E
+Qb-fck
+#a%9
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+fcj2`
+0"a%
+f"`ccG
+v !a%D
+"b1c5
+"b1c5
+"b1c5
+"b1c5
+"b1c5
+Qc=fca
+*a%E
+0c<`
+0c<`
+a!b%
+0c<`
+0c<`
+a!b%
+0c<`
+0c<` 
+a!b%
+0c<`@
+0c<c
+1c=c3:s
+Qb-f
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+Qb-b
+r!%bc
+32&Qk
+,32!
+fcc"`
+ !a%9
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+Qc=f
+`caG
+*a%D
+0c<`
+a!b%
+0c<`
+0c<`
+a!b%
+0c<`
+0c<`
+a!b%
+0c<` 
+0c<`@
+a!b%
+0c<c
+a!b%
+1c=c3:
+Qb-fck
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+fcj2`
+0"a%E
+f"`cc
+v !a%
+%ba,1
+&Qc=cQ
+1"1*E
+Qc=fca
+*a%9
+0c<`
+a!b!!4
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<` 
+!b-b
+a#`	
+0c<`@
+!b-b
+a#`	
+0c<c
+!b-b
+a#`	
+1c=c3:
+Qb-fck
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+f2`cjG
+v0"a%D
+fcc"`
+ !a%
++a%E
+"b1c5
+"b1c5
+"b1c5
+Qc=f
+0c<`
+a!b%
+0c<`
+0c<`
+0c<`
+a!b%
+0c<`
+0c<` 
+a!b%
+0c<`@
+0c<c
+Qc=c
+s1%bj
+@2cB
+`cb3
++a%0
+"b1c1"+
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+1c=c"b3`	
+Qc=fca
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<`
+!b-b
+a#`	
+0c<` 
+!b-b
+a#`	
+0c<`@
+!b-b
+a#`	
+0c<c
+!b-b
+a#`	
+1c=c3:
+Qb-f
+`ckG
+#a%D
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+fcj2`
+0"a%
+fcc"`
+ !a%E
+"b1c5
+"b1c5
+"b1c5
+$Qb-b
+L32"
+f"`ccz
+v !a%w
++a%A
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+Qc=f
+0c<`
+0c<`
+0c<`
+0c<`
+0c<`
+0c<` 
+0c<`@
+0c<c
+1c=c3:
+Qb-f
+`ckH
+#a%E
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+fcj2`
+0"a%
+f"`ccM
+v !a%J
+%ba,1
+&Qc=c 
+1"1*
+Qc=f
+`ca	
+0c<`
+0c<`
+a#`	
+0c<`
+a#`	
+0c<`
+a#`	
+0c<`
+a#`	
+0c<` 
+a#`	
+0c<`@
+a#`	
+0c<c
+a#`	
+1c=c3:
+Qb-f
+`ckH
+#a%E
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+fcj2`
+0"a%
+fcc"`
+ !a%E
+Qc=f
+`caL
+*a%I
+0c<`
+0c<`
+0c<`
+0c<`
+0c<`
+0c<` 
+0c<`@
+0c<c
+Qc=c<
+s1%bj
+f2`cj
+v0"a%
+f"`ccI
+v !a%F
+Qc=fca
+*a%E
+0c<`
+0c<`
+0c<`
+0c<`
+0c<`
+0c<` 
+0c<`@
+0c<c
+1c=c3:
+Qb-f
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3\
+f2`cjL
+v0"a%I
+%bb<2"&Qj
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+"b3`	
+Qc=f
+`caI
+*a%F
+0c<`
+a#`	
+0c<`
+a#`	
+0c<`
+a#`	
+0c<`
+a#`	
+0c<`
+a#`	
+0c<` 
+a#`	
+0c<`@
+a#`	
+0c<c
+a#`	
+1c=c3:
+Qb-fck
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+fcj2`
+0"a%E
+f"`cc
+v !a%
+`cbK
++a%H
+&Qb-b 
+Qc=f
+0c<`
+a b !
+0c<`
+ b,b
+a#`	
+0c<`
+ b,b
+a#`	
+0c<`
+ b,b
+a#`	
+0c<`
+ b,b
+a#`	
+0c<` 
+ b,b
+a#`	
+0c<`@
+ b,b
+a#`	
+0c<c
+ b,b
+a#`	
+1c=c3:
+Qb-fck
+#a%G
+ b,`
+ b,`
+ b,`
+ b,`
+ b,`
+ b,` 
+ b,`@
+ b,b8"
+!b-b#3
+f2`cj
+v0"a%	
+f"`ccH
+v !a%E
+"b0c4
+"b0c4
+"b0c4
+Qc=f
+`ca;
+*a%8
+0c<`
+a b$
+0c<`
+0c<`
+a b$
+0c<`
+0c<`
+a b$
+0c<` 
+0c<`@
+a b$
+0c<c
+a b$
+Qc=c
+s1%Bj
+L2"!
++a%}
+"ePc<`
+2ePj
+ b,`
+0c<`
+uPb,`
+uPc<`
+!b-b#3
+f2`cjF
+v0"a%C
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,`@
+0c<c
+uPb,`
+Qc=fca
+*a%	
+0c<`
+uPb,`
+uPc<`
+2e	uPj
+e	uPk
+ b,`
+0c<` 
+uPb,`
+uPc<`
+fcc"`
+ !a%H
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,b8"
+1c=c3:
+Qb-f
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,` 
+0c<`@
+uPb,`
+uPc<`
++a%I
+uPc<`
+ b,`
+0c<`
+uPb,`
+uPc<`
+Qb-b+
+r!%bc
+32&Qk
+,32!
+ !a%
+2ePj
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,b8"
+1c=c3:
+Qb-fck
+#a%F
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,` 
+0c<`@
+uPb,`
+uPc<`
+uPc<`
+e	uPk
+ b,`
+e	uPa
+0c<`
+uPb,`
+uPc<`
+!b-b#3
+f2`cjK
+v0"a%H
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,`@
+0c<c
+uPb,`
+Qc=fca
+0c<`
+uPb,`
+uPc<`
+ b,`
+0c<` 
+uPb,`
+uPc<`
+fcc"`
+ !a%I
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,b8"
+Qc=c*
+s1%bj
+0"a%
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,`@
+0c<c
+uPb,`
+Qc=f
+`caJ
+*a%G
+0c<`
+uPb,`
+uPc<`
+ b,`
+0c<` 
+uPb,`
+uPc<`
+fcc"`
+ !a%
+e	uPk
+ b,`
+e	uPa
+0c<`
+uPb,`
+uPc<`
+ b,b8"
+1c=c3:
+Qb-fck
+#a%H
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,` 
+0c<`@
+uPb,`
+uPc<`
+uPc<`
+ b,`
+0c<`
+uPb,`
+uPc<`
+!b-b#3l
+f2`cjL
+v0"a%I
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,`@
+0c<c
+uPb,`
+&Qb-b
+!!!#
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,` 
+0c<`@
+uPb,`
+uPc<`
++a%G
+uPc<`
+ b,`
+0c<`
+uPb,`
+uPc<`
+!b-b#3
+f2`cj
+v0"a%
+ b,`
+e	uPa
+0c<`
+e	uPb,`
+uPc<`
+ b,`@
+0c<c
+uPb,`
+Qc=f
+`caK
+*a%H
+0c<`
+uPb,`
+uPc<`
+ b,`
+0c<` 
+uPb,`
+uPc<`
+fcc"`
+ !a%
+0c<`
+uPb,`
+uPc<`
+ b,b8"
+1c=c3:l
+Qb-fck
+#a%I
+ b,`
+0c<`
+uPb,`
+uPc<`
+ b,` 
+0c<`@
+uPb,`
+uPc<`
+%ba,1
+&Qc=c
+v !a%n
+Rf`c<`
+&RePk
+ b,`
+&0c<cRePb,b;" %\
+LkRf
+v`b,`
+a b,b+!
+0c<`
+uPc<c
+#0%>
+v`c<c:
+#0&Re
+ b,`@
+LcRf
+uPb,b;" %)
+v`b,b%
+9" &Re
+fcc"`
+ !a%
+LaRf
+v`c<`
+ b,`
+uPb,b
+<c;" %p
+v`b,`
+uPa b
+a,b+!
+0c<`
+LjRf
+uPc<c
+#0%R
+v`c<cN
+#0&Re
+ b,`@
+uPb,b;" %=
+v`b,b9
+9" &Re
+f"`cc+
+v !a%(
+v`c<`
+ b,`
+uPb0c,b<c;" %
+LkRf	v`b,`
+&Re	uPj
+Rf	v`j
+&Re	uPa
+ b,b+!
+0c<`
+uPc<c
+#0%g
+v`c<cc
+#0&Re
+ b,`@
+LcRf
+uPb,b;" %R
+v`b,bN
+9" &Re
+fcc"`
+ !a%=
+LaRf
+v`c<`
+ b,`
+uPb,b0c<c;" %(
+v`b,`
+uPa b
+a,b+!
+0c<`
+LjRf
+uPc<c
+v`c<c
+#0&Re
+ b,`@
+uPb,b;" %b
+v`b,b^
+9" &Re
+f"`ccO
+v !a%L
+v`c<`
+ b,`
+uPb0c,b<c;" %8
+LkRf
+v`b,`
+a b,b+!
+0c<`
+uPc<c
+v`c<c
+#0&Re
+ b,`@
+LcRf
+uPb,b;" %
+v`b,bd
+9" &Re
+fcc"`
+ !a%S
+LaRf
+v`c<`
+ b,`
+uPb,b0c<c;" %>
+v`b,`
+uPa b
+a,b+!
+0c<`
+LjRf
+uPc<c
+#0% 
+v`c<c
+#0&Re
+ b,`@
+uPb,b;" %
+t@b,b
+9" $Rd
+%Bb<2"$Qj
+/"OChSmcisj
+U$V$V$V$V$
+CeKeSmf
+Os0.
+7t@.
+0t@.
+2&B&m&l&k&j&i&h#o
+/"OChSm
+FT$T$T$T$T$T$T$
+dC`	
+tC`	
+s1+=`
++!b-dW
++!b-dC`	
+GD&D&D&D&D&D&
+dQb-`d
+Qb-b
+!b-dC`	
+r!+1c=dC`	
+!&x')
+1&x'
+t!DA'
+1&x'
+rf`c<c8#?
+,3@3
+u]eS`	
+,b("
+rf`b,b("
+rgS`	
+u]eS`	
+rf`c<c8#3
+,3@3
+u]eS`	
+,b("
+rf`b,b("
+rgS`	
+u]eS`	
+h4c4
+DC`	
+,H9((A
+TH$j
+1c=`
+!!ChO
+L5Sg
+-b#1
+-b#1
+,b("
+dBb*R
+ #H$
+!b-`
+c<c04
+c<d@+
+"b2c82
+"b2c82
+ b,b(".
+dH$,
+"0(F
+ah1C
+Bd"gB
+@X77
+f%f%f%f%
+Df%f%f%f%f%f%f%f%f%
+"b,1
+%TH$
+1"Ch
+,?&O
+ETH$
+!b-`
+/"OCh
+-b"3T
+b,b0
+<dC`	
+dC`	
+@ )7
+"OCj
+b#`	
+@Zud
+DC`	
+1C`	
+1C`	
+ES`	
+c<2!!
+5ZF-
+uZF-
+AdZD-
+/"OCh
+<c8#
+d xE
+,4ZD
+c<4ZD-
+e,5ZE-
+e<5ZE-
+4CVh&
+ xBb
+<urgG
+E2,]Q
+-^SD
+_Q2dB
+#")s4
+RfG6
+ReH6S6
+b-R-G
+Rex6b-S6
+H7r%
+b|2"+Rc
+b<2"!
+Bg2ds4<
+ReG58
+bfH5c5
+R,b,
+e"b,5w5
+bfx5R,c5
+H7r%
+c|32*Ra]
+&TH$"
+-b 1
+R"` 
+S;S8#
+c<2+
+c<2,
+<c8#
+Ab-b
+r!$4
+/"OCh
+-b("
+a1c=c
+a-b#1
+,b("
+c,36
+1c=c
+1c=c
+b-b"%
+Q1c=c2!K
+c=c<6
+b,32'2
+c=c$
+ca<1#1
+b,32%
+c=ccaP
+<1#1
+ #h&
+Rl2("(
+Rbg2
+b%Ca!
+2.U-R,5bc75
+Rcg3
+4LVOTl4	
+Rb'4
+L7"bsh2
+32"xR\2"!%
+b#FVh&
+/"OCh
+fRe>
+!b2c802
+4Ce(
+R!E!b+b/f3
+2dBa
+S<4n
+dZD3
+<c8#
+,mH$
+,`b%Bcf
+Q,b%
+)B,`<
+Q|`<
+(B,1<c<1
+,`b%Bcf
+Q,b%
+)B,`<
+Q|`<
+(B,1<c<1
+B,1W
+"Sa<1V
+l`2aP
+"ccb6
+,`sb<c>
+Q)F5
+B,3>
+sb<c7
+)BBf,`
+(B,39
+33gk
+l`2ccb/
+,`sb
+)B,`<
+Q|`<
+(B,1<c<1
+b<2"!
+b<2"!
+b<2"!
+b2a,1
+S2c8#
+R"b 8
+"b("
+dZDJ
+rb("
+R"b("
+c3`	
+R,b#`	
+2"b&
+C<2"$
+2Bc.
+R,`a
+Q,b%
+)B,`<
+Q(B,1<c<1
+R"b("
+<2"!
+rc8#
+CcaO
+Ba2`Rc
+rb,`6
+R)B1
+cb<c9
+)B,`
+S(B,3
+b<2"!
+b<2"!
+b<2"!
+5Pb,d;
+rb("
+R2a,1
+R2a,1
+S2c08
+Bcc_
+,32!Pb,b]
+B,6b#ra
+dH$D
+rb2`L
+R)B1
+cb<c9
+)B,`
+S(B,3
+b<2"!
+b<2"!
+2&B)
+&m&l&k&j&i&h#o
+L7"bsh%
+32"xR\2"!
+b#FVh&
+/"OCh
+w!GA
+4Cg+
+2c80
+32"HS\3
+l4Cg
+TH$#
+S<4j
+dZD2
+H2".#
+<c8#
+-b("
+,mH$
+eX%!
+4"&=c5
+B'baG
+R<c8
+<c<1
+%S`	
+,b,3
+R1"@
+4ZD-
+-eX%
+B'bbG
+)%S`	
+<c<1
+cb2!\2.
+Q,1+
+C`,b
+)$C`	
+<ccb<1
+1Qc=g
+a"b'
+S,b#
+,b,1
+$C`	
+<c<2!%
+R2a,1
+R2a,1
+S2a,1
+32"@
+"b("
+b<2"!
+dZD$
+H2".-
+<c8#
+=c8#
+4ZD-
+,32&\4;
+B'bbE
+P<B,
+R2a,1
+R2a,1
+R2a,1
+2c8#
+x"b 8
+"b("
+2!b%
+4Ac=crb
+P<B,
+S,31$
+x"b 8
+7pc<e<
+bc8#
+-b("
+2!b%
+b<2"!
+b<2"!
+CCaJ
+"pc<cH
+C<4B!bb("x
+dH$Y
+4Ac=c;
+P<B,
+S,31$
+x"b 8
+2&B)
+&m&l&k&j&i&h#o
+S<4s
+dZD5
+H2".#
+<c8#
+-b("
+,mH$
+4"&=c`
+B'baG
+R<c8
+<c<1
+%S`	
+,b,3
+R1"0
+4ZD-
+-eX%
+B'bbG
+)%S`	
+<c<1
+=dccn
+\22!g
+Q,1N
+)$C`	
+<ccb<1Qc
+1=g@
+a"b'
+S,b#
+,b,1
+$C`	
+<c<2!%
+R2a,1
+R2a,1
+S2a,1
+32"@
+"b("
+<2"!
+dZDF
+H2".-
+<c8#
+=c8#
+S 33
+Cc,3\
+\42&[
+B'bbE
+P<B,
+R2a,1
+R2a,1
+R2a,1
+2c8#
+R"b 8
+"b("
+e 5!
+2!b%
+4Ac=crb
+P<B,
+S,31$
+x"b 8
+7pc<e=
+bc8#
+-b("
+2!b%
+b<2"!
+b<2"!
+CCaK
+"pc<cI
+C<4B!bb("x
+dH$Y
+4Ac=c<
+P<B,
+S,31$
+x"b 8
+2&B)
+&m&l&k&j&i&h#o
+/"OCh
+"dH$
+ES2)P
+/"OCh
+!(-e@a
+j<:CixsW
+s1(=e
+b,b 5
+"*!,
+/"OCh
+/"OSh
+F{&S`	
+4Q$ob#`	
+/"OSh
+Ce<5Qa`1
+/"OSh
+Ce<5Qa`1
+1Ce>
+/"OChSkcj
+<4Aa
+/"OChSkcj
+6ab-b
+4Ab-b
+7qb-b
+/"OChSlck
+<2ZL
+dZD 
+<2ZK
+1!b-b
+=B,1
+4Ab-b
+c02	
+eQc=c
+/"OCh
+/"OCh
+eZE-
+/"OChci
+<6aa
+/"OCh
+b_c02
+/"OSf
+|5Pa
+alb 1*
+`%-e
+!$(F
+|9|6
+a,b(B+!`b,b
+B+!pb 
+L3\3,b+!
+Ac=c
+/"OSicjsf
+Cg<7pa
+<5Pa
+a`1=
+Ce<5
+#Pa 
+L2l2
+Ab-b
+/"OCh
+TH$	
+WEVp6
+TCgW
+EVCgh&
+c=c<
+s=a 1
+/"OCiSj
+c<cT
+1)=e
+R b,b 5
+c<c05
+/"OChSi
+/"OChsl(
+/"OChSlck
+/"OCh
+/"OChSm
+u!EF
+-b+e
+u!EG
+5_b#`	
+/"OCh
+/"OD
+,?&O
+/"OChSiI
+,?&O
+/"OCh
+mf|g
+ChSjsiL
+/"OChSj
+/"OCh
+@$vt
+/"OChSib
+q `x
+,?&O
+/"OD
+Ef$f$f$f$f$f$
+2&B&i&h#o
+/"OChS`secg
+/"OChS`secg
+/"OChS`secg
+/"OChS`secg
+/"OCh
+f%f%f%f%
+Gf%f%f%f%f%f%f%f%
+Bb%R
+@<4J
+/"OCh
+/"OChSj
+/"OChS`secg
+/"OChS`secg
+8S`	
+4Ch<
+1Sj8
+(1|1
+/Shu
+L7qb,1z
+=c8#
+/"OChSkcj
+/"OCh
+/"OCh
+/"OCjSkJ
+2&B&m&l&k&j&i&h#o
+/"OCh
+xBbd
+/"OCh
+BcdT
+/"OX
+Chclsm
+<DCj(
+DV&V&V&V&V&V&V&V&
+4Cl!
+2dBa
+,?&O
+/"Oz
+CiSk
+Df%f%f%f%f%f%f%f%f%f%f%f%f%f%f%
+DV&V&V&V&V&V&V&V&V&V&V&V&V&V&V&
+*b("
+`vb,0
+,?&O
+dBb*R
+b,b("
+<4V$V$V$V$V$
+FV$V$V$V$V$V$V$V$V$V$
+"OChSjL
+/"Osh
+/"OChSksj
+!b-dac=cK
+,b("
+tA('
+1c=d
+1c=d-
+c=c7
+/"OChSi
+EF&F&F&F&F&F&F&F&F&
+:Mb#`	
+2&B&l&k&j&i&h#o
+/"OCh
+Rb"R
+Rb"R
+Rb"R
+Rb"R
+/"OChSi0
+,?&O
+/"OChSlck
+/"OChSkcj
+/Slch
+Qb-b("	
+|C`	
+ * & % ,
+/"OChSkcj
+/"OChSicjsl
+Bc6S
+dBb.
+TBc>
+/"OCicl
+<Fcg
+\2,32+
+lCjcm
+b<DL2")
+5duf%
+f%f%f%f%
+Df%f%f%f%f%f%f%f%f%
+,?&O
+/"OCjSlcmsi
+	A=A
+t!DCf
+/"OChSjclsi
+/"OCh
+1c=`@
+/"OCh
+/"OChSi
+2Q=S<1
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+t64^
+/"OCh
+@tBdH$
+)%@t\4
+Pp\0
+/"OChSj
+<dH$
+,?&O
+/"OCh
+,b("/
+uS`	
+<2"*
+dS`	
+,b("
+/"OChSf
+/"OCh
+Ch,8
+/"OCh
+({,{
+,4@c<`
+0c<c8#
+b-j@:
+Rl2"
+vhhjhth
+,b("/
+DC`	
+s<:J
+5\7qf	
+(07=FOh
+DC`	
+r!)+
+r!)"
+vjhrh
+,b("/
+DC`	
+/"OCiSj
+?c3`	
+dcev
+vjhph
+@,4d
+/"OChSi
+/"OCh
+/"OCh
+@,4]
+V$V$V$V$V$V$V$
+FV$V$V$V$V$V$V$V$V$
+pab%
+p!%ac5
+Q`"O
+5Rb("
+mvhTht
+/"OChSlck
+L2"*$
+,4Ci'
+@2(>
+/"OChSi
+hPd@
+P@$J
+/"Och
+"OCh
+"eX%
+DC`	
+"b("B
+@SdJ
+R"b("
+R"b("
+a#1	
+DC`	
+/"OChSi
+/"OCh
+/"OChSi
+DC`	
+$`hTd@
+/"OCh
+v({`hhh
+/"OCh
+/"OCh
+/"OCh
+@tBa
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCi
+/"OCi
+/"OCh
+TBa	!
+/"OCh
+/"OCh
+/"OCh
+TBa,A
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+e"dI%
+/"OCh
+e"dK%
+/"OCh
+<2"R("
+/"OCh
+/"OCh
+/"OCi
+p6	d
+p%	hs
+p$	<6
+ED&D&D&D&
+u4%4%4%4%=
+@<4k
+@<46
+@,4/
+@,4#
+f<6 v
+T&T&
+DT&T&T&T&T&T&T&T&
+DT&T&T&T&T&T&T&T&T&
+DT&T&T&T&T&T&T&T&T&
+,6V&V&V&V&V&V&V&
+DV&V&V&V&V&V&V&V&V&
+b 1	
+4Cl&
+DC`	
+|D,D,D,
+/"OCi
+ZeX%
+/"OCh
+xD(D(D(D(
+/"OCh
+/"OCh
+lThP@
+/"OCi
+9TH$$
+dZ@0
+h,8|x;
+c8#C
+@<e;
+/"OCh
+ITH$
+dH$+
+i<9|y
+/"OCh
+/"OChSicj
+,b("
+,b("T
+!b-b8"D
+!b-b8">
+/"OCh
+`,0N
+/"OCh
+/"OCh
+/"OCi
+DC`	
+/"OCh
+TCi0
+"OChL
+4Bb("'
+/"OCh
+R/f 
+,:=d
+DC`	
+r!+-d
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+'vhxhzh|h~h
+/"OCh
+/"OCh
+/"OCh
+/"OClSk
+"b("
+R b,b 1b
+1)1-!b("%
+c=eAa
+uQ(]eab 5
+@2dX
+vjhph
+~hDu
+S2c8#
+ES`	
+r!(-e
+c,37
+!!!#G
+S1c1+!-
+R"b("
+!b-fg
+cCb2
+s1+=a
+<1#`	
+@Sfe
+b-b[
+!b-fg
+<1@!
+d`de
+d`dd
+d`de
+d`de
+dddeC`	
+R"b 1
+=DL1
+1c=f!+
+1c=c
+!b-b'
+9$H$
+RL2#d@
+1c=f
+a"A`
+` b$
+c=cRQ
+r!+-a
+r!+w
+1c=f
+r,32
+R"b 6
+/"OCh
+i<9J
+"OCe
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+S,4?c3`	
+/"OCh
+/"OCh
+/"OCh
+h\h$n
+m ntw
+/"OCh
+YBb#9
+S?gA
+dZI-
+/"OCh
+e,5^
+JdH$
+/"OCh
+/"OCh
+/"OCh
+S?fH
+/"OCh
+S?f4
+/"OCh
+S?f!
+/"OCh
+/"OCh
+S=fR
+/"OCh
+S=f>
+/"OCh
+TCe:
+U=fZE-
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+UZEN
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+9%X%"
+TC`	
+/"OCh
+/"OCh
+CeKeQ
+L5RQ
+R(",
+TCbE
+!b-b8"
+w!G{a<
+5Sf 
+t!DKb>
+/"OCh
+S=f,
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+Q-e=
+/"OCh
+/"OCh
+/"OCh
+S?f@
+/"OCh
+/"OCh
+/"OCh
+2S8#
+WZG-
+S=c5
+/"OCh
+/"OCh
+/"OCh
+TZD-
+/"OCh
+!b-b8"
+2S8#
+UZI-
+,?&O
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+TH$#
+/"OCh
+/"OCh
+e,5^
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+"OCh
+,b("
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+!b-b8"
+TZ@H
+/"OCh
+!b-b8"
+2S8#
+TZ@#
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+FV$V$V$V$
+/"OCh
+FV$V$V$V$V$
+2&B&l&k&j&i&h#o
+/"OCh
+/"OCh
+/"OCh
+yZ@D
+"R("
+b-b9
+/"OCh
+/"OCh
+"OCe
+/"OCh
+R=BW
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+C<2#
+/"OCh
+FV$V$V$V$
+2&B&m&l&k&j&i&h#o
+/"OCh
+/"OCh
+j$jD=
+/"OCh
+j$jD=
+/"OCh
+j$jD=
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+/"OCh
+e,5^
+({,{2|
+/"OCh
+/"OCh
+"V,5-R
+@,6E
+/"OCh
+,5 u
+Dd%d%d%d%d%d%d%d%d%
+Ed$d$d$d$d$d$d$d$d$
+hR~2~
+/"OCh
+/"OCh
+R=B'
+C<: z
+R~2~
+/"OCh
+/"OChSj
+/"OCh
+/"OCh
+R(";
+4V$J
+FV$V$V$V$V$V$V$V$V$V$V$V$V$V$
+FF%F%F%F%F%F%F%F%F%F%F%F%F%F%F%
+@]d}
+/"OCh
+d<qg
+S0c<`
+0c<`
+0c<c8#
+R b,`
+@c<`
+S0c<`
+S0c<`
+ $ )8
+c=`@
+/"O,
+dBb("
+,?&O
+/"OCh
+/"OChSi
+/"OCh
+1c=c
+!b-b8"
+<c8#
+S<2,
+RL2"
+@1*;
+/"OCh
+/"OCh
+R("E
+TL5Pa
+/"OG
+FeFfR!a
+FeFfR
+"b(",
+DC`	
+5QcL3
+/"OCh
+4Ab("
+dCe{
+5Qc8#
+@"d3
+)%X%
+-E8vS`	
+c=c8
+b-b$
+@2d	
+/"OCh
+s85Sd
+@<4-
+9$H$
+/"OCh
+d%(td%d%d%
+/"OX
+Cmch
+dC`	
+tMdC`	
+/"OX
+ b("
+t!DJ
+c,36
+,|(}
+l<<L<
+DL2#d
+c,38
+=c84
+b,1X
+@-d4
+/"OCh
+d"b(4
+CeKe
+CeKe
+u!EW
+@]eR
+@2d<
+4L5\
+b#1)
+ vs6
+eC`	
+S-A~
+1c2!
+!b"#
+c=ch
+R/b#`	
+4@b("
+"OChSjclL
+ 	$	
+"OChSicmslL
+/"OCh
+!b-b8"
+!b-b8"
+DCa)
+K!ZA-
+k,;!
+DCa)
+K!ZA-
+dFUX%
+FUX%
+zD$W
+/"OCh
+/"OG
+,1Sc
+@!F>
+t!De
+A1c<0
+kC`	
+DC`	
+tMdC`
+C`$n
+6aba
+/"OG
+@(5J
+e<5:
+@863
+@(5$
+/"OChSlck
+DC`	
+s=d	
+/"OChSm
+b-dC`
+tA)Md	
+CjSi
+Fc`	
+/CgShB
+ES`	
+ac=c
+s=e	
+*Ci3
+ES`	
+b-dC`
+tA*Md	
+"b02
+)$K%
+fBc3S
+,;,=,<,:
+dBb*R
+"b("
+"dBc>
+Rb"R
+T$T$
+dBb/R
+dBc;S
+2&B&h#o
+/"OCi
+"b&9
+f$<5f$
+f$f$f$
+l4Ba
+gBb%R
+dBb/R
+dBb.
+/"OCk
+2"R,|
+dBb.
+"dH$
+Bc9S
+Rc2S
+Bc5S
+Rc2S
+2eX%
+BSd4
+2eX%
+Rb"R
+Rb"R
+Rb"R
+Rb"R
+")"(
+/"OChSkcj
+9&h&
+uD%D%D%D%
+/"OCh
+dC`	
+92)1
+/"OShck
+/"OCi
+/"OCi
+Ef$f$f$f$f$f$f$f$f$
+FeFfR"a
+FeBdR
+dBb"R
+gBa&
+Rc2S
+cR"a
+FeBdR
+TBc2S
+\;RS8#
+d,4Bfh&
+dBc6S
+Rb"R
+dBc5S
+2dBa
+,?&O
+/"OSh
+Rc2S
+Rc2S
+"fh&
+Bb*R
+/"OCi
+FV$V$V$V$V$V$V$
+dBb+R
+dBb.
+Ba2f
+"b("
+2dH$
+/"OX
+e2*"
+,5TfT``,
+T`Tf
+T`Tg
+T`Pe
+b#a&
+B9"+!
+5TgT`p$A
+TgTfs`	
+TfPec`	
+Ac=c3a,A
+C)#;!
+c3`,@
+C)#; A
+c3`,@
+C)#; B
+Ac=c8#
+c<5TfT``$A
+T`TfB
+T`TgD
+TfPec`	
+*Bbr
+=AS3a6
+A+!a
+C)#f
+C)#;!
+b-bd
+D<c;$
+C3`	
+C3`	
+C3`	
+MTrk
+2(3`	
+C3`	
+C3`	
+C3`	
+/"OCl
+DC`	
+DC`	
+DC`	
+F<c;&
+$@2G
+B#`	
+B#`	
+B#`	
+C3`	
+C3`	
+C3`	
+#+#0-
+C3`	
+C3`	
+C3`	
+dH$!
+/"OCl
+DC`	
+DC`	
+DC`	
+F<c;&
+$@2C
+B#`	
+B#`	
+B#`	
+C3`	
+C3`	
+C3`	
+b+#f
+#+#0-
+C3`	
+C3`	
+C3`	
+dH$!
+Sa(A
+HtBdH$
+DCa)
+K!ZA-
+/"O<
+TH$a
+2&B&l&k&j&i&h#o
+/"OCh
+!b-dac=c\
+<c8#
+tA*@
+c=c7
+c=c7
+/"OChSj
+c8#)
+dZE-
+dZE-
+/"OCh
+<c8#
+<c8#
+ATET0
+/"OCh
+0(3`	
+ATET
+"OCe
+HS8#
+<c8#
+QTUT^
+/"OChSk
+!b-dac=csb7
+1c=d
+b-b'
+b-b.
+c=c%
+/"OCh
+/"OCi
+dZE-
+"OCf
+/"OCh
+IS8#!
+h"OCf
+/"OCh
+h"OCf
+/"OCh
+0(3`	
+IR("
+"OCf
+`b,b("
+,R("
+/"OChSi
+@Sf2
+dBb)R
+@Sf*
+2dBa
+/"OChSi
+B(B)T
+2%0&
+Bc6S
+F%F%F%4
+Rc2S
+Rc2S
+/"OCh
+"dRc8#
+tB+G
+2dF1
+Dd%d%d%d%d%d%d%d%d%
+B<c;"-`
+eC`	
+uR-2e
+dBc3S
+2dH$
+@"d`
+2gx'	
+b,8Y
+/"OCl
+("e:
+Bc8#
+uR(2e\
+FT$T$T$T$T$T$T$T$T$
+4B+A
+B<c;"-`
+m2)V=e
+u(B+&=d(A
+b("<
+datafmt  
+R*B)
+DL5V=
+"dBa
+A<6]
+Bb+R
+Bc;S
+"dH$
+Rc2S
+"gx'
+/"OCh
+Rc2S
+dBb'R
+/"OSh
+dBc=S
+Bc<S
+9Scd
+bc6S
+bc8S
+bc7S
+Bc8#
+Fv%v%v%v%v%v%v%v%v%v%v%
+BdBa
+,?&O
+TBc2S
+TBb"R
+dBc3S
+/"OChSj
+/"OSh
+dBb&R
+"OCf
+bc3S
+"OCe
+Rb"R
+/ChcdSf
+`gx'
+/"OShciCe
+Rb"R
+Rb"R
+h"Oz
+Bc8#
+Fv%v%v%v%v%v%v%v%v%v%v%
+BdBb$R
+,?&O
+Bc8#
+Bc8#
+AR("
+/"OCjSh
+/"OChSkcj
+V$V$V$V$V$V$
+FV$V$V$V$V$V$V$V$V$V$V$V$V$V$
+")@!
+ r@d
+el4l5
+,?&O
+/"OChSi
+/"OCjSkchsiD
+,?&O
+h(&$&<
+/"OChSlcksj
+,?&O
+/"OChSi
+,?&O
+/"OCht
+EF&F&F&F&F&F&F&F&F&F&
+Bfh&
+bbcd%R
+Bfh&
+bacd
+,?&O
+$&$J
+/"OSh
+f%f%f%f%f%
+Gf%f%f%f%f%f%f%f%
+/"Och
+s<4c
+/"OCh
+@b,b
+C@ay
+@b,b
+@b,b
+C@a^
+@b,b
+IVfr$a
+VfVgb
+VfVgd
+VgVfv
+VfVgh
+VfVgj
+VfVgl
+VgVf~
+@tVgVfr$a
+/"OCh
+Bc2c
+Bb"R
+dBc5S
+UBb#R
+\C8"0
+c"b,A[
+1FeFf\
+F`Fe
+FeBdT
+R"b"!
+/"OCh
+Rc8S
+tT$T$
+FT$T$T$T$T$T$T$T$T$
+T$T$9
+,8X%
+Bb$R
+/"OSh
+@B!Q
+Rb"R
+/"OCh
+/"OCh
+/"OCh
+R"b("
+fBb)R
+rbRa,1
+%BcqQ
+"b("
+frgg7
+rWs6
+!UaVW6
+cVc5
+4L38
+5b!q
+VfVgf
+VgVfx
+VfVgj
+VfVgl
+VfVgn
+@qVgVfr!a
+VfReb
+R0"@
+5<5<
+Q"b)!
+a)!#
+,b9"$
+a)!'
+,b9"(
+a)!*
+,b9"+
+a)!-
+uPb,e
+,b9".
+"b8"
+#9""$
+2&B&m&l&k&j&i&h#o
+/Ch)
+cdceA
+Rb("
+<B+)
+1|5|6
+hc`	
+<c8#
+L7<7
+5Tb '
+bb"$aS
+bb"$aS2%
+/ShH$
+BbAV"%a
+BVCTb
+RS<2"
+SRQQ,1
+/"OG
+S024
+,4Bc2-AQ
+l80x
+SK#7
+FV$V$V$V$V$V$V$V$
+F%F%F%
+F%"O
+cI#7`I b
+BdH$
+FT$T$T$T$T$T$T$T$T$
+/"OChSj
+#3`	
+-Fl9
+LC=e
+aX! 
+G|6ab-gx'
+a]b+!
+ac=c
+c3`	
+/SgM
+ag1	
+#3`	
+2c76
+;"#`	
+6`b,g
+2cw3	
+;"#`	
+"b'7
+`b,b
+2/b#`	
+t@dH$
+t@dH$
+ptBdH$
+ITH$
+/"OCh
+h"OC`Sd
+/"OCh
+b@a 1
+"gx'
+qTrerV
+,?&O
+/"Oi
+Chsi
+\4H$
+L5TfT``#1
+T`Tg2
+T`Tg4
+T`Tf6
+T`Pe8
+L5TgT`p!
+T`Tf
+T`Tf
+T`Tf
+TgTfs`	
+TfPec`	
+=eR")C
+=c2$Sg
+2c02
+"b 1"
+L1$e$`P!
+$`$e
+$`$e
+$`$f
+$`$f
+`P#1
+ec`	
+"b02
+Bc8#
+TrfBc`3
+TbgBap1
+b 1*
+eS`	
+nuPe
+c08	
+Rc02
+b}Sl-
+b 8	
+zPc8#
+2&B&m&l&k&j&i&h#o
+/"OCh
+Rb 1[
+R"b b("@
+S2c0c8#
+/"OCh
+bb 1
+"OCe
+/"OChsi
+\4H$
+mb"!ca
+2eP1
+d)I9)
+/"Oj
+Cish
+Bb 1
+S2c8#
+TR)H$_
+<c8#L
+4ZE:
+ESa)
+[!ZA-
+ESb)
+["ZB-
+cP34
+,9xy
+dR*H$
+ESb)
+["ZB-
+,9xy
+dR*H$
+ESb)
+["ZB-
+)A"+
+Hq"(
+V$V$V$V$8
+42.Q
+g)H9(
+2&B&m&l&k&j&i&h#o
+"b02
+/"O"
+Bc2c
+TBb"R
+FV$V$V$V$V$V$V$V$
+V$V$V$
+fBb,R
+FV$V$V$V$V$V$V$V$V$
+Bc2c
+Rc2S
+2eX%
+Rb"R
+V$V$V$V$V$V$V$V$V$V$N
+DCa)
+K!ZA-
+DCa)
+K!ZA-
+2&B&k&j&i&h#o
+Rb"R
+Rb"R
+Rb"R
+Rb"R
+Rb"R
+Rb"R
+/"OCh
+V$V$
+OV$V$V$V$V$V$V$
+&2d 
+/"OCjSh|
+,?&O
+0c<`
+!b-`@
+Bc6S
+Bb%R
+"dBc;S
+Bcdx
+2fh&
+bb"R
+Rb"R
+/"OCh
+Bb,R
+TBc2S
+/"OChSii
+Bb-R
+TBc2S
+,?&O
+/"OCf
+/"OCf
+/"OChcisk
+fdd`f@%c`	
+djfh&
+5P`.
+/"OCfSh
+/"OShCe$
+,?&O
+FV$V$V$V$V$V$V$V$
+2dH$
+/"OChSi
+/"OCh
+@SfQ
+@"!A
+/"OCh
+<4V$V$V$
+FV$V$V$V$V$V$V$V$V$
+/"OCh
+TH$_
+Qc=e
+Qb-e	
+@2"0
+/"OCh
+/"OCh
+/"OCi
+,b-b,5]e
+/"OG
+!b1c02
+b#`	
+<c=c<6mf
+/"OChSmclsk
+@)	,
+=c<6mf
+b-b`2
+/"OY
+FT$T$T$T$T$T$T$T$
+"f2gL
+5Td%
+2@"!
+5Td'
+3@#S`	
+-b,7}g
+2&B&m&l&k&j&i&h#o
+a 1	
+c=c2(
+0c8#"l
+ePc8#
+0c8#"l
+eCif
+ePc8#
+D``(
+D`@d
+3P#1
+tDf yD`
+3`#1
+D`@d2
+hPdTd
+/"OG
+B"B(
+ED&D&D&D&D&D&D&
+ED&D&D&D&D&D&D&
+<6F&
+EF&F&F&F&F&F&F&F&
+EF&F&F&F&F&F&
+@"e(
+"!"*
+@SfL
+/"OCh
+/"OCh
+Ab-dC`	
+!TH$
+"TH$
+/"OH
+n ~X
+\\\&8J
+b("	
+,?&O
+/"OG
+%DeD`P"!
+D`@d"
+9D%D%D%
+4DeD`P#1
+D`@d2
+d y*
+4DfD``#1
+D`@d2
+@,9+
+/"OCh
+/"OCh
+Ac=d]
+@2T)
+/"OCh
+@-dU
+2c8#	
+@,d<
+/"OCl
+"b("
+32f-
+$2VZF-
+c<c8#
+cxsxs8
+/"OChSi
+/"OChSi
+BdH$1
+#<PK
+b-bf
+!b-d+
+/"OCh
+/"OChSk
+Ac=dC`	
+b-b_
+c=c 
+c=cb
+@!T4
+c=cE
+b-b!
+@"T 
+@ v)
+@"d\
+@"d\
+@ vl
+b/e5
+S?e.
+dZD-
+dC`	
+9%X%
+@\ed
+Ac=dC`	
+!b-`
+!b-`
+a(!	
+a@1B
+YUB-X%+
+,4|tBdH$
+09\|
+ 9\|
+b-dC`	
+ARb'
+apRc7
+c<c8#
+c=cC
+/"OCh
+/"Oi
+Chsi
+dCe}
+"fh5
+vaeSg
+7#7	
+R!ab-`
+d@3:fh&	
+!b-dC`	
+vc`	
+DC`	
+DC`	
+/"OG
+!T<4
+Aa(1
+@2dN
+@"d;
+@"e+
+9%X%
+uX%K
+)%X%
+/"OCh
+/"OCh
+b,b("
+<6aa
+@c<`
+/"OCh
+/"OCh
+/"OCh
+(EZ@j
+Z$jD-
+Z$jD@
+Z$jD
+Z$jD
+Z$jD
+Z$jD8
+(FZ@<
+j%jE-
+j%jEH
+j%jE=
+2!%Z
+9%X%
+uX%I
+f@$J
+9$H$
+b#`	
+c3`	
+/"OCh
+/"OH
+@R"b
+E%F%F%F%a
+tU$V$V$V$
+L5QaQ
+@"e@
+daca
+@=e$
+@HvB
+@,49
+0,>d
+9%X%
+eTdPe
+Q@!S`	
+Bb"R
+Q<11
+c0c8#
+)%X%
+gpb("
+@,4.
+b b(" 
+c0c8#5
+)$H$
+gpb("
+@,4]
+b b(" 
+c0c8#
+)$H$
+gpb("
+2&B&m&l&k&j&i&h#o
+/"OCh
+d"jC`	
+@2dQ
+@2dH
+dC`	
+@"d,
+0c<`
+ 0lllllB
+ b,`
+L6ac=ea
+0c<`
+L6aa
+@2dW
+L6aa
+@2d3
+0c<`
+ b,b("
+/"OCh
+@"dM
+@2d@
+@"dW
+/"OCh
+dC`	
+tB,@
+tB,8
+tAdu
+eAdW4
+5G5	
+c775
+ddz)
+ JdH$
+ JdH$'
+6w6	
+/"OCh
+ b,dH$)
+dH$)
+0c<dH$)
+b,b("_
+a 1W
+daca
+@=e`
+vaaa
+2&B&m&l&k&j&i&h#o
+/"OCj
+J,DCi
+9$H$
+T$T$m
+T$T$`
+S8#j
+0c<c8#
+"b2c<2
+dH$!
+TdPe@!S`	
+1TdPe@!S`	
+3TdPe@#S`	
+3Pe@#S`	
+a"b,1p
+3@#S`	
+2c<2f
+1@!S`	
+3TdPe@#S`	
+3Pe@#S`	
+TdPe@"S`	
+2TdPe@"S`	
+/"OCi
+r")3
+dG2)
+0c<`
+2*2)
+9%X%
+L5Sf
+9&h&
+@<6K
+/"OCi
+2"2!	
+"dC`
+/"OCh
+L6aba
+L6aba
+a"b,1$
+c<c8#	
+3ds2"
+2&B&m&l&k&j&i&h#o
+Sgtfp`Cg`,
+tfpg`+s`	
+2&B&m&l&k&j&i&h#o
+c<c8#)
+dLdH$)
+dLdH$)
+dLdH$)
+dLdH$)
+dLdH$)
+2&B&m&l&k&j&i&h#o
+/"OG
+@2dU
+@2d0
+Ab"!A
+/"OCh
+"dH$
+/"OCi
+d2eX4
+tAdCeK
+fh5#5
+tAdB
+rgx')
+|2#=
+|2l2#4
+0wl7C7
+#B,Qa
+"e05)
+1c=fc`	
+a 1)
+9$H$
+tB*d
+2c8#	
+"e05
+e 5)
+R+H$
+@2d0
+!b-fS
+@2d6
+dB"H$
+/"OCh
+/"OCh
+2dH$
+/"OG
+ 8Pz
+@Sf:
+)%X%
+uX%3
+@"d@
+/"OG
+wqfce
+"*2dB
+!b-eS`	
+DC`	
+c=ck
+@2T5
+/"OCk
+uX%1
+,4Ac
+s1$0
+,4Ac
+b;cq
+/"OCh
+dH737
+fAe{
+R"b+z
+fc`	
+Rd1c=f
+2-Rd5
+"-Rd(
+C<2!R"-Rd
+C<2"R"-Rd
+C<2#R"-Rd	
+@2d5
+@2d"
+@2T$
+/"OCj
+9%X%
+a+b_
+)$H$
+/"OCh
+)%X%
+"OCh
+	2c<9 
+S8#\
+v!FW
+!Fccl3
+<ZI-
+/"OCh
+a(!:
+4-DL5^
+C<5Sk
+@2d	
+/"OCh
+/"OCh
+SK`,
+)%X%
+/"OCk
+ : {
+/"OG
+@=F0
+@SfR
+9%X%
+/"OG
+vagsi
+1c=dC`	
+a(!	
+DC`	
+/"OCh
+2dH$
+/"OCh
+SK`x
+)$H$
+/"OG
+@ u`
+@"dC
+eZH-
+@-F$
+pAPK
+)%X%
+/"OG
+vaeSg
+B#R)
+"+2e=
+!b-dC`	
+2+"e,
+zDtA
+/"OG
+@"dc
+9%X%
+/"OCjch
+2dH$
+/"OChSkcjsi
+b)B9"-b("
+BdH$
+@1"`
+5S8#
+a"!2c2c8#
+ b,`
+d\4.
+0c<`
+b("	
+,b("
+"OSfCe
+ptBdH$
+1'3`	
+Q'3`	
+<c8#
+/"OCh
+b,b("
+/"OCh
+/"OCh
+/"OCh
+dC`	
+r!%/c
+c!b02
+/"OCh
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+BeX%
+/"OChSi
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+]u`@j
+j@2"
+3V`\f
+A)Cf
+A)`;
+A)a;
+tU5Pz
+k/$I8
+k/$I8
+DEST
+t0Z8H
+Q('/\{
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+B^@V
+B^pzZ
+6e-{
+rn{p
+,E|/
+midiOutGetNumDevs
+midiOutGetDevCapsW
+midiStreamOpen
+midiStreamProperty
+midiOutPrepareHeader
+midiStreamOut
+midiOutUnprepareHeader
+midiOutReset
+midiStreamClose
+midiStreamPause
+midiStreamRestart
+midiOutOpen
+midiStreamStop
+midiOutClose
+midiOutLongMsg
+midiOutGetVolume
+midiOutSetVolume
+CEMM.dll
+DSOUND.dll
+DirectDrawCreate
+DDRAW.dll
+CoCreateInstance
+CoInitializeEx
+CoUninitialize
+ole32.dll
+COREDLL.dll
+DirectInputCreateW
+DINPUTX.dll
+MapleCreateDevice
+MapleEnumerateDevices
+MAPLEDEV.dll
+SetFirmwareValues
+FirmwareGetSoundMode
+ResetToFirmware
+PLATUTIL.dll
+timeGetTime
+timeSetEvent
+timeBeginPeriod
+timeKillEvent
+timeEndPeriod
+MMTIMER.dll
+Error!! Collision Max Over
+Error!! Collision MaxSet Over
+!!!!
+.ARC
+.BIN
+[READ]
+Warning ReadFileSize 1M Over
+\CD-ROM\
+.ARC
+.ALL
+!	@"4`A~#
+O=;8Y 
+*:?K
+19UZp
+>3jr
+"4`A~#
+O=;8Y 
+*:?K
+19UZp
+>3jr
+  !|!
+!*"}"
+#8$x$
+$'%[%
+&5&X&x&
+&x&X&5&
+%[%'%
+$x$8$
+"}"*"
+!|! !
+  !|!
+!*"}"
+#8$x$
+$'%[%
+&5&X&x&
+REGISTRY:
+TITLE:
+HELP:
+SYSTEM:
+READPATH:
+BOOT:
+MENU:
+COMMENT:
+WAVEREAD:
+\PC\DATA\
+\PC\DATA\BMP\
+AutoExec.OBJ
+CDROM
+SKIP
+DREAMCAST
+ERROR!! FLIP()
+ERROR CLEAR()
+Reload Screen
+BitBlt
+CD-ROM
+BMP%.3d.bmp
+\PC\Data\Error.Txt
+ DISP MASK EFFECT SKIP
+MASK.PRG
+CHANGE.PRG
+FADE.PRG
+BLD_LR.PRG
+BLD_UD.BMP
+BLD_FADE.PRG
+MASK3.BMP
+FADE.PRG
+FADE.PRG
+ DISP MASK EFFECT SKIP
+Error!! Create Surface
+9e)Mk
+!%),.:;?]}
+$([\{
+DATA\Font  .Bin
+.bmp
+.wav
+.mid
+ERROR!! BeginScene Failed
+ERROR!! EndScen()
+ERROR!! DrawPrimitive
+DrawPosV or U Error
+BltFast : 
+no uv texture paam
+DATA\NULL.BMP
+Sprite Surface Lock Error
+Sprite Surface UnLock Error
+Begin Scene Failed
+SetRenderState Failed
+.PRG
+NULL
+BLACK
+WHITE
+USED
+OMAKE
+YUKI_NAME
+YUKI_LOAD
+YUKI_OPTION
+YUKI_STAFF
+Program()
+.SCR
+[.SCR]
+.bmp
+.wav
+.mid
+Call
+CallFile
+START
+START
+Title : UnKnown
+Version : Debug
+TITLE
+NAVI
+.WAV
+SKIP
+Ver1.00
+Ver1.00
+SetxxxDefPath()
+SetxxxDefPath()
+SetxxxDefPath()
+SetxxxDefPath()
+SetxxxDefPath()
+strcpy()
+memset()
+SelectGetString()
+strcat()
+SetMidi2Cdda
+SetMidi2Cdda
+1-63
+STOP
+CreateThread
+START
+BmpAlphaMask
+DREAMCAST
+DREAMCAST
+DREAMCAST
+GSS SaveData
+SCRDATA.ARC
+DREAMCAST
+.OBJ
+DATA\Black.bmp
+DATA\Black2.bmp
+DATA\LogCur.bmp
+DATA\Frame.bmp
+DATA\Cursor2.bmp
+ SPRITE LINE EFFECT SKIP 3D
+ SPRITE LINE EFFECT SKIP 2D
+[MidiSelectPort] : CreatePort error!
+[MidiSelectPort] : Activate error!
+[MidiSelectPort] : AddPort Error!
+[MidiSelectPort] : AssignPChannelBlock Error!
+[MidiInit] : Could not create DMusic Loader
+[MidiInit] : Could not create DMusic Performance
+[MidiInit] : Could not initialize performance
+[MidiInit] : Could not create MIDI event
+[MidiInit] : Could not create MIDI event thread
+[MidiInit] : Could not set event handle
+[MidiInit] : Could not add event handle type
+[MidiInit] : DirectMusic Initialied
+[MidiDlsDecode] : dls loaded
+MIDI
+MCI(Windows
+[MidiPlay] : Could not load midi Retry%d
+[MidiDlsDecode] : Could not load dls
+[MidiDlsDecode] : dls loaded
+[MidiGetVolume] : Could not set master volume
+[MidiSetVolume] : Could not set master volume
+[MidiSetVolumeMsg] : Could not msg alloc
+Failed! CretateEvent() 
+Failed! midiOutGetNumDevs() 
+Failed! midiOutGetDevCaps() 
+Failed to find at least one of the MIDI devices needed 
+GMI_V100.mpb
+GMD_V100.mpb
+Failed! midiStreamOpen() 
+Failed to set the SMF property of the MIDI stream 
+Failed to set the General MIDI property of the MIDI stream 
+MIDI File header is strange 
+MIDI track data is strange 
+Couldn't set time division property of the MIDI stream 
+Couldn't set looping property of the MIDI stream 
+Failed to prepare MIDIHDR for MIDI sequence 
+Failed midiStreamOut( MIDI sequence ) 
+Failed! midiStreamRestart() 
+Failed! midiStreamPause() 
+Failed! midiStreamStop() 
+Failed! midiStreamStop() 
+Failed to open MIDI out port for tonebank 
+\CD-ROM\
+Failed to open File 
+Failed to get File size 
+Failed to read sequence data 
+Failed to read sequence data 
+Failed to prepare MIDIHDR for tonebank 
+Failed! midiOutLongMsg( tonebank ) 
+Failed to open MIDI out port for tonebank 
+\CD-ROM\
+Failed to open File 
+Failed to get File size 
+Failed to read sequence data 
+Failed to read sequence data 
+Failed to prepare MIDIHDR for Drum 
+Failed! midiOutLongMsg( Drumbank ) 
+Failed to set volume 
+Failed to get volume 
+MThd
+MTrk
+New FileT&M)-32ch
+\TEMP\TEMPW%d.BIN
+SAVE\TEMPW%d.BIN
+\TEMP\TEMPM%d.BIN
+SAVE\TEMPM%d.BIN
+Error!! Wave Max Over
+\TEMP\TEMPW%d.BIN
+SAVE\TEMPW%d.BIN
+[ERROR!! WAVE ENTRY]
+[ERROR!! WAVE PLAY]
+Error!! Midi Max Over
+\TEMP\TEMPM%d.BIN
+SAVE\TEMPM%d.BIN
+ERROR!! MIDI CALL
+InitDirectSound Start!
+DirectSoundCreate Fail!
+SetCooperativeLevel Fail!
+InitDirectSound End!
+CloseDirectSound OK
+PCM INIT-
+CHECK-
+CREATE-
+LOCK-
+COPY-
+ADPCM INIT-
+CHECK-
+CREATE-
+LOCK-
+COPY-
+Wave Play False
+wyvw
+gwvg
+VwwW
+evwV
+ueve
+wuUvc{f{uw
+S5VUwWyek
+u5V5wWweky
+u565w7wek{x
+s565v7wf
+sU65u7v
+mwuU63s6f
+[fe353s5@
+31u08
+S0u9
+D"(7ccu9
++gSdu5
+ XiSce3
+iU1e4
+[FlashDeviceFormat] : Not flash handle
+[FlashDeviceFormat] : VMS is Nothing
+[FlashDeviceFormat] : DoFormat Failed
+[FlashEnumDeviceCallback] : CreateDevice Failed
+[FlashEnumDeviceCallback] : QueryInterface Failed
+[FlashFileGetData] : GetFileDesc Failed
+[FlashDeviceCheck] : EnumDevice Failed
+[FlashDeviceFormat] : Not flash handle
+[FlashDeviceFormat] : VMS is Nothing
+[FlashDeviceFormat] : DoFormat Failed
+[FlashDeviceSearch] : Not flash handle
+[FlashDeviceSearch] : VMS is Nothing
+[FlashDeviceSearch] : VMS is Find
+10:%d
+[FlashFileSearch] : Device Failed
+11:%d
+12:%d
+13:%d
+13.5:%d
+[FlashFileCreate] : EnumFlashFiles Failed
+14:%d
+[FlashFileCreate] : Device Failed
+[FlashFileCreate] : File Created
+[FlashFileCreate] : CreateFlashFile Failed
+[FlashFileDelete] : Device Failed
+[FlashFileDelete] : Not flash file handle
+[FlashFileDelete] : Delete Failed
+[FlashFileRead] : No buffer data
+[FlashFileRead] : Device Failed
+[FlashFileRead] : Not flash file handle
+[FlashFileRead] : Read Failed
+[FlashFileWrite] : No buffer data
+[FlashFileWrite] : Device Failed
+[FlashFileWrite]->Ceate
+[FlashFileWrite] : FlashFileCreate Error
+[FlashFileWrite]->Open
+[FlashFileWrite] : Not flash file handle
+[FlashFileWrite]->GetData
+[FlashFileWrite] : FlashFileGetData
+[FlashFileWrite]->Write
+[FlashFileWrite] : Write Failed
+[FlashFileWrite]->Close
+[FlashFileSizeGet] : Device Failed
+[FlashFileSizeGet] : Not flash file handle
+[FlashFileCreate] : EnumFlashFiles Failed
+[SaveFileCheck] : MaxNumber is 99 Over
+DirectInput CreateDevice error
+DirectInputDevice2 QueryInterface error
+DirectInputDevice2 GetProperty error
+GetCapabilities error
+Mouse Device 
+Keyboard Device 
+Joystick Device 
+SetDataFormat Failed 
+GetEnumObjects Failed 
+SetCoopetativeLevel Failed 
+EnumDevice Failed 
+DirectInputCreate Failed 
+New InputDevice Event Failed 
+DirectInput no initialized
+ERROR
+ERROR
+Failed SetCooperrativeLavel
+ClientScreenSet()
+(&S)	
+(&L)	
+(&F)	
+(&B)	
+(&C)	
+(&K)	
+(&W)	
+(&R)	
+(&X)	
+(&H)	
+Key0
+Key1
+Key2
+Key3
+Key4
+Key5
+Key6
+Key7
+Key8
+Key9
+\SndVol32.EXE
+\System32\SndVol32.EXE
+Voice.WAV
+SE.WAV
+open
+DirectDrawCreate Failed
+DirectDrawCreate Failed
+DirectDraw4 QueryInterface Failed
+SetCooperativeLevel Failed
+SetDisplayMode Failed
+CreateSurface Failed
+GetAttachedSurface Failed
+DirectDrawSurface4 QueryInterface Failed
+ERROR
+Failed BackBuffer CreateSurface
+Direct3D2 QueryInterface Failed
+CreateDevice Failed
+DirectDrawSurface4 QueryInterface Failed
+CreateViewport Failed
+AddViewport Failed
+SetViewport Failed
+SetCurrentViewport Failed
+Failed! CreateFile()
+Failed! GetToc
+Error playing track.
+Error stopping track.
+Error pausing track.
+Error pausing track.
+Error resuming track.
+Error resuming track.
+Error get volume.
+Error set volume.
+DATA\WAKU_.BMP
+DV02_01A.BMP
+DV01_01B.BMP
+DV01_02A.BMP
+DH05_01A.BMP
+DV03_01A.BMP
+DV03_01B.BMP
+DV04_01A.BMP
+DV05_01A.BMP
+DV05_02A.BMP
+DV05_03A.BMP
+DV05_03B.BMP
+DV05_04A.BMP
+DV05_05A.BMP
+DV05_06A.BMP
+DV05_06B.BMP
+DV05_06C.BMP
+EH01_01A.BMP
+EH03_01A.BMP
+EV00_01A.BMP
+EV00_02A.BMP
+EV00_03A.BMP
+EV00_04A.BMP
+EV00_04B.BMP
+EV00_05A.BMP
+EV00_05B.BMP
+EV00_06A.BMP
+EV00_06B.BMP
+EV00_06C.BMP
+EV00_07A.BMP
+EV00_07B.BMP
+EV00_08A.BMP
+EV00_09A.BMP
+EV00_09B.BMP
+EV01_01A.BMP
+EV01_02A.BMP
+EV01_03A.BMP
+EV01_03B.BMP
+EV01_03C.BMP
+EV01_04A.BMP
+EV01_05A.BMP
+EV01_05B.BMP
+EV01_05C.BMP
+EV01_06A.BMP
+EV01_06B.BMP
+EV01_07A.BMP
+EV01_07B.BMP
+EV01_07C.BMP
+EV01_07D.BMP
+EV01_07E.BMP
+EV01_08A.BMP
+EV01_08B.BMP
+EV01_09A.BMP
+EV01_09B.BMP
+EV01_10A.BMP
+EV01_10B.BMP
+EV02_01A.BMP
+EV02_02A.BMP
+EV02_03A.BMP
+EV02_03B.BMP
+EV02_03C.BMP
+EV02_04A.BMP
+EV02_05A.BMP
+EV02_05B.BMP
+EV02_05C.BMP
+EV02_06A.BMP
+EV02_06B.BMP
+EV02_07A.BMP
+EV03_01A.BMP
+EV03_02A.BMP
+EV03_02B.BMP
+EV03_02C.BMP
+EV03_03A.BMP
+EV03_04A.BMP
+EV03_05A.BMP
+EV03_05B.BMP
+EV03_06A.BMP
+EV03_07A.BMP
+EV03_08A.BMP
+EV03_08B.BMP
+EV03_09A.BMP
+EV03_09B.BMP
+EV04_01A.BMP
+EV04_01B.BMP
+EV04_02A.BMP
+EV04_03A.BMP
+EV04_04A.BMP
+EV04_05A.BMP
+EV04_05B.BMP
+EV04_06A.BMP
+EV04_06B.BMP
+EV04_06C.BMP
+EV04_07A.BMP
+EV04_08A.BMP
+EV06_01A.BMP
+EV06_01B.BMP
+EVDC_00.BMP
+EVDC_01.BMP
+EVDC_02.BMP
+EVDC_03.BMP
+EVDC_04.BMP
+EVDC_05A.BMP
+EVDC_05B.BMP
+EVDC_06.BMP
+EVDC_07.BMP
+EVDC_08A.BMP
+EVDC_08B.BMP
+EVDC_09.BMP
+EVDC_10.BMP
+EVDC_11.BMP
+EVDC_12A.BMP
+EVDC_12A2.BMP
+EVDC_12B.BMP
+EVDC_12B2.BMP
+EVDC_12C.BMP
+EVDC_13A.BMP
+EVDC_13B.BMP
+EVDC_13C.BMP
+EVDC_14A.BMP
+EVDC_14B.BMP
+EVDC_15A.BMP
+EVDC_15B.BMP
+EVDC_15C.BMP
+EVDC_15D.BMP
+EVDC_16A.BMP
+EVDC_16B.BMP
+EVDC_17.BMP
+EVDC_18A.BMP
+EVDC_18B.BMP
+EVDC_18C.BMP
+EVDC_19A.BMP
+EVDC_19B.BMP
+EVDC_20.BMP
+DV01_01A.BMP
+GAME DATA
+SYSTEM FILE LOAD
+YUKI_SAVESYS
+YUKI_SAVESYS
+SYSTEM FILE NO SKIP
+SYSTEM FILE SAVE 
+memory_card_check->error
+FlashDeviceSearchEx->error
+YUKI_SAVESYS
+FlashFileWrite->error
+YUKI_SAVE
+%s%.3d
+%.4d/%.2d/%.2d %.2d:%.2d
+                   
+%s %s
+YUKI_SAVE
+%.3d
+%.4d/%.2d/%.2d %.2d:%.2d
+Data\menu.bmp
+DATA\WAKU_.BMP
+DATA\SE\SE_002.WAV
+DATA\SE\SE_015.WAV
+DATA\SE\SE_219.WAV
+YUKI_SAVE
+%.2d @b%s[%s]@w
+%.2d @g
+%.2d @r
+%.2d @p
+%.2d @b%s[%s]@w
+RESET
+INIT.SCR
+.SCR
+%s.BMP
+RESTART
+INIT.SCR
+01A.bmp
+01B.bmp
+02.bmp
+03.bmp
+04.bmp
+05.bmp
+06.bmp
+07.bmp
+08.bmp
+09.bmp
+10.bmp
+11.bmp
+12.bmp
+13.bmp
+14.bmp
+15.bmp
+16.bmp
+17.bmp
+18.bmp
+19.bmp
+20.bmp
+21.bmp
+BG_01H.BMP
+BG_02H.BMP
+BG_03H.BMP
+BG_04H.BMP
+BG_05H.BMP
+BG_06H.BMP
+BG_07H.BMP
+BG_08H.BMP
+BG_09H.BMP
+BG_10H.BMP
+BG_11H.BMP
+BG_12H.BMP
+BG_13H.BMP
+BG_14H.BMP
+BG_15H.BMP
+BG_17H.BMP
+BG_18H.BMP
+BG_19H.BMP
+BG_20H.BMP
+BG_21H.BMP
+tama.BMP
+kuro.BMP
+kuro.BMP
+BGM15.wav
+BGM16.wav
+DATA\BMP\LOAD.BMP
+DATA\BMP\BLACK16.BMP
+DATA\SE\se_015.wav
+DATA\SE\se_002.wav
+DATA\SE\se_219.wav
+DATA\BMP\namebg.bmp
+DATA\BMP\namep2.bmp
+OMC01A.BMP
+OMC01B.BMP
+OMC01C.BMP
+OMC01D.BMP
+OMC02A.BMP
+OMC02B.BMP
+OMC02C.BMP
+OMC02D.BMP
+OMC03A.BMP
+OMC03B.BMP
+OMC03C.BMP
+OMC03D.BMP
+OMC04A.BMP
+OMC04B.BMP
+OMC04C.BMP
+OMC04D.BMP
+OMC06A.BMP
+OMC06B.BMP
+OMC06C.BMP
+OMC06D.BMP
+OMC07A.BMP
+OMC07B.BMP
+OMC07C.BMP
+OMC07D.BMP
+OMC05A.BMP
+OMC05A.BMP
+OMC05A.BMP
+OMC05A.BMP
+BGM01.WAV
+BGM02.WAV
+BGM03.WAV
+BGM04.WAV
+BGM05.WAV
+BGM06.WAV
+BGM07.WAV
+BGM08.WAV
+BGM09.WAV
+BGM10.WAV
+BGM11.WAV
+BGM12.WAV
+BGM13.WAV
+BGM14.WAV
+BGM15.WAV
+BGM16.WAV
+EV01_01A.BMP
+EV00_05B.BMP
+EV00_06A.BMP
+EV00_06B.BMP
+EV00_06C.BMP
+EV00_08A.BMP
+DV01_02A.BMP
+DV01_01A.BMP
+DV01_01B.BMP
+EV01_05A.BMP
+EV01_05B.BMP
+EV01_05C.BMP
+EVDC_08A.BMP
+EVDC_08B.BMP
+EVDC_09.BMP
+DV05_04A.BMP
+EV01_03A.BMP
+EV01_03B.BMP
+EV01_03C.BMP
+EV01_04A.BMP
+EH01_01A.BMP
+EV01_06A.BMP
+EV01_06B.BMP
+EV01_07A.BMP
+EV01_07B.BMP
+EV01_07C.BMP
+EV01_07D.BMP
+EV01_07E.BMP
+EV01_08A.BMP
+EV01_08B.BMP
+EV01_09A.BMP
+EV01_09B.BMP
+EV01_10A.BMP
+EV01_10B.BMP
+EVDC_13B.BMP
+EVDC_15A.BMP
+EVDC_15B.BMP
+EVDC_15C.BMP
+EVDC_15D.BMP
+EV02_01A.BMP
+EVDC_02.BMP
+EVDC_03.BMP
+EV02_02A.BMP
+EV02_03A.BMP
+EV02_03B.BMP
+EV02_03C.BMP
+EVDC_12A.BMP
+EVDC_12A2.BMP
+EV00_05A.BMP
+EV00_05B.BMP
+EV02_07A.BMP
+EV00_07A.BMP
+EV00_07B.BMP
+EV00_08A.BMP
+EV00_02A.BMP
+DV02_01A.BMP
+EVDC_04.BMP
+EVDC_20.BMP
+EV02_04A.BMP
+EV02_05A.BMP
+EV02_05B.BMP
+EV02_05C.BMP
+EV02_06A.BMP
+EV02_06B.BMP
+EVDC_11.BMP
+EVDC_13A.BMP
+EVDC_13B.BMP
+EVDC_13C.BMP
+EVDC_14A.BMP
+EVDC_14B.BMP
+EVDC_18B.BMP
+EVDC_18C.BMP
+EV04_02A.BMP
+EV04_05A.BMP
+EV04_05B.BMP
+EV04_01A.BMP
+EV04_01B.BMP
+EVDC_05A.BMP
+EVDC_05B.BMP
+EVDC_12A.BMP
+EVDC_12A2.BMP
+EVDC_12B.BMP
+EVDC_12B2.BMP
+EVDC_06.BMP
+EV00_05A.BMP
+EV00_05B.BMP
+EV00_07A.BMP
+EV00_07B.BMP
+EV00_08A.BMP
+EV00_02A.BMP
+DV04_01A.BMP
+EV04_08A.BMP
+EV04_07A.BMP
+EV03_08A.BMP
+EV03_08B.BMP
+EV04_04A.BMP
+EV04_06A.BMP
+EV04_06B.BMP
+EV04_06C.BMP
+EVDC_13A.BMP
+EVDC_13B.BMP
+EVDC_17.BMP
+EV03_01A.BMP
+EV03_06A.BMP
+EV03_05A.BMP
+EV03_05B.BMP
+EV03_02A.BMP
+EV03_02B.BMP
+EV03_02C.BMP
+EVDC_01.BMP
+DV03_01A.BMP
+DV03_01B.BMP
+EV00_06A.BMP
+EV00_06B.BMP
+EV00_06C.BMP
+EV00_08A.BMP
+EVDC_09.BMP
+EV03_08A.BMP
+EV03_08B.BMP
+EV03_03A.BMP
+EH03_01A.BMP
+EV03_04A.BMP
+EV03_07A.BMP
+EV03_09A.BMP
+EV03_09B.BMP
+EVDC_13A.BMP
+EVDC_13B.BMP
+EVDC_13C.BMP
+EVDC_14A.BMP
+EVDC_14B.BMP
+EV06_01A.BMP
+EV06_01B.BMP
+DV05_02A.BMP
+EV00_04A.BMP
+EV00_04B.BMP
+DV05_01A.BMP
+EVDC_06.BMP
+EV00_09B.BMP
+EV00_08A.BMP
+DV05_03A.BMP
+DV05_03B.BMP
+EV00_03A.BMP
+EVDC_07.BMP
+DV05_04A.BMP
+DV05_05A.BMP
+DH05_01A.BMP
+DV05_06A.BMP
+DV05_06B.BMP
+DV05_06C.BMP
+EVDC_17.BMP
+EVDC_03.BMP
+EVDC_10.BMP
+EVDC_11.BMP
+EVDC_12B.BMP
+EVDC_12B2.BMP
+EVDC_12C.BMP
+EVDC_13A.BMP
+EVDC_13B.BMP
+EVDC_13C.BMP
+EVDC_14B.BMP
+EVDC_16A.BMP
+EVDC_16B.BMP
+EVDC_18C.BMP
+EVDC_18A.BMP
+EVDC_18B.BMP
+EVDC_19A.BMP
+EVDC_19A.BMP
+EV00_09A.BMP
+EV00_01A.BMP
+EV01_02A.BMP
+EV04_03A.BMP
+DATA\OMAKE\OMPW06.BMP
+DATA\OMAKE\OMPW03.BMP
+DATA\OMAKE\OMPW01.BMP
+DATA\OMAKE\OMPW02.BMP
+DATA\OMAKE\OMPW04.BMP
+DATA\OMAKE\OMPW05.BMP
+@Music1 : 
+@ Music2 : 
+@ Music3 : 
+@ Music4 : 
+@ Music5 : 
+Music6 : 
+`instrumental
+@Music7 : 
+@ Music8 : 
+@Music9 : 
+@ Music10: 
+@ Music11: 
+@ Music12: 
+@Music13: 
+@Music14: 
+@ Music15: 
+@ Music16: 
+Data\Omake\BGITA.bmp
+DATA\Omake\LINE.BMP
+DATA\Omake\OMWIN.BMP
+DATA\Omake\OMENU2.BMP
+DATA\Omake\OMENU.BMP
+DATA\Omake\OMCOM%.2d.BMP
+DATA\Omake\%s
+DATA\OMAKE\OMPARTS.BMP
+MIDI\%s
+DATA\BLACK.BMP
+DATA\SE\SE_002.WAV
+DATA\SE\SE_015.WAV
+DATA\SE\SE_219.WAV
+DATA\BLACK.BMP
+Data\Omake\OMCGBG.BMP
+BMP\GRAPH\%s
+BMP\GRAPH\%s
+DATA\OMAKE\PANEL.BMP
+Data\Omake\OMCGBG.BMP
+DATA\BLACK.BMP
+Data\Omake\OMMUS01.BMP
+Data\Omake\OMUWIN.BMP
+@B%s
+MIDI\%s
+------- INIT START -------
+------- INIT END -------
+Thread Close
+Release Start
+Window Destroy
+Write RegistryKey
+Relese Movie
+Relese Input
+Relese Soudn
+Relese Sprite
+Relese System
+Relese Moji
+Relese File
+Relese Script
+Relese Memory
+Relese Graphic
+Relese handle
+Relese End
+Script Clear
+Input Clear
+Sound Clear
+Sprite Clear
+System Clear
+ReStart
+DATA\ARROW.BMP
+SYSDATA.ARC
+SYSDATA
+SCRDATA.ARC
+SCRDATA
+DREAMCAST
+OMAKE
+MENU
+StaffRoll

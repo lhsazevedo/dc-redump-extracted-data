@@ -1,0 +1,9 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/MAIN.BIN
+/TSS.STR
+/TSSFIXEX.DAT
+/TSSOBJ.DCC
+/TSSSE.DAT

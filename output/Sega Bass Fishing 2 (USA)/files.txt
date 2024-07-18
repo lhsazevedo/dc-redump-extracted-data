@@ -1,0 +1,9 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/BASS2.AFS
+/FINAL_715JP.SFD
+/FINAL_715US.SFD
+/SNDADX.AFS

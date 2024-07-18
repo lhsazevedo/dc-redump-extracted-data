@@ -1,0 +1,15 @@
+Listing all files in the filesystem:
+
+/
+/0.BIN
+/0.TXT
+/CUR.PVR
+/CUR2.PVR
+/DATA.AFS
+/DATA.ALS
+/DATA2.AFS
+/DATA2.ALS
+/KAZEUTA_OP.M1V
+/KAZE_ED_NEW2.M1V
+/MANATEE.DRV
+/SAVE.PVR

@@ -1,0 +1,19 @@
+!This program cannot be run in DOS mode.
+e=%r!\K!!\K!!\K!
+CX!*\K!!\K! \K!Rich!\K!
+.text
+`.data
+.pdata
+/"Ocm
+Ac=`-
+dCe?
+2&B&m&l&k&j&i&h#o
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\playtrack.exe
+NB10
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\playtrack.pdb

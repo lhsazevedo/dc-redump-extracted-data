@@ -1,0 +1,41 @@
+!This program cannot be run in DOS mode.
+Rich!
+.text
+`.rdata
+@.data
+.pdata
+@.reloc
+/"OCh
+"dBc6S
+2"2!
+tBb"b
+/"OCh
+dBb.
+Be&5
+<c2%
+$2"S
+<c2"-
+q#1H
+<c2%
+<c2"
+UBb.
+dBc>
+BeSd(D
+B+$[$
+/"OCh
+tBb"R
+.\\4:@FLRX"(
+/"OChSkcj
+/"OChcj
+/"OChSi
+`+@	
+COREDLL.dll
+ResetToFirmware
+PLATUTIL.dll
+qwakeupdc.dll
+ZddDllInterface
+2 2$2
+2@3D3H3
+4H5L5P5T5X5\5`5d5
+(0,00040
+0 0(00080@0

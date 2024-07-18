@@ -1,0 +1,1420 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+R#c1
+0c8#
+R#c2
+ b #("
+c0c8#
+S0c02
+b b,b
+S0c<c82#`
+R#c2
+0c<c1
+S s1
+S82#`
+R b("
+b b("&
+S0c8#
+R b("
+R b(1
+S>c02
+b,b"/
+R c<c2/
+R+b#`
+/"Ou
+S;c;
+R"b b0
+R"b b9
+R"c1
+0c<2
+S2c3d
+/"Ov
+9"("
+9"("
+9"("	
+R("	
+R,10
+S82#
+9"("
+/"Od
+S0c%
+R b,
+S+#7
+S+#7
+S+#7
+S+#7
+S+#7
+S+#7
+R b.
+S0c0
+S0c9
+S0c*
+S0ch
+S0cl
+S0cL
+S0c2
+S0c,
+S02/
+S027
+,b.b
+S)#8#
+R#c9
+Q71	
+S(32!
+S+#7
+S0c%
+R b("
+=c2.
+2&B#o
+S3a"
+3b%R$
+S3a"
+3b%R$
+S3a"
+3b%R$
+9"("(
+b&R$
+c5S5
+9"("
+b&R$
+c8S2c6
+b&R$
+c5S5
+b&R$
+R 15
+c5S5
+9"("
+2#d.
+30c<c3f"
+2#d$
+33e#
+,?&O
+S1S 
+r#f.
+/"OC
+;""!
+#i2)#c
+(R#`
+)R#`
+*R#`
+S9"("
+2c3d
+S9"("
+R#cJ
+,?&O
+,?&O
+/"OB
+s3eK
+R*r#eG
+S@s3d
+/"OB
+R$r#e5
+h"OA
+r#e>
+/"Od
+S<2~
+U#f:
+h"OA
+b'R$
+b&RO
+33d*
+/"OS
+R,1 
+s3ed
+,?&O
+S3a"
+3b%R%
+S1SP
+S3a"
+3b%R%
+,32!
+R#c5S5
+R#c5S5
+S1S`
+S8#'
+b&R$
+R 1-
+R'R#e/
+c5S5
+S7S3e
+/"Ou
+2#dY
+2#d?
+s3f;
+2#e>
+33d4
+<1)q
+33e2
+2"b#f"
+,31S3f
+r#fY
+2#dX
+,31S3fL
+2#eQ
+33dM
+33eD
+2#d:
+2#d5
+r#f*
+2&B#o
+n"OA
+R#c5S4
+S3a"
+8S3d8
+R#c5S4
+b%R$
+/"OF
+2&B&k&j&i&h#o
+/"OC
+S72B
+0s<2
+s2/z
+/"OS
+<2"b#`'
+2#d+
+2&B#o
+/"OE
+/"OC
+s2/r
+/"OS
+<2"b#`(
+Q01 
+2#d(
+2&B#o
+n"OA
+R!R+
+9"("
+R"b#`
+R'1	
+S72"
+*R#d
+<2'R("	
+<2"b#d
+R%R%
+s3dS
+R!RY
+r#d5
+s3dv
+b(R$
+s3dS
+R!RX
+r#d5
+S3a"
+3b%R$
+S1Sl
+S3a"
+3b%R$
+S1Sl
+b(R$
+R 1)
+S3a"
+3b%R%
+/"OF
+R!R#d
+2&B&k&j&i&h#o
+/"OC
+S728
+(s<2g
+s2/@
+s2/+
+<2"b#`
+/"OE
+s3d4
+<2"b.
+/"OC
+R'1*
+r,1<
+)#h1
+<2"b#`
+b'1#
+<2&R
+33dR
+33dL
+2#dB
+,?&O
+,?&O
+33dW
+,?&O
+33d1
+2#d'
+,?&O
+r#d*
+-b,b
+"-b#e+
+R&Rp
+s3d_
+2#dn
+s3fp
+b(R$
+R 1l
+S3aD
+,C;!
+2#d7
+s3f8
+R#c@
+b(R$
+s3dj
+R#cD
+=c<c
+B+#=c3ek
+S1S<
+S6S3e
+S5S5
+r#d8
+-b,b
+"-b#e7
+R&R#d)
+RTr#dB
+(r#`
+<r#`
+Tr#`
+!R#`
+/"OC
+r#f3g
+C<2$
+b-b,b
+"-b$
+=B,1
+=B,1
+32c3`
+=B,1
+C<2#d
+R 11
+R 1=
+R 11
+R 1=
+R 11
+R 1=
+R 11
+R 1=
+/"OS
+S02L
+S02u
+S02Z
+S02.
+S02A
+S022
+S02H
+9"("
+R'R$
+S8S4
+S9S4
+R*R$
+/"OS
+R 12
+R 1@
+R 13
+R 1A
+R 1+
+R 1.
+R 1%
+R 1+
+/"OF
+2&B&k&j&i&h#o
+/"OD
+S72l
+\s<2p
+2&B&i&h#o
+)#8#
+<2"b#`,
+2#d3
+9"("
+#2"b
+"R#d	
+"R#`
+$R(1
+$R(1
+S<2"!
+r"!#`
+S0c8#$
+S0c8#
+R b.
+R b("
+b b,b#f
+c<c3g
+c<c4
+/"OU
+"R#d9
+B,12!
+S,34
+2&B#o
+n"OA
+R"!2
+##d,
+A=c$
+,C;!
+/"OB
+9"("
+S3a3b!R
+3a3b!R
+/"OB
+R!Rk
+9"("
+S3a3b!Rf
+3a3b!Rd
+9"("
+#8#!
+<2&1.
+S2c:
+S3aT
+3b3a
+2c3eD
+2#f 
+33g8
+R#c#hT
+2(8P
+S3hT
+c1SA
+SXs4
+9"("
+3a3b!R
+2c3e
+/"OB
+S5S4
+R#cFs3eZr#f/
+<2#d5
+S3a"
+3b%R$
+R#cZs3d#a
+S3a"
+3b%R$
+c5S4
+33dv
+R#c5S4
+33d5
+2#d,
+r#eD
+s3dy
+R#cD
+=c<c
+B+#=c3e
+c5S4
+S1S9
+2&B#o
+S5S5
+S02N
+S02^
+s3dy
+R#cD
+=c<c
+B+#=c3e|
+c5S5
+S3a"
+3b%R%
+;""!R
+R&Rd
+S5S5
+S1S3d+
+R#c4
+c=c<c
+b-b 
+B+#=c3f&
+R#c1S3d$
+b-b#e 
+c5S5
+S1S5
+c5S5
+S6Sh
+S1Sd
+2#dQ
+d3eU
+,?&O
+2#dA
+d>S3e
+d>S3e
+#8#8
+d>S3e
+d>S3eP
+d>S3eH
+d>S3e
+S8S6
+R%R%
+c5S5
+S3a"
+3b%R%
+S3a"
+3b%R%
+S3a"
+3b%R$
+R%R%
+R 15
+R#c8S6
+S3a"
+3b%R%
+b(R$
+R 1'
+r#e3a
+f>S3g3
+S3a"
+3b%R%
+S1S-
+r#e3a
+f>S3g
+S3a"
+3b%R$
+S1Sp
+S3a"
+3b%R$
+S1SF
+S1Sf
+R#c5S4
+R#c5S4
+9""!
+R#c5S4
+R#c5S4
+R#c5S4
+R#c5S4
+R!R	
+R#c5S4
+9""!
+S3a"
+3b%R$
+9""!+
+b%R$
+R#c5S4
+R#c5S4
+#2"%
+c5S4
+S1SB
+c5S4
+b(R$
+b(R$
+c5S5
+b(R$
+c5S5
+R b("*
+S3a"
+3b%R$
+S1S]
+#c8S=
+,?&O
+9"("
+33d#e
+c3`	
+#8#J
+2c3d
+s3dr
+;""!
+T3eC
+=c<c
+#=c9
+33d}
+33d#eA
+,?&O
+/"OB
+r"#J
+382,1
+33d3
+2#d0
+,?&O
+/"OS
+2#dQ
+c3`	
+b,3>c0!
+2&B#o
+/"OS
+2&B#o
+33d@
+/"OS
+2#ee
+c3dA
+R b*
+S0c#
+S3a1S 
+R#c!R
+2&B#o
+/"OS
+R c<c
+r<2/
+ b("
+R b*
+33dS
+2&B#o
+T3e&
+S&3T
+S0c*
+#c!R 
+-b,c
+B+#=c3`	
+T?c3ed
+#a!R 
+2#d`
+,?&O
+T3e4
+#c!R
+R("9
+S2c9
+S,s3d
+U3fj
+33d#e
+33d#e
+,?&O
+2#dP
+33dH
+,?&O
+/"OB
+?c3`	
+2#dJ
+2&B#o
+e3f:
+R,32!
+R#c=S4
+/"OB
+,?&O
+R("c
+R#c!R
+,?&O
+#a!R'
+33dr
+s3d#eY
+R("9
+S2c:
+T3eX
+#c!RS
+2#db
+,?&O
+2#d:
+,?&O
+#c!R
+/"OB
+2#d_
+33d1
+,?&O
+/"OB
+R c<c
+r<2/
+ b("2
+2#d]
+2&B#o
+n"OA
+R'1'
+s2!	
+R,32!
+S3a"
+3b%R$
+S1Sj
+S3a"
+3b%R$
+S1Sq
+S3a"
+3b%R$
+S1Sv
+b&R$
+c5S5
+=c3`	
+-b#`	
+U3fI
+c=cw
+U#f9
+/"Ou
+33d`
+33dJ
+1b-b"
+2-b!#
+,?&O
+2#d.
+,?&O
+U#f5
+/"Ou
+S)#8#
+2#dH
+33d?
+2#d6
+,?&O
+2#d%
+,?&O
+33d]
+,?&O
+33dI
+33e#f
+,?&O
+2#d0
+2#d(
+,?&O
+2#d`
+,?&O
+9"("
+R!Rt
+9"("
+s3e#f
+s3gD
+33e#f_
+,?&O
+2#d2
+e3f=
+2#dT
+2#dL
+,?&O
+2#dP
+33d'
+,?&O
+/"OS
+33dO
+s3eN
+2#d}
+33d>
+2&B#o
+S62$
+,32c3eD
+r#e=
+33d8
+2#d2
+,?&O
+33dP
+2#dG
+,?&O
+-b#`	
+=c?c3`	
+r#e%
+1b-b#`	
+r-b!#$
+,?&O
+/"OD
+.6a@
+2&B&i&h#o
+/"OU
+.6a@
+2&B&i&h#o
+/"OD
+S72f
+3<2$
+R&c4
+.&c7
+i")1
+2&B&i&h#o
+c5S5
+S3a"
+3b%R$
+S1S]
+c;S;
+c:S:
+R("r
+S3S3eB
+R#R#e5
+9"("
+9"("
+R#c#h
+)R("
+R#d)R
+b*R"/
+S"#A
+2c;S;
+R(R("
+S3a(
+8S3d
+c:S2/
+/"OF
+2&B&k&j&i&h#o
+/"OD
+s3dt
+S72l
+\s<2e
+2&B&i&h#o
+)#8#
+<2"b#`,
+2#d'
+R!R 
+9"("
+R"b#`
+R'1	
+S72"
+)R#d
+,14q
+<2-R("	
+<2"b#do
+s3do
+9"("
+/"OC
+R'1>
+r#eD
+C<2,
+#i2)#c
+;""!
+S72$
+f#c2c3g
+,39S3d
+/"Oe
+b%R%
+R"b("<
+X2c5S08
+R!R#d
+b%R%
+/"OB
+<2#d
+h"OR
+S2S8#
+R"R&R("
+R"b 1	
+S2S9
+/"Oe
+S2c8#
+R#c(
+#c6S#R"
+S2c8#	
+/"OS
+S2S(
+d3b"b#e3a
+f2S3g
+R#c2S(
+X1S<8
+%R'8
+S2c3dy
+R"R("
+"!3a
+b&R$
+c5S5
+/"OH
+2*R/
+;""+i
+;""+b
+3"#!
+2&B&m&l&k&j&i&h#o
+/"OD
+S72h
+Xs<2
+.&a&
+2&B&i&h#o
+31Sz
+)#8#
+s2/c
+<2"b#`,
+s2/<
+<2"b#`
+/"OF
+r#dC
+#i2)#j
+2&B&k&j&i&h#o
+s2/}
+<2"b#`
+b&R$
+S3a"
+3b%R%
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+CS2"
+/"OShCe
+/"OCh
+/"OChci
+ReBaP1
+~8.~
+2c02
+"d@3
+/"OCh
+,?&O
+h"ON
+Qb-eX%
+bfh&
+,?&O
+bfc`	
+bfc`	
+bfc`	
+dC`	
+BdC`	
+1c=c8#
+"OSfCeb
+,?&O
+$[b-D
+"OSfCeH
+@2d7
+,?&O
+/"OChSjci
+f%f%f%
+Df%f%f%f%f%f%f%f%f%
+f%sf
+,?&O
+/"OchsiSfCex
+(C`a
+,?&O
+/"OChSjU
+,?&O
+"OSfCe
+"OSfCe
+2"1!
+/"OCh
+dCS2c2d
+/"OCh
+,?&O
+/"OCh
+/"OCh
+/"OCh
+/"OChSi
+/"OCh
+/"OChSi
+/"OShcj#
+3'5'
+H'&'d
+Ub(Q
+FfFef
+FfFeh
+FfFej
+FeFf\
+FfFen
+@xFfFeb(Q
+FfFeb
+FfFed
+FeFfV
+FfFeh
+FfFej
+FfFel
+FfFen
+@xFeBdR(A
+,?&O
+/"OChSlcksjV
+dC`&
+,?&O
+/"OChSkcjsi
+/"OChSkcjsi
+/"Osh
+Ub(Q
+FfFed
+FfFef
+FfFeh
+FfFej
+FeFf\
+FfFen
+@xFfFeb(Q
+FfFeb
+FfFed
+FfFef
+FfFeh
+FfFej
+FfFel
+FfFen
+@xFeBdR(A
+,?&O
+/"OCh
+/"OCh
+BdH$
+"(")
+CeH$
+Bc8#
+C`RdQ
+<4Ba
+S`Ce
+RgSfx'
+rc@3
+,6beX%
+Rb@2
+/ChSf
+<7rfh&
+Sdse`9
+/"Oz
+,?&O
+H5Sd
+Ka`1
+ceL5
+/"OShclsk
+aS`	
+/"OChSmcl
+b-dH$6
+l1S1
+3@dP#C`	
+l3P3
+2P"C`	
+cC`0c4
+C`1)
+/"OChSi
+Ft%t%t%t%t%t%t%t%t%
+/"OCkSiclsm;
+"b("
+FV$V$V$V$V$V$V$V$V$V$V$
+T`TfD
+T`PeF
+``$A
+V$V$V$V$
+FV$V$V$V$V$V$V$V$V$V$V$V$
+B}2c
+V&V&V&
+DV&V&V&V&V&V&V&V&V&
+b("'
+f$f$f$f$f$
+Ef$f$f$f$f$f$f$f$f$f$f$
+c8#'
+V&V&V&V&
+DV&V&V&V&V&V&V&V&V&V&V&V&
+F%F%F%F%F%
+FF%F%F%F%F%F%F%F%F%F%F%
+2&B&m
+&l&k&j&i&h#o
+,?&O
+"TH$
+V$V$
+OV$V$V$V$V$V$V$=
+SdceC
+/"Och
+$tlt,4Hlllll<lT
+l4H$ 
+"OCe
+f$f$
+Sdl4Z
+/"OCh
+V$V$V$
+&Vh&
+/"O*
+,?&O
+/"OCiShe
+2&B&i&h#o
+2c8#
+2c3dF
+2c8#
+2c3d3
+2c8#
+2c3d+
+2c8#
+2c3d
+/"OChSkcj
+Bgx'
+/"OChcj
+BeX%
+/"OChSi
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+ntohl
+ntohs
+socket
+gethostbyname
+inet_addr
+ioctlsocket
+WSAStartup
+WSACleanup
+setsockopt
+closesocket
+connect
+htonl
+accept
+listen
+bind
+send
+inet_ntoa
+recv
+recvfrom
+sendto
+WINSOCK.dll
+iwLobbyEngine.dll
+le_AddNewAccessServer
+le_AddNew_Handle
+le_AddRoundTripTarget
+le_ArcadeLobby_Lock
+le_ArcadeLobby_Ready
+le_ArcadeLobby_SetFlag
+le_ArcadeLobby_SetLeader
+le_ArcadeLobby_SetPlayer
+le_ArcadeLobby_SetUserAttr
+le_ArcadeLobby_UnLock
+le_ConnectToAccessServer
+le_ConnectToGateServer
+le_ConnectToLobbyServer
+le_CreateGroup
+le_CreateLobby
+le_CreateTeam
+le_DeleteAccessServer
+le_DeleteRoundTripTarget
+le_Delete_Handle
+le_DisConnect
+le_DisConnectLobbyServer
+le_GetConnectTime
+le_GetConnectTimeMsec
+le_GetCountLicense
+le_GetCurrentTime
+le_GetCurrentTimeMsec
+le_GetDateLicense
+le_GetEvent
+le_GetEventNumber
+le_GetGroupHost
+le_GetLicense
+le_GetList
+le_GetListCount
+le_GetListCurrent
+le_GetListCurrentInfo
+le_GetListIndex
+le_GetListInfo
+le_GetListRefresh
+le_GetProgress_Get_ExtraUserMemory
+le_GetProgress_Regist_ExtraUserMemory
+le_GetServerTime
+le_GetStringLicense
+le_GetTeamHost
+le_GetTeamPlayerNumber
+le_GetTournamentTree
+le_Get_ExtraUserMemory
+le_GroupLobby_PlayerReady
+le_GroupLobby_Ready
+le_GroupLobby_SetTurn
+le_Initialize
+le_InitializeAccessServer
+le_InitializeConnectionInfo
+le_InitializeDevice
+le_JoinGroup
+le_JoinLobby
+le_JoinTeam
+le_JoinTeam_Spectator
+le_LaunchRequest
+le_LaunchRequestSingle
+le_LaunchRequest_Spectator
+le_LeaveGroup
+le_LeaveLobby
+le_LeaveTeam
+le_LeaveTeam_Spectator
+le_Proceed
+le_ReConnect
+le_RefreshTournamentInfo
+le_RefreshUserList
+le_Regist_ExtraUserMemory
+le_ReplaceAccessServer
+le_Replace_Handle
+le_RoundLobby_Lock
+le_RoundLobby_Ready
+le_RoundLobby_SetUserAttr
+le_RoundLobby_Status
+le_SelectGame
+le_Select_Handle
+le_SendCTCPMessage
+le_SendChat
+le_SendLogData
+le_SendLose
+le_SendRemoteChat
+le_SendSearchUserRequest
+le_SendShareMemory
+le_SendWin
+le_SpecialLobby_Reset
+le_Terminate
+le_TournamentLobby_SetUserAttr
+le_TournamentLock
+le_TournamentStart
+le_ne_GetGameServerIP
+le_ne_GetGameServerPort
+le_ne_GetHostIP
+le_ne_GetSessionName
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<NULL>
+%02x
+unknown.
+unknown.
+dummy
+HANDLE_LIST_GET
+%s %s %s %s
+SEGA-ID
+HANDLE_LIST_GET
+%s %s %s %s
+dummy
+HANDLE_ADD
+%s %s %s %d %s %s
+SEGA-ID
+HANDLE_ADD
+%s %s %s %d %s %s
+dummy
+HANDLE_REPLACE
+%s %s %s %d %s %s
+SEGA-ID
+HANDLE_REPLACE
+%s %s %s %d %s %s
+dummy
+HANDLE_DELETE
+%s %s %s %d %s
+SEGA-ID
+HANDLE_DELETE
+%s %s %s %d %s
+[LobbyEngine] create connection for GateServer FAILED
+[LobbyEngine] sending server handle request to GateServer
+[LobbyEngine] create connection for GateServer FAILED
+[LobbyEngine] sending server handle request to GateServer
+[LobbyEngine] create connection for GateServer FAILED
+[LobbyEngine] sending server handle request to GateServer
+[LobbyEngine] create connection for GateServer FAILED
+[LobbyEngine] sending server handle request to GateServer
+[LobbyEngine] LobbyServer added, [%d]%s address: %s:%d
+IWANGO LobbyEngine for DreamcastSDK Ver 1.50 Build:Aug  7 2000 12:13:48
+12:13:48
+Aug  7 2000
+[LobbyEngine] Welcome to LobbyEngine: build at %s %s
+%d.%d.%d.%d
+%04d:%02d:%02d:%02d:%02d:%02d
+[LobbyEngine] using GameServer address: %s:%d
+<NULL>
+[LobbyEngine] using GameSession name: %s
+[LobbyEngine] open udp for Ping FAILED
+[LobbyEngine] detected lobby server disconnection
+[LobbyEngine] connecting to access server: %s, phone:%s
+[LobbyEngine] initialize PPP FAILED
+[LobbyEngine] start dialing...
+[LobbyEngine] modem ready check TIMED OUT
+[LobbyEngine] connected, establishing PPP connection...
+[LobbyEngine] modem ready check TIMED OUT
+[LobbyEngine] PPP connection established
+000000000000
+[LobbyEngine] skipping SEGA auth
+[LobbyEngine] entering SEGA authentication stage...
+[LobbyEngine] password or username was NOT specified
+[LobbyEngine] function UA_Initialize returns an ERROR: %d
+[LobbyEngine] SEGA auth query with commodity:%s user:%s pass:%s
+[LobbyEngine] SEGA authentication FAILED param.error_no: %d
+[LobbyEngine] SEGA authentication SUCCEED
+[LobbyEngine] SEGA auth stage has been finished successfly
+[LobbyEngine] contacting to GateServer %s:%d(tcp)
+[LobbyEngine] create connection for GateServer FAILED
+[LobbyEngine] connecting gate server succeed, sending server list request
+[LobbyEngine] connecting gate server FAILED
+[LobbyEngine] all lobby server list has been received
+[LobbyEngine] receiving server list TIMED OUT
+[LobbyEngine] connect to access server has been successfully completed.
+[LobbyEngine] contacting to LobbyServer %s:%d(tcp)
+[LobbyEngine] create connection for LobbyServer FAILED
+[LobbyEngine] sending login information for LobbyServer
+[LobbyEngine] nickname has been chaned: %s
+[LobbyEngine] sending login information for LobbyServer
+[LobbyEngine] LobbyServer logged in
+[LobbyEngine] LobbyServer login FAILED
+[LobbyEngine] LobbyServer exmem ready
+[LobbyEngine] LobbyServer EX MEM FAILED
+REQUEST_FILTER
+%s %s
+dummy
+SEGA-ID
+TOURNAMENT
+ARCADE
+GROUP
+[LobbyEngine] disconnecting from LobbyServer
+%s%d
+unknown
+unknown
+ALIVE
+DEAD
+0123456789ABCDEF
+:%s :%s :%s :%s :%d :%d
+%s %d
+%d %s 
+SPECTATOR
+NORMAL
+#%s %s
+%s %s
+%s %s %s
+%s %s
+%s %s
+%s %d %d
+[LobbyEngine] Deleting task at access server disconnection: %d
+[LobbyEngine] Deleting task at lobby server disconnection: %d
+ATE0%C0\N0
+[access] access_init
+[access] create monitor thread failed.
+[access] access_term
+[access] access_connect
+[access]     username    : %s
+[access]     password    : %s
+[access]     phonenum    : %s
+[access] ERR: already connected/connecting
+[access] ERR: uninitialized or failed on initialization
+[access] RasSetEntryProperties failure. %d
+[access] RasDial failure
+[access] access_disconnect
+[access] already disconnected
+[access] RasHangUp failure. connection handle:0x%X, rc:0x%X
+[access] RasHangup succeed.
+[access] port has been safely closed
+[access] monitorThread alread exists
+[access] create prepareEvent failure
+[access] create monitorThread failure
+[access] monitor window has not created
+[access] monitor thread created
+[access] monitor thread terminated
+[access] WARNING: createMonitorWindow; already created.
+[access] getting instance handle failure
+[access] registering monitorWindow class failure
+[access] create monitorWindow failure
+[access] monitorWindowHandle is not valid
+[access] WARNING: getting instance handle failure
+[access] WARNING: destroying monitorWindow failure
+[access] WARNING: unregistering monitorWindow class faliure
+[access] Auth : RASCS_AuthAck
+[access] AuthNotify: 0x%X
+[access] unknown RAS dial event received:0x%X, 0x%X
+[access] ERR: ERROR_NO_DIALTONE
+[access] ERR: ERROR_ALREADY_DISCONNECTING
+[access] ERR: ERROR_AUTHENTICATION_FAILURE
+[access] ERR: ERROR_BUFFER_INVALID
+[access] ERR: ERROR_BUFFER_TOO_SMALL
+[access] ERR: ERROR_CANNOT_FIND_PHONEBOOK_ENTRY
+[access] ERR: ERROR_CANNOT_OPEN_PHONEBOOK
+[access] ERR: ERROR_DEVICE_NOT_READY
+[access] ERR: ERROR_DISCONNECTION
+[access] ERR: ERROR_EVENT_INVALID
+[access] ERR: ERROR_INVALID_PORT_HANDLE
+[access] ERR: ERROR_INVALID_SIZE
+[access] ERR: ERROR_LINE_BUSY
+[access] ERR: ERROR_NO_ANSWER
+[access] ERR: ERROR_NO_CARRIER
+[access] ERR: ERROR_NO_CONNECTION
+[access] ERR: ERROR_PORT_DISCONNECTED
+[access] ERR: ERROR_PORT_NOT_AVAILABLE
+[access] ERR: ERROR_UNKNOWN
+[access] ERR: ERROR_USER_DISCONNECTION
+[access] ERR: unknown:0x%X
+UNKNOWN
+DISCONNECTED
+INITIALIZING
+DIALING
+DEVICECONNECTED
+AUTHENTICATING
+ESTABLISHING
+ESTABLISHED
+DISCONNECTING
+[access] state transit %s to %s
+[access] detected %d ras connection(s), cleaning up...
+ntUa Ver 1.01.01 Build:May 12 2000 20:25:57
+T5X5
+d0h0l0p0t0x0|0
+1\3`3d3h3l3p3t3x3|3
+64888<8@8D8H8L8P8T8
+9T:X:\:`:d: =$=(=,=0=4=8=<=@=D=H=L=P=T=X=
+80<0@0D0H0L0P0T0X0\0t0
+4 4$4(4,4
+4`6d6h6l6p6t6x6|6
+8 8$8
+; ;$;(;,;0;
+=d>h>l>p>t>x>|>
+0x1|1
+3 3$3(3,3034383<3
+5 5$5(5T6X6\6`6d6$8(8,808
+; ;$;(;,;0;4;8;<;@;D;H;L;P;
+083<3@3D3H3L3P3T3X3\3`3d3h3
+; >$>(>,>0>4>8><>@>D>H>
+5 5$5(5<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7x7|7
+9 9$9(9,9094989<9@9D9H9L9P9T9
+; ;$;(;,;0;4;8;<;@;D;
+= =$=(=,=0=4=8=<=@=
+284<4@4D4H4L4P4T4X4\4`4d4(6,6064686<6@6D6H6L6P6T6X6\6
+9h;l;p;t;x;|;
+;$=(=,=0=4=8=<=@=
+=x?|?
+14282<2@2D2H2L2P2T2X2
+4 4$4(4,4044484<4@4
+6L8P8T8X8\8`8d8h8l8p8t8x8P9T9X9\9`9d9h9
+> >$>(>,>0>4>8>
+4 4$4(4,4044484<4@4
+8X:\:`:d:h:l:p:t:x:|:
+< <$<(<,<0<4<4=8=<=@=D=H=L=P=T=X=\=`=
+4 4$4(4,40444
+5L7P7T7X7\7`7d7h7l7p7t7x7|7
+7d9h9l9p9t9x9|9
+< <$<(<,<0<<>@>D>H>L>P>T>X>\>`>|>
+1T2X2\2`2d2h2l2p2t2x2|2
+6 6$6l7p7t7x7|7
+8 :$:(:,:0:4:8:<:@:D:
+= =$=(=,=
+4064686<6@6D6H6L6P6T6X6\6`6d6h6l6
+7094989<9@9D9H9L9P9T9X9
+>d>h>l>p>t>x>|>
+l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+4 4$4P4T4X4\4`4d4h4l4p4t4x4|4
+8 8$8(8,8084888<8@8D8H8L8P8h:l:p:t:x:|:
+< <$<(<,<0<4<8<<<
+3$5(5,5054585<5@5D5H5
+7P9T9X9\9`9d9h9l9p9t9x9|9
+; ;$;`<d<h<l<p<t<x<|<
+<L?P?T?X?\?`?d?h?l?p?t?x?|?
+4h6l6p6t6x6|6
+P0T0X0\0`0d0h0l0p0t0x0|0
+3 3$3(3,3034383<3@3D3H3L3
+4 7$7(7,7074787<7@7D7H7L7P7T7X7\7`7d7h7l7p7t7
+<@>D>H>L>P>T>X>\>`>d>h>l>p>t>x>|>
+0 0$0(0,0004080<0
+7 7$7(7,7074787<7@7D7H7L7P7T7
+78:<:@:D:H:L:P:T:X:
+>T?X?\?`?d?h?l?p?
+:x;|;
+004080<0@0D0H0@2D2H2L2P2T2X2\2
+3054585
+9t;x;|;
+> >$>(>
+1 1$1|4
+4h7l7p7t7x7|7
+7t9x9|9
+9D<H<L<P<T<X<\<`<d<h<l<
+0|2@5D5 7$7(7,7074787<7@7D7H7
+? ?$?
+4$404<4H4
+6 6$6(6,6064686<6@6D6H6L6
+7T9X9\9`9d9h9l9p9t9x9|9
+< <$<(<,<
+=T>X>\>`>d>h>l>
+0\2`2d2h2l2p2 4$4(4,4044484|5
+7x:|:
+? ?$?(?,?0?4?8?
+6 6$6
+7 7$7(7,7074787
+9 9$9(9,9094989<9
+:x:|:
+;(;4;@;L;X;d;p;|;
+<$<0<<<H<T<`<l<x<
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(000

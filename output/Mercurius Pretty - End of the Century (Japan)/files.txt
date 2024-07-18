@@ -1,0 +1,9 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/BOOT.BIN
+/DATA.IMG
+/MANATEE.DRV
+/MER_OP.SFD
+/SCR01.PKD

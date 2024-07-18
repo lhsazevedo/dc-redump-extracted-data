@@ -1,0 +1,10 @@
+!This program cannot be run in DOS mode.
+Richq,
+.text
+`.data
+.pdata
+`+@	
+COREDLL.dll
+d:\wince\public\common\oak\target\SHx\SH4\CE\retail\loaddbg.exe
+NB10
+d:\wince\public\common\oak\target\SHx\SH4\CE\retail\loaddbg.pdb

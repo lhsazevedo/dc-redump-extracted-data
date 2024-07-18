@@ -1,0 +1,13 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/ALLCOMXDC.BDD
+/ALLCOMXDC.BSD
+/ATD.SFD
+/CAPCOM.SFD
+/FILES.IDX
+/FILES.IMG
+/INTRO.SFD
+/IOC.SFD
+/MANATEE.DRV

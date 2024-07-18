@@ -1,0 +1,5 @@
+Listing all files in the filesystem:
+
+/
+/1NOSDC.BIN
+/DATA0.BIN

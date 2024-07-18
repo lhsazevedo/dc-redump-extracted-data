@@ -1,0 +1,170 @@
+!This program cannot be run in DOS mode.
+Rich!4O
+.text
+`.rdata
+@.data
+SUVW
+=4R@
+=4R@
+_^][
+5(P@
+SUVP
+=tES
+_^][Y
+PRVW
+8"uV
+8"uV@
+8"u%
+\$$3
+D$ _^]
+-,@@
+=0@@
+WSUVj
+_^][
+_^][
+_^][
+_^][
+_^]3
+SUVWP
+l$(u
+_^][
+_^][
+_^][
+95,w@
+_^][
+_^][
+D$(P
+%<@@
+HSUVWh
+-H@@
+_^][
+SVWUj
+]_^[
+h  @
+t.;t$$t(
+VC20XC00U
+SVWU
+tEVU
+t3x<
+]_^[
+=$P@
+SUVW3
+E=pT@
+=$P@
+;hhC@
+h C@
+_^][
+IQRV
+_^][
+5h@@
+D$,;
+L$ R
+T$ Q
+L$ RQP
+_^][Y
+|$,;
+WWURj	S
+tKVj
+VWUPj
+QPWR
+_^][Y
+t$,W
+_^][Y
+_^]3
+=x@@
+-tT@
+SUVW
+=tT@
+;=tT@
+_^][
+=pT@
+_^][Y
+_^][Y
+_^][Y
+_^][Y
+_^]3
+SUVW
+_^][
+_^][
+_^][
+_^]3
+WuBh
+=|@@
+PQRS
+tzVS
+GIt%
+t/Ku
+wB;5
+_^][
+%`@@
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+abnormal program termination
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+Sleep
+KERNEL32.dll
+GetCommandLineA
+GetVersion
+ExitProcess
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+GetModuleFileNameA
+FreeEnvironmentStringsA
+MultiByteToWideChar
+FreeEnvironmentStringsW
+GetEnvironmentStrings
+GetEnvironmentStringsW
+WideCharToMultiByte
+GetCPInfo
+GetACP
+GetOEMCP
+SetHandleCount
+GetStdHandle
+GetFileType
+GetStartupInfoA
+HeapDestroy
+HeapCreate
+VirtualFree
+RtlUnwind
+WriteFile
+GetStringTypeA
+GetStringTypeW
+HeapFree
+HeapAlloc
+VirtualAlloc
+GetProcAddress
+LoadLibraryA

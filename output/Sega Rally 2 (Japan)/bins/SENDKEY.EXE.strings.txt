@@ -1,0 +1,24 @@
+!This program cannot be run in DOS mode.
+Rich!
+*\w6
+.text
+`.data
+.pdata
+*\w6
+*\w6
+/"OB
+/"OB
+dH$1
+ZeX%
+dH$|
+dH$P
+dH$5
+,eLc<5\eou\h
+`+@	
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+d:\dragon55\public\MCPUPUB\oak\target\SHx\SH4\CE\retail\sendkey.exe
+NB10
+d:\dragon55\public\MCPUPUB\oak\target\SHx\SH4\CE\retail\sendkey.pdb

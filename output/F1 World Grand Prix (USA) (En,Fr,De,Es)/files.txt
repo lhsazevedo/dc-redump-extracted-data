@@ -1,0 +1,11 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/CREDITS.SFD
+/IPBINS
+/IPBINS/IP.BIN
+/IPBINS/IP0000.BIN
+/OPENING.SFD
+/PACK
+/PACK/F1.PAK

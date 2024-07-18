@@ -1,0 +1,30 @@
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.pdata
+@.reloc
+/"Oy
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcj
+/"OChcj
+/"OChSi
+COREDLL.dll
+cetlstub.dll
+CreateStream
+d1h1l1p1t1x1|1
+2(242@2L2
+3 3<3
+0 0(0

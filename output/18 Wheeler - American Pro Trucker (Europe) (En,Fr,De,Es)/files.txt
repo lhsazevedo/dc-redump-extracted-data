@@ -1,0 +1,11 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/OBJECT.AFS
+/SEQDATA.AFS
+/SOUND.AFS
+/SPRITE.AFS
+/STAGEDAT.AFS
+/STREAM.AFS

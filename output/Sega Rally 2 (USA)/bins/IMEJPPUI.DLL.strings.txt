@@ -1,0 +1,19 @@
+!This program cannot be run in DOS mode.
+RichO2
+.text
+`.data
+.pdata
+@.rsrc
+P.reloc
+/"OChci
+Sdl4
+Fl4H$
+`+@	
+COREDLL.dll
+IMEJPPUI.dll
+DllMain
+IME100WndProc
+Ime100Configure
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\IMEJPPUI.dll
+NB10
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\IMEJPPUI.pdb

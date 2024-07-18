@@ -1,0 +1,118 @@
+!This program cannot be run in DOS mode.
+Rich+su
+.text
+`.data
+.pdata
+TRUE
+FALSE
+/"OB
+,?&O
+/"OChB
+,?&O
+/ShB(aa
+Sfaa
+dCe 
+seX%"
+vac=dCe 
+seX%
+vac=d"
+ceH$
+JdH$
+Qb-b("
+JdQb-dH$
+JdQb-dH$
+seX%3
+sdH$
+Qc=c8#
+JdH$
+JdceQa
+JdceQa
+JdH$
+Bfh&
+BdH$
+2c8#
+K+ReX%
+(C;+
+e)%X%
+B)%X%C
+/"OCh
+"b("C
+2&B&j&i&h#o
+/"OCiSj
+{"#m
+{"!F
+{2",
+BeX%
+/"OCjSi
+,?&O
+/"OChsj
+vcd<
+/"OCiShcj
+2&B&j&i&h#o
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+/"OChSi
+COREDLL.dll
+HttpOpenRequestW
+InternetConnectW
+HttpAddRequestHeadersW
+InternetSetStatusCallback
+InternetOpenW
+HttpSendRequestW
+InternetCloseHandle
+HttpQueryInfoW
+InternetQueryDataAvailable
+InternetReadFile
+InternetSetOptionW
+InternetQueryOptionW
+WININET.dll
+Usage: httpdump <-h host>
+                [+p <proxy> | -p]
+                [-o <object>]
+                [-a <accept types>]
+                [-r <referrer>]
+                [+ar | -ar]
+                [+as | -as]
+                [+l <0x??}]
+where:
+    host         - HTTP server name. i.e. www.microsoft.com.
+    +p/-p        - Use/don't use proxy.
+                   (Default = Use proxy specified in registry.)
+    proxy        - Proxy server name with syntax:
+                   [<protocol>=][<scheme>://]<proxy>[:<port>].
+    object       - Default object name is default.htm.
+    accept types - Data accept ranges. i.e. "text/html".
+    referrer     - Referring HTTP link.
+    +ar/-ar      - Turn on/off auto-redirect. (Default = on).
+    +as/-as      - Turn on/off asynchronous.  (Default = on).
+    +s/-s        - Use security (https). (Default = off)
+    +l           - Output level: (Default = 0x1111).
+                       (Bit 1) Print headers.
+                       (Bit 2) Print data.
+                       (Bit 3) Print query options.
+                       (Bit 4) Print status information.
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\httpdump.exe
+NB10
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\httpdump.pdb

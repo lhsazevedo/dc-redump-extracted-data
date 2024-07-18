@@ -1,0 +1,9 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/5.DA
+/AUDIO64.DRV
+/BOXING.RAT
+/MANATEE.DRV
+/STREAM.MLT

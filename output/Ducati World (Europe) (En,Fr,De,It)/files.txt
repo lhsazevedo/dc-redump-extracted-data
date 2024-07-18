@@ -1,0 +1,10 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/0WINCEOS.BIN
+/DATA
+/DATA/DUCATI.IDX
+/DATA/DUCATI.IMG
+/DUCATI.EXE
+/DUCATIDC.EXE

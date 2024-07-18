@@ -1,0 +1,14 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/BGM.AFS
+/CG.PAK
+/EVENTSE.AFS
+/FONT.PAK
+/OTHCG.PAK
+/SCRIPT.PAK
+/SENTIY.SFD
+/SEQ.AFS
+/SOUND.PAK
+/VOICE.AFS

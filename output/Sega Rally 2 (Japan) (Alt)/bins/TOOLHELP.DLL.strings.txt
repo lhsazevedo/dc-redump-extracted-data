@@ -1,0 +1,95 @@
+!This program cannot be run in DOS mode.
+Rich!H
+.text
+`.data
+.pdata
+@.reloc
+/"OCh
+/"OSicjslCf
+CTH$
+HFgb%q
+FfFgb
+/"OC`Sd
+SUceX%
+6bfh&
+RQBR 1
+HVfVgb$q
+VfVgb
+ETH$
+Fgb%q
+FgFfr
+FgFft
+FgFfv
+EVCfh&
+iTH$
+bQRR 1
+Fgb%q
+FgFfr
+FgFft
+FgFfv
+DTH$
+HFgb%q
+FfFgb
+/"OC`Sd
+TUceX%
+6bfh&
+QQAR 1
+HVfVgb$q
+VfVgb
+FTH$
+Fgb%q
+FfFdb
+FVCfh&
+eTH$
+bQRR 1
+Ffr%a
+FfFdb
+/"Och
+cQp1
+fr%a
+FVeVh&
+bQp1
+dTH$
+Ffr%a
+FgFfr
+FgFft
+FfFgf
+bQWR 1
+cQXR 1
+FTETH$
+BQXR 1
+AQWR 1
+Cfh&
+iTH$
+bQRR 1
+Ffr%a
+FgFfr
+FgFft
+FgFfv
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+toolhelp.dll
+CloseToolhelp32Snapshot
+CreateToolhelp32Snapshot
+DllMain
+Heap32First
+Heap32ListFirst
+Heap32ListNext
+Heap32Next
+Module32First
+Module32Next
+Process32First
+Process32Next
+Thread32First
+Thread32Next
+Toolhelp32ReadProcessMemory
+1 1x1
+0 0(00080@0H0P0X0`0
+d:\wince\public\common\oak\target\SHx\SH4\CE\retail\toolhelp.dll
+NB10
+d:\wince\public\common\oak\target\SHx\SH4\CE\retail\toolhelp.pdb

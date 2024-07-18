@@ -1,0 +1,22 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+/"Och
+b-`0
+,b(")
+2&B&l&k&j&i&h#o
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+BeX%
+/"OChSi
+COREDLL.dll
+MmMapIoSpace
+WDMLIB.dll

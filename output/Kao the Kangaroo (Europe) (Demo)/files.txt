@@ -1,0 +1,7 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/AUDIO64.DRV
+/KAO_DEMO.PAK
+/WARNING.DA

@@ -1,0 +1,1021 @@
+!This program cannot be run in DOS mode.
+.text
+`.rdata
+@.data
+.idata
+.reloc
+SVWu
+8ifprt
+SVWUu
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+>ifprt
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVWU
+]_^[
+]_^[
+^$9F ~!
+E9n 
+]_^[
+]_^[
+]_^[
+SVWU
+]_^[
+]_^[
+]_^[
+^$9F ~&
+E9n 
+]_^[
+t%=T
+]_^[
+]_^[
+VWt2
+]_^[
+]_^[
+]_^[
+SVWU3
+L$ G
+]_^[
+]_^[
+k$9{ ~
+]_^[
+SVWU
+]_^[
+]_^[
+]_^[
+L$,)t$$
+]_^[
+t$pWU3
+T$|;
+]_^[
+D$xS
+\$pVW3
+T$|U
+]_^[
+j2PUSj
+]_^[
+]_^[
+]_^[
+SVWUj
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+h,QU
+]_^[
+@,QP
+]_^[
+UWVuG
+]_^[
+]_^[
+]_^[
+QUWV
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+ttj4
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+0UWV
+]_^[
+]_^[
+]_^[
+]_^[
+0UWV
+]_^[
+]_^[
+UWSj
+]_^[
+]_^[
+0USW
+]_^[
+]_^[
+]_^[
+]_^[
+0UWV
+]_^[
+]_^[
+t$$W
+|$,Uj
+D$ u%
+D$4VW
+]_^[
+D$49
+D$$u
+0PUWV
+D$49
+]_^[
+]_^[
+]_^[
+UWSj
+]_^[
+]_^[
+0USW
+]_^[
+]_^[
+]_^[
+E(PWV
+]_^[
+0UWV
+]_^[
+]_^[
+]_^[
+]_^[
+E(PWV
+]_^[
+0UWV
+]_^[
+]_^[
+]_^[
+]_^[
+E(PWV
+]_^[
+0UWV
+]_^[
+]_^[
+]_^[
+]_^[
+E(PWV
+]_^[
+0UWV
+]_^[
+]_^[
+]_^[
+]_^[
+0UVS
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+E(PWV
+]_^[
+0UWV
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+D$ 9
+PUWV
+D$ 9
+]_^[
+]_^[
+]_^[
+l$ to
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVWUj
+]_^[
+SVWUj
+]_^[
+u2Vh
+SVWj
+SVWUj
+]_^[
+SVWUj
+]_^[
+SVWUj
+]_^[
+]_^[
+]_^[
+SVWUj
+]_^[
+SVWUj(
+]_^[
+l$ j
+|$ h
+D$0P
+]_^[
+t!PQ
+t"Pj
+r-j	
+t\j	
+VPQR
+]_^[
+^9l$
+D$(]_^[
+t$$]_^[
+t$$]_^[
+t$$]_^[
+SVWU
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+u	Wj
+u"WSV
+]_^[
+SVWUul
+]_^[
+]_^[
+]_^[
+]_^[
+v"SP
+v"SP
+6;5<
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVW3
+~*SP
+SVW3
+t_PW
+]_^[
+]_^[
+]_^[
+.;|$(u
+D$$j
+G;t$
++|$(
+]_^[
+]_^[
+DSVWUh
+]_^[
+]_^[
+]_^[
+D$ h
+]_^[
+D$$3
+																								
+													
+													
+										
+					
+SVW3
+u!PV
+]_^[
+J#D$
+QRVW
+SVWt1
+80t@
+|$<P
+0000
+]_^[
+VWUPQ
+]_^[
+L$LPQWV
+]_^[
+uGjtj
+SVW3
+=t=Q
+]_^[
+>"tF
+>"t0
+>"u"
+T$ ]_^[
+SVWUj
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+SVW3
+]_^[
+]_^[
+USVWj
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+VWU9
+]_^[
+IQRV
+]_^[
+]_^[
+SVWU3
+|$ ;
+]_^[
+L$$+
+D$$j
+D$ ;
+]_^[
+]_^[
+D$ ]+
+t$0U
+#D$<
+L$$U
+D$$Q
+L$@RP
+]_^[
+]_^[
+]_^[
+u.SW
+]_^[
+]_^[
+]_^[
+SVWUuV
+]_^[
+]_^[
+D$ j
+L$ j
+PQh 
+]_^[
+]_^[
+D$ j
+L$ j
+SVPQh 
+D$ W
+,GVf
+]_^[
+SVWUuL
+]_^[
+PSQR
+]_^[
+|$(;
+D$ j
+L$ j
+PQj	W
+t>Uj
+D$ U
+L$ VPQj
+L$$QP
+D$ VP
+]_^[
+SVWU
+]_^[
+]_^[
+]_^[
+0FHu
+>9u	
+SVWPQ
+u%fN
+wS;5D
+w:j	
+]_^[
+]_^[
+SVW3
+PQRV
+tzVS
+GIt%
+t/Ku
+SVW3
+]_^[
+SVW3
+B}@j
+]_^[
+]_^[
+WUuOj
+]_^[
+WRPQ
+]_^[
+9t$,u	
+L$0j
+WPj	Q
+]_^[
+]_^[
+L$0SWPj
+USPQ
+PUSQR
+]_^[
+VUSPQ
+D$(j
+D$4j
+WVh 
+L$4P
+PWVh 
+]_^[
+t$ Wf
+]_^[
+l$<3
+|$43
+D$SM
+T$<PQR
++|$|
+L$XPWQ
+T$ff
+T$<f
+\$hf
+D$$]_^[
+D$+?f
+L$Df
+]_^[
+D$C@u.
+]_^[
+L$,C
+KK<5|7;
+]_^[
+Vtnh
+SVW3
+]_^[
+Pj1Wj
+Pj2Wj
+Pj3Wj
+Pj4Wj
+Pj5Wj
+Pj6Wj
+Vj7Wj
+F Pj*Wj
+F$Pj+Wj
+F(Pj,Wj
+F,Pj-Wj
+F0Pj.Wj
+F4Pj/Wj
+Pj0Wj
+F8PjDWj
+F<PjEWj
+F@PjFWj
+FDPjGWj
+FHPjHWj
+FLPjIWj
+FPPjJWj
+FTPjKWj
+FXPjLWj
+F\PjMWj
+F`PjNWj
+FdPjOWj
+FhPj8Wj
+FlPj9Wj
+FpPj:Wj
+FtPj;Wj
+FxPj<Wj
+F|Pj=Wj
+Pj>Wj
+Pj?Wj
+Pj@Wj
+PjAWj
+PjBWj
+PjCWj
+Pj(Wj
+Pj)Wj
+Pj Sj
+]_^[
+j#Wj
+Pj%Wj
+SVW3
+]_^[
+F PjPWj
+F$PjQWj
+F(Pj
+F)Pj
+F*PjTWj
+F+PjUWj
+F,PjVWj
+F-PjWWj
+F.PjRW
+VjSWj
+]_^[
+SVWU3
+u!hp
+]_^[
+]_^[
+]_^[
+PPPPPPPP
+PPPPPPPP
+t$(Wf
+T$4f
+>_^[
+]_^[
++D$ 
+T$4f
+D$$f
+L$(u
+f9D$
+SVWU
+SSSPW
+UVPW
+t%UVP
+]_^[
+]_^[
+]_^[
+]_^[
+]_^[
+WUu;j
+]_^[
+]_^[
+]_^[
+]_^[
+UVPS
+]_^[
+D$ Pj
+]_^[
+WUu;j
+]_^[
+]_^[
+]_^[
+]_^[
+UVPS
+D$ j
+]_^[
+D$(Pj
+]_^[
+t	WP
+^_[3
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+VRASH
+IsTNT
+kernel32.dll
+?IsProcessorFeaturePresent
+KERNEL32
+e+000
+runtime error 
+TLOSS error
+SING error
+DOMAIN error
+R6028
+- unable to initialize heap
+R6027
+- not enough space for lowio initialization
+R6026
+- not enough space for stdio initialization
+R6025
+- pure virtual function call
+R6024
+- not enough space for _onexit/atexit table
+R6019
+- unable to open console device
+R6018
+- unexpected heap error
+R6017
+- unexpected multithread lock error
+R6016
+- not enough space for thread data
+abnormal program termination
+R6009
+- not enough space for environment
+R6008
+- not enough space for arguments
+R6002
+- floating point not loaded
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+Program: 
+<program name unknown>
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+LC_TIME
+LC_NUMERIC
+LC_MONETARY
+LC_CTYPE
+LC_COLLATE
+LC_ALL
+1#QNAN
+1#INF
+1#IND
+1#SNAN
+united-states
+united-kingdom
+united states
+united kingdom
+turkey
+taiwan
+switzerland
+sweden
+spain
+south-korea
+south korea
+singapore
+russia
+pr-china
+pr china
+portugal
+poland
+norway
+new-zealand
+new zealand
+netherlands
+mexico
+korea
+japan
+italy
+ireland
+iceland
+hungary
+hong-kong
+hong kong
+holland
+greece
+great britain
+germany
+france
+finland
+england
+denmark
+china
+canada
+britain
+brazil
+belgium
+austria
+australia
+america
+turkish
+swiss
+swedish
+spanish-modern
+spanish-mexican
+spanish
+slovak
+russian
+portuguese-brazilian
+portuguese
+polish
+norwegian-nynorsk
+norwegian-bokmal
+norwegian
+korean
+japanese
+italian-swiss
+italian
+irish-english
+icelandic
+hungarian
+greek
+german-swiss
+german-austrian
+german
+french-swiss
+french-canadian
+french-belgian
+french
+finnish
+english-usa
+english-us
+english-uk
+english-nz
+english-ire
+english-can
+english-aus
+english-american
+english
+dutch-belgian
+dutch
+danish
+czech
+chinese-traditional
+chinese-singapore
+chinese-simplified
+chinese-hongkong
+chinese
+canadian
+belgian
+australian
+american-english
+american english
+american
+H:mm:ss
+dddd, MMMM dd, yyyy
+M/d/yy
+December
+November
+October
+September
+August
+July
+June
+April
+March
+February
+January
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+IFORCE2.dll
+_IFCreateEffectStructs@12
+_IFCreateEffects@12
+_IFLoadProjectFile@8
+_IFLoadProjectObjectPointer@8
+_IFLoadProjectPointer@8
+_IFLoadProjectResource@12
+_IFReleaseEffectStructs@8
+_IFReleaseEffects@8
+_IFReleaseProject@4
+_IForceDLLMain@12
+Compound
+Dynamic Center Drift
+Dynamic Inertia
+Dynamic Liquid
+Dynamic Impact
+Dynamic Recoil
+Dynamic
+Force Profile
+Ramp
+Periodic Sweep
+Buffeting
+Vibration
+Periodic
+Smart Pop
+Jolt
+Vector Force
+Slope At Current Loc
+Spring At Current Loc
+Texture
+Angle Wall
+Axis Wall
+Angle Barrier
+Axis Barrier
+Angle Slope
+Angle Spring
+Friction
+Inertia
+Damper
+Slope
+Spring
+IFORCE
+CreateEffect failed with an unknown error.
+CreateEffect failed with DIERR_INPUTLOST.
+CreateEffect failed with DIERR_INVALIDPARAM.
+CreateEffect failed with DIERR_DEVICEFULL.
+CreateEffect failed with DIERR_DEVICENOTREG.
+ContainedObjects
+Axes
+Gain
+TextureStyle
+Waveform
+RepeatInterval
+TriggerButton
+Duration
+InfiniteDuration
+Axis
+Direction
+FadeDuration
+FadeLevel
+AttackDuration
+AttackLevel
+DeadBand2
+NegSaturation2
+PosSaturation2
+NegCoefficient2
+PosCoefficient2
+Offset2
+DeadBand
+NegSaturation
+PosSaturation
+NegCoefficient
+PosCoefficient
+Offset
+Thickness
+NegativeHardness
+PositiveHardness
+Hardness
+WallSense
+Density
+Spacing
+NegRoughness
+PosRoughness
+Magnitude
+MagnitudeChange
+Period
+Phase
+ValueOffset
+SweepSense
+EndDirection
+StartDelay
+ProfileSamplingPeriod
+ProfileChannels
+DynamicGravity
+DynamicDrag
+DynamicLength
+DynamicHalfCycles
+DynamicPosInit
+DynamicVelInit
+DynamicDamping
+DynamicNegStiffness
+DynamicPosStiffness
+DynamicMass
+kU'9
+HMXB
+?Zd;
+?/L[
+S;uD
+z?aUY
+D?$?
+U>c{
+zc%C1
+.:3q
+-64OS
+NKeb
+LockResource
+LoadResource
+FindResourceA
+OutputDebugStringA
+MultiByteToWideChar
+MulDiv
+KERNEL32.dll
+CLSIDFromString
+ole32.dll
+HeapAlloc
+HeapFree
+GetCommandLineA
+GetProcAddress
+GetModuleHandleA
+GetVersion
+HeapDestroy
+HeapCreate
+VirtualFree
+InitializeCriticalSection
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+ExitProcess
+VirtualAlloc
+GetLastError
+CloseHandle
+ReadFile
+SetFilePointer
+SetHandleCount
+GetFileType
+GetStdHandle
+GetStartupInfoA
+TerminateProcess
+GetCurrentProcess
+GetCurrentThreadId
+TlsSetValue
+TlsAlloc
+TlsFree
+SetLastError
+TlsGetValue
+GetModuleFileNameA
+GetCPInfo
+GetACP
+GetOEMCP
+FreeEnvironmentStringsA
+GetEnvironmentStrings
+FreeEnvironmentStringsW
+GetEnvironmentStringsW
+WideCharToMultiByte
+WriteFile
+SetStdHandle
+FlushFileBuffers
+CreateFileA
+GetStringTypeA
+GetStringTypeW
+LoadLibraryA
+SetEndOfFile
+LCMapStringA
+LCMapStringW
+GetLocaleInfoA
+GetLocaleInfoW
+0"040E0
+7%7,737:7@7=8';:;a;g;
+(0.0
+2	2T2Y2
+8b9g9
+:,;D<I<
+=!=d=i=
+0"0)0[0
+021H1M1T1[1b1i1
+1(2,2024282r2w2
+2S3X3
+3B4G4u4B5G5u5;6@6u6n7
+7M8u8
+;R;k;
+;	<#<=<T<t<
+<L=`=y=
+?0S0i0
+2+2A2W2m2
+2 3O3
+5#565Q5
+<:<P<
+=/=5=;=W=]=f=m=
+>,>7>=>
+>'?A?P?p?
+0	0%0,030B0I0Q0Y0a0u0~0
+0!1@1Z1a1x1
+2B2R2^2f2
+4(4l4y4
+9V:`:
+;;<R<
+=+>~>
+?0L0q0
+292M2
+3=3f3t3
+4V4f4
+5D6V6q6
+647N7q8w8
+=:>H>O>U>h>p>y>
+>8?=?^?e?x?
+0*0F0R0g0n0
+1<1U1
+4*5H5X5j5
+6#6*6L6
+7 7$7(7D7Q7V7\7a7
+7"8I8_8p8
+919@9U9y9
+9B:P:
+;!;1;9;W;r;|;
+</<G<q<
+=B=J=
+>X>h>
+?W?~?
+40>0
+1*2F2
+5C6t7x7|7
+8(8.8U8p8
+:1:H:t:
+=4=k=
+%2E2
+556B6
+7"7,7D7w8
+9R:a:j:
+;1;p;
+<(<I<(?B?
+0P0l0
+1+1l1s1
+5 5$5(5,505p5t5x5|5
+7$7Y7^7
+2)272E2Y2_2f2n2u2
+3$3*3:3B3X3k3t3
+324~4
+6?7K7R7Z7
+9$9+9;9
+9g=x=&>
+?)?J?q?
+0+0?0p0
+1D1[1o1
+2e2n2
+2 2$2(2,2024282<2@2D2H2L2P2T2X2\2`2d2h2l2p2t2x2|2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+488<8@8P8l8
+8(9,9
+5t7|7
+;X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6(6,60646@6

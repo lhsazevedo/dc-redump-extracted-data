@@ -1,0 +1,1379 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.reloc
+"b#en
+2c3f
+"b#ec
+2c3e
+b,b !2
+S<c0"
+0c<c3`
+ b,b#`
+2#d:
+33d*
+,?&O
+/"Od
+33dG
+33d(
+33d2
+2&B#o
+/"OS
+33d-
+2&B#o
+3=S8#
+33f"b'R
+"b*R
+d"b"R
+33dJ
+"R#c7
+2c:S
+,?&O
+2#d/
+33e8
+"R#c7
+2c:S
+R#d#R#e
+S 3	
+S 3	
+"3du
+33d;
+"R#c<
+2c:S
+2S3a
+2#fz
+,?&O
+R#d#R#e
+R#d#R#e
+r#e8
+"b("
+"b("
+/"OS
+33dG
+R$R8
+S4S8
+<2#d4
+S4S8
+<2#e8
+2#d4
+33e8
+R$R8
+33e8
+1S8#
+S724
+<2"b("
+s3ep
+"b("
+S1S3fq
+R!R$
+S1S3
+2&B#o
+/"OB
+33e 
+f"b(R
+S62b
+!R#c:
+f2c6S
+#c4S#R 3
+2&B#o
+/"OB
+f"b(R
+33f"b&R
+2#e2c6S
+R#c>
+#d2c2S
+S<2 b,b("
+R#c<
+#d2c2S
+<2"b<
+2"b"#K
+C<2"b#f\
+2&B#o
+ b,b("
+"b("
+2c8# 
+S4S8
+<2%R("
+S4S8
+ b,b("
+2c8#
+S4S8
+R"R#c9
+2c:S
+2#dy
+2S3a
+,?&O
+/"OB
+2c8#
+R!R#c<
+#d2c;S
+S1S3a
+R 1L
+#c3S$R 3
+S2S3a
+ b,b("
+ b,b("
+2c8#
+R!R#c;
+e2c<S
+S2S3a
+2#e9
+2c82-
+2&B#o
+n"OR
+/"OB
+Q&1	
+b"b#c=
+f2c6S
+R(1a
+"b#e
+c5S3f!
+c1S3a
+2#e$
+33f"b&R
+2#e2c6S
+9"("
+C<2T
+R#cH
+#d2c2S
+c2S3aD
+b#cT
+#c4S3e#R#f;
+b$R#e
+,?&O
+/"OS
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcj
+/"OChcj
+/"OChSi
+/"OCh
+/"OCh
+/"OCh
+/"OCi
+IVfr$a
+VgVfr
+tVfRe
+Hb$Q
+2&B&j&i&h#o
+/"OChSj
+/"OCh
+/"OChSi
+<c8#
+/"OCe
+/"OCh
+/"OCh
+eB)Q
+Be\3
+f<1R!a
+/Cf%
+l3<5Vgl2Vfr"a
+VgVfr
+VfVgd
+2eG5
+/"OCh
+ReX%
+l22"
+"OCe
+"OCe
+B!B%
+/"OCh_
+,?&O
+ZPdjz
+0c<c8#
+0c<c8#
+r"(9
+ b,b("
+ b,b("
+b<;^
+a,;S
+<c8#
+364V
+,b("
+@"#/
+/"OCe
+"OCe
+/"OCh
+Rfl1 
+2r"a
+FfFgb
+FgFft
+FgFfv
+FgFfx
+/Cf9
+l3VfVgb#q
+VgVfr
+VgVft
+VfVgf
+VfVgh
+/"OCh
+Bfh&
+re\1@
+"%(.147:=@CFILORUXpsjm[^adgvy|
+/Ch-
+ba'1
+2'ba
+/"OCh
+fl1 
+<4Vg
+IVfr$a
+VfVgb
+Vgb$q
+/Cf$
+6|5fk
+fkfg
+<06p
+/"OCi
+dH$0
+"TH$
+@")$
+(tBe
+r")G
+4tBc8#
+B,5Rd
+vr,5Pc<c8#!
+ %"$
+Bfh&
+re\1@
+$*06<BHNTZ`flrx~
+/Ch)
+ba#1
+2'ba
+/"OCh
+/Ce?
+Hfifg
+fifg
+bfr%a
+/"OCh
+l3<5l4
+IVgVfr$a
+VfVgb
+{Reb$Q
+$uRd
+/"OChSl
+ZQp1
+BdG2
+LVgVfr$a
+VfVgb
+Reb$Q
+LVfVgb$q
+VfVgb
+tVfReb$Q
+KVfr$a
+VgVfr
+tVfx
+0b$Q
+$uRd
+,?&O
+<4dtBa
+/"OCh
+Bg|1
+<5fi
+fifg
+bfr%a
+/Cf=
+6|5fk
+fkfg
+tbfr%a
+/Cf$
+,4Vg
+HVfr$a
+VgVfr
+Reb$Q
+/"OCh
+Bfh&
+re\1@
+l22"
+/"OCe
+/"OCeZ
+,?&O
+"OCe
+"OCe
+"OCf
+c<`*
+D<c;$H$
+D,b+$H$
+0c<c8#
+${R+9
+2&B&l&k&j&i&h#o
+4@b,b("
+,?&O
+/"OCe
+"OCe
+"OCe
+<c8#
+u_eW7
+<Civ
+c;"/`
+B;"/`
+c;"/f
+,bg22
+,9A)
+0c<c8#
+/"OCk
+b,b("
+L1,tAe
+/"OG
+FeBdT
+FfFef
+FeBdX
+Bc4S
+Bb$R
+Bb"b
+Bb"R
+1TH$
+2Vh&
+"OCf
+/"OCf
+/"OChSj
+\4&4L
+2&B#o
+"OCeX
+,?&O
+"OCe
+/"OShCe
+/"OShCe
+/"OShCe
+/"OShciCe
+0c<c8#
+<2&0
+"OCe
+c<c8#
+<2&0
+ ( *
+"OCe
+/"OCh
+B+#0)
+)C3`
+BdOa
+TOc72
+Ob'1
+OdOb#`
+B<c;"
+A,b+!
++#0)
++#0)
+C3`k
+A,b+!
+B<c;" 
+B#`5
++#0)
+A,b+!
+2&B&i&h#o
+"OC`Sd
+/"OChSi
+,?&O
+/"OCh
+92cy
+,?&O
+/"OCh
+Nr2cR
+/"OCh
+C,5_
+Nr2cR
+/"Ochsi
+,?&O
+/"OShCe
+"OCe
+/"OCh
+B+#0*
+3`)C
+BdOa
+OdA.H
+OdOb#`
+B<c;"
+A,b+!
++#0*
++#0*
+A,b+!
+B<c;" 
++#0*
+A,b+!
+2&B&j&i&h#o
+/"OShCe
+/"OShCe
+"OCe
+/"OCh
+"OSfCe
+h"OcgSfCe
+DTH$
+DTH$
+"dH$
+h"OSfCe
+/"OCh
+QUF5
+CgSgx'`
+l5sf
+R,1N
+b<2")
+"b"!
+R9"]
+"bh2E
+b,b("
+Bfh&
+"bh2O
+A,5H
+"fh&	
+Bfh&*
+"bh2;
+A,54
+"fh&
+/"OG
+Bc8#2
+/"OCh
+BdH$
+dH$)
+,?&O
+JR"!
+/"OChSi
+/"OSh
+CkCj}
+C043
+"b("
+vg8S`
+uS`a
+dcSb
+ECg<c:%\`
+G=c:"
+)%]`
+/"OCkShT
+@2*4
+P	@	@
+=`)!
+S<;8
+c2(G
+2&B&l&k&j&i&h#o
+S)#V
+/"OSkcmsh
+/"OSkcmsh
+/"OSh
+d04	
+S)#w
+/"OShclsk
+/"OchsiCf
+/"O{
+ 3*i
+JdH$
+dLb 
+mLa~
+dLa 
+USf7
+Lb'3
+2&B&m&l&k&j&i&h#o
+/"OCh
+R9".
+/"OChSjci
+/"OChSjsi
+DcbL2"b
+gQb-dH$	
+wQc=dH$
+hX%	
+#EgvT2
+2L2"b
+R*#9
+2 3`
+":""'
+S:""&
+S:"H
+:"" #c
+R*#3b)
+S:"(
+"" #`
+:"" (
+R*#3b%
+S:"$
+b*!#
+:"" #c
+S:" 
+"#a" 
+:"" #c
+S:"5
+"#a" 
+:"#c" 
+"" #aj
+:"" #cV
+"" #aX
+:"" #cP
+:"#c" 
+"!#a
+R2"3b
+Q"!#a
+S"##c
+R2"3b
+Q"!#a
+:"#c" 
+3b2 
+#2 3`
+*#3b2 x
+" #`
+R*#3
+#3a2 p
+*#3b2 
+S:"=
+#c" 
+R*#<
+#2 3a
+*#3b2 
+N" /
+#2"7
+b#f=F
+g=BSc+&Bb)#Wb
+y"+#<6
+c<6r,
+6BbG
+<6c`"+
+B	C;""$
+b)-F
+eSbBa
+gWay!k 
+b,0r,
+0Ba7
+=A	B+!
+g=FBbScWa)#
+S,6r,<6Bb
+c3a-Ac`	C;!
+c-@2*
+b)=F
+eScBb)#
+gWby"k +#
+c<0r,,0Bb
+<0"+
+B	C;""$
+FBcSaWb9!
+Q<6r,
+6Bc,62+
+c`=B	A
+eSaBc9!
+gWcy#k ;!
+0r,<0Bc
+-C	A
+g-FBaSbWc
+6r,,6Ba<6
+Cc`	B+#2$
+b)-F
+eSbBa
+gWay!k 
+b,0r,
+=A	B+!
+g=FBbScWa)#
+#r,<6
+,6Bb
+c`-A	C;!
+c-@2*
+b)=F
+eScBb)#
+gWby"k +#
+c<0r,,0Bb
+<0"+
+B	C;""$
+FBcSaWb9!
++!r,
+<6Bc
+62+,6
+c`=B	A
+eSaBc9!
+gWcy#k ;!
+0r,<0Bc
+-C	A
+g-FBaSbWc
+6r,,6Ba<6
+Cc`	B+#2$
+b)-F
+eSbBa
+gWay!k 
+b,0r,
+0Baq
+=A	B+!
+g=FBbScWa)#
+S,6r,<6Bb
+c3a-Ac`	C;!
+c-@2*
+b)=F
+eScBb)#
+gWby"k +#
+c<0r,,0BbN
+<0"+
+B	C;""$
+FBcSaWb9!
+&+!?
+Q<6r,
+6Bc,62+
+b=B	A
+""$cb
+e=BBcSa
+g9!9
+Wcy#k";!
+2BcL
+c	A&
+g-FSb
+&BaWc
+ay#;"
+6r,,6Ba<6
+C	B+#2$
+bcc"*
+CBaSb0
+"Way!k#
+b,3r,Ba
+b#a6
+=A	B+!
+#f")
+g=FBc
+b:"z",6
+6r,Ba,6
+C	B+#2$
+bcc"*
+g-FBb
+a*!4
+k#z!
+3BbL
+b	A6
+#f")
+a=FBc+&
+z",6
+6r,Ba,6
+C	B+#2$cc
+b)-F
+ak#Bb*!>
+3r,Bb
+3"+L
+=B	A
+#f")
+g=FBc+&
+6r,,6Ba<6
+C	B+#2$
+bcc"*
+g-FBb
+a*!)
+k#z!
+3BbL
+b	A6
+#f")
+=FBc+&
+az"r,,6
+C	B+#2$cc
+b)-F
+ak#Bb*!'
+3r,Bb
+3"+L
+=B	A
+#f")
+g=FBc+&
+az"~
+6r,,6Ba<6
+C	B+#2$
+bcc"*
+g-FBb
+a*!%
+k#z!
+3BbL
+b	A6
+#f")
+=FBc+&
+az"r,,6\
+C	B+#2$cc
+b)-F
+ak#Bb*!#
+3r,Bb
+3"+L
+=B	A
+#f")
+g=FBc+&
+b:"&
+a,6r,
+C	B+#2$
+bcc"*
+g-FBb
+a*!!
+k#z!
+3BbL
+b	A6
+#f")
+=FBc+&
+az"r,,6
+C	B+#2$cc
+b)-F
+ak#Bb*!
+3r,Bb
+3"+L
+=B	A
+#f=F")
+b:"r,z",6
+C	B+#2$
+bcc"*
+g-FBb
+k#z!
+3BbL
+b	A6
+#f")
+=FBc+&
+az"r,,6
+C	B+#2$cc
+b)-F
+ak#Bb*!
+3r,Bb
+3"+L
+=B	A
+#f")
+y#	"y ;"
+b,6r,
+c3a-A	C;!
+2*ccb)-C
+a-FB`k#9
+y!	"y 
+,1r,BcL
+b#c	B
+C+#2$
+3f2)-F
+B`-C
+a;&9
+	#y 
+c<6r,Bc
+62+,6
+=B	A
+*ca=Ab)
+bk!B`#c9
+	#y +#
+<2r,L
+c3a&
+-A	C;!
+g=FB`
+b=A9
+y"	!y +!
+6Ba<6
+C	B+#2$
+"*cbb)
+FB`k"9
+y#	!y ;!
+3r,BbL
+b	A6
+#f")
+c+&9
+	"y ;"
+b,6r,Bb
+-A	C;!
+c2*cc-Cb)
+ak#B`
+	"y 
+,1r,Bc2+
+b#c	B
+C+#2$
+3f2)-FB`
+a;&9
+	#y 
+c<6r,Bc
+62+,6
+=B	A
+*ca=Ab)
+bk!B`#c9
+	#y +#
+<2r,Ba
+-A	C;!
+fB`=F
+g=A9
+#ay"	!y +!
+6r,Ba
+C	B+#2$
+"*cbb)
+FB`k"9
+y#	!y ;!
+3r,BbL
+b	A6
+#f")
+c+&9
+	"y ;"
+b,6r,Bb
+-A	C;!
+c2*cc-Cb)
+ak#B`
+	"y 
+,1r,L
+Bc2+
+C	B+#2$
+3f2)
+g-FB`
+a-C9
+y!	#y 
+c<6r,
+6Bc,62+
+b=B	A
+*cab)=A
+b=FB`k!9
+Q	#y +#
+c<2r,
+c3a&
+-A	C;!
+B`=F
+b=A9
+y"	!y +!
+6r,,6Ba<6
+C	B+#2$
+"*cbb)
+FB`k"9
+R	!y ;!
+3r,,3Bbp
+=B	A
+#f")
+y#	"y ;"
+b,6r,<6Bb
+c3a-A	C;!
+2*ccb)-C
+a-FB`k#9
+S	"y 
+b,1r,<1BcH
+,12+
+C	B+#2$
+3f2)-C
+FBa;&
+bz#9
+S,6r,<6Bb
+c3a-A	C;!
+cca2*
+g=FBc-A
+Sk!z",1
+b,1r,<1Bc'
+,12+
+C	B+#2$
+3f2)-C
+FBa;&
+S,6r,<6Bb
+c3a-A	C;!
+cca2*
+g=FBc-A
+k!z",1
+b,1r,
+1Bb<1"+
+c3b	C
+B;""$
+2)3f
+#z#<6
+S,6r,<6Bb
+-A	C;!
+b)=F
+bk!Bc:"
+Sz",1
+b,1r,<1Bc
+,12+
+b#c	B
+C+#2$
+3f2)
+FBa;&
+z#r,<6
+,6Bb
+c`-A	C;!
+b)=F
+bk Bc:"
+Sz",0
+b,0r,<0Bc
+,02+
+6Bb"+
+-A	C;!
+b)=F
+bk!Bc:"-
+z",1
+b,1r,Bc
+,12+L
+C	B+#2$
+3f2)-C
+FBa;&
+b<6r,,6Bb
+c3a-A	C;!
+cca2*
+g=FBc-A
+b:".
+k!z",1
+b,1r,
+1BcL
+,12+
+b#c	B
+C+#2$
+3f2)
+g-C3
+FBa;&
+bz#r,<6|
+,6Bb
+-A	C;!
+b)=F
+bk!Bc:"6
+z",1
+b,1r,Bc
+,12+L
+C	B+#2$
+3f2)-C
+FBa;&
+b<6r,,6Bb
+c3a-A	C;!
+cca2*
+g=FBc-A
+b:"/
+k!z",1
+b,1r,
+1BcL
+,12+
+b#c	B
+C+#2$
+3f2)
+g-C7
+FBa;&
+bz#r,<6;
+,6Bb
+-A	C;!
+b)=F
+bk!Bc:"
+c<1*
+,1r,L
+Bc2+
+C	B+#2$
+3f2)-C
+FBa;&
+c,62c<6r,
+6Bb"+
+-A	C;!
+b)=F
+bk!Bc:"
+Sz"2c,1
+b,1r,<1Bc
+,12+
+C	B+#2$
+R<2!
+QBb,1
+c<2"(
+2&m&l&k&j&i&h#o
+/Ch	E
+f|6bb#c)B(C+#3b
+/"OChSjci
+C<2&
+/"OCh
+G	G?
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+B^@V
+B^pzZ
+j`\f
+A)A0A
+i~EB0A
+i~EC0A
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+i~E .
+COREDLL.dll
+DPLAYX.dll
+Dwango.dll
+CreateSessionAndPlayer
+DPEventLoop
+DWCClose
+DWCDraw
+DWCExec
+DWCOpen
+DWCSet
+DWLClose
+DWLDraw
+DWLExec
+DWLFree
+DWLLoad
+DWLOpen
+DWLSet
+DWSendRank
+DWSendResult
+DWTheEnd
+DataInit
+GetGameData
+GetUserData
+SendChatMsg
+SendData
+SetCB
+SetGameData
+SetUserData
+DWL_SetSPThreadPriority(%d, %d)
+DWL_SetSPMinimumPacketSize(%d)
+DllMain = %08X
+GetAttachedPlayerbyHandle Failed (handle=%d, HR=%08X)
+SendData Failed (handle=%d, HR=%08X)
+SendData Failed (HR=%08X)
+SendData Failed (HR=%08X)
+SendData Failed (HR=%08X)
+SendData Failed (HR=%08X)
+PAC H: PAC_LOGIN %d
+PAC H: PAC_OK_LAUNCH %d
+PAC H: PAC_REQ_SETTING %d
+PAC H: PAC_CHAT %d
+PAC H: PAC_REQ_KANSEN %d
+PAC C: PAC_LOGIN %d
+PAC C: PAC_CHAT %d
+PAC C: PAC_YOURID %d id=%d
+PAC C: PAC_HOSTID %d id=%d
+PAC C: PAC_OK_SETTING %d
+SetCB p=%08X
+GetPlayers Failed (HR=%08X)
+GetAttachedPlayer Failed (HR=%08X, idx=%d)
+GetPlayerDesc Failed (HR=%08X)
+*** %d (idx=%d) is HOST ***
+*** %d (idx=%d) is not HOST ***
+GetPlayers Failed (HR=%08X)
+ players=%d
+GetAttachedPlayer Failed (HR=%08X)
+GetPlayerDesc Failed (HR=%08X)
+ %d(%d) is alive
+ change %d, %d
+KeepAlive Packet Send Failed (HR=%08X)
+Update Failed (HR=%08X)
+EVENT: GNEVTTYPE_HOST (handle=%d)
+ Send PAC_HOSTID (id=%d)
+EVENT: GNEVTTYPE_ADDPLAYER %d (players=%d)
+ Send PAC_YOURID (id=%d)
+EVENT: GNEVTTYPE_DELETEPLAYER %d (players=%d)
+EVENT: %d
+ReceiveData from Unknown User(0x%x)
+ConnectbyLobby Failed (HR=%08X)
+Waiting ADDPLAYER timeout. current=%d, team=%d
+GetPlayers Failed (HR=%08X)
+GetAttachedPlayer Failed (HR=%08X)
+GetPlayerDesc Failed (HR=%08X)
+*** %d (idx=%d) is HOST ***
+*** %d (idx=%d) is not HOST ***
+GetPlayerDesc Failed (2) (HR=%08X)
+myid = %d, hostid = %d
+fixed ... myid = %d, hostid = %d
+DWL_JoinLobby()
+DWL_SelectGame()
+DWL_JoinTeam()
+DWL_SendPrivate()
+DWL_GetLobbyInfo()
+DWL_SetClientVersion()
+p00204
+DWL_GetGameInfo()
+DWLEVENT_NOTHING
+DWLEVENT_RESET
+DWLEVENT_60FRAME
+DWLEVENT_TIMER
+DWLEVENT_COMMANDSENT
+DWLEVENT_COMMANDRECEIVED
+DWLEVENT_RECEIVERACTIVE
+DWLEVENT_INITIALIZED
+DWLEVENT_CONNECTION_START
+DWLEVENT_CONNECTION_INITIALIZING
+DWLEVENT_CONNECTION_DIALING
+DWLEVENT_CONNECTION_WAITINGSERVERREPLY
+DWLEVENT_CONNECTION_ESTABLISHING
+DWLEVENT_CONNECTION_CONNECTED
+DWLEVENT_CONNECTION_CLOSED
+DWLEVENT_CONNECTION_USERNAMECHANGED
+DWLEVENT_INFOLINES_RECEIVED
+DWLEVENT_USER_ADDED
+DWLEVENT_USER_REMOVED
+DWLEVENT_USER_GETLISTSTART
+DWLEVENT_USER_GETLISTDONE
+DWLEVENT_LOBBY_JOINLOBBYSTART
+DWLEVENT_LOBBY_JOINED
+DWLEVENT_LOBBY_LEAVE
+DWLEVENT_LOBBY_GETLISTSTART
+DWLEVENT_LOBBY_GETLISTDONE
+DWLEVENT_SEARCHUSER_START
+DWLEVENT_SEARCHUSER_END
+DWLEVENT_SERVER_GETLISTSTART
+DWLEVENT_SERVER_GETLISTDONE
+DWLEVENT_GAME_CHANGED
+DWLEVENT_GAME_CHANGEFAILED
+DWLEVENT_GAME_LAUNCH
+DWLEVENT_GAME_GETLISTDONE
+DWLEVENT_GAME_GETLISTSTART
+DWLEVENT_TEAM_JOINSTART
+DWLEVENT_TEAM_JOINED
+DWLEVENT_TEAM_LEAVE
+DWLEVENT_TEAM_REFRESH_START
+DWLEVENT_TEAM_REFRESH_END
+Unknown event code
+DWL_GetServerInfo()
+DWL_Proceed()
+Generic
+DWL_CreateTeam()
+DWL_ReConnect()
+DWL_OK
+DWLERROR_GENERIC
+DWLERROR_COMERROR
+DWLERROR_INVALIDPARAMS
+DWLERROR_INVALIDCOMPORT
+DWLERROR_INVALIDMODEM
+DWLERROR_INVALIDLINE
+DWLERROR_NO_CARRIER
+DWLERROR_NO_DIALTONE
+DWLERROR_BUSY
+DWLERROR_NO_ANSWER
+DWLERROR_DISCONNECTED
+DWLERROR_SENDFAILED
+DWLERROR_UNKNOWNPACKET
+DWLERROR_OVERFLOWED
+DWLERROR_TIMEOUT
+DWLERROR_SERVERNOTREPLY
+DWLERROR_STILLBLOCKED
+DWLERROR_NOTENOUGHMEMORY
+DWLERROR_INVALIDPASSWORD
+DWLERROR_NOTCONNECTED
+DWLERROR_ALREADYCONNECTED
+DWLERROR_GAME_LAUNCHFAILED
+DWLERROR_CANTKICK
+DWLERROR_USERALREADYEXIST
+DWLERROR_NOTRUNNINGGAME
+DWLERROR_DUPLICATEUSERNAME
+DWLERROR_TEAM_ALREADYEXIST
+DWLERROR_JOB_TIMEOUT
+DWLERROR_CHAT_EMPTYMESSAGE
+DWLERROR_PACKETLOSS
+DWLERROR_REDIAL_DELAYED
+DWLERROR_LOBBY_FULL
+DWLERROR_UNKNOWN
+DWL_GetTeamInfo()
+DWL_GetUserInfo()
+DWL_GetSearchUserResult()
+0H`$
+ALREADYINITIALIZED
+ACCESSDENIED
+ACTIVEPLAYERS
+BUFFERTOOSMALL
+CANTADDPLAYER
+CANTCREATEGROUP
+CANTCREATEPLAYER
+CANTCREATESESSION
+CAPSNOTAVAILABLEYET
+EXCEPTION
+GENERIC
+INVALIDFLAGS
+INVALIDOBJECT
+INVALIDPARAM
+INVALIDPARAMS
+INVALIDPLAYER
+NOCAPS
+NOCONNECTION
+NOMEMORY
+OUTOFMEMORY
+NOMESSAGES
+NONAMESERVERFOUND
+NOPLAYERS
+NOSESSIONS
+SENDTOOBIG
+TIMEOUT
+UNAVAILABLE
+UNSUPPORTED
+BUSY
+USERCANCEL
+NOINTERFACE
+CANNOTCREATESERVER
+PLAYERLOST
+SESSIONLOST
+BUFFERTOOLARGE
+CANTCREATEPROCESS
+APPNOTSTARTED
+INVALIDINTERFACE
+NOSERVICEPROVIDER
+UNKNOWNAPPLICATION
+NOTLOBBIED
+Unknown
+Invalid CRC.
+C203_INIT
+C203_NUStageRequest
+C203_NUResult
+C206_GenericVerify
+C203_MESSAGE
+C203_WHO
+C203_LOBBYINFO
+C203_LobbyIsFull
+C203_LobbyNotExist
+C203_Sync
+C203_InfoRequest
+C203_WhoStart
+C203_WhoStop
+C203_SAY
+C203_TELL
+C203_DELUSER
+C203_ReInit
+C203_ListStart
+C203_ListElement
+C203_LobbyListDone
+C203_GameListDone
+C203_SearchResultStart
+C203_SearchResult
+C203_SearchResultStop
+C203_ServerListStart
+C203_ServerListElement
+C203_ServerLobbyListStop
+C203_ChangeClientGame
+C203_CreateTeamDialog
+C203_TeamListDone
+C203_TeamInfo
+C203_NodeAddress
+C203_LaunchModule
+C203_ReConnect
+C203_MSGSTART
+C203_LINE
+C203_MSGSTOP
+C203_VerifyWADRequest
+C203_HexenClassRequest
+C203_EmailRequest
+C203_SubscribeMsgStop
+C203_BuyTimeInfoResponse
+C203_UserNameResult
+C203_RefreshStart
+C203_RefreshStop
+ATE0Q0V1S0=0S12=10%C0S52=31
+ATZ0
+RING
+NO CARRIER
+ERROR
+NO DIALTONE
+NO ANSWER
+CONNECT
+DELAYED
+B c0
+s2R"
+b$C4 
+S6r&
+>2.Q
+P%@Fpg`
+RwbVr
+ftGd$T
+Wfvv
+F4VL
+DXeH
+uJTZ7j
+ld\EL
+n6~UNt^
+NO DIAL TONE
+ATO0
+ATS12?
+CLIENT
+CLIENTSERVER
+2 2$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+3@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+6 6$6
+: :$:(:,:H<L<P<T<X<\<`<d<p>t>x>|>
+>x?|?
+$0(0,0004080<0@0D0
+1 1$1(1,1014181H2L2P2T2X2\2`2d2h2l2p2h5l5p5t5x5|5
+8t:x:|:
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=
+1 1$1(1,10141@1L1X1d1p1|1
+1L2P2T2X2|2
+2`3d3h3l3p3t3x3|3
+6 6$6(6,6064686<6@6D6x8|8
+8d:h:l:p:t:x:|:
+> >$>
+? ?$?
+3 3$3(3,3034383<3
+4D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+6L7P7T7X7\7`7d7h7l7
+9 9$9(9,9094989<98;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+;`=d=h=l=p=t=x=
+? ?$?(?
+`0d0h0l0p0t0x0|0
+2t2x2|24484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+4(7,7074787<7@7D7H7L7P7T7X7
+9X;\;`;d;h;l;p;t;\<`<d<h<l<0=4=8=<=@=D=H=L=P=|?
+2D4H4L4P4T4X4\4`4d4h4l4p4t4
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6
+98;<;@;D;H;L;P;T;X;\;`;d;h;t=x=|=
+? ?$?(?,?0?4?8?
+6 6$6(6,6064686<6@6D6H6L6P6T6X6\6`6d6h6l6p6t6x6|6
+7P9T9X9\9
+;p<t<x<|<
+H1L1
+386<6@6D6
+6(9,9094989<9@9D9H9L9P9T9X9\9`9d9h9l9p9t9x9|9
+9<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+;L=P=T=X=\=`=d=h=l=p=t=x=|=
+80<0@0D0H0L0P0T0X0\0`0
+2 2$2(2,2024282
+2L3P3T3X3
+6 6$6(6,6064686<6@6D6H6L6P6T6
+8t9x9|9
+;p<t<x<|<
+>t?x?|?
+0P2T2X2\2`2d2h2
+4`5d5h5l5p5
+7 7,787D7P7\7h7t7
+8(848@8L8X8d8p8|8
+7 7,787
+2 2$2(2,2024282<2@2D2t<x<|<
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+DWANGO.WCESH4Rel/Dwango.dll
+NB10
+E:\rallyDC\RallyRH\Dwango\DWANGO.WCESH4Rel\Dwango.pdb

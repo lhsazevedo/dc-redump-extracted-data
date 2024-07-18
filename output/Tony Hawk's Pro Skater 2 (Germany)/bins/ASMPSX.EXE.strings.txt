@@ -1,0 +1,1716 @@
+!this is a Windows NT character-mode executable
+BEGTEXT
+`DGROUP
+.bss
+.idata
+.reloc
+yptn
+PSQR
+CPSQR
+ZY[X
+[_ra
+PSQR
+ZY[X
+=D	B
+5D	B
+xmtS
+< t	
+<rt9<Et
+<Rt1
+t	< u
+< t	
+<wt9<Et
+<Wt1
+t	< u
+sXVWQ
+    
+tsyb<
+=8	B
+54	B
+=(	B
+=(	B
+=(	B
+<_u#P
+=(	B
+<#u4
+<^u_
+<$u6
+[_Y^
+t8<\t
+<'tj<"tf<&t
+5$	B
+<*u%
+<\t	<
+5$	B
+<*u%
+5$	B
+ZYrC;
+tx<etx<i
+<Et<<I
+<ct&<itZ<rth<wti<mtj<Ct
+<ItF<RtT<WtU<MtV
+f=set
+f=SEt
+f=sEt
+f=Se
+f=set
+f=SEt
+f=sEt
+f=Se
+f=ept
+f=EPt
+f=ePt
+f=Ep
+f=hit
+f=HIt
+f=hIt
+f=Hi
+f=let
+f=LEt
+f=lEt
+f=Le
+f=ast
+f=ASt
+f=aSt
+f=As
+f=ntt
+f=NTt
+f=nTt
+f=Nt
+f=ilt
+f=ILt
+f=iLt
+f=Il
+f=act
+f=ACt
+f=aCt
+f=Ac
+f=rot
+f=ROt
+f=rOt
+f=Ro
+<%t	
+<dtC<htN<nt{<ctU<ltb<st
+< t	
+<ltH<Nt
+<Lt@
+f=set
+f=SEt
+f=sEt
+f=Se
+< t	
+<et;<ct
+<Et3<Cu
+f=ast
+f=ASt
+f=aSt
+f=Asu
+f=e t
+f=E u
+f=ndt
+f=NDt
+f=nDt
+f=Nd
+f=cat
+f=CAt
+f=cAt
+f=Ca
+f=set
+f=SEt
+f=sEt
+f=Se
+<?tB
+ttZ;
+t R<,t
+< t	
+<cts<et
+<Ctk<Eu
+f=ndt
+f=NDt
+f=nDt
+f=Ndu
+f=cat
+f=CAt
+f=cAt
+f=Cau
+f=set
+f=SEt
+f=sEt
+f=Se
+f=ast
+f=ASt
+f=aSt
+f=As
+f=e t
+f=E 
+t<8J
+t/8J
+t"8J
+PSQW
+_Y[X
+<,tp
+=4	B
+= 	B
+tM< 
+f=lit
+f=as
+f=ast
+f=not(
+f=ist
+f=attV<otF
+=able
+=size
+f=ndt
+f=ls
+f=qu
+<mtn<rt~<w
+>at/
+f=se
+= 	B
+<it+N
+<{tM<
+f=ait
+f=ro
+f=lot
+f=ba
+f=up
+<Bt*<E
+Z<)u
+ZrIFS
+<)u#
+Z<,u9
+ <?uN
+<,t	
+<)t4R
+t(RS
+Zr9<)u5
+f=ext
+f=nc
+f=nf
+f=eet
+f=32t
+f=64t6
+f=or
+t	<,
+_Z^R
+<%t	
+<dt2<htZ<s
+<Dt"<HtJ<Stu
+t	<,
+t	<,
+t	<,
+f=in
+5H	B
+5H	B
+<,u<
+x.t,;
+f=ud
+5H	B
+5H	B
+5H	B
+VWSQRU
+5H	B
+5H	B
+5H	B
+]ZY[_^
+f=ist
+f=oct~
+<-t(
+=8	B
+=8	B
+f=al
+=(	B
+f=odt
+f=ex
+f=ac
+f=en
+f=ul
+f=it
+=(	B
+f=ro
+t6<,t
+f=olt
+f=is
+f=rg
+f=pt
+f=bjt
+<etMN
+f=nd
+t*<,t
+uM<?tg
+f=ust#f=op
+f=ur
+f=ub
+f=hotMf=hpt
+f=hstn
+<ptH<s
+=P	B
+f=li
+<Ou2
+<Fu$
+f=ge
+f=adt#f=ep
+f=sr
+f=ss
+f=ix
+5<	B
+f=es
+f=et
+f=et
+f=hit#f=et
+f=ub
+f=ec
+f=ft
+=(	B
+=(	B
+=(	B
+<'te<"ta
+f=tr
+<,t"
+<,t'
+f=ti
+f=on
+<,uF
+<?t6R
+t	;B
+f=nttkf=nit
+f=il
+f=hit
+f=le
+f=det
+f=ret}
+X<,u
+5$	B
+< t5
+t1<Ar
+<{tH<
+<,tm
+tB<,t
+5$	B
+tR<	t
+t%<;t!<'t
+5D	B
+t+<,t.<
+tC<}u
+f=ddt#f=nd
+f=bs
+f=ss
+f=um
+v<:urR
+f=eq
+f=ge
+f=gt
+f=le
+f=lt
+f=ne
+f=alt^f=re
+<ct\
+>ltP
+<ztD<u
+>lt5
+<zt@<utiN
+<ztD<u
+>lt5
+f=ak
+f=fctKf=tc
+f=op
+f=ac
+f=ei
+f=vt
+f=he
+f=.lt5f=.w
+<st'<wt4
+<lt6
+f=iv
+f=cb
+f=ch
+f=cw
+f=cd
+f=sb
+f=sh
+f=sw
+f=sd
+txf=ab
+f=ad
+f=di
+f=mu
+f=re
+f=sl
+f=sr
+f=su
+f=mf
+f=mt
+f=li
+f=la
+t0R<,
+<it#<ut
+f=lt
+<ltY<a
+<it#<ut
+f=c1
+f=c1
+f=ret
+f=qut4
+f=lot
+f=or
+f=.lt5f=.w
+f=al
+<rtBN
+f=bu
+f=hu
+f=ui
+f=wc
+f=wl
+f=wr
+f=i.
+f=.d
+f=.s
+t(f=dl
+f=dr
+f=ld
+f=wu
+f=dc
+f=dx
+f=wx
+f=c1
+f=c1
+f=fcthf=fh
+f=fl
+f=tc
+f=th
+f=tl
+f=ul
+f=ov
+f=ad
+f=su
+t <n
+<.t\<e
+<dtf
+<utFN
+f=.st
+f=.d
+f=ort8f=optVf=egt}f=ot
+f=ma
+f=ms
+f=dd
+f=ub
+f=rit	<rt3
+f=ret
+f=fettf=em
+f=ol
+f=or
+f=eg
+f=ou
+f=ec
+f=sq
+f=nd
+f=.lt5f=.w
+f=ip
+f=rt
+f=s 
+<pt=<htQ<lt^
+f=ll
+f=lt
+f=le
+f=gt
+f=ge
+f=eq
+f=ne
+f=ra
+f=rl
+f=ub
+f=wc
+f=wl
+f=wr
+f=ys
+f=.d
+f=.s
+f=dc
+f=yn
+f=qr
+f=cd
+f=dl
+f=dr
+f=dx
+f=wx
+<it#<ut
+f=ca
+f=ll
+f=c1
+f=c1
+t$f=eqt@f=ne
+f=lt
+f=ge
+f=lb
+f=ru
+f=nc
+f=.l
+f=.w
+<rt<<w
+<itU<rtw
+f=lh
+f=lw
+f=sh
+f=sw
+f=ld
+f=sd
+f=ort
+<(u:
+t<<(u+
+<dt&<wt2
+<lt5
+<et%<ft.<lt2<ntI<ot
+<tt 
+<et	N
+<et	<ft
+<nt4
+<et	<tt
+<St0N
+<+t <-t
+< tR
+<+t	
+<-u&
+t7< t2
+ZXrS
+<=t	<<t
+<>tE
+<*t	</t
+<%t%
+r,u*
+r0u.
+<*t#
+rUuS
+r%uN
+rWu:
+rNu@
+FSWf
+5x	B
+5x	B
+_<)u
+=(	B
+ sjW
+=(	B
+=(	B
+<,uE
+<,uS
+=<	B
+^<dt
+<btJ<hty<Dt
+<Bt><Htm
+0:%<	B
+=<	B
+F,0<
+t=VW
+t)PO
+t&PO
+QRV3
+s!f=
+>@u|
+<Qtt<WtX<Xt`<Ztt<A|
+t7<=u
+ <;u
+W<,t
+< t!
+<TuG
+PRVW
+<\u.
+<:uV
+<\tnN
+<.u/
+_^ZX
+\<ar
+t	fR
+SQRV
++u%1
+^ZY[
+QVWU
+]_^Y
+SQVW
+_^Y[
+SQVWU
+]_^Y[
+SQVW
+_^Y[
+_^Y[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQVW
+_^Y[
+SQVW
+_^Y[
+SQRVW
+_^ZY[
+SQRVU
+]^ZY[
+SQRVWU
+]_^ZY[
+SQVW
+_^Y[]
+WATCOM C/C++32 Run-Time system. (c) Copyright by WATCOM International Corp. 1988-1995. All rights reserved.
+SQRVWU
+D$,@t
+D$, t
+]_^ZY[
+SQRVW
+_^ZY[
+SQVW
+_^Y[
+SQRVWU
+]_^ZY[
+SQRVW
+_^ZY[
+QSRP
+SQRV
+^ZY[
+SQRV
+^ZY[
+QVWU
+PSWU
+]_^Y
+SQVWU
+]_^Y[
+SQVWU
+]_^Y[
+SQRVWU
+]_^ZY[
+SQRV
+^ZY[
+SQRVWU
+QVWU
+]_^Y
+]_^ZY[
+SQVWU
+$]_^Y[
+SQRVWU
+]_^ZY[
+SQVU
+]^Y[
+{ ;s$wV)
+SQRVWP
+t]j@h
+_^ZY[
+UVWQS
+[Y_^]
+[Y_^]
+UVWQSR
+[Y_^]
+QVWU
+]_^Y
+SQRU
+]ZY[
+SQRVWU
+]_^ZY[
+QVWU
+]_^Y
+SQRV
+^ZY[
+H^ZY[
+SQVW
+_^Y[
+SQRVU
+]^ZY[
+SQRV
+^ZY[
+SQRV
+^ZY[
+SQRVWU
+]_^ZY[
+QRVW
+_^ZY
+VWSR
+Z[_^
+SQRV
+^ZY[
+t	BK
+SQRV
+SQRVW
+_^ZY[
+^ZY[
+SQRVW
+_^ZY[
+SQRUVR
+t5v	
+^]ZY[
+UWQS
+X[Y_]
+oxEc
+t0RP
+t!RP
+t#S)
+tjf	
+fMt]
+fGfO
+fAfI
+t6f	
+SQVWU
+]_^Y[
+t:It)
+SQVW
+_^Y[]
+SQR1
+SQVW
+WVIDEO
+D$<Pj
+D$(Ph
+\$4S
+t$0V
+0123456789abcdefghijklmnopqrstuvwxyz
+QVWU
+|$$1
+D$$A
+(]_^Y
+conin$
+conout$
+read from
+written
+The instruction at %08lx referenced memory at %08lx
+The memory could not be %s
+An privileged instruction was executed at address %08lx
+An illegal instruction was executed at address %08lx
+An integer divide by zero was encountered at address %08lx
+A stack overflow was encountered at address %08lx
+The program encountered a problem at address %08lx and cannot continue
+user32.dll
+MessageBoxExA
+Application Error: 
+Click on OK to terminate the application
+Not enough memory to allocate file structures
+ABNORMAL TERMINATION
+Thread has no thread-specific data
+yE>__bgnthd
+8888888888
+XXXXXXHHHHHHHHHHHHHHHHHHHH
+=@[V6
+$@Copyright (c) 1988-1997 S.N. Systems Software Limited
+    All rights reserved
+0123456789ABCDEF PSYBIOS) : Error : 
+) : Warning : 
+(COMMAND LINE
+Too many errors, assembler aborting...
+Assembly completed.
+ error(s) from 
+ lines in 
+ seconds
+Temporary file of 
+ bytes was created
+Assembler aborted by user
+Could not open file '%s'
+Unknown option /
+No source file specified
+Illegal label
+No closing quote on string
+Illegal character '%c' (%d) in input
+Op-code not recognised
+Bad size on opcode
+Unexpected end of line
+Syntax error in expression
+Non-hexadecimal character starting number
+Non-binary character following %%
+Missing closing bracket in expression
+Too many characters in character constant
+'%n' cannot be used in an expression
+Division by zero
+Error in expression
+Unexpected characters at end of line
+Expected comma after operand
+Illegal addressing mode
+Label '%n' multiply defined
+Statement must have a label
+Expression must evaluate
+Illegal value (%l)
+Out of memory, assembler aborting
+End of file reached without completion of %s construct
+Illegal character '%c' in opcode field
+Too many parameters in macro call
+Fatal error - stack underflow - PANIC
+Error reading file
+Error closing file
+Symbol '%n' not defined
+Register not recognised
+Error writing object file
+Unexpected modend encountered
+No corresponding 'if'
+'if' does not have matching endif/endc
+'mexit' illegal outside of macros
+Repeat count must not be negative
+Timed out sending data to target
+Error in assembler options
+Module may not end until macro/loop expansion is complete
+Module must end before end of macro/loop expansion - 'modend' inserted
+Branch (%l bytes) is out of range
+Illegal value (%l) for offset in cnop
+Illegal value (%l) for boundary in cnop
+endm is illegal outside a macro definition
+No corresponding rept
+Non-hexadecimal character '%c' encountered
+Odd number of nibbles specified
+Local labels may not be strings
+Unknown option
+Expected comma between options
+Error : could not delete output file
+def's parameter must be a name
+ref's parameter must be a name
+Expecting comma or end of line after list
+Unexpected end of line in list parameter
+Illegal parameter number
+narg's parameter must be a number or a macro parameter name
+Radix must be in range 2 to 16
+Decimal number illegal in this radix
+Errors during pass 1 - pass 2 aborted
+Expected comma after '>'
+Unexpected end of line in <macro parameter>
+Missing '(' in function call
+Missing ')' after function parameter(s)
+strcmp requires constant strings as parameters
+Expected comma between operands
+expecting '%s' at this point
+Replicated text too big
+No corresponding while
+Missing comma in list of case options
+Case choice expression cannot be evaluated
+Unexpected case option outside case statement
+No matching case statement for endcase
+Purge must specify a macro name
+Illegal name for macro parameter
+Parameter stack is empty
+Popp must specify a string or undefined name
+No corresponding do
+Fatal error - macro exited with unterminated %s loop
+Expecting '+' or '-' after option
+strlen's operand must be a quoted string
+Illegal value for base in 'instr'
+Expecting comma between operands in 'instr'
+Expecting quoted string operand
+Illegal index value in substr
+Expecting comma between operands in 'substr'
+Short macros may not contain labels
+Short macro calls in loops/macros must be defined before loop/macro
+Org ? can only be used when downloading output
+Cannot popp to a local label
+Option stack is empty
+Illegal name in locals list
+Names declared with local must not start with '%c'
+Local can only be used inside a macro
+Severity value must be in range 0 to 3
+Assembly failed
+Shift can only be used inside a macro
+Narg can only be used inside a macro
+Unrecognised optimisation switch '%c'
+Illegal digit in suffixed decimal number
+Illegal digit in suffixed binary number
+Illegal digit in suffixed hexadecimal number
+SCSI drivers not present or earlier than version 1.00
+Instruction has been word aligned
+Forward reference to redefinable symbol
+Unexpected characters at end of command line
+Too many file names specified
+Expecting options after /O
+Remainder by zero
+Options /l and /p not available when downloading to target
+Error writing list file
+Error opening list file
+Expecting '+' or '-' after list command
+Org must be specified before first section directive
+Only one org may be specified before section directive
+Org cannot be used after section directive
+Illegal section name
+'%n' is not a section
+Too many different sections
+Section stack is empty
+Initialised data in BSS section
+Code generated before first section directive
+Seek in output file failed
+Expecting quoted string as operand
+Square root of negative number
+Local symbols cannot be xdef'd/xref'd
+Illegal name in xdef/xref list
+Missing comma in xdef/xref list
+Symbol '%n' is already xdef'f/xref'd
+Symbol '%n' cannot be xdef'f/xref'd
+Only one of /p and /l may be specified
+xdef/xref can only be used when producing linkable output
+Org cannot be used when producing linkable output
+'module' has no corresponding 'modend'
+Illegal use of register equate
+String '%n' cannot be shifted
+Illegal group name
+Section was previously in a different group
+'%n' is not a group
+type's parameter must be a name
+Unrecognised attribute in group directive
+Expecting ON or OFF after directive
+Cannot evaluate expression assigned to '%n'
+SCSI card not present - assembly aborted
+Org address cannot be specified when producing linkable output
+Overlay cannot be specified when producing linkable output
+Overlay must specify a previously defined group name
+XDEF'd symbol %n not defined
+Old version of %n cannot be purged
+Cannot purge - name was never defined
+Illegal name in command
+Undefined name in command
+Unable to open command file
+Too many include paths specified
+sect's parameter must be a defined name
+offset's parameter must be a defined name
+alignment cannot be guaranteed
+move workspace command can only be used when downloading
+File name must be quoted
+Error creating output file
+Too many output files specified
+Missing ')' after file name
+Files may only be specified when producing cpe or pure binary output
+One string equate can only be equated to another
+Datasize value must be in range 1 to 256
+Datasize has not been specified
+Overflow in data value
+Non-numeric value in data statement
+bank's parameter must be a label name
+bank number must be in range 0 to 255
+expanded input line too long
+more than one label specified
+internal error (patch %d)
+Syntax error in assume statement
+No corresponding pusha statement
+Bank cannot be specified when producing linkable output
+Size cannot be specified when producing linkable output
+Obj cannot be specified when producing linkable output
+Group '%n' is too large (%l bytes)
+User pressed Break/Ctrl-C
+group's parameter must be a defined name
+Function only available when using sections
+Symbol '%n' is not defined in a section
+alignment's parameter must be a defined name
+grouporg's parameter must be a group
+Error in floating point number
+Out of stack space, possibly due to recursive equates
+Attempt to seek before start of file
+Could not evaluate XDEF'd symbol
+Possible infinite loop in string substitution
+Zero length incbin
+Illegal start position/length in incbin
+sectsize's parameter must be a section name
+groupsize's parameter must be a group name
+sectend's parameter must be a section name
+groupend's parameter must be a group name
+Previous group was not obj'd
+Operand value %l is outside legal range (0 - %l)
+Operand value %l is outside legal range (1 - %l)
+First item in range is greater than last
+Unit cannot be used when producing linkable output
+Unit can only be specified once
+Could not find room for section %n
+XREF'd symbol %n is defined in this program
+Group '%n' overlaps group '%n'
+Too many external symbols ( > 65535 )
+Out of memory reading { } bracketd list
+PSYBIOS v 1.00 or later required
+Attempt to transfer %l bytes on SCSI bus
+Operand/destination is not correctly aligned
+internal error (exp %d)
+ pusho
+ opt c+
+IFD macros
+ if def(\1)
+IFND macros
+ if ~def(\1)
+IFEQ macros
+ if (\1)=0
+IFNE macros
+ if (\1)<>0
+IFGT macros
+ if (\1)>0
+IFLT macros
+ if (\1)<0
+IFGE macros
+ if (\1)>=0
+IFLE macros
+ if (\1)<=0
+IFC macros
+ if strcmp(\1,\2)
+IFNC macros
+ if ~strcmp(\1,\2)
+ifd macros
+ if def(\1)
+ifnd macros
+ if ~def(\1)
+ifeq macros
+ if (\1)=0
+ifne macros
+ if (\1)<>0
+ifgt macros
+ if (\1)>0
+iflt macros
+ if (\1)<0
+ifge macros
+ if (\1)>=0
+ifle macros
+ if (\1)<=0
+ifc macros
+ if strcmp(\1,\2)
+ifnc macros
+ if ~strcmp(\1,\2)
+ popo
+def 
+ref 
+narg 
+strcmp 
+stricmp 
+strlen 
+instr 
+__rs 
+sqrt 
+type 
+sect 
+group 
+offset 
+filesize 
+grouporg 
+sectsize 
+groupsize 
+sectend 
+groupend 
+_weekday
+_year
+_month
+_day
+_hours
+_minutes
+_seconds
+_filename
+_hi 
+_lo 
+r0 equr 0
+r1 equr 1
+r2 equr 2
+r3 equr 3
+r4 equr 4
+r5 equr 5
+r6 equr 6
+r7 equr 7
+r8 equr 8
+r9 equr 9
+r10 equr 10
+r11 equr 11
+r12 equr 12
+r13 equr 13
+r14 equr 14
+r15 equr 15
+r16 equr 16
+r17 equr 17
+r18 equr 18
+r19 equr 19
+r20 equr 20
+r21 equr 21
+r22 equr 22
+r23 equr 23
+r24 equr 24
+r25 equr 25
+r26 equr 26
+r27 equr 27
+r28 equr 28
+r29 equr 29
+r30 equr 30
+r31 equr 31
+zero equr 0
+at equr 1
+v0 equr 2
+v1 equr 3
+a0 equr 4
+a1 equr 5
+a2 equr 6
+a3 equr 7
+t0 equr 8
+t1 equr 9
+t2 equr 10
+t3 equr 11
+t4 equr 12
+t5 equr 13
+t6 equr 14
+t7 equr 15
+s0 equr 16
+s1 equr 17
+s2 equr 18
+s3 equr 19
+s4 equr 20
+s5 equr 21
+s6 equr 22
+s7 equr 23
+t8 equr 24
+t9 equr 25
+k0 equr 26
+k1 equr 27
+gp equr 28
+sp equr 29
+s8 equr 30
+fp equr 30
+ra equr 31
+status equr 12
+cause equr 13
+context equr 4
+epc equr 14
+prid equr 15
+fcr0 equr 0
+fcr31 equr 31
+ pusho
+ opt r+
+$0 equr 0
+$1 equr 1
+$at equr 1
+$2 equr 2
+$3 equr 3
+$4 equr 4
+$5 equr 5
+$6 equr 6
+$7 equr 7
+$8 equr 8
+$9 equr 9
+$10 equr 10
+$11 equr 11
+$12 equr 12
+$13 equr 13
+$14 equr 14
+$15 equr 15
+$16 equr 16
+$17 equr 17
+$18 equr 18
+$19 equr 19
+$20 equr 20
+$21 equr 21
+$22 equr 22
+$23 equr 23
+$24 equr 24
+$25 equr 25
+$26 equr 26
+$kt0 equr 26
+$27 equr 27
+$kt1 equr 27
+$28 equr 28
+$gp equr 28
+$29 equr 29
+$sp equr 29
+$30 equr 30
+$31 equr 31
+ popo
+alignment 
+RTPS macro
+ cop2 0x180001
+ endm
+RTPT macro
+ cop2 0x280030
+ endm
+DCPL macro
+ cop2 0x680029
+ endm
+DPCS macro
+ cop2 0x780010
+ endm
+DPCT macro
+ cop2 0xf8002a
+ endm
+INTPL macro
+ cop2 0x980011
+ endm
+NCS macro
+ cop2 0xc8041e
+ endm
+NCT macro
+ cop2 0xd80420
+ endm
+NCDS macro
+ cop2 0xe80413
+ endm
+NCDT macro
+ cop2 0xf80416
+ endm
+NCCS macro
+ cop2 0x108041b
+ endm
+NCCT macro
+ cop2 0x118043f
+ endm
+CDP macro
+ cop2 0x1280414
+ endm
+CC macro
+ cop2 0x138041c
+ endm
+NCLIP macro
+ cop2 0x1400006
+ endm
+AVSZ3 macro
+ cop2 0x158002d
+ endm
+AVSZ4 macro
+ cop2 0x168002e
+ endm
+MVMVA macro
+ cop2 0x400012|((\1)<<19)|((\2)<<17)|((\3)<<15)|((\4)<<13)|((\5)<<10)
+ endm
+SQR macro
+ cop2 0xa00428|((\1)<<19)
+ endm
+OP macro
+ cop2 0x170000c|((\1)<<19)
+ endm
+GPF macro
+ cop2 0x190003d|((\1)<<19)
+ endm
+GPL macro
+ cop2 0x1a0003e|((\1)<<19)
+ endm
+C2_VXY0 equr 0
+C2_VZ0 equr 1
+C2_VXY1 equr 2
+C2_VZ1 equr 3
+C2_VXY2 equr 4
+C2_VZ2 equr 5
+C2_RGB equr 6
+C2_OTZ equr 7
+C2_IR0 equr 8
+C2_IR1 equr 9
+C2_IR2 equr 10
+C2_IR3 equr 11
+C2_SXY0 equr 12
+C2_SXY1 equr 13
+C2_SXY2 equr 14
+C2_SXYP equr 15
+C2_SZ0 equr 16
+C2_SZ1 equr 17
+C2_SZ2 equr 18
+C2_SZ3 equr 19
+C2_RGB0 equr 20
+C2_RGB1 equr 21
+C2_RGB2 equr 22
+C2_MAC0 equr 24
+C2_MAC1 equr 25
+C2_MAC2 equr 26
+C2_MAC3 equr 27
+C2_IRGB equr 28
+C2_ORGB equr 29
+C2_LZCS equr 30
+C2_LZCR equr 31
+C2_R11R12 equr 0
+C2_R13R21 equr 1
+C2_R22R23 equr 2
+C2_R31R32 equr 3
+C2_R33 equr 4
+C2_TRX equr 5
+C2_TRY equr 6
+C2_TRZ equr 7
+C2_L11L12 equr 8
+C2_L13L21 equr 9
+C2_L22L23 equr 10
+C2_L31L32 equr 11
+C2_L33 equr 12
+C2_RBK equr 13
+C2_GBK equr 14
+C2_BBK equr 15
+C2_LR1LR2 equr 16
+C2_LR3LG1 equr 17
+C2_LG2LG3 equr 18
+C2_LB1LB2 equr 19
+C2_LB3 equr 20
+C2_RFC equr 21
+C2_GFC equr 22
+C2_BFC equr 23
+C2_OFX equr 24
+C2_OFY equr 25
+C2_H equr 26
+C2_DQA equr 27
+C2_DQB equr 28
+C2_ZSF3 equr 29
+C2_ZSF4 equr 30
+C2_FLAG equr 31
+elseif
+else
+endif/endc
+rept
+endr
+while
+endw
+case
+endcase
+macro
+endm
+until
+S300000000000000000000000000000000000000000000
+S7050000000000
+0123456789ABCDEF
+()*+,-./0123456789
+<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[
+]^_`abcdefghijklmnopqrstuvwxyz{|}~
+()*+,-./0123456789
+<=>?@abcdefghijklmnopqrstuvwxyz[
+]^_`abcdefghijklmnopqrstuvwxyz{|}~
+SCSI: 
+Abort, Retry, Bus reset and Retry?
+) : Warning : 
+) : Error : 
+) : Fatal error : 
+Main File :
+Assembling:
+Lines   : 0
+Warnings: 0
+Errors  : 0
+Pass 1
+Pass 2
+Writing Symbols
+PSYPSX
+SDevTC version 2.55
+Copyright (c) 1988-1997 S.N. Systems Software Limited,  all rights reserved
+USAGE : asmpsx /options source,object,symbol,listing
+Options : /c              enable listing of conditioned out lines
+          /e symb=value{;symb=value}   equate symbol(s)
+          /g              write non-global symbols to linker object file
+          /j path         specify include file search path
+          /k              allow use of ifeq, etc.
+          /l              produce linkable output file
+          /m              expand macros in listing file
+          /o opts         set assembler options/optimisations
+          /q              run quietly
+          /w              write equates to output file
+          /x              treat undefined symbols as XREFs
+          /z              include line number info in linker file
+          /zd             generate source level debug info
+Assembler options (first of +/- specified is default) :
+          ae+/-           automatically align halfwords and words
+          an-/+           allow alternate number format
+          at+/-           allow assembler to use temp register
+          c-/+            case sensitivity
+          d-/+            descope local labels on equ, set, etc.
+          e+/-            print lines containing errors
+          f<name>         specify section to hold floating point constants
+          g-/+            define gte register names
+          gw-/+           make hazardous use of gte give a warning not an error
+          h-/+            automatic hazard removal
+          l-/+            use '!' as leading character for local labels
+          l<char>         make <char> the local label character (not + or -)
+          m+/-            enable/disable macro instructions
+          n-/+            insert nop in branch delay slots
+          r-/+            allow $ prefixed register names
+          s-/+            treat equated symbols as labels
+          w+/-            print warnings
+          we-/+           treat warnings as errors
+          ws-/+           allow white space in operands
+          v-/+            write local labels to symbol file
+          x-/+            assume xrefs are in the section they are declared in
+Missing or misplaced ')' in operand address
+Illegal register
+Use of AT register without opt at-
+Destination must be a register
+Source must be a register
+Source operand must be an immediate value
+Source must not be an immediate value
+Assembler does not have AT register available
+Macro used when macro expansion disabled
+Hazardous interaction with previous instruction
+Destination cannot be reached
+Two instructions required after mfhi/mflo before hi/lo are next modified
+Register operands must differ in jalr instruction
+Delay caused by load in previous instruction
+Illegal use of floating point register
+Operand must be a floating point register
+Section to hold floating point constants not specified
+Floating point result tested too soon after it is set
+Illegal section name for option 'f'
+li.s/d can only be used after a section has been declared
+There must be two instructions between register load and GTE operation
+Instruction is not allowed in a delay slot
+Multi-word instruction cannot fit into delay slot
+Consecutive multiplies
+Floating point multiply in delay slot
+Internal error (gp) - please report
+Error in assume directive
+ SDevTC Version 2.55 
+ 1RA
+ LeA
+USER32.DLL
+KERNEL32.DLL
+GetActiveWindow
+wsprintfA
+CloseHandle
+CreateEventA
+CreateFileA
+CreateMutexA
+CreateThread
+DeleteFileA
+DosDateTimeToFileTime
+ExitProcess
+ExitThread
+FileTimeToDosDateTime
+FileTimeToLocalFileTime
+FindClose
+FindFirstFileA
+FindNextFileA
+GetCommandLineA
+GetConsoleMode
+GetCurrentDirectoryA
+GetCurrentProcessId
+GetCurrentThreadId
+GetCurrentThread
+GetEnvironmentStrings
+GetFileType
+GetLastError
+GetLocalTime
+GetModuleFileNameA
+GetModuleHandleA
+GetProcAddress
+GetStdHandle
+GetTickCount
+GetTimeZoneInformation
+GetVersion
+LoadLibraryA
+LocalFileTimeToFileTime
+MoveFileA
+PeekConsoleInputA
+ReadConsoleInputA
+ReadFile
+ReleaseMutex
+SetConsoleCtrlHandler
+SetConsoleMode
+SetCurrentDirectoryA
+SetEvent
+SetFilePointer
+SetStdHandle
+TlsAlloc
+TlsFree
+TlsGetValue
+TlsSetValue
+VirtualAlloc
+VirtualFree
+WaitForSingleObject
+WriteConsoleA
+WriteFile
+<"<,<6<J<Q<Y<a<o<{<
+=4=D=X=h=w=
+=T>]>h>
+?!?A?K?g?l?r?{?
+?&0z0
+1)191=1C1L1P1b1j1z1
+2#2(282@2P2Y2e2l2
+3%3/3P3g3
+4 4O4
+5"5+585f5s5
+6)6;6R6W6\6i6
+7(70777?7F7L7U7a7h7
+8!8+868;8@8M8Y8^8g8n8u8|8
+9"9)90979@9G9N9U9]9b9g9n9t9y9~9
+:":):.:A:N:[:c:t:{:
+;+;E;Q;o;t;y;
+";C;K;P;];c;n;|;
+;F<P<]<j<w<
+=)=4=;=D=Q=Z=_=l=r=
+?,?6?I?S?]?o?	0
+0(01090D0N0V0i0s0
+1%1-151=1E1M1U1f1l1s1y1
+2.272<2D2M2V2_2h2q2z2
+3%3*3<3d3i3
+4&4.464>4F4U4]4j4
+5&5+515H5\5d5m5s5y5
+7#7)7/74797>7C7[7j7o7
+8+8:8E8
+9 949?9E9M9U9]9e9m9w9
+:$:*:/:4:?:G:L:R:Z:o:u:}:
+2'2:2?2L2R2[2h2o2z2
+2!3y3~314C4H4M4R4Y4e4
+595>5K5Q5W5_5s5y5
+5	6]6b6
+7I7O7f7x7}7
+7I8V8u8}8
+="=3=C=U=e=k=s={=
+=d>q>}>"?+?H?Z?l?w?}?
+_>l>
+?+?3?:?G?_?c?o?
+0"0'0,060@0J0U0[0e0m0
+0d1i1n1s1y1
+3;3A3G3L3Q3V3c3j3p3z3
+384|4
+7 7%7*72787^7d7i7q7w7
+828@8I8d8r8}8
+9$9*939>9H9S9^9c9i9q9{9
+:$:1:::B:G:T:Z:`:f:x:
+;#;0;=;U;c;i;o;u;{;
+<)</<6<D<M<V<r<
+='=2=6=>=C=K=Q=U=a=n=w=
+>+>Q>X>
+;9<=<T<^<d<k<q<x<
+=$=+=H=Q=W=`=g=
+>%>)>>>G>k>q>
+?"?/?M?Z?c?
+030;0K0S0d0|0
+1$1,1>1S1c1s1{1
+2!262E2R2Z2u2~2
+3)363?3Z3c3p3u3
+4%484=4I4O4[4a4m4s4z4~4
+5-545=5F5L5s5
+6J6U6^6g6n6w6
+7#7'7+7/73797G7M7U7_7e7{7
+898F8p8
+9!959>9K9U9d9o9w9
+9/:9:g:t:
+;K;Q;u;
+0=0O0Y0c0n0t0
+0+161
+1*282=2D2
+3-343:3A3H3O3V3i3s3}3
+4 4%4,4t4}4
+4!5/545;5F5S5^5o5
+6#6(6/676F6O6^6g6o6x6
+6:7C7L7Q7[7f7l7
+80858:8?8D8\8e8l8
+9a9y9
+:$:0:::@:G:R:Y:c:
+;);7;G;L;Z;
+<&<3<><b<g<m<z<
+<'=F=Q=]=h=o={=
+>f>n>}>
+?)?/?5?;?A?y?
+0!0'0/0f0
+1/1:1@1
+1	2 2%272<2H2Q2Y2`2i2r2
+4$4D4T4
+5 5k5x5
+6_6c6i6s6
+7>7D7K7Q7
+8.8:8R8_8i8t8|8
+8H9U9^9}9
+:.:I:P:Z:d:
+;";=;G;w;
+<6<@<G<]<d<i<o<|<
+=%=/=9=?=K=V=a=g=
+>)>4>:>u>
+?K?V?
+?/?4?:?D?S?\?e?r?
+090V0s0y0
+1?1E1O1\1p1u1z1
+1B2^2d2u2{2
+2j3w3
+4)40454I4R4[4a4i4r4x4~4
+4&5+585=5J5O5\5a5
+6$6;6E6T6b6o6|6
+7 7.777=7N7[7i7w7}7
+8!8+8:8D8N8U8\8n8
+909A9M9[9h9u9
+:$:d:k:
+<&<5<?<M<[<d<q<
+=!=2===H=d=i=r=x=
+>'>6>C>Q>_>e>t>z>
+D>\>f>p>
+?%?+?<?Q?`?n?{?
+0)0/080R0W0]0g0s0}0
+1&1@1J1T1^1h1o1{1
+2#2-272A2K2R2^2l2|2
+353C3S3c3r3|3
+4@4X4
+5!5-585>5C5V5a5f5m5
+6#646A6W6w6
+7,767O7Y7d7m7z7
+8$8+8=8K8X8e8
+9)949>9D9O9
+9i:p:w:
+;';,;;;_;q;
+< <(<,<2<6<A<J<U<o<s<
+=6=:=D=H=R=V=g=q={=
+0$090H0R0\0u0
+1*161D1Q1c1n1y1
+2*282H2a2i2~2
+3.3^3
+4+454@4I4V4`4k4t4
+515B5Q5_5h5q5
+6,696I6
+6*7;7i7u7
+878<8K8Q8`8f8k8z8
+9(9.949B9G9N9T9b9g9m9t9z9
+:#:2:@:J:[:i:v:
+:	;$;?;`;n;{;
+='=7=E=U=_=t=~=
+>)>4>A>S>`>n>~>
+?.?8?A?M?V?_?l?w?
+1'1r1x1
+2"272A2J2P2_2n2
+2&3=3Q3a3l3
+4(474R4\4c4j4q4}4
+4K5c5w5
+6&6.656;6D6P6a6p6~6
+7 7F7V7`7l7y7
+8-8<8]8
+9#929@9M9Z9e9p9y9~9
+:2:A:O:\:i:v:
+;$;*;5;K;Z;r;
+<"<0<=<J<W<b<
+='=1=7=B=M=_=l=
+>)>6>C>N>Y>c>i>t>
+?	?"?K?Z?j?x?
+2?<?C?J?Q?]?k?x?
+0.0I0g0q0{0
+1#101L1W1v1
+2/2p2
+3(363C3P3b3q3
+4 4)484D4[4f4
+555D5\5f5
+6%6+6=6F6M6_6h6o6
+7	7 7'7B7G7L7V7
+8(8O8
+9$9/999B9H9Q9b9o9z9
+:#:-:=:K:T:b:p:}:
+;(;1;F;O;X;e;r;x;~;
+< <&<4<K<_<d<j<t<}<
+=%=/=?=K=`=j=t={=
+>,>S>x>
+? ?-?;?I?R?\?b?o?v?
+0/090C0J0W0c0q0~0
+1$1*191?1P1c1o1x1
+2,262@2L2d2n2
+3#30393F3L3R3X3^3d3j3p3v3
+4*484Q4Z4c4m4
+545Z5
+6&6C6M6c6z6
+7 7'7R7i7o7z7
+8&8H8V8e8q8
+9!9(9O9f9l9w9
+:+:4:K:Y:f:s:
+;';0;A;X;^;g;};
+<!<(<S<^<i<r<
+=>=L=[=g=
+>,>7>B>Y>_>j>s>
+=1===H=i=s=}=
+>'>.>7>>>t>~>
+?<?B?K?T?m?
+0+050I0h0r0|0
+1#121:1G1P1a1{1
+2&2,242K2Q2`2h2q2
+3.3B3I3P3W3c3w3~3
+444M4V4\4b4h4n4{4
+5"555=5B5G5L5Q5V5[5`5f5s5
+6(6/666=6I6X6e6j6o6t6y6~6
+7(7,727?7F7M7S7^7
+7	868E8r8
+959D9J9S9Z9o9u9~9
+:Y:a:t:|:
+: ;6;>;F;M;W;a;k;u;
+;6<;<V<b<o<w<~<
+K:Z:e:u:|:
+;!;1;8;@;U;f;l;y;
+<!<.<;<H<U<Z<a<f<k<v<
+=.=4===H=R=W=b=o=u={=
+>#>->A>G>^>c>o>u>
+?%?/?7?=?I?N?T?Z?c?q?{?
+0&000;0B0F0L0U0\0`0f0n0
+1 131?1M1S1Z1`1h1n1v1z1~1
+2"2&2*2.22262:2>2B2F2J2N2R2V2Z2^2b2f2j2n2r2v2z2~2
+3=3X3z3
+4D4j4
+5-5P5Y5e5j5y5
+6"6'6-6=6H6P6V6[6s6{6
+7*757:7M7R7[7p7v7
+8'8,8<8Q8^8k8v8{8
+9'9<9B9O9g9m9
+:*:/:6:;:@:
+?E?K?V?^?w?
+0 0&0.080C0I0N0V0[0`0e0j0p0
+1!1&1+10151:1?1D1N1T1_1e1z1
+252;2F2L2U2^2g2z2
+3'3,3L3}3
+3'4.484B4]4c4n4z4
+5#5*545@5G5Q5^5c5h5s5}5
+6#6/696@6G6R6]6i6s6z6
+8/949~9
+9!:%:):-:1:5:9:=:A:E:I:M:Q:U:Y:]:a:e:i:m:q:u:y:}:
+;7;D;K;\;
+;,<6<@<K<P<d<
+<G=M=X=
+>0>Q>\>e>s>
+1)1>1D1O1V1n1u1
+2#2*272J2a2g2t2z2
+3$3F3m3
+4D5N5
+7U7f7q7
+8C8j8
+999A9L9i9
+:?:H:t:|:
+; ;$;
+=#='=+=/=3=7=;=?=C=G=M=~=
+>!>.>3>@>E>y>
+?*?O?\?a?h?
+=!=&=@=R=W=u={=
+?"?0?:?D?N?Z?d?n?
+0%0.040:0@0E0K0Q0V0]0m0z0
+1 1(151@1F1L1_1f1k1r1x1
+2&2,242:2E2J2
+3%3,33393B3P3V3g3
+5 5$5(5,5054585<5@5D5H5L5P5
+666C6U6a6p6u6
+7*727
+8%8,838:8J8Y8_8d8w8
+:":.:::F:R:^:g:{:
+;);7;^;i;r;};
+<'<0<8<D<J<Q<Z<`<e<o<t<~<
+1*141P1q1z1
+222;2
+2?4D4g4v4
+5 5%5/5F5
+6r6{6
+8C9^:
+<!</<7<@<K<Y<^<
+=&=,=6=i=
+>,>2>D>J>P>Y>
+1.1@1H1R1X1h1
+2+2B2H2Q2^2f2l2
+2]4c4r4z425C5
+5i6w6
+8*8Z8c8k8
+9 9=9G9q9
+:2:=:B:y:
+=-=<=T=
+?!?+?Y?t?
+030>0^0
+172C2y3
+364R4r4
+5(545S5o5w5
+6"6'6>6
+90959D9J9R9X9#:=:
+;(;/;
+<!<&<;<@<G<L<l<r<z<
+<n=~>
+0'171
+4-434?4Y4_4
+5*5X5i5
+7!7&7,787Y7i7o7~7
+8&84898F8[8g8m8{8
+:;:E:Y:
+;$;.;=;E;P;Z;k;r;
+;,<0<B<`<j<
+= =$=(=,=0=4=
+?v?}?
+090F0
+1,1@1[1h1
+2!2(2I2j2
+3 323F3N3c3
+4)4.43484=4D4I4Q4W4]4c4i4o4t4y4~4
+5 5,505>5D5I5N5T5Y5e5p5y5
+5A6G6
+7*7K7r7x7
+8F8R8Y8_8d8j8t8
+819B9[9o9
+1$1+161;1u2
+3%3/3W3`3f3~3
+4F4S4
+6&656=6
+= =>=
+?"?1?7?E?J?X?]?h?
+0C0g0
+0(1l1w1
+1b3\3V3P3J3D3>38323,3&3 3
+2~2x2r2l2f2`2Z2T2N2H2B2<26202*2$2
+4 4$4
+H>L>P>
+&3,3u0
+023J3W1
+283t2
+2>3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4

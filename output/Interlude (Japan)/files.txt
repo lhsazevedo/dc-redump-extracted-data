@@ -1,0 +1,12 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/BANK.MLT
+/DATA.IMG
+/ED.SFD
+/OP.SFD
+/SCRIPT.PAK
+/SYSTEM.PAK
+/TITLE.PAK

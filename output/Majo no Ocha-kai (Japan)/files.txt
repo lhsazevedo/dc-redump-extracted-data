@@ -1,0 +1,15 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/BGM.ARC
+/BUSTUP.ARC
+/GRAPHIC.ARC
+/MISC.ARC
+/MOVIE.ARC
+/SCRIPT.ARC
+/SD.ARC
+/SOUND.ARC
+/THUMB.ARC
+/VOICE.ARC

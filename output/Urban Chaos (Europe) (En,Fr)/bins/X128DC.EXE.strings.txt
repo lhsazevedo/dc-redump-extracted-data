@@ -1,0 +1,4238 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.rdata
+@.data
+.pdata
+@.rsrc
+/"OCichsj
+c=c8#
+Ab-e 
+Ac=e
+yAc=eP&
+tAb-eX%
+S3aJ
+/"OChSj
+"dH$
+/"OChsi
+|5X%
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Pe\4Y
+,ESb9$W
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Pe\49
+,ESb9$7
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Cb9%
+#MaA&
+<c8#3
+Ac=c
+C8#-
+1c=c
+Ac=c
+s1$"
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Pe\4Y
+,ESb9$W
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Pe\49
+,ESb9$7
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Cb9%
+#MaA&
+<c8#7
+Ac=c
+C8#1
+1c=c
+Ac=c
+s1$&
+Ab-b
+uPb,b
+0$Pc<c
+Pb,b,
+0$Pc<c
+uPb,bw
+0$Pc<cp
+Pb,b,
+0$Pc<c^
+uPb,bR
+0$Pc<cK
+Pb,b,
+0$Pc<c9
+a@e\1 
+a@e\1
+9!!'-b
+1c=c<
+,b("
+Ac=c
+b-b@e\2J
+b-b@e\2#cJ
+"1'=c?
+l2 b$
+<c8#
+Ab-b<B("
+Ab-b
+a@e\1!
+a@e\1
+9!!'-b
+1c=c<
+,b("
+Ac=c
+b-b@e\2G
+b-b@e\2#cG
+"1'=c<
+l2 b$
+<c8#
+Ab-b<B("
+Ab-b
+9!!&-b
+1c=c<
+,b("
+Ac=c
+Ab-b#h
+&Ab-b`
+"1&=c
+\2 b$
+<c8#
+Ab-b<B("
+Ab-b
+CePa
+<c3`	
+,b#`	
+uPb,b+
+0$Pc<c$
+Pb,b,
+0$Pc<c
+uPb,b
+0$Pc<c
+Pb,b,
+0$Pc<c
+uPb,bt
+0$Pc<cm
+Pb,b,
+0$Pc<c[
+a@e\1E
+a@e\1
+9!!'-b;
+1c=c<
+,b("
+Ac=c
+b-b#
+@e\2#i
+b-b@e\2%
+"1'=c
+l2 b$
+<c8#
+Ab-b<B("
+Ab-b
+a@e\1E
+a@e\1
+9!!'-b;
+1c=c<
+,b("
+Ac=c
+b-b#
+@e\2#i
+b-b@e\2#
+"1'=c
+l2 b$
+<c8#
+Ab-b<B("
+Ab-b
+9!!&-bK
+1c=c<
+,b("
+Ac=c
+Ab-b4
+&Ab-b#c5
+"1&=c+
+\2 b$
+<c8#
+Ab-b<B("
+Ab-b
+CePa
+<c3`	
+,b#`	
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Pe\4Y
+,ESb9$W
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Pe\49
+,ESb9$7
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Cb9%
+#MaA&
+<c8#3
+Ac=c
+C8#-
+1c=c
+Ac=c
+s1$"
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Pe\4Y
+,ESb9$W
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Pe\49
+,ESb9$7
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Cb9%
+#MaA&
+<c8#7
+Ac=c
+C8#1
+1c=c
+Ac=c
+s1$&
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Pe\4Y
+,ESb9$W
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Pe\49
+,ESb9$7
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Cb9%
+#MaA&
+<c8#7
+Ac=c
+C8#1
+1c=c
+Ac=c
+s1$&
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+Pe\4Y
+,ESb9$W
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Pe\49
+,ESb9$7
+#]aQ&
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Cb9%
+#MaA&
+<c8#7
+Ac=c
+C8#1
+1c=c
+Ac=c
+s1$&
+Ab-b
+Ac=c
+ b,b
+Ac=c
+Ac=c
+ b,b
+Ac=c
+Ac=c
+ b,b
+Ac=c
+@dL1p
+" $r
+Ab-b
+@dL1^
+" $`
+Ab-b
+" $O
+Ab-b
+a@c<`
+Ac=c
+Ac=c
+ b,b6
+Ac=c
+Ac=c
+ b,b$
+Ac=c
+Ac=c
+ b,b
+Ac=c
+@dL1p
+" $n
+Ab-b
+@dL1^
+" $\
+Ab-b
+" $K
+Ab-b
+a@c<`
+Ac=c
+Ac=c
+ b,b5
+Ac=c
+Ac=c
+ b,b#
+Ac=c
+Ac=c
+ b,b
+Ac=c
+@dL1p
+" $n
+Ab-b
+@dL1^
+" $\
+Ab-b
+" $K
+Ab-b
+a@c<`
+Ac=c
+Ac=c
+ b,b5
+Ac=c
+Ac=c
+ b,b#
+Ac=c
+Ac=c
+ b,b
+Ac=c
+@dL1p
+" $n
+Ab-b
+@dL1^
+" $\
+Ab-b
+" $K
+Ab-b
+a@c<`
+Ac=c
+Ac=c
+ b,b5
+Ac=c
+Ac=c
+ b,b#
+Ac=c
+Ac=c
+ b,b
+Ac=c
+@dL1q
+" $o
+Ab-b
+@dL1_
+" $]
+Ab-b
+" $L
+Ab-b
+a@c<`
+Ac=c
+Ac=c
+ b,b+
+Ac=c
+Ac=c
+ b,b
+Ac=c
+Ac=c
+ b,b
+Ac=c
+@dL1r
+" $p
+Ab-b
+@dL1`
+" $^
+Ab-b
+" $M
+Ab-b
+a@c<`
+Ac=c
+Ac=c
+ b,b-
+Ac=c
+Ac=c
+ b,b
+Ac=c
+Ac=c
+ b,b	
+Ac=c
+@dL1r
+" $p
+Ab-b
+@dL1`
+" $^
+Ab-b
+" $M
+Ab-b
+a@c<`
+Ac=c
+Ac=c
+ b,b-
+Ac=c
+Ac=c
+ b,b
+Ac=c
+Ac=c
+ b,b	
+Ac=c
+@dL1b
+" $`
+Ab-b
+@dL1P
+" $N
+Ab-b
+" $=
+Ab-b
+a@c<`
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5_
+Sb<B
+9%!$-c
+,32c\30c<c
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5A
+Sb<Bw
+9%!$-c
+,32c\30c<ck
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c<c2
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl58
+Sb<Bf
+9%!$-c
+,32c\30c<cZ
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5
+Sb<B*
+9%!$-c
+,32c\30c<c
+<c8#.
+Ac=c
+C8#(
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c<c
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5_
+Sb<B
+9%!$-c
+,32c\30c<c
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5A
+Sb<Bw
+9%!$-c
+,32c\30c<ck
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c<c2
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl58
+Sb<Bf
+9%!$-c
+,32c\30c<cZ
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5
+Sb<B*
+9%!$-c
+,32c\30c<c
+<c8#.
+Ac=c
+C8#(
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c<c
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5_
+Sb<B
+9%!$-c
+,32c\30c<c
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5A
+Sb<Bw
+9%!$-c
+,32c\30c<ck
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c<c2
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl58
+Sb<Bg
+9%!$-c
+,32c\30c<cX
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5
+Sb<B+
+9%!$-c
+,32c\30c<c
+<c8#.
+Ac=c
+C8#(
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c<c
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5_
+Sb<B
+9%!$-c
+,32c\30c<c
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5A
+Sb<Bx
+9%!$-c
+,32c\30c<ci
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c<c0
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5^
+Sb<B
+9%!$-c
+,32c\30c
+<c)#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5@
+Sb<Bv
+9%!$-c
+,32c\30c
+<c)#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c
+<c)#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5^
+Sb<B
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5@
+Sb<Bv
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5^
+Sb<B
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5@
+Sb<Bv
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5^
+Sb<B
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5@
+Sb<Bv
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5^
+Sb<B
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5@
+Sb<Bv
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5^
+Sb<B
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5@
+Sb<Bv
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5^
+Sb<B
+9%!$-c
+,32c\30c 
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5@
+Sb<Bv
+9%!$-c
+,32c\30c 
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c 
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl5^
+Sb<B
+9%!$-c
+,32c\30c@
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5@
+Sb<Bv
+9%!$-c
+,32c\30c@
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c@
+<c+#4
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+`fl58
+Sb<Bf
+9%!$-c
+,32c\30c<cZ
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+`fl5
+Sb<B*
+9%!$-c
+,32c\30c<c
+<c8#.
+Ac=c
+C8#(
+1c=c
+Ac=c
+Ab-b
+9%!$-c
+,32c\30c<c2
+<c8#
+Ac=c
+1c=c
+Ac=c
+Ab-b
+Ac=c
+@b,`
+`!c`	
+"#VS
+)c`	
+pc<gx'5
+"$c`	
+b"%<2!
+0!x'	
+32*2+ ( )
+0c<c8#
+ b,b)(C`	
+c9(C`	
+(C`	
+b)(C`	
+c9(C`	
+(C`	
+0c<c8#	
+ b,b("
+`S`	
+@c<c8#
+c (	
+ b,f
+3R"$
+9$"`
+2dH$
+2c2"
+"dH$
+,`<c
+#0$y
+Ab-b
+PbCf
+@,eo
+Ac=c
+dQb-eCc[
+X3`a
+32'q
+`b,b
+9" &
+`b,`
+`c<c
+`c<`@
+,DH$
+`c<`
+`c<co
+#0&q(E
+Ab-b
+qb-b-
+%Qb-`qk
+`,@'
+Qc=`
+ab-b
+r!&&
+C1%=`ql
+#Qb-`
+<c8#
+1c=c
+&qb-b
+r!'ac=c
+e[b!$A
+c8#	
+Pb &Pc<cU
+Pc0&Pa
+&c`	
+Pb,`
+Pb,b 
+9" %
+Gx'	
+<Fh&
+Pb,`
+Pb,b
+9" %Aa
+Ab-b
+Ac=c
+Ac=c
+b#`	
+Ac=c	s
+,`<c
+#0$H
+Ab-b
+@Sf>
+Ac=c
+dQb-eCc(
+\3`a
+32'q
+#0&r
+qc=gx'
+`b,b%
+9" &
+`b,`@
+&Caz!
+`c<`
+`c<c
+#0&q(
+Ab-b
+l59&
+S`,@9%
+dC`	
+Ab-b	r
+,`<c
+#0$/
+Ab-b
+@,e$
+dQb-eCc
+X3`a
+32'q
+c8#'
+`b,b
+9" &%
+`b,`
+`c<c
+`c<`@
+,DH$
+`c<`
+`c<cp
+#0&q(?
+Ab-b
+qb-b+
+%Qb-`qk
+`,@'
+Qc=`
+ab-b
+C1%=`ql
+#Qb-`
+<c8#
+1c=c
+&qb-b
+r!'ac=c
+Ac=c
+" %Q
+Pc<c<
+Pc<`@
+ b,b("
+Ac=c	s
+,`<c
+Ab-b
+Pb0c<f
+@,ep
+dQb-eCc]
+\3`a
+32'q
+#0&r
+qc=gx'
+`b,b
+9" &
+`b,`@
+&Caz!
+`c<`
+`c<cv
+#0&q(F
+Ab-b
+l59&
+S`,@9%
+Ac=c
+ b,`
+aPc<`)!
+c8#$
+Pb,b
+9" %"
+Pb,`@
+Pc<`
+Pc<c
+#0%M
+Ab-b	r
+,`<c
+#0$?
+Ab-b
+@,e4
+@b,`)
+@c<c8
+@c<`
+Qb-eX%
+ac=g
+',Gx'
+@b,`
+@b,b	
+9" $Q&
+qb-bY
+%Qb-`qk
+Qc=`
+ab-b
+C1%=`ql
+#Qb-`
+<c8#
+1c=c
+&qb-b
+r!'ac=c
+,C@b,b
+B+#4
+<c8#
+ac=c
+1c=c
+ac=c
+@c<c
+)%;%P$\cpb
+#0'@b,b("
+'ac=c
+,`<c
+#0$3
+Ab-b
+Pb0c<f
+@,e(
+dpcCb
+L2<`&
+2"&a
+b9" 'b
+pc<c
+pc<`
+ab-fh&&
+<DH$
+pb,`
+pb,b
+9" 'a%n
+l59&
+S`,@9%
+C@b,b
+"+#4
+!b-b,
+1c=c
+ab-b
+%P$\i
+r))pb,`
+pb,`@
+(Ac=c
+@,en
+Ac=c
+dQb-eCcZ
+X3`a
+32'q
+`b,b
+9" &
+`b,`
+`c<c
+`c<`@
+,DH$
+`c<`
+`c<co
+#0&q(D
+Ab-b
+qb-b,
+%Qb-`qk
+`,@'
+Qc=`
+ab-b
+r!&$
+C1%=`ql
+#Qb-`
+<c8#
+1c=c
+&qb-b
+r!'ac=c
+#0(Ab-b
+@,e'
+dQb-eCc
+\3`a
+32'q
+#0&r
+qc=gx' 
+`b,b
+9" &
+`b,`@
+&Caz!
+`c<`
+`c<c
+#0&q(d
+Ab-b
+l59&
+S`,@9%
+Ab-`V
+ac=c3h
+#"b<2 b$
+Qc=c
+$ab-b
+r!&Ac=c
+s1$ph
+pc<c
+'Qc=c
+,F@b
+( b,gc`	
+sc)#; 
+@b,b_
+9" $
+@b,`
+`j z 
+<cz#
+<Fh&
+@b,`
+@b,b-
+9" $@a
+s1)Qa
+!b-b("
+Ac=c
+a"b9!
+!b-b,
+%Pc<`
+%Ab-b
+b-bPa
+$@b,`
+Ab-`
+ac=c3h
+#"b<2 b$
+Qc=c
+$ab-b?
+r!&Ac=c
+s1$ph
+pc<cb
+'Qc=c
+,F@b
+( b,gc`	
+sc)#; 
+@b,b
+9" $
+@b,`
+`j z 
+<cz#
+<Fh&
+@b,`
+@b,b
+9" $@a
+s1)Qa
+!b-b("
+Ac=c
+a"b9!
+!b-b,
+%Pc<`
+%Ab-b
+b-bPa
+r!(M
+$@b,`
+Ab-``
+ac=c3h
+#"b<2 b$
+Qc=c
+$ab-b
+r!&Ac=c
+s1$ph
+pc<c
+#0'Qi
+pb,b
+9" 'Qh
+,F@b
+( b,gc`	
+sc)#; 
+@b,br
+9" $
+@b,`
+`j z 
+<cz#
+<Fh&
+@b,`
+@b,b@
+9" $@a
+s1)Qa
+!b-b("
+Ac=c
+1$@b,`
+Ac=c
+a"b9!
+!b-b,
+s1(Pa
+s0*<a
+Pc<`@
+%Ab-b
+%Ac=c
+s1$2
+b-b`a
+Ab-b
+Ab-`
+ac=c3h
+#"b<2 b$
+Qc=c
+$ab-bD
+r!&Ac=c
+s1$ph
+pc<cl
+#0'Qi
+pb,bc
+9" 'Qh
+,F@b
+( b,gc`	
+sc)#; 
+@b,b
+9" $
+@b,`
+`j z 
+<cz#
+<Fh&
+@b,`
+@b,b
+9" $@a
+s1)Qa
+!b-b("
+Ac=c
+1$@b,`
+Ac=c
+s1$8
+a"b9!
+!b-b,
+s1(Pa
+s0*<a
+Pc<`@
+%Ab-b
+r!$'
+%Ac=c
+s1$Q
+b-b`a
+c<`8
+c<cL
+#0(1
+Ab-b
+#?q<b
+b,`@
+bAa!$
+/siSgCesbc
+\2B`;"d
+asbB`l2,1
+/"OChSkcjsi
+/"OChSlcksj
+/"Oi
+<c7=)
+/"OChSk
+/"OO
+eR!b
+b"(&O
+0c<e
+b,b~
+r,b02S
+b,b=
+@@)>
+ b,d
+0c<d
+ b,d
+(,3:AHLVZ^et}
+b,b<2 !
+c<ck
+c<c5
+ b,b(""
+)$H$
+c<c8#
+b,bR
+r,b02-
+r,dCe
+@-X%
+Pc<d
+ b,b("
+`9 G
+@b,b9" $C
+c)#3`	
+0c<c8#
+c)#3`	
+@c<c
+#0$A
+"#`	
+`9 G
+d&4D
+#3`	
+#3`	
+@c<`
+t@c<c
+t@c<c
+@b,b9" $G
+`9 G
+c)#3`	
+0c<c8#
+c)#3`	
+@c<c
+#0$C
+"#`	
+t@b,b*
+9" $
+@b,b9" $
+c)#0$
+0c<c8#
+c)#3`	
+@c<c
+" $m
+ b,b("
+@c<c
+@b,b9" $G
+"#`	
+ b,d647
+ b,b("	
+ b,d647
+ b,b("	
+ b,d647
+ b,b("	
+ b,d64D
+ b,b("	
+E\4A
+@c<c=
+<6`a
+a\b)!
+`+ G
+c+#3`	
+0c<c8#
+@b,`
+#3`	
+@c<`
+b;"#`	
+ b,b("
+b9"#`	
+@b,`
+`+ G
+c+#3`	
+0c<d
+0c<c8#	
+;"#`	
+;"#`	
+@b,b9"
+t@b,`
+t@b,`
+@c<`
+0c<c8#
+@b,`
+@c<`
+b;"#`	
+ b,b("
+b9"#`	
+@b,`
+0c<c8#
+@b,`
+#3`	
+@c<`
+ b,b("
+b9"#`	
+@b,`
+@c<`
+t@b,`:
+#3`	
+t@c<`
+d&4>
+#3`	
+#3`	
+@c<c
+t@c<`
+t@c<`
+d&46
+#3`	
+#3`	
+@c<c
+t@c<`
+t@c<`
+d&46
+#3`	
+#3`	
+@c<c
+t@c<`
+t@c<`
+d&46
+#3`	
+#3`	
+@c<c
+t@c<`
+t@c<`
+E\4A
+eX%	
+@b,bJ
+,6`c<cWa
+6 uW9
+DL8/
+/"OCi
+/"OCh
+ePd-
+2&B&l&k&j&i&h#o
+ b,b("s
+c=c3a,A
+c,`=c
+R b,b("
+c<c'3
+S!b0c-b<c32
+b-b}
+=c82!(Ba
+1c=do
+* b,b#1
+@b,b
+r,b("
+@b,`
+!$Qc=c
+C1&=`Qa
+`@a) 
+ab-`|
+<c8#
+<B("
+b-bu
+r!(Qc=cm
+C1&Qa=`
+#ab-`|
+<c8#
+<B("
+b-bO
+r!(-
+#1$=b#`@
+R#`6
+"!,Pc<c
+@c<c
+ b,b("
+b,b("
+ b,b-b,1
+S0c<c8#
+@b,b
+r $Qc=b&
+/"OChSi
+@0"T
+#AT`
+0"0'\
+pb,b]
+r 'Ac=c^
+%Ab-b[
+<B!&-`Ac
+=`Pc
+,b("
+Ac=cp
+C1&Aa=`
+#ab-`
+<c8#
+<B("	
+!b-b8"
+r!++
+@Yu+
+b-b,
+r!+0(
+c<c8#
+ b,e
+b,b("
+0c<e
+ b,e
+, (Z
+ b,b("
+@ !2
+ b,e
+ b,dH$
+@! (<
+ b,b("
+0c<c8#
+/"OCjSh
+Bc2c
+TBc2S
+Ef$f$f$f$f$f$f$f$
+dBc6S
+Ed$d$d$d$d$d$d$d$d$
+dBb.
+h5R'@
+B	B"+
+,?&O
+/"O 
+9Ssd
+dBc7S
+,?&O
+Rb"R
+Rb"R
+FV$V$V$V$V$V$V$V$
+lCi-
+e!B!G!G
+R#c!C
+b-dA'
+mCi_
+2dBa
+2&B&m&l&k&j&i&h#o
+2/C`	
+R"eSf
+Fcb)
+k"ZB-
+%Fi%
+Gsb)
+{"ZB-
+%Gi'
+f{%cg
+Gsb)
+{"ZB-
+%Gi'{%R-
+eC`	
+h2(4
+"b,6<6c4'
+L33b
+#=hO
+2c82(4
+<6X%
+ b,b("
+ vLa
+vS`	
+ b,b
+B,31
+6X%"
+0c<c8#
+vLb#`	
+DL=,e
+vS`	
+/"OChSj
+2<2 b
+2<2 b$
+tMdG8
+tMdG8
+30c4
+30c4
+tMdG8
+30c4
+30c4
+tMdG8
+l7l5
+2<2 b
+2<2 b$
+tMdG8
+CC`<2 b$
+tMdG8
+BC`,1
+tMdG8
+2<2 b
+2<2 b$
+tMdG8
+tMdG8
+30c4
+tMdG8
+30c4
+tMdG8
+30c4
+tMdG8
+2<2 b
+2<2 b$
+tMdG8
+tMdG8
+30c4
+tMdG8
+tMdG8
+CC`<2 b$
+tMdG8
+BC`,1
+tMdG8
+30c4
+tMdG8
+CC`<2 b$
+tMdG8
+BC`,1
+tMdG8
+30c4
+tMdG8
+CC`<2 b$
+tMdG8
+L7paCe
+"Sa$
+c<`@
+-pc<c
+P;!Sc
+,+#pb,b
+P+#4
+c<`@
++pc<c!
+`b,`@
+tMdG8
+&cb{"C`H$
+{&C`
+H$;&d
+CbY"C`k"
+tMdG8
+2&B&m&l&k&j&i&h#o
+/"Oh
+A2T,
+,?&O
+/"O@
+,?&O
+gx'%
+A2d<
+,?&O
+/"Od
+@l4&
+,?&O
+/"OCh
+ b,d
+ b,d
+c<c`
+b,`>
+u]eW4
+2gC`	
+mC`	
+,ASb
+",10!qa
+,b("
+Sc,AE
+,b("
+u]eSb
+Sa<B!
+-`!'
+qb-`
+<c8#
+ab-b<B("	
+!b-b8"
+ab-b
+u]eA
+Sa)!d
+1c=c<
+,b("
+ab-b<B("	
+!b-b8"
+ab-b
+<fh&
+"gL0|
+,b02
+<c8#
+tMdG3
+0c<c8#/
+fMdL
+gC`	
+tMd,h?
+tM`|
+<BSc!'-`
+,b("
+Sc,A
+,b("
+u]eSb
+Sa<B
+-`!'
+qb-`
+<c8#
+ab-b<B("	
+!b-b8"
+ab-b
+u]e(
+Sa)!d
+1c=c<
+,b("
+ab-b<B("	
+!b-b8"
+ab-b
+tMdG5
+@lf]
+@lf"
+@lf"
+/"OShcm
+b-b("
+a+!;!
+ (l4
+Gs`	
+"dH$
+b!L6A
+"dH$
+b!L6?
+"b("
+2c8#
+0!H$
+A2e.
+2c=e
+0c<c8#
+2&B&m&l&k&j&i&h#o
+/"OX
+<eCjl:
+,bP2
+mc<4Md
+l2-b#`	
+/"OG
+Shci
+/"OCh
+c0a1
+4L5Pf.
+uPf.
+L5Pf.
+"gx'4
+4L5Pf.
+uPf.
+L5Pf.
+2gx'Q
+0c<dH$
+ b,`
+ b,b<
+c<c8#8
+c<c8#
+2&B&m&l&k&j&i&h#o
+/"OY
+",10!Qa
+,b("
+w|g,bw2
+-`!'
+20"qa
+,b("
+-`!'
+20"qa
+,b("
+C1$=cf
+1c=c<
+,b("
+Ab-b<B("	
+!b-b8"
+Ab-b
+-bAc(==c
+Ab-b82!$
+2&B&m&l&k&j&i&h#o
+/"OSh
+Cfl9
+b-b3
+<B!+-a
+<c8#
+Ab-b<B("	
+!b-b8"
+Ab-b
+/"OCh
+4C`	
+tC`	
+vmfs5
+0v`$
+vmfs5
+0v`$
+vmfd
+0v`$
+0v`$
+t0uP$
+vlfd
+l30$
+0v`$
+t0uP$
+2&B&l&k&j&i&h#o
+/"OCkQ
+<DLm
+,b<c:" )
+tMdG8
+a,b*!
+tMdG;
+,?&O
+/"OCkSm
+<DLa
+6L6G
+C1*=b`a
+<c8#
+Qb-b<B("	
+!b-b8"
+Qb-b
+c<c`a
+tMdG2
+6L6 
+Qc=c
+C8#	
+1c=c
+Qc=c
+a`b,b*!
+tMdG=
+,?&O
+/"OChSlck
+cAb-b:
+<2!$
+Ac=c+
+BQ b
+LdH$
+)@b,b+!
+!ER$ b,5R$
+s2)B
+2gx'
+ b,b
+1c=c
+mpCa
+mp,bH0'0
+0c<e>
+@,e]
+b,e?
+c<cX
+b,e5
+s<dCe
+@-X%
+c<dH$
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+Ab-b
+uPb,b2
+$Pc<c5
+s0%Aa
+uPb,b&
+$Pc<c)
+s0%Aa
+<c3`	
+f@c<c
+;" $l
+Ac=c
+Aaab!$
+Ac=c
+a!b-bp
+@b,b
+9" $
+@b,`
+a!b-b[
+@b,b
+9" $
+@b,`
+a!b-bF
+@b,bc
+9" $
+@b,`
+<c3`	
+Ab-b
+Pb,b
+$Pc<c
+s0%Aa
+Pb,b
+$Pc<c
+s0%Aa
+0"Ai
+f@c<cV
+;" $l
+Ac=c
+Ab-a
+s=c<2!$I
+Ab-b
+r!$C
+Ac=c
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+Ab-b
+uPb,b}
+$Pc<c
+s0%Aa
+uPb,bq
+$Pc<cs
+s0%Aa
+<c3`	
+CePa
+fc`	
+,bk" %A
+,b#`	
+,bk" %A
+,b#`	
+Ab-a9
+s=c<2!$<
+a!b-b3
+@b,b9
+9" $
+@b,`
+a!b-b
+@b,b
+9" $
+@b,`
+a!b-bn
+@b,b
+9" $
+@b,`
+<c3`	
+Ab-b
+Pb,b?
+$Pc<cB
+s0%Aa
+Pb,b7
+$Pc<c7
+s0%Aa
+0"Ai
+CePa
+fc`	
+,bk" %A
+,b#`	
+,bk" %A
+,b#`	
+Ab-a
+s=c<2!$O
+Ab-b
+r!$I
+Ac=c
+qb-bY
+%Qb-`qk
+Qc=`
+ab-b
+C1%=`ql
+#Qb-`
+<c8#
+1c=c
+&qb-b
+r!'ac=c
+qb-bY
+%Qb-`qk
+Qc=`
+ab-b
+C1%=`ql
+#Qb-`
+<c8#
+1c=c
+&qb-b
+r!'ac=c
+qb-be
+%Qb-`qk
+Qc=`
+ab-b
+C1%=`ql
+#Qb-`
+<c8#
+1c=c
+&qb-b
+r!'ac=c
+Ab-b
+Ab-b
+Ab-b
+uPb,b
+$Pc<c
+s0%Aa
+uPb,b
+$Pc<c
+s0%Aa
+uPb,b
+$Pc<c
+s0%Aa
+uPb,b
+$Pc<c
+s0%Aa
+uPb,bz
+$Pc<c{
+s0%Aa
+uPb,bn
+$Pc<co
+s0%Aa
+<c3`	
+<c3`	
+<c3`	
+CePa
+fc`	
+l20%A
+,b#`	
+l1 %A
+Ac=c
+Ab-a
+s=c<2!$
+Ab-b
+Ac=c
+%@c<c
+#0$\
+Ac=c
+%@c<c
+#0$H
+Ac=c
+%@c<c^
+#0$4
+Ac=c
+l59&
+S`,@9%
+l59&
+S`,@9%
+l59&
+S`,@9%
+Ab-b
+Ab-b
+Ab-b
+Pb,b
+$Pc<c!
+s0%Aa
+Pb,b
+$Pc<c
+s0%Aa
+Pb,b	
+$Pc<c
+s0%Aa
+Pb,b
+$Pc<c
+s0%Aa
+Pb,bx
+$Pc<cy
+s0%Aa
+Pb,bm
+$Pc<cn
+s0%Aa
+0"Ai
+0"Ai
+0"Ai
+`* A
+@c<`e
+" $7
+Ab-a
+s=c<2!$(
+Ab-b
+r!$"
+Ac=c
+#`<@
+ab-bAc
+3`<8)#
+;)))
+Qc=c
+$Qb-b
+Ab-b
+`<@Ac)!
+dl4Cf,Fc`9$
+!b-b,
+1c=c
+Ab-b
+`<@Ac)!
+dl4Cf,Fc`9$
+HPa9
+!b-b,
+1c=c
+Ab-b
+,DCb9%
+`b,`<c
+!b-b,
+1c=c
+Ab-b
+<@Ac)!K
+dpa\4Ce,ES`9$
+vQ'<
+!b-b,
+Ac=c
+<@Ac)!#
+dpa\4Ce,ES`9$
+!b-b,
+Ac=c
+Sb9&
+<cpa
+!b-b,
+Ac=c
+<@Ac)!,
+b<B!%Qi
+!b-b,
+1c=c
+Qb-b
+<@Ac)![
+b<B!%Qi
+!b-b,
+1c=c
+Qb-b
+<B!%
+HAb-b
+Qc=c
+$Qb-b
+Ab-a
+s=c<2!$R
+Ab-b
+r!$L
+Ac=c
+a!b-bD
+@b,bc
+9" $
+@b,`
+a!b-b/
+@b,b9
+9" $
+@b,`
+a!b-b
+@b,b
+9" $
+@b,`
+c`,@l5
+S`,@9%l
+(Ab-b
+Ab-b
+a@c<`
+a@c<`
+<c3`	
+" $3
+Ab-b
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+(Ab-b
+(Ab-b
+<c3`	
+b#`	
+Ac=c
+Ab-b
+Ac=c
+ b !)
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+ b !
+Ac=c
+ b !
+Ac=c
+ b !
+Ac=c
+(Ab-b
+(Ab-b
+0"Ai
+Ac=c
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+Ab-b
+b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+(Ab-b
+(Ab-b
+<c3`	
+b#`	
+Ac=c
+Ac=c
+ b !1
+Ac=c
+Ab-b
+Ac=c
+Ac=c
+Ac=c
+ b !
+Ac=c
+ b !
+Ac=c
+ b !
+Ac=c
+(Ab-b
+(Ab-b
+0"Ai
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+Ab-b
+Ab-b
+Ab-b
+(Ab-b
+(Ab-b
+,b#`	
+b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+ b !
+Ac=c
+ b !
+Ac=c
+ b !
+Ac=c
+Ac=c
+Ac=c
+Ac=c
+ b !
+Ac=c
+ b !
+Ac=c
+ b !
+Ac=c
+Ab-b
+Ab-b
+Ab-b
+(Ab-b
+(Ab-b
+Ac=c
+Ac=c
+Ac=c
+Qc=c
+$Qb-b
+Qc=c
+$Qb-b
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+h#`	
+Qc=c
+$Qb-b
+h#`	
+Qc=c
+$Qb-b
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+Qc=c
+$Qb-b
+Qc=c
+$Qb-b
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+h#`	
+Qc=c
+$Qb-b
+h#`	
+Qc=c
+$Qb-b
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+Qc=c
+$Qb-b
+Qc=c
+$Qb-b
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+h#`	
+Qc=c
+C8##
+$Qb-b
+h#`	
+Qc=c
+$Qb-b
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+Ac=c
+Qc=c
+$Qb-b
+Qc=c
+$Qb-b
+<B!$-c
+1c=c<
+,b("
+Ab-b<B("
+!b-b8"
+Ab-b
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+ b,b#`	
+Ac=c
+(Ab-b
+(Ab-b
+<c3`	
+e\31$A
+Pc0&Pa
+&Pb,`
+gPb,b6
+9" %x'
+Pb,b,
+9" %
+Pb,`@
+b*&c`z 
+Pc<`
+Pc<c
+#0%z)
+Pc<`
+Pc<c
+#0%Ab!([
+Ac=c
+L6Pb,e\31$A
+Pc0&Pa
+&Pb,`
+gPb,by
+9" %x'
+Pb,bo
+9" %
+Pb,`@
+f b,b*&c`z 
+Pc<`
+Pc<cT
+#0%z)
+Pc<`
+Pc<cA
+#0%Ab!($
+Ac=c
+e\31$A
+Pc0&Pa
+&Pb,`
+gPb,b
+9" %x'
+Pb,b
+9" %
+Pb,`@
+b*&c`z 
+Pc<`
+Pc<c
+#0%z)
+Pc<`
+Pc<c
+#0%Ab!(N
+Ac=c
+L6Pb,e\31$A
+Pc0&Pa
+&Pb,`
+gPb,ba
+9" %x'
+Pb,bW
+9" %
+Pb,`@
+f b,b*&c`z 
+Pc<`
+Pc<c<
+#0%z)
+Pc<`
+Pc<c)
+#0%Ab!(
+Ac=c
+e\31$A
+Pc0&Pa
+&Pb,`
+gPb,b
+9" %x'
+Pb,b
+9" %
+Pb,`@
+b*&c`z 
+Pc<`
+Pc<c
+#0%z)
+Pc<`
+Pc<cy
+#0%Ab!(@
+Ac=c
+e\31$A
+Pc0&Pa
+&Pb,`
+gPb,bE
+9" %x'
+Pb,b;
+9" %
+Pb,`@
+b*&c`z 
+Pc<`
+Pc<c 
+#0%z)
+Pc<`
+Pc<c
+#0%Ab!(
+Ac=c
+e\31$A
+Pc0&Pa
+&Pb,`
+gPb,b
+9" %x'
+Pb,b
+9" %
+Pb,`@
+b*&c`z 
+Pc<`
+Pc<ci
+#0%z)
+Pc<`
+Pc<cV
+#0%Ab!(.
+Ac=c
+L6Pb,e\31$A
+Pc0&Pa
+&Pb,`
+gPb,b"
+9" %x'
+Pb,b
+9" %
+Pb,`@
+f b,b*&c`z 
+Pc<`
+Pc<c
+#0%z)
+Pc<`
+Pc<c
+#0%Ab!(O
+Ac=c
+L6Pb,e\31$A
+Pc0&Pa
+&Pb,`
+gPb,ba
+9" %x'
+Pb,bW
+9" %
+Pb,`@
+f b,b*&c`z 
+Pc<`
+Pc<c<
+#0%z)
+Pc<`
+Pc<c)
+#0%Ab!(
+Ac=c
+L6Pb,e\31$A
+Pc0&Pa
+&Pb,`
+gPb,b
+9" %x'
+Pb,b
+9" %
+Pb,`@
+f b,b*&c`z 
+Pc<`
+Pc<c
+#0%z)
+Pc<`
+Pc<c}
+#0%Ab!(D
+Ac=c
+e,E=lT
+,33`
+c,b,31(
+Pc0&Pa
+&Pb,`
+fPb,b*
+9" %h&
+Pb,b
+9" %
+Pb,`@
+,33`
+`,b* j 
+Pc<`
+Pc<c
+<B("
+<c:-,M
+b-bG
+r!+Ac=c
+e,E=lT
+,33`
+c,b,31(
+Pc0&Pa
+&Pb,`
+fPb,b*
+9" %h&
+Pb,b
+9" %
+Pb,`@
+,33`
+`,b* j 
+Pc<`
+Pc<c
+<B("
+<c:-,M
+b-bL
+r!+Ac=c
+Qb-e
+`Cc\
+,b,31(
+`c0'`a
+'`b,`
+g`b,bI
+9" &x'
+`b,b>
+9" &
+`b,`@
+`b,`
+`b,b'
+9" &Caz!
+$,DH$
+fcbl2!$A
+c8#	
+Pb 'Pc<c
+Pc0'Pa
+Pc<`
+Pc<c|
+#0%z&
+,Fh&
+%Ac1(9
+31$A
+c8#	
+`b '`c<cH
+`c0'`a
+`b,`
+`b,b
+9" &z(
+`b,`
+`b,b
+9" &Aa
+Ab-b
+`b,fl3
+31$L7A
+c8#	
+`b '`c<c
+`c0'`a
+`b,`
+`b,bX
+9" &z(
+`b,`
+`b,bE
+9" &Aa
+Ab-b
+31$A
+c8#	
+`b '`c<c
+`c0'`a
+`b,`
+`b,b
+9" &z(
+`b,`
+`b,b
+9" &Aa
+Ab-b
+`b,fl3
+31$L7A
+c8#	
+`b '`c<cw
+`c0'`a
+`b,`
+`b,b@
+9" &z(
+`b,`
+`b,b-
+9" &Aa
+Ab-b
+31$A
+`b '`c<c
+`c0'`a
+`b,`
+`b,b
+9" &z(
+`b,`
+`b,bn
+9" &Aa
+Ab-b
+31$A
+c8#	
+`b '`c<cH
+`c0'`a
+`b,`
+`b,b
+9" &z(
+`b,`
+`b,b
+9" &Aa
+Ab-b
+31$A
+c8#	
+`b '`c<c
+`c0'`a
+`b,`
+`b,bX
+9" &z(
+`b,`
+`b,bE
+9" &Aa
+Ab-b
+`b,fl3
+31$L7A
+c8#	
+`b '`c<c
+`c0'`a
+`b,`
+`b,b
+9" &z(
+`b,`
+`b,b
+9" &Aa
+Ab-b
+`b,fl3
+31$L7A
+c8#	
+`b '`c<cw
+`c0'`a
+`b,`
+`b,b@
+9" &z(
+`b,`
+`b,b-
+9" &Aa
+Ab-b
+`b,fl3
+31$L7A
+`b '`c<c
+`c0'`a
+`b,`
+`b,b
+9" &z(
+`b,`
+`b,b
+9" &Aa
+Ab-b
+Cib/
+vQc=k8
+b-h3
+c\9)(
+,33`P
+31!`b,b("	
+&Pb,b<
+9" %
+Pb &Pc<`
+fPc<c*
+#0%h&
+Pc<c
+Pc<`@
+<@)!
+`<c: j 
+`<@)+
+Pb,`
+Pb,b
+9" %
+r!*Ac=c
+Cib/
+vQc=k7
+b-h3
+c\9)(
+,33`P
+31!`b,b("	
+&Pb,b<
+9" %
+Pb &Pc<`
+fPc<c*
+#0%h&
+Pc<c
+Pc<`@
+<@)!
+`<c: j 
+`<@)+
+Pb,`
+Pb,b
+9" %
+r!*Ac=c
+Qb-eA
+`Cc\
+`,b,3
+c8#	
+`b '`c<c[
+`c0'`a
+C`<c: z 
+&Ccz#
+<c:$
+`c<`
+`c<c
+Ac=c
+f@c<`cbl2
+b("	
+'Pb,b
+9" %
+Pb 'Pc<`
+gPc<c
+#0%x'
+Pc<c
+Pc<`@
+Pb,`
+Pb,b
+9" %z&
+Pc<`
+Pc<cr
+b!$<
+Ac=c
+fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b6
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+c1)	
+7Pb,fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+c1)5
+fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b'
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+c1)^
+7Pb,fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,bx
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+c1)*
+fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+c1)J
+fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,bR
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+c1);
+7Pb,fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b6
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+7Pb,fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+c1)5
+7Pb,fh31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b'
+9" %
+Pb,`@
+%C`j z 
+<DH$
+,Fh&
+c1)`
+5B/A
+d,D=l
+,33`
+c,b(31(
+@c0%@a
+%@b,`
+e@b,`
+@b,bY
+9" $
+@b,`@
+`,b* Z 
+@c<`
+@c<c8
+#0$Z-
+,bZ"
+@c<`
+@c<c
++Ab-b
+5B/A
+d,D=l
+,33`
+c,b(31(
+@c0%@a
+%@b,`
+e@b,`
+@b,b
+9" $
+@b,`@
+`,b* Z 
+@c<`
+@c<c`
+#0$Z-
+,bZ"
+@c<`
+@c<c@
++Ab-b
+Ab-d
+,b(31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,b
+9" %
+Pb,`@
+%b`L
+Pb,`
+Pb,b
+9" %z)
+<cz#
+Pc<`
+Pc<cl
+b!*7
+Ac=c
+b("	
+&@b,bP
+9" $
+@b &@c<`
+f@c<`
+@c<c6
+@c<`@
+@b,`
+@b,b"
+9" $
+b*'<Gx'
+@c<`
+@c<c
+#0$Qb!&
+Ac=c
+c8#	
+Pb 'Pc<c
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<c|
+#0%z$
+,DH$
+Pc<`
+Pc<ch
+b!)6
+Ac=c
+Pb,fh3
+c8#	
+Pb 'Pc<cA
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<c
+#0%z$
+,DH$
+Pc<`
+Pc<c
+b!)Z
+Ac=c
+c8#	
+Pb 'Pc<c
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<cX
+#0%z$
+,DH$
+Pc<`
+Pc<cD
+b!)$
+Ac=c
+Pb,fh3
+c8#	
+Pb 'Pc<c
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<c
+#0%z$
+,DH$
+Pc<`
+Pc<c
+b!)O
+Ac=c
+c8#	
+Pb 'Pc<cp
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<cA
+#0%z$
+,DH$
+Pc<`
+Pc<c-
+Ac=c
+Pb 'Pc<c
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<c
+#0%z$
+,DH$
+Pc<`
+Pc<cw
+b!)=
+Ac=c
+c8#	
+Pb 'Pc<cP
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<c!
+#0%z$
+,DH$
+Pc<`
+Pc<c
+Ac=c
+Pb,fh3
+c8#	
+Pb 'Pc<c
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<c|
+#0%z$
+,DH$
+Pc<`
+Pc<ch
+b!)7
+Ac=c
+Pb,fh3
+c8#	
+Pb 'Pc<cA
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<c
+#0%z$
+,DH$
+Pc<`
+Pc<c
+b!)a
+Ac=c
+Pb,fh3
+c8#	
+Pb 'Pc<c
+Pc0'Pa
+%C`j z 
+Pc<`
+Pc<ca
+#0%z$
+,DH$
+Pc<`
+Pc<cM
+b!)+
+Ac=c
+siR/
+uAc=k
+cL9)(
+,33`
+31!Pb,b("
+%@b,b
+9" $
+@b %@c<`
+e@c<`
+@c<c
+@c<`@
+<@)!
+`<c: Z 
+<cZ#,C8#
+1c1-
+*Ab-b
+siR/
+uAc=k(
+b-h$
+cL9)(
+,33`3
+31!Pb,b("	
+%@b,b
+9" $
+@b %@c<`
+e@c<`
+@c<c
+@c<`@
+<@)!
+`<c: Z 
+<cZ#,C8#
+1c1-
+*Ab-b
+Ab-d7
+`,b(3
+c8#	
+Pb 'Pc<cH
+Pc0'Pa
+%b`L
+`<c: z 
+,bz"<B("
+Pb,`
+Pb,b
+9" %
+Ab-b
+$L7A
+c8#	
+Pb 'Pc<c
+Pc0'Pa
+Pc<`
+Pc<co
+%Ac1&0
+Ab-b
+` b,b
+Ab-b
+Ab-b
+` b,b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+` b,b
+Ab-b
+` b,b
+Ab-b
+` b,by
+Ab-b
+s1(Ai
+s1(Ai
+`<c9 A
+Ab-b
+Ab-b
+Ab-b
+` b,b
+Ab-b
+Ab-b
+` b,b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+` b,b
+Ab-b
+` b,b
+Ab-b
+` b,by
+Ab-b
+s1(Ai
+s1(Ai
+`<c: A
+Ab-b
+Ab-b
+Ab-b
+` b,b
+Ab-b
+Ab-b
+` b,b
+Ab-b
+Ab-b
+Ab-b
+Ab-b
+` b,b
+Ab-b
+` b,b{
+Ab-b
+` b,br
+Ab-b
+s1(Ai
+s1(Ai
+`<c; A
+Ab-b
+Ab-b
+eCc$
+X31(#
+gS`	
+`c<c!
+`c<`@
+&C`Z z 
+`c<`
+`c<c
+#0&z$
+,DH$
+`c<`
+`c<c
+#0&Q
+Ab-b
+dPb,eCcH
+X31(G
+gS`	
+`c<cr
+`c<`@
+&C`Z z 
+`c<`
+`c<cN
+#0&z$
+,DH$
+`c<`
+`c<c:
+#0&!
+Ab-b
+X31(
+gS`	
+`c<c
+`c<`@
+&C`Z z 
+`c<`
+`c<c
+#0&z$
+,DH$
+`c<`
+`c<c
+#0&J
+Ab-b
+dPb,eCcA
+X31(@
+gS`	
+`c<cc
+`c<`@
+&C`Z z 
+`c<`
+`c<c?
+#0&z$
+,DH$
+`c<`
+`c<c+
+Ab-b
+X31(
+gS`	
+`c<c
+`c<`@
+&C`Z z 
+`c<`
+`c<c~
+#0&z$
+,DH$
+`c<`
+`c<cj
+#0&8
+Ab-b
+eCc/
+X31(.
+gS`	
+`c<cB
+`c<`@
+&C`Z z 
+`c<`
+`c<c
+#0&z$
+,DH$
+`c<`
+`c<c
+Ab-b
+eCcZ
+X31(Y
+gS`	
+`c<c
+`c<`@
+&C`Z z 
+`c<`
+`c<cr
+#0&z$
+,DH$
+`c<`
+`c<c^
+#0&3
+Ab-b
+dPb,eCc*
+X31()
+gS`	
+`c<c6
+`c<`@
+&C`Z z 
+`c<`
+`c<c
+#0&z$
+,DH$
+`c<`
+`c<c
+#0&Y
+Ab-b
+dPb,eCcP
+X31(O
+gS`	
+`c<c
+`c<`@
+&C`Z z 
+`c<`
+`c<c]
+#0&z$
+,DH$
+`c<`
+`c<cI
+#0&)
+Ab-b
+dPb,eCc 
+X31(
+gS`	
+`c<c!
+`c<`@
+&C`Z z 
+`c<`
+`c<c
+#0&z$
+,DH$
+`c<`
+`c<c
+#0&V
+Ab-b
+c=iI
+\:ce))
+@9"@
+2!(0c<f
+,33`
+cc,`
+Pc<cO
+Pc<`@
+Pb,`
+Pb,b
+9" %j-
+`<@),
+aj!<A
+Pb,`
+Pb,b
+9" %
++Ab-b
+c=iT
+\:ce))
+@9"K
+2!(0c<f
+,33`
+cc,`
+Pc<cd
+Pc<`@
+Pb,`
+Pb,b4
+9" %j-
+`<@),
+aj!<A
+Pb,`
+Pb,b
+9" %
++Ab-b
+Ab-dU
+,bsf(31(
+#R`L
+`c<c
+`c<`@
+&R`L
+`<c: z 
+,bz"<B("
+`b,`
+`b,bB
+9" &%
+0c<f.
+cb9"+ 
+@b,b 
+9" $
+@b,`@
+@c<c
+@c<`
+@b,`
+@b,b
+9" $\
+ b,b*%<EX%
+@c<`
+@c<c
+#0$U
+Ab-b
+Ac=c
+#`<@
+Ab-b
+Ac=c
+#`<@
+ab-b
+r!(Ac=cz
+C1'=`Aa
+qb-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@
+Ab-b
+Ac=c
+!b!'Ac=c^
+C1&=`Aa
+`pa) 
+ab-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!ac=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%Qa
+b-e(
+,b,31(
+`c0'`a
+'`b,`
+g`b,b
+9" &x'
+`b,b
+9" &
+`b,`@
+`b,`
+`b,b
+9" &Caz!
+$,DH$
+*Ab-b
+!%Ac=c3
+C1&=`Aa
+`Pa) 
+ab-`
+<c8#
+qb-b<B("
+!b-b8"
+qb-b
+9",1
+!ac=`
+qc=c
+C8#	
+1c=c
+qc=c
+(qb-b
+Ac=c
+#`<@\
+Ab-b
+r!$,
+Ac=c
+ab-b
+r!(Ac=c#
+C1'=`Aa
+qb-`
+<c8#(
+Qb-b<B(""
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@X
+Ab-b
+r!$*
+Ac=c
+ab-b
+r!(Ac=c
+C1'=`Aa
+qb-`
+<c8#'
+Qb-b<B("!
+!b-b8"
+Qb-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@
+b-e6
+`Cc\
+`,b,3
+c8#	
+`b '`c<cK
+`c0'`a
+C`<c: z 
+&Ccz#
+<c:$
+`c<`
+`c<c
+c=c_
+s1*Aa
+!%Ac=cP
+C1&=`Aa
+`Pa) 
+ab-`
+<c8#
+qb-b<B("
+!b-b8"
+qb-b
+9",1
+!ac=`
+qc=c
+C8#	
+1c=c
+qc=c
+(qb-b
+Ac=c
+#`<@
+Ab-b
+r!$A
+Ac=c
+c=c1
+s1(Ai
+ab-b
+r!(Ac=c#
+C1'=`Aa
+qb-`
+<c8#,
+Qb-b<B("&
+!b-b8" 
+Qb-b
+`Ab-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@
+Ab-b
+r!$@
+Ac=c
+!b!'Ac=c2
+C1&=`Aa
+`pa) 
+ab-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!ac=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%Qa
+b-dZ
+,b(31(
+Pc0'Pa
+'Pb,`
+gPb,`
+Pb,by
+9" %
+Pb,`@
+%b`L
+Pb,`
+Pb,bc
+9" %z*
+<cz#
+Pc<`
+Pc<cL
+c=c,
+s1)Aa
+!%Ac=c
+C1&=`Aa
+`Pa) 
+ab-`
+<c8#,
+qb-b<B("&
+!b-b8" 
+qb-b
+`Ab-b
+9",1
+!ac=`
+qc=c
+C8#	
+1c=c
+qc=c
+(qb-b
+Ac=c
+Qaab!%
+acQa
+&1%$
+abQc1&!%'
+#`<@
+Ab-b
+Ac=c
+b,d_
+c=c[
+s1(Aj
+ab-b
+r!(Ac=cz
+C1'=`Aa
+qb-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@
+Ab-b
+Ac=c
+b-d\
+`,b(3
+c8#	
+Pb 'Pc<c
+Pc0'Pa
+%b`L
+`<c: z 
+,bz"<B("
+Pb,`
+Pb,bL
+9" %
+b-b,
+r!)Ac=c
+!%Ac=c
+C1&=`Aa
+`Pa) 
+ab-`
+<c8#,
+qb-b<B("&
+!b-b8" 
+qb-b
+`Ab-b
+9",1
+!ac=`
+qc=c
+C8#	
+1c=c
+qc=c
+(qb-b
+Ac=c
+#`<@i
+Ab-b
+r!$5
+Ac=c
+a9!Pc
+qc=c
+C8#'
+!b-b8"!
+Ac=c
+C1&=`Ac=c
+"ab-`
+<c8#
+qc=c
+a9!Pc
+qc=c
+!b-b8"
+Ac=c
+C1&=`Ac=c(
+"ab-`
+<c8#
+qc=c
+a9!Pc
+qc=c
+!b-b8"
+Ac=c
+C1&=`Ac=ch
+"ab-`
+<c8#
+qc=c
+ab-b
+r!(Ac=c#
+C1'=`Aa
+qb-`
+<c8#*
+Qb-b<B("$
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@
+Ab-b
+r!$@
+Ac=c
+!b!'Ac=c2
+C1&=`Aa
+`pa) 
+ab-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!ac=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%Qa
+!b!'Ac=cc
+C1&=`Aa
+`pa) 
+ab-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!ac=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%Qa
+!b!'Ac=c1
+C1&=`Aa
+`pa) 
+ab-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!ac=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%Qa
+`<c9 Q
+%Ab-b
+r!$b
+Ac=c
+!%Ac=cV
+C1&=`Aa
+`Pa) 
+ab-`
+<c8#
+qb-b<B("
+!b-b8"
+qb-b
+9",1
+!ac=`
+qc=c
+C8#	
+1c=c
+qc=c
+s1' 
+(qb-b
+Ac=c
+!b!!
+Ac=c
+!b!!`
+Ac=c
+!b!![
+Ac=c
+#`<@
+Ab-b
+r!$B
+Ac=c
+Aaab!$
+Ac=c
+Aaab!$
+Ac=c
+Aaab!$
+Ac=c
+ab-b
+r!(Ac=c#
+C1'=`Aa
+qb-`
+<c8#0
+Qb-b<B("*
+!b-b8"$
+Qb-b
+`Ab-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@{
+Ab-b
+r!$=
+Ac=c
+`<c: Q
+%Ab-b
+r!$(
+Ac=c
+!%Ac=c
+C1&=`Aa
+`Pa) 
+ab-`
+<c8#*
+qb-b<B("$
+!b-b8"
+qb-b
+`Ab-b
+9",1
+!ac=`
+qc=c
+C8#	
+1c=c
+qc=c
+s1'(
+(qb-b
+a(!&
+Ac=c
+a(!!
+#`<@&
+Ab-b
+Ac=c
+Ac=c
+a(!|
+$ab-b
+r!(Ac
+C1'=`Aa
+qb-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@
+Ab-b
+Ac=c
+!b!'Ac=ca
+C1&=`Aa
+`pa) 
+ab-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!ac=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%Qa
+`<c; Q
+%Ab-b
+r!$(
+Ac=c
+!%Ac=c
+C1&=`Aa
+`Pa) 
+ab-`
+<c8#*
+qb-b<B("$
+!b-b8"
+qb-b
+`Ab-b
+9",1
+!ac=`
+qc=c
+C8#	
+1c=c
+qc=c
+s1'0
+(qb-b
+a(!&
+Ac=c
+!b!!5
+Ac=c
+!b!!0
+Ac=c
+!b!!+
+Ac=c
+a(!!
+#`<@&
+Ab-b
+Ac=c
+Ac=c
+a(!|
+$ab-b
+r!(Ac
+C1'=`Aa
+qb-`
+<c8#
+Qb-b<B("
+!b-b8"
+Qb-b
+`Ab-b
+9",1
+!qc=`
+Qc=c
+C8#	
+1c=c
+Qc=c
+s1%aa
+#`<@
+Ab-b
+Ac=c
+b-dq
+l5sf
+,b(31(
+gR`scL
+`c<c
+`c<`@
+&R`L
+`<c: z 
+,bz"<B("
+`b,`
+`b,bH
+9" &
+)Ab-b
+!%Ac=c
+C1&=`Aa
+`Pa) 
+ab-`
+<c8#.
+qb-b<B("(
+!b-b8""
+qb-b
+9",1
+!ac=`
+qc=c
+C8#	
+1c=c
+qc=c
+s1'8
+(qb-b
+Ab-b#a
+Ab-b@
+Ab-b#a
+Ab-b0
+Ab-b#a
+Ab-b#
+`<@Ac)!
+`<@Ac)!
+Ab-b#a
+Ab-b?
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+BeX%
+/"OChSi
+]u`@j
+j@2"
+3V`\f
+A)Cf
+A)`;
+A)a;
+tU5Pz
+k/$I8
+k/$I8
+DEST
+t0Z8H
+Q('/\{
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+B^@V
+B^pzZ
+6e-{
+rn{p
+COREDLL.dll
+DirectDrawCreate
+DDRAW.dll
+timeGetTime
+MMTIMER.dll
+???,&"
+X128
+Normal
+HELP SCREEN
+F1 : This screen.
+F2 : Multiface 128.
+F3 : Select Mem.Model.
+F4 : Joystick Select.
+F5 : Load Z80/SNA/SLT.
+F6 : Save Z80/SLT File.
+F7 : Select TAP/VOC File.
+Alter ULA Delay
+F8 : VOC Options.
+F10: Quit.
+F11: Sound Option
+Keyboard Issue :
+Alter Screen Skip
+Alter Slow Down
+AUTO
+PRESS ESCAPE TO RETURN.
+x128 V0.5 By James McKay
+MEMORY MODE SELECT
+Reset To 128K Mode
+Reset To 48K Mode
+128K Mode, no reset
+48K Mode, no reset
+Current Mode :
+48K.
+128K.
+PRESS ENTER TO SELECT.
+JOYSTICK SELECT
+Left/Right Caps On/Off
+Cursors Keys
+(+Caps)
+Kempston (IN 31)
+Sinclair 1 (1-5)
+Sinclair 2 (6-0)
+       
+delay
+DELAY
+frame
+FRAME
+quiet
+QUIET
+.z80
+.slt
+.sna
+.tap
+.voc
+No error.
+dump.tmp
+Save Z80/SLT File
+\CD-ROM\SPECCY\
+z80.tbl
+48.rom
+zx128_1.rom
+zx128_0.rom
+mf128.rom
+.psg
+CREATE PSG FILE
+Overwrite (Y/N)?
+Could not create file!
+SAVE Z80 FILE
+SAVE SLT FILE
+Could not create SLT
+because of an error
+while trying to split
+the original file.
+SLT-Z80 INTERNAL LOAD
+Z80 file would not open!
+SLT INTERNAL LOAD FAILED
+Attempting to load
+level
+The file is not within
+this SLT file.
+.dat
+.DAT
+                            
+DAT LOAD FAILED
+PRESS ESCAPE FOR
+MANUAL SELECTION
+5542
+<???
+Creative Voice File
+VOC OPTIONS
+Threshold :
+No_of_t vary :

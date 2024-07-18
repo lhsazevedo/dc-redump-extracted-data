@@ -1,0 +1,1655 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+`.data
+.pdata
+@.rsrc
+@.reloc
+!Tcp
+Microsoft Unified Security Protocol Provider
+Microsoft PCT
+Microsoft PCT 1.0
+Microsoft SSL 3.0
+Microsoft SSL 2.0
+Microsoft SSL
+CtcP
+Microsoft Unified Security Provider
+Microsoft PCT 1.0  Security Provider
+Microsoft SSL 3.0 Security Provider
+Microsoft SSL 2.0 Security Provider
+certificate
+private-key
+C=US, O=VeriSign, Inc., OU=Class 3 Public Primary Certification Authority
+CN=Root SGC Authority
+eerF
+CLNT
+SRVR
+cmac
+svmac
+Email=
+Name=
+Addr=
+None
+DDDD
+EEEEE
+@fh&
+Ma 1
+Bb9""$3
+Bb9""$
+/"OCh
+/"Oj
+tG; 
+\2!]
+"VcbG
+\2!Wx'
+\6ch
+tG;+
+"VcbG
+\2!\
+\6ch
+R"b(1
+/"O{
+/"Oj
+QW1,
+l2!R#gx'
+QW1 
+l2!Wx'
+/"OSkcj
+DTCf
+DTCg
+e<uVdDyVe
+ScDQ
+C<2"b 1
+Sd@1
+CfTvba
+CgXwra
+raCg
+wVp6
+SQ+!
+AV`2
+CgTwra
+CfXvba
+baCf
+gW`7
+AV`2
+/"OCkSlcj
+dB(Ch
+ScDQ
+C<2"b 1
+Sd@1
+/"OSh
+cUSdFTH$
+Vbgx'
+"!uQ
+AUX%
+Ra"b 1
+/"OSjck
+/"Oz
+CkSj
+AUX%
+Ra"b 1
+/"OCh
+/"OCh
+/"OChSi
+/"OChSi
+/"OCiSh
+/"OCiSh
+X\bhntz
+E@54
+\4CeX%8
+E\4H$0
+/"OCh
+/"OCkSlsi
+/"Oi
+QG1+
+WsbG
+l2!UP1
+sml7
+sil7
+l7sm
+l7sl
+cdSd4
+l2!\
+siX%
+l7sk
+eca\1
+c<2%
+/"OX
+QG1(
+VcbG
+|2!UX%
+|6ch
+|6cj
+|6ck
+S82)
+S<2"
+|2!Z
+chX%
+|6cm
+eCa\1`1
+!RBa+!
+2!R'b
+Ba)!
+/"OChSk
+/"Oz
+j@z@
+1R!a
+FeFdR
+,?&O
+/"OSh
+/"O{
+Y yL9
+/"OChSmclsk
+/"OShh&
+/"OChSkci
+/"OChSmsl
+,dH$
+/"OChSlcksj
+/"OChSlcksj
+/"OChSicj
+dH$	
+/"OG
+Smcl
+L9Ck
+PdH$
+/"OChSi
+Cc(#
+/"OChSi
+THVh&
+/"OChSick[
+,?&O
+/"Ochsi
+RWpa
+2#cl2 b,bl7|3'b #
+,?&O
+/"OChSj
+/"OChSi
+a"1:
+@"!Y
+B)Cf
+bBa,1
+,?&O
+/"OCh
+dH$5
+`,b* 
+d,b* 
+`,b* 
+/"OChci<
+fh4H$
+/"OChSj
+/"OCh
+/"OCh
+/"OChSmclsk
+AQBb"!BaAR!
+B%AQ
+AQR!Q
+/"OCh
+/"OCh
+/"OCh
+/"OG
+Smclsk
+"b,0
+/"OChSmcl
+"b,0
+/"OX
+UX%	
+a"b"1
+/"OCh
+Q$S4
+Q'S7
+/"OCh
+@"!	
+2"dH$
+/"OCh
+2"eX%
+2"dH$
+/"OCh
+b<2"b
+/"OChSm
+/"OChSm
+2"dH$
+(<2"dJTCa
+2"b*R,;
+/"OCh
+/"OCh
+a"b 1
+4BdH$
+d@tBa
+hL	0{
+/"OChSi
+a"b 1
+CeP1
+/"OCh
+GV`4
+E@u@
+F8ql1
+8ql1!
+GV`4
+dCf<vfe`
+bff$rR"
+bDvfe,rffR"a
+c,34
+c2c4S
+Bb"a
+/"OShcm
+TH$ 
+"OSf
+/"OG
+Sjch
+,?&O
+/"OCh
+FS`l5Ra
+/"OCh
+a"b 1
+/"OChSj
+/"OChSg
+rd@1
+rV(DqW
+/"Oz
+"bP2
+qQP1
+aV1	
+|6bQ@1
+aV1	
+|6bQ@1
+aV1	
+|6bQ@1
+aV1	
+|6bQ@1
+aV1	
+|6bQ@1
+/"OSh
+/"OSh
+/"OSh
+/"OSh
+/"OSh
+/"OH
+clSf
+A,b 1
+b<rVdVeB"Q
+b uVdDrVeB"@
+dCeTuReX%
+dCeUUX%
+eTuReX%
+/"OCh
+tSgpa
+/"OChSlcksj
+/"OChSkcjsi
+/"OCh
+/"OChSmclsk
+/"OChSkcjsi
+/"OCjSmchsi
+)H$=
+AFfR!a
+FeFfR
+&)@a
+RSA2lK
+/"OChSmclsk
+a 1?
+RSA2
+,?&O
+/"OChSiclsk
+/"OChSiclsk
+/"OCiSlchsk
+Q 1;
+,gSf
+`l2 b$
+RSA2
+/"OChSlcksj
+/"OChSkcj
+TCfce
+$H$M
+$H$9
+$H$%
+(B)!
+/"OChcksj
+DCg|1
+|1!P<
+aHy+
+62Q,
+B(!#
+,?&O
+/"OChcjsi
+TH$-
+/"OCiSh
+rQU\4Ce)%X%
+cj\4
+e!S<1
+R!S81
+/"OChci
+rQQ 1
+RT@a
+"OC`Sd
+cbAQ
+BT@a
+/"OChSi
+/"OChSjci
+[!R,;{
+$H$@
+(B)!
+/"O{
+Chck
+R("(
+D	DF1
+"dH$c
+R2c"e2Q
+/"OChSjci
+Q!R 1
+/"Oi
+R8V 6
+,?&O
+/"OChSi
+Vh&	
+/"OChSjci
+U]e 
+eP2	
+\4H$o
+dH$ 
+Q(B)!
+/"OCh
+b%H$
+/"OChSjcksi
+@,4=
+@h47
+b+#;
+B<c;"#d
+\4CeX%
+\4CeX%
+`'pl
+,ccb
+	DF1 
+d|tHu
+!a	|
+<3|<<
+tL<L;
+d)|){l
+Q82(1
+/chsjCgsf\7si
+G+'sa|6
+/"Oj
+Sisl
+b,5@
+dH$	
+/"Oi
+Smsl
+SL30c<c;"$
+RSA1
+/"OChSkci
+P'td
+qCg 'l1
+/"OChSi-
+,?&O
+/"OclsmSf
+vce'u
+/"O{
+H,R.
+/"OChsl
+,?&O
+/"OG
+hL	D
+C;"l1 !X%
+/"OChSjci
+Wx'X
+dLdH$
+Q!R$
+/"Ox
+,?&O
+/"OChSlcksj
+R!DdD
+1VdB!Td
+/"OChcksjSf
+RaQ!R,1
+TbUP4
+AaV8
+QAVh1
+hH	D
+/"OChSjci
+/"OChcm
+R\F1
+b+&RR
+QRl2#aF1
+c>c5
+Q!R(1
+/"OCh
+b+*$
+e	u$
+/"OChSkcj
+/"OX
+Chcmsl
+T	V	
+/"OShcj
+/"OChSlcksj
+/"OShck
+4Ci	
+/"OChSi
+/"OChsi
+T	V	X	,
+/"OChSjsi
+T	V	X	,
+/"OChSk
+tSgpa
+/"OCmShcisl
+,?&O
++)GR
+6!R(9
+"Ocg
+5!R,1
+/"OShcj
+eSa@
+%SdC`
+?Ca)A
+/"OChSm
+r#e!
+B,a@
+/"OX
+"#Cb	r
+/"OChSm
+B+#0+
+/"OX
+d<tM
+f,4M
+/"OChSj
+/"OCjSh
+c;""*
+B;"!
+B;""
+q\1L1
+/"OCiSlck
+SSa=
+T\4D
+Q!R,1
+B+#0! 
+,?&O
+/"OCich
+QVf1
+dCa(!
+D+$QQL1f1
+UQUF5
+,?&O
+/"OG
+Sicjsl
+/"OCh
+/"OChcj
+QTH$_
+Wx'U
+C9"@
+fB/Q
+fh& 
+e\eP2
+/"Och
+/"OChSmclsk
+/"OChSkcj>
+,?&O
+/"OChSlckZ
+,?&O
+IWx'
+/"OCkSmch
+Y!R,9
+VcdAQ
+B+#0! 
+,?&O
+/"OChci
+QTF1
+gsa(!
+b+'Rb
+)'Rb
+QQ|1F1
+[!S8;
+,?&O
+/"OChq
+,?&O
+/"O{
+dXtBdH=
+a"b 1
+a"b 1
+ddtBdH$J
+4Cm	
+/"OChSmcisl
+dH$	
+lX|T
+/"OCh
+/"Ochsi
+@bV&O
+bl2 b
+A,b,1
+r$c`
+/"OG
+Smsl
+/"OX
+/"OG
+Smsl
+/"OG
+Smclsk
+eSaL8
+bl2Ce b
+/"OChSmclsk
+/"OChSmclsk
+/"OChSmclsk
+/"OChSiclsk
+R("p
+S>2'
+R>2(
+1VdVeB!Q
+5VdVeB(Q
+/"OChSm
+/"OX
+Chcm
+QH17
+/"Oz
+Ckcl
+/"OChSlcksj
+/"OChSmclsk
+/"OChSlcksj
+/"OChSjci
+/"OCiSjck
+4H<L=
+/"Oz
+ClShcm
+,?&O
+/"OChSicjsl
+C`L;
+/"OShci
+tSgpa
+/"Oj
+nRSA1
+/"Oj
+CjSl
+R,5@
+nRSA2
+/"OClSmchsi
+/"OChSicjsk
+?Cl3
+4CePa
+,?&O
+RSA2
+/"OChSkcj
+/"OChSjci
+/"OCh
+"OS`ce
+/"OChSi
+"OS`ce
+/"OSh
+/"OSh
+/"OSh
+/"OSh
+/"OSh
+eSa@
+%SdC`
+/"OChSm
+R,5Q
+L0uF
+Q81X%
+/"OX
+dCa@
+RFrl2L2\2|2
+ESi	Ff
+Bpu,5
+C<1 
+dPt&|
+,b+!
+A,b+!
+,b+!
+/"OChSm
+R,1e
+8q&1
+/"OX
+b+!Y
+B;"xu
+A,b+!
+A,b+!
+/"OChSj
+R,9K
+/"OX
+c;"'
+B;"&
+B;"%
+B;"$
+@-dQ
+/"OChSj
+Y$y&9
+/"OChSm
+/"OChSj
+/"OChSj
+/"OCh
+/"OCh
+TAVcj
+/"OCh
+/"OChSmcl
+TMdCfceP1
+vce~
+a(AK!
+a(A-b+!
+TCe#
+L5SdH$"
+\4H$i
+Q(B)!
+/"OChckSf
+,b02
+/"OChcisjSf
+@h4#
+hX	8
+/"OChSk
+/"OChSi
+R8")
+/"Oi
+vx'Si
+cePa
+/"OCh
+d,4A`
+d'tH
+#e$u
+hX	8
+/"OChSj
+TATCi0
+/"Oz
+CkSm
+/"OShsk
+")B$
+/"OChSi{
+/"Oj
+ChSj
+/"OChsj
+/"Oz
+CkSj
+2 b,e
+/"OChSj
+T	tA
+/"OChSkcj
+TCeP2
+(E@5
+$H$:
+Q(B)!
+/"OChcisj{
+6bfCa
+2"b 6
+B(!#
+,?&O
+/"OChSkcj
+SCf1R
+r)&h&
+Ql4\4L1
+$C`X
+/"OCkci
+a#R 1
+R"`<
+RHv"c t
+B(!$
+"OC`Sd
+6bfcbAQ
+BT@a
+/"OCjSh
+UQU\4Ce
+cl\4
+R!R(1
+/"OCjSh
+RQU\4Ce
+r)%X%
+ck\4
+R!S<1
+R!S81
+/"OChci
+/"OChSlci
+\4CeX%
+S!Z1S<:
+Q0q\1
+$H$<
+(B)!
+,?&O
+/"O{
+Cjck
+a-b(
+Sb)B
+R(B]e+%
+2#cL2 b,bL5\3'b #
+/"O{
+Cicl
+b!S;
+2"b 6
+2"b 6
+2"b 6
+/"Oi
+B(!i
+a'R 1
+W2S4
+fxvB&
+U|t u
+Q!R 1
+@$tB
+,?&O
+/"OChSlck
+,?&O
+/"OY
+S9""$
+@CeH
+s2%AR,32
+AR,37
+AR,38
+RSA2Bfcb
+Fcab$
+/"OChSi
+/"O{
+\2"b
+TCf@
+RSA1RSA2
+/ShciCf
+`,j|
+,aC`
+6lfl
+wC`|g
+/ShclCfck3
+uc`\e\
+,gcb|4c`Ld
+iL2 ccb4
+a|3<c<2 b
+m,b*-
+P+@*
+#EgvT2
+/"OChSlck
+DL2&4	J?
+*=B,1
+/"OCh
+# aSb
+#sa:
+"ca*!<1
+C-D;$\4
+ACc+!
+A+!Sb
+z")#sb:"
+2,6cb
+=Fk"L2#f
+"Ca(
+#Sa:!,1
+=G(A
+A{!l1
+Asc+!
+A+!Cb
+j")#Cb:"
+2,5Sb
+E=B	E["|2#e
+saj!
+#ca:!,1
+=DK!\1
+A+!Sb
+z")#sb:"
+2,6cb
+=Fk"L2#f
+CaZ!
+#Sa:!,1
+=G(A
+A{!l1
+A+!Cb
+j")#Cb:"
+2,5Sb
+E=B	E["|2#e
+saj!
+#ca:!,1g
+=DK!\1
+bCc%
+A+!Sb
+z")#sb:"
+2,6cb
+=Fk"L2#f
+CaZ!
+#Sa:!,1H
+=G(A
+A{!l1
+LCaj!
+bCc-
+L+,sb
+"*#4
+3,3<5Sa
+E=A	E[!|1
+Ksaj!
+bcc1
+K++Sb
+"*#)
+3,3<4Ca
+=DK!\1
+JSaz!
+bsc5
+J+*Cb
+3,3<6ca
+=Fk!L1
+ICaZ!
+bSc9
+I+)cb
+p $"
+,3<7sa
+=G(A
+A{!l1
+HCaj!
+H+(sb
+H;(Cc
+3,3<5Sa
+E-A	E[!|1
+eSaz!cb
+"sc*#
+,3<4Ca
+=D-AK!\1
+dCaZ!sb
+"Sc*#
+,3<6ca
+Ak!L1
+fCaj!Sb
+"Cc*#
+3,3<7sa
+)G-A	G{!l1
+gsaj!Cb
+"cc*#
+,3<5Sa
+=E-A[!|1
+eSaz!cb
+"sc*#
+,3<4Ca
+=D-AK!\1
+dCaZ!sb
+"Sc*#
+,3<6ca
+Ak!L1
+fCaj!Sb
+"Cc*#
+3,3<7sa
+)G-A	G{!l1
+gsaj!Cb
+"cc*#
+,3<5Sa
+=E-A[!|1
+eSaz!cb
+"sc*#
+,3<4Ca
+=D-AK!\1
+dCaZ!sb
+"Sc*#{
+3,3<6ca
+Ak!L1
+fCaj!Sb
+"Cc*#
+R,3s
+,3<7sa
+)G-A	G{!l1
+gsaj!Cb
+"cc*#
+R,3h
+,3<5Sa
+=E-A[!|1
+eSaz!cb
+"sc*#]
+3,3<4Ca
+=D-AK!\1
+dCaZ!sb
+"Sc*#
+R,3e
+,3<6ca
+Ak!L1
+fCaj!Sb
+"Cc*#
+R,3T
+,3<7sa
+)G-A	G{!l1
+gsaj!Cb
+"cc*#X
+3,3<5Sa
+=E[!|1
+Qz"O
+2<2,4Ca
+$\4Cb
+QZ"z"
+2,6cc3f
+C-F;&L6Cc8
+j#Z#
+3<7sb#g)B(G+'l79
+scj#J#
+3<5Sa
+E[!|1
+Rz#j#,3 
+,3<4Ca
+AK!\1
+RZ#z#,3
+,3<6ca
+-F=Ak!L1
+3,3<7sa)G(A{!l1
+3,34
+<5QZ^&
+E[!|1
+Scz#j#
+3,3<4Ca
+AK!\1
+RZ#z#,3
+,3<6ca
+-F=Ak!L1
+3,3<7sa)G(A{!l1
+3,3<5Sa
+E[!|1
+Rz#j#,3
+,3<4Ca
+AK!\1
+/Z#z#
+3,3<6cc
+j#Z#
+3,3<7sb)G(B{"l2#gscj#
+3<5Sb
+E["|2#e
+gbSa+!sb
+a<2,1
+-A=D
+$\4wbCc+#Sa:!
+Bk"L2#fWbcc+#Ca:!
+)G=B
+G{"l2#gGbsc+#ca:!
+E=B["|2#egbSc+#sa:!|
+D=BK"\2#dwbCc+#Sa:!
+Bk"L2#fWbcc+#Ca:!
+S<1l
+)G=B
+G{"l2#gGbsc+#ca:!
+S<1[
+E=B["|2#egbSc+#sa:!
+S<1_
+D=BK"\2#dwbCc+#Sa:!V
+Bk"L2#fWbcc+#Ca:!
+S<1C
+)G=B
+G{"l2#gGbsc+#ca:!4
+E=B["|2#egbSc+#sa:!
+S<11
+D=BK"\2#dwbCc+#Sa:!"
+Bk"L2#fWbcc+#Ca:!
+S<1'
+)G=B
+G{"l2#gGbsc+#ca:!
+S<1$
+E["|2#e
+ND")
+Y[eeV
+/"OChSf
+c*#<1
+S<1k
+-C	L;,
+b:",1
+R,1_
+=B	M+-
+c*#<1
+S<1S
+-C	I;)
+b:",1
+R,1G
+=B	J+*
+c*#<1
+S<1;
+-C	K;+
+b:",1
+R,1/
+=B	L+,
+c*#<1
+S<1#
+-C	M;-
+b:",1
+=B	I+)
+c*#<1
+-C	J;*
+=B	K++
+c*#<1
+-C	L;,
+b:",1
+b=B	M+-
+c*#<1
+-C	I;)
+b:",1
+=B	J+*
+c*#<1
+-C	K;+
+b:",1
+=B	L+,
+c*#<1
+-C	M;-
+b:",1
+=B	I+)
+c*#<1
+-C	J;*
+b:",1
+=A	K
+#<2{
+=A	L
+#<2q
+=A	M
+#<2f
+=A	I
+#<2\
+=A	J
+#<2Q
+=A	K
+#<2G
+=A	L
+#<2<
+=A	M
+-,: 
+#<22
+=A	I
+#<2'
+=A	J
+*,<"
+=A	K
+=A	L
+,,9$
+=A	M
+=A	I
+),;&
+=A	J
+=A	K
++,=(
+=A	L
+=A	M
+-,:*
+=A	I
+=A	J
+*,<,
+2<2,=
+-A	K
+	L-A
+a+#4
+	M-A
+	I-A
+a+#4
+	J-A
+	K-A
+a+#4
+	L-A
+	M-A
+a+#4
+	I-A
+	J-A
+a+#4
+	K-A
+	L-A
+a+#4
+	M-A
+	I-A<;
+a+#4
+	J-A
+	K-A
+a+#4
+	L-A
+	M-A
+a+#4
+	I-A
+	J-A
+a+#4
+	K=B++
+=B	L+,
+=B	M+-
+=B	I+)
+=B	J+*
+c<1w
+=B	K++
+S<1l
+=B	L+,
+S<1b
+=B	M+-
+S<1W
+=B	I+)
+S<1M
+=B	J+*
+S<1B
+=B	K++
+S<18
+=B	L+,
+S<1-
+=B	M+-
+S<1#
+=B	I+)
+=B	J+*
+=B	K++
+=B	L
+S<13
+=B	M+-
+S<1)
+=B	I+)
+=B	J+*
+B	K++
+2S`"b
+H$B)
+/"OCjShci
+RSA2xF
+/"OChSicj
+$x\8
+/"OCh
+H6c`
+/"OChSjci
+c r,1
+bL2 bL30c,b<c:"
+7l7pa\30c
+b<c:"#e
+ 'Ca\1
+30cL6`a
+b<c:"#e
+/"OCl
+RSA18
+/"OChSick
+2"b("
+/"OShci
+Q.18
+/"Oi
+X6ce
+4BaX1
+4BaX1
+eBa\1
+/"OChSi
+/"OChSi
+/"O{
+Vl4F
+Vce[
+tH$	
+t!DCl
+dH$ 
+/"O{
+/"OChSi
+vh&	
+2"b("
+Sfh&
+2"b("
+/"OX
+Ckcisj
+/"OChSmclsk
+/"OChSicj
+x'R.A
+5VdVeB.Q
+VdVeB.Q
+/"Oj
+dB!)
+/"Oz
+tCh	
+B+$Ca
+/"O{
+2"b("
+2"b("
+@Cf%
+/"OG
+Smclsk
+1VeB!@
+/"OChSmclsk
+1VeB!@
+/"OG
+Smclsk
+6B!4
+/"OX
+Chcmsl
+1VeB!@
+/"OX
+Chcmsl
+1VeB!@
+/"OY
+Cjci
+VdVeB.
+6VeB.
+#EgvT2
+/"OChSmclsk
+/"OChSkcj
+/Chcj
+GSb|2"c)C
+CSm4
+kC`Sm
+C`|=
+/ChSi
+cc|30csj
+k<ccj
+C;+sc
+jsc(K
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+,DK!
+/"OCe
+Sa)A]e]i
+COREDLL.dll
+SCHANNEL.dll
+AcceptSecurityContext
+AcquireCredentialsHandleA
+AcquireCredentialsHandleW
+ApplyControlToken
+CompleteAuthToken
+DeleteSecurityContext
+EnumerateSecurityPackagesA
+EnumerateSecurityPackagesW
+FreeContextBuffer
+FreeCredentialsHandle
+ImpersonateSecurityContext
+InitSecurityInterfaceA
+InitSecurityInterfaceW
+InitializeSecurityContextA
+InitializeSecurityContextW
+MakeSignature
+QueryContextAttributesA
+QueryContextAttributesW
+QuerySecurityPackageInfoA
+QuerySecurityPackageInfoW
+RevertSecurityContext
+SPReInit
+SealMessage
+SecurityPackageControl
+SslCrackCertificate
+SslFreeCertificate
+SslGenerateKeyPair
+SslGenerateRandomBits
+SslGetDefaultIssuers
+SslGetMaximumKeySize
+SslGetProtocols
+SslLoadCertificate
+SslSetProtocols
+UnsealMessage
+VerifySignature
+2'5>
+pYdq
+Fai4@~
+									
+US1 0
+RSA Data Security, Inc.1+0)
+"Commercial Certification Authority0
+941104185834Z
+991103185834Z0\1
+US1 0
+RSA Data Security, Inc.1+0)
+"Commercial Certification Authority0
+f\aR8
+Io!G]+
+f~NE
+^Wo<
+US1 0
+RSA Data Security, Inc.1.0,
+%Secure Server Certification Authority0
+941109000000Z
+100107235959Z0_1
+US1 0
+RSA Data Security, Inc.1.0,
+%Secure Server Certification Authority0
+5xdT
+K%f"Vl
+IT,s:i
+mpgH
+MMBVv
+VeriSign, Inc.1705
+.Class 2 Public Primary Certification Authority0
+960129000000Z
+040107235959Z0_1
+VeriSign, Inc.1705
+.Class 2 Public Primary Certification Authority0
+`k~y,
+/(R_
+e@?U^
+3[3=
+PAD0
+VeriSign, Inc.1705
+.Class 3 Public Primary Certification Authority0
+960129000000Z
+040107235959Z0_1
+VeriSign, Inc.1705
+.Class 3 Public Primary Certification Authority0
+#_p)6
+qdLe.
+y,"iI6
+zT!6
+Gr![~
+PAD0
+VeriSign, Inc.1705
+.Class 4 Public Primary Certification Authority0
+960129000000Z
+991231235959Z0_1
+VeriSign, Inc.1705
+.Class 4 Public Primary Certification Authority0
+.[k3i
+PAD0
+VeriSign, Inc.1705
+.Class 1 Public Primary Certification Authority0
+960129000000Z
+200107235959Z0_1
+VeriSign, Inc.1705
+.Class 1 Public Primary Certification Authority0
+X9kn
+NEVi
+KDf`hd
+CA1806
+/Keywitness Canada Inc. keywitness@keywitness.ca0
+960507000000Z
+990507000000Z0G1
+CA1806
+/Keywitness Canada Inc. keywitness@keywitness.ca0
+WBo0
+r(_`
+LQ0%
+M-20
+oB	c
+GTE Corporation1
+GTE CyberTrust Root0
+9602231915Z
+9912312359Z0E1
+GTE Corporation1
+GTE CyberTrust Root0
+exkM*
+PAD0
+Western Cape1
+	Cape Town1
+Thawte Consulting cc1(0&
+Certification Services Division1
+Thawte Server CA1&0$
+server-certs@thawte.com0
+960801000000Z
+201231235959Z0
+Western Cape1
+	Cape Town1
+Thawte Consulting cc1(0&
+Certification Services Division1
+Thawte Server CA1&0$
+server-certs@thawte.com0
+H>YC}O
+#.pGP0
+Western Cape1
+	Cape Town1
+Thawte Consulting cc1(0&
+Certification Services Division1!0
+Thawte Premium Server CA1(0&
+premium-server@thawte.com0
+960801000000Z
+201231235959Z0
+Western Cape1
+	Cape Town1
+Thawte Consulting cc1(0&
+Certification Services Division1!0
+Thawte Premium Server CA1(0&
+premium-server@thawte.com0
+H5:R
+x`^^n7c"w6~
+US1'0%
+KeyWitness International, Inc.1!0
+OID.1.2.840.113549.1.1.11
+KeyWitness 2048 Root0
+980506000000Z
+040506000000Z0x1
+US1'0%
+KeyWitness International, Inc.1!0
+OID.1.2.840.113549.1.1.11
+KeyWitness 2048 Root0
+#og#5K
+37'U%@
+#0!0
+?%?+0
+sPA0
+GTE Corporation1'0%
+GTE CyberTrust Solutions, Inc.1
+GTE CyberTrust Root0
+980403145201Z
+040403235900Z0n1
+GTE Corporation1'0%
+GTE CyberTrust Solutions, Inc.1
+GTE CyberTrust Root0
+n 1Q
+V\sR
+1[9e
+"Ek1Y>
+Western Cape1
+	Cape Town1
+Thawte Consulting1(0&
+Certification Services Division1!0
+Thawte Personal Basic CA1(0&
+personal-basic@thawte.com0
+960101000000Z
+201231235959Z0
+Western Cape1
+	Cape Town1
+Thawte Consulting1(0&
+Certification Services Division1!0
+Thawte Personal Basic CA1(0&
+personal-basic@thawte.com0
+58WJ
+<D{P~a
+@W%J8
+PAD0
+Western Cape1
+	Cape Town1
+Thawte Consulting1(0&
+Certification Services Division1$0"
+Thawte Personal Freemail CA1+0)
+personal-freemail@thawte.com0
+960101000000Z
+201231235959Z0
+Western Cape1
+	Cape Town1
+Thawte Consulting1(0&
+Certification Services Division1$0"
+Thawte Personal Freemail CA1+0)
+personal-freemail@thawte.com0
+%u(t:B,c'
+]nz|
+l`q\
+_#&	
+PAD0
+Western Cape1
+	Cape Town1
+Thawte Consulting1(0&
+Certification Services Division1#0!
+Thawte Personal Premium CA1*0(
+personal-premium@thawte.com0
+960101000000Z
+201231235959Z0
+Western Cape1
+	Cape Town1
+Thawte Consulting1(0&
+Certification Services Division1#0!
+Thawte Personal Premium CA1*0(
+personal-premium@thawte.com0
+CumJ
+4*3r/m;
+qy0a)r
+u(PY
+PAD0
+0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+970110070000Z
+201231070000Z0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority0
+ >|Q
+kzb#
+`-wL
+zmtN
+r0p1+0)
+"Copyright (c) 1997 Microsoft Corp.1
+Microsoft Corporation1!0
+Microsoft Root Authority
++7%-
+Z38nM
+Root SGC Authority0
+970806171447Z
+100101070000Z0
+Root SGC Authority0
+J/LD
+{j~]
+L0J0H
+wX5G
+Root SGC Authority
+pC~"
+3-7e
+PADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPADDINGPADDINGXXPAD
+0 1$1,10181<1D1H1P1T1\1`1h1l1t1x1
+1L3P3`3d3t3x3
+4(4,4
+6 6$6(6,6064686<6@6D6H6\6l6t6x6
+7D9X9l9
+X0l0
+081<1@1D1H1X1\1`1d1h1x1|1
+1l3p3t3x3|3
+4 4$4(4,4044484<4@4D4H4h4l4
+<0=4=8=d=
+0p2t2x2|2
+6D7t7
+9(:`:
+<p=t=x=|=
+=L>P>T>X>\>`>d>h>l>x>
+1024282H2
+4d5h5l5p5t5
+7 8$8(8,808`9d9h9l9p9t9x9|9
+= =$=(=,=0=4=8=<=@=D=H=L=
+=4?8?<?@?D?H?L?P?
+d0h0l0p0t0x0|0
+0h1l1p1t1x1|1
+5$6(6,606
+6@7D7
+8(8T9X9\9`9d9h9l9p9(:,:0:
+;t<x<|<
+<H=L=P=T=X=\=
+? ?$?(?,?0?4?X?\?`?d?
+4<5@5D5H5L5P5
+6 6$6(6p6t6x6|6
+8 8$8(8,80848
+9 9$9
+; ;$;(;,;0;4;8;<;@;D;H;
+< <$<(<\<`<d<h<l<p<
+= =$=(=,=0=4=8=
+0@2D2H2L2P2T2X2\2`2d2h2
+384<4@4D4H4L4
+5D6H6L6
+708L8x9|9
+94:8:<:
+;\<`<d<h<l<
+=,>0>`>d>
+?4?h?
+82<2@2D2H2L2P2T2X2\2H3L3P3T3X3\3`3
+5 5$5(5,505
+5\6`6d6h6l6p6
+7p7t7x7|7
+8 8$8(8,8
+: :$:(:,:0:4:8:<:
+;d<h<l<p<t<x<|<
+=(?,?0?4?8?<?@?
+3<5@5D5H5L5P5T5X5P6T6X6
+74888
+8p:t:x:|:
+;l=p=t=x=|=
+x0|0
+3X4\4`4d4h4l4
+889<9@9D9
+; =$=(=,=0=
+d0h0l0p0
+2d3h3l3x4|4
+7\8\9`9d9h9x:|:
+;`<d<h<
+=\=`=P>T>X>
+T0X0
+0T1X1\1`1
+3\4`4d4h4<5@5D5H5L5,6064686<6@6
+8<:@:D:H:
+= =$=l>p>t>x>|>
+>X?\?`?d?h?
+2044484<4h5l5p5t5x5|5
+7 7$7(7@7H8L8
+:p;t;
+<l>@?D?H?
+0$1(1,1014181<1@1D1(2,2
+24383<3
+9P:T:X:\:
+>$?(?
+$0(0L0l0
+0 1D1\1t1
+1H4L4P4T4X4\4`4d4
+;x<|<
+>x?|?
+D0H0L0P0
+1(2,2024282<2@2D2H2L2
+6X7\7`7
+9t:x:|:
+:L;P;T;X;
+< <$<
+= =$=(=h>l>p>t>x>|>
+0t1x1|1
+3 3$3(3,3
+4(6,6064686<6@6D6H6L6
+7`8d8h8l8
+004080<0@0D0H0L0
+1t1\2`2d2h2p3t3x3|3
+7L8P8T8X8\8`8d8
+: :$:
+:p<t<x<|<
+1034383<3@3D3H3L3P3
+5\6`6d6h6l6p6t6X7
+: :$:(:,:0:4:8:T:L<P<T<
+9,;0;
+\8,909
+<d=h=l=p=
+t1x1|1
+1D3H3L3P3T3X3\3`3
+3x5|5
+5(6,606
+7D9H9L9P9T9X9\9`9d9h9l9p9
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<
+0L1P1T1X1\1$2(2,202
+3<4@4D4H4$5(5
+7(747@7L7X7d7p7|7
+8$808<8H8T8`8l8x8
+9 9l9
+1$1(181<1L1P1`1d1t1x1
+4 4$4(4,4044484<4@4D4H4L4P4T4
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1H1P1X1`1h1p1x1
+2 2(20282@2H2P2X2`2h2p2x2
+3 3(30383@3H3P3X3`3h3p3x3
+4 4(40484@4H4P4X4`4h4p4x4
+5 5(50585@5H5P5X5`5h5p5x5
+6 6(60686@6H6P6X6`6h6p6x6
+7 7(70787@7H7P7X7`7h7p7x7
+8 8(80888@8H8P8X8`8h8p8x8
+9 9(90989@9H9P9X9`9h9p9x9
+: :(:0:8:@:H:P:X:`:h:p:x:
+d:\dragon55\public\DRAGON\cesysgen\oak\target\SHx\SH4\CE\retail\schannel.dll
+NB10
+d:\dragon55\public\DRAGON\cesysgen\oak\target\SHx\SH4\CE\retail\schannel.pdb

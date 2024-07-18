@@ -1,0 +1,30 @@
+!This program cannot be run in DOS mode.
+Rich*
+.text
+`.data
+.pdata
+,?&O
+/"OB
+/"OSh
+dH$B
+j)* :
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+/"OChSi
+COREDLL.dll
+FirmwareGetSerialNumber
+FlashLoadNetworkInfo
+PLATUTIL.dll
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\passport.exe
+NB10
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\passport.pdb

@@ -1,0 +1,20 @@
+!This program cannot be run in DOS mode.
+Richa
+.text
+`.data
+.pdata
+fx6h&
+/"Och
+QQF1
+L2"fH
+"bF2
+Ba,1
+/"OCh
+2"b("
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+d:\wince\public\common\oak\target\SHx\SH4\CE\retail\MemTool.exe
+NB10
+d:\wince\public\common\oak\target\SHx\SH4\CE\retail\MemTool.pdb

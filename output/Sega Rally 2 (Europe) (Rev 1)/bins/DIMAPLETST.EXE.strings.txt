@@ -1,0 +1,131 @@
+!This program cannot be run in DOS mode.
+Rich44
+.text
+`.data
+.pdata
+]u`@j
+j`\f
+k/$I8
+k/$I8
+DEST
+t0Z8H
+Q('/\{
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+DEST
+B^@V
+B^pzZ
+/"OB
+/"OB
+/"OCj
+2-Ck
+Rc8S
+2-Cm
+Rc8S
+/"Ou
+5FgFfu
+FfBdg
+/"OCh
+Rc8S
+"OC`Sd
+/"Ov
+VR!a
+S\e6
+Q,b$
+Xxx1
+/"OCh
+TBb"R
+TBc5S
+TBb#R
+Bc;S
+TBc6S
+<c022
+TBc5S
+TBb&R
+/"OCh:
+,?&O
+/"OCh
+,b 4
+B,9L9
+c<c0:
+<c04
+C<9L9
+b,b :
+,b 4
+B,9L9
+c<c0:
+<c04
+C<9L9
+b,b :
+,b 4"
+B,9L9
+<c0:
+<c04
+C<9L9
+b,b :
+,b 4
+B,9L9
+c<c0:
+<c04
+C<9L9
+b,b :
+,b 4
+B,9L9
+c<c0:
+<c04
+C<9L9
+b,b :
+,b 4
+B,9L9
+c<c0:
+<c04
+C<9L9
+b,b :
+,b 4
+B,9L9
+c<c0:
+<c042
+C<9L9
+b,b :
+,b 4
+B,9L9
+c<c0:
+<c04
+2&B&k&j&i&h#o
+/"OChSi
+x(04
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+/"OChSi
+DirectInputCreateW
+DINPUTX.dll
+COREDLL.dll
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\dimapletst.exe
+NB10
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\dimapletst.pdb

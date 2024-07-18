@@ -1,0 +1,15 @@
+Listing all files in the filesystem:
+
+/
+/1ST_READ.BIN
+/45LOGO.BIN
+/BGM01.ADX
+/BG_TITLE.BIN
+/BUS_01.SFD
+/BUS_02.SFD
+/BUS_03.SFD
+/BUS_OP.SFD
+/LH.MLT
+/MANATEE.DRV
+/SOFDEC.BIN
+/SPRITE.PAC

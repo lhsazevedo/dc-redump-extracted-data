@@ -1,0 +1,10 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/ADX_DAT.AFS
+/MDL_DAT.AFS
+/MOT_DAT.AFS
+/SND_DAT.AFS
+/TEX_DAT.AFS

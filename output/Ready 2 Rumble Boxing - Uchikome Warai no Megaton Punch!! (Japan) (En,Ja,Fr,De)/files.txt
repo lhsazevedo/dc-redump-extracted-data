@@ -1,0 +1,11 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/AUDIO64.DRV
+/BOXING.RAT
+/MANATEE.DRV
+/MIDWAY.SFD
+/R2RINTRO.SFD
+/WARNING_J.DA

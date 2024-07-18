@@ -1,0 +1,26 @@
+!This program cannot be run in DOS mode.
+Rich
+58h:
+.text
+`.rdata
+@.data
+.pdata
+Bb(":
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+/"OChSkcjsi
+/"OChcj
+BeX%
+/"OChSi
+COREDLL.dll
+FirmwareGetLanguageCode
+GetVideoOutputFormat
+FirmwareGetSoundMode
+PLATUTIL.dll

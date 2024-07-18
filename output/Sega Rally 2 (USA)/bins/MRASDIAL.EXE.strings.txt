@@ -1,0 +1,34 @@
+!This program cannot be run in DOS mode.
+Rich"
+.text
+`.data
+.pdata
+/"Ocj
+b-d 
+b-dH$
+b-dH$
+c=dH$
+c=dH$
+%	Qc=c0
+Qc=c9
+Uc=d
+	L9Qb-b0
+Qb-b9
+c=dH$
+c=dH$
+c=dH$
+c=c8#'
+l8aU
+.4:@FLRX^djpv|
+E\4H$
+2&B&j&i&h#o
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\mrasdial.exe
+NB10
+d:\dragon11\public\DRAGON\oak\target\SHx\SH4\CE\retail\mrasdial.pdb

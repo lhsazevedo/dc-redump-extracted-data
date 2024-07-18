@@ -1,0 +1,8 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/AUDIO64.DRV
+/KAO.PAK
+/US_WARN.DA

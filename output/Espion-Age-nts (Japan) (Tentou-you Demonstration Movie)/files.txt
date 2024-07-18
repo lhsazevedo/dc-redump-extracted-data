@@ -1,0 +1,8 @@
+Listing all files in the filesystem:
+
+/
+/0GDTEX.PVR
+/1ST_READ.BIN
+/DATA.FAR
+/ESPION_A.SFD
+/ESPION_B.SFD

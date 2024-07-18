@@ -1,0 +1,74 @@
+!This program cannot be run in DOS mode.
+RichG4Y
+Wfw6
+.text
+`.data
+.pdata
+@.reloc
+Wfw6
+Wfw6
+/"OCk
+c,31c=c
+L=Sl
+KTSM
+L=Sl
+KTSM  
+/"Ochsl
+tL31c=i
+L=Sl
+KTSM, 
+/"OCh
+C<4C`
+B,4C`
+C<4G
+B,4H
+/ChSjci
+a-b,6
+dmfg4
+Mc86mfMb,7
+F}gmf
+mbS`,7q(
+/"OChSl
+C<2!
+U\34
+D,b+$
+R,34
+ b,d
+ b,`3b
+$,b+$
+B"4	
+Pc)$
+D<c;$
+0c<i
+c;"#`
+/"OCh
+VfVdd
+VfVdf
+VfVdh
+VfVdj
+VdReL
+/"OChSm
+b-b 1
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+`+@	
+COREDLL.dll
+TANKANJI.dll
+TKClose
+TKMatch
+TKOpen
+T0X0
+2\3`3 4H7L7
+7H8L8P8
+9 9$9(949@9L9X9d9p9|9
+0 0(00080@0H0P0X0`0
+d:\dragon55\public\DRAGON\oak\target\SHx\SH4\CE\retail\tankanji.dll
+NB10
+d:\dragon55\public\DRAGON\oak\target\SHx\SH4\CE\retail\tankanji.pdb
