@@ -1,4 +1,4 @@
-# Dreamcast Redump Extracted Data
+# Dreamcast Redump Extracted Data v1
 This archive contains file listings and main binaries for the REDUMP Dreamcast
 collection. 1310 releases were parsed, with 162 releases skipped due to missing
 .gdi file.
